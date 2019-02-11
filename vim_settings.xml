@@ -109,12 +109,27 @@
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/ci/store_successful_build.sh" timestamp="1549891393293">
+        <mark key="[" line="4" column="17" />
+        <mark key="]" line="4" column="17" />
+        <mark key="^" line="7" column="0" />
+        <mark key="." line="4" column="17" />
+      </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/src/pages/ProfileDisplay/Photos/Photos.component.tsx" timestamp="1549035121092">
         <mark key="[" line="41" column="6" />
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/ci/increment-buildnumber.sh" timestamp="1549868546111" />
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/ci/get-deploy-strategy.sh" timestamp="1549891757927">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="23" />
+      </file>
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/ci/store_last_build.sh" timestamp="1549891799826">
+        <mark key="[" line="9" column="21" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/fastlane/.env" timestamp="1549868984339">
         <mark key="[" line="14" column="34" />
       </file>
@@ -254,50 +269,50 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/auth/actions.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'#{description}'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>'#{description}'</text>
+        <text>get-deploy-strategy</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
       </register>
-      <register name="0" type="4">
-        <text>'#{release_notes}'</text>
+      <register name="0" type="2">
+        <text encoding="base64">QkFTRURJUj0kKGRpcm5hbWUgIiQwIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlc2NyaXB0aW9uID0gVUkuaW5wdXQoJyhsZWF2ZSBlbXB0eSBpZiBub3QgbmVlZGVkKSAvJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFVJLmhlYWRlcignW0NPREUtUFVTSF06IENoYW5nZWxvZyBkZXNjcmlwdGlvbicpCiAgICBVSS5tZXNzYWdlKCdFbnRlciBhIGNvZGVwdXNoIHZlcnNpb24gZGVzY3JpcHRpb24gOicpCg==</text>
+        <text encoding="base64">QkFTRURJUj0kKGRpcm5hbWUgIiQwIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGhhc0lvc0RlcGxveUZhaWxlZCA9IGZhbHNlCg==</text>
+        <text encoding="base64">ICAgIGRlc2NyaXB0aW9uID0gVUkuaW5wdXQoJyhsZWF2ZSBlbXB0eSBpZiBub3QgbmVlZGVkKSAvJykK</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvZGVwdXNoX3ZlcnNpb25fYW5kcm9pZCA9IEVOVlsnQU5EUk9JRF9WRVJTSU9OX05BTUUnXQo=</text>
+        <text encoding="base64">ICAgIFVJLmhlYWRlcignW0NPREUtUFVTSF06IENoYW5nZWxvZyBkZXNjcmlwdGlvbicpCiAgICBVSS5tZXNzYWdlKCdFbnRlciBhIGNvZGVwdXNoIHZlcnNpb24gZGVzY3JpcHRpb24gOicpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvZGVwdXNoX3ZlcnNpb25faW9zID0gRU5WWydJT1NfVkVSU0lPTiddCg==</text>
+        <text encoding="base64">ICAgIGhhc0lvc0RlcGxveUZhaWxlZCA9IGZhbHNlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJhcHA6YnVuZGxlOmluc3RhbGwiOiAiY2QgYWZmaW55LWFwcCAmJiBidW5kbGUgaW5zdGFsbCIsCg==</text>
+        <text encoding="base64">ICAgIGNvZGVwdXNoX3ZlcnNpb25fYW5kcm9pZCA9IEVOVlsnQU5EUk9JRF9WRVJTSU9OX05BTUUnXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CSQoREtDX1JVTl9ZQVJOKSBhcHA6YnVuZGxlOmluc3RhbGwK</text>
+        <text encoding="base64">ICAgIGNvZGVwdXNoX3ZlcnNpb25faW9zID0gRU5WWydJT1NfVkVSU0lPTiddCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJjb2RlcHVzaDpkZXBsb3k6c3RhZ2luZyI6ICJidW5kbGUgaW5zdGFsbCAmJiAiLAogICAgImNvZGVwdXNoOmRlcGxveTpwcm9kIjogImJ1bmRsZSBleGVjIGZhc3RsYW5lIGNvZGVwdXNoIGRlcGxveSAtLWVudj1wcm9kIiwK</text>
+        <text encoding="base64">ICAgICJhcHA6YnVuZGxlOmluc3RhbGwiOiAiY2QgYWZmaW55LWFwcCAmJiBidW5kbGUgaW5zdGFsbCIsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2ktYXBwLWJ1aWxkICMjIChDSSkgUHJlcGFyZSBhcHAgcHJvamVjdAoJJChES0NfUlVOX1lBUk4pIGFwcDpidW5kbGU6aW5zdGFsbAoK</text>
+        <text encoding="base64">CSQoREtDX1JVTl9ZQVJOKSBhcHA6YnVuZGxlOmluc3RhbGwK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
