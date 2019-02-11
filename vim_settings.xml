@@ -45,7 +45,7 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Meetic/project-build-and-run/generator/ProjectCIMergeRequestHandler.groovy" timestamp="1549883266554" />
+      <file name="$USER_HOME$/Projects/Meetic/project-build-and-run/generator/ProjectCIMergeRequestHandler.groovy" timestamp="1549893055698" />
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/store.ts" timestamp="1549027470267">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -56,11 +56,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Meetic/project-build-and-run/builder/ReactBuilder.groovy" timestamp="1549891469029">
-        <mark key="[" line="29" column="45" />
-        <mark key="]" line="29" column="45" />
-        <mark key="^" line="27" column="62" />
-        <mark key="." line="29" column="45" />
+      <file name="$USER_HOME$/Projects/Meetic/project-build-and-run/builder/ReactBuilder.groovy" timestamp="1549895806208">
+        <mark key="[" line="165" column="7" />
+        <mark key="]" line="150" column="0" />
+        <mark key="." line="150" column="0" />
+        <mark key="^" line="150" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/pictures/selectors.ts" timestamp="1549035236895">
         <mark key="[" line="24" column="0" />
@@ -77,7 +77,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549881814575">
+      <file name="/Dummy.txt" timestamp="1549895838294">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -258,50 +258,50 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/auth/actions.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>store_successful_build</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzaCAiZ2l0IGNvbmZpZyB1c2VyLmVtYWlsIFwiJHtlbnYuSkVOS0lOU19HSVRfRU1BSUx9XCIiCiAgICAgICAgc2ggImdpdCBjb25maWcgdXNlci5uYW1lIFwiJHtlbnYuSkVOS0lOU19HSVRfVVNFUn1cIiIK</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>store_successful_build</text>
+        <text>currentBranc</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
       </register>
       <register name="0" type="4">
-        <text>'#{release_notes}'</text>
+        <text>setGitUser</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlc2NyaXB0aW9uID0gVUkuaW5wdXQoJyhsZWF2ZSBlbXB0eSBpZiBub3QgbmVlZGVkKSAvJykK</text>
+        <text encoding="base64">ICAgICAgICBzaCAiZ2l0IGNvbmZpZyB1c2VyLmVtYWlsIFwiJHtlbnYuSkVOS0lOU19HSVRfRU1BSUx9XCIiCiAgICAgICAgc2ggImdpdCBjb25maWcgdXNlci5uYW1lIFwiJHtlbnYuSkVOS0lOU19HSVRfVVNFUn1cIiIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFVJLmhlYWRlcignW0NPREUtUFVTSF06IENoYW5nZWxvZyBkZXNjcmlwdGlvbicpCiAgICBVSS5tZXNzYWdlKCdFbnRlciBhIGNvZGVwdXNoIHZlcnNpb24gZGVzY3JpcHRpb24gOicpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGhhc0lvc0RlcGxveUZhaWxlZCA9IGZhbHNlCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvZGVwdXNoX3ZlcnNpb25fYW5kcm9pZCA9IEVOVlsnQU5EUk9JRF9WRVJTSU9OX05BTUUnXQo=</text>
+        <text encoding="base64">ICAgIHNoICJnaXQgY29uZmlnIHVzZXIuZW1haWwgXCIke2Vudi5KRU5LSU5TX0dJVF9FTUFJTH1cIiIKICAgIHNoICJnaXQgY29uZmlnIHVzZXIubmFtZSBcIiR7ZW52LkpFTktJTlNfR0lUX1VTRVJ9XCIiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvZGVwdXNoX3ZlcnNpb25faW9zID0gRU5WWydJT1NfVkVSU0lPTiddCg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJhcHA6YnVuZGxlOmluc3RhbGwiOiAiY2QgYWZmaW55LWFwcCAmJiBidW5kbGUgaW5zdGFsbCIsCg==</text>
+        <text encoding="base64">ICBzdGFnZSgnQnVtcCB2ZXJzaW9uJykgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CSQoREtDX1JVTl9ZQVJOKSBhcHA6YnVuZGxlOmluc3RhbGwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNldAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJjb2RlcHVzaDpkZXBsb3k6c3RhZ2luZyI6ICJidW5kbGUgaW5zdGFsbCAmJiAiLAogICAgImNvZGVwdXNoOmRlcGxveTpwcm9kIjogImJ1bmRsZSBleGVjIGZhc3RsYW5lIGNvZGVwdXNoIGRlcGxveSAtLWVudj1wcm9kIiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2ktYXBwLWJ1aWxkICMjIChDSSkgUHJlcGFyZSBhcHAgcHJvamVjdAoJJChES0NfUlVOX1lBUk4pIGFwcDpidW5kbGU6aW5zdGFsbAoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
