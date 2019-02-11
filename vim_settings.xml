@@ -16,11 +16,6 @@
         <mark key="." line="38" column="2" />
         <mark key="^" line="38" column="2" />
       </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/api/core/saga.ts" timestamp="1548867015766">
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="103" column="0" />
-        <mark key="." line="103" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/Meetic/project-build-and-run/builder/ReactReleaseAndroidBuilder.groovy" timestamp="1549899766405">
         <mark key="[" line="29" column="7" />
         <mark key="]" line="43" column="0" />
@@ -33,16 +28,6 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="35" column="50" />
       </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-web/src/components/CircleProgression/CircleProgression.component.tsx" timestamp="1548931328569">
-        <mark key="[" line="123" column="21" />
-        <mark key="]" line="124" column="0" />
-        <mark key="." line="124" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/loaders/types.ts" timestamp="1549359352691">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/Makefile" timestamp="1549536648860">
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="0" />
@@ -53,64 +38,22 @@
         <mark key="[" line="272" column="185" />
         <mark key="]" line="272" column="204" />
       </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/package.json" timestamp="1549536636292">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/Meetic/project-build-and-run/generator/ProjectCIMergeRequestHandler.groovy" timestamp="1549893055698" />
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/store.ts" timestamp="1549027470267">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-web/src/modules/auth/action.ts" timestamp="1549032086496">
-        <mark key="[" line="0" column="46" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/Meetic/project-build-and-run/builder/ReactBuilder.groovy" timestamp="1549899619466">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="161" />
         <mark key="." line="150" column="0" />
         <mark key="^" line="150" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/pictures/selectors.ts" timestamp="1549035236895">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/src/components/Avatar/AvatarWithPin/AvatarWithPin.component.tsx" timestamp="1549293622600">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/patches/react-native-circular-progress+1.0.1.patch" timestamp="1549294823119">
+      <file name="/Dummy.txt" timestamp="1549902486533">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/node_modules/idx/lib/idx.d.ts" timestamp="1549034076160">
-        <mark key="[" line="69" column="6" />
-        <mark key="]" line="69" column="6" />
-        <mark key="." line="69" column="6" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1549866388627">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Meetic/project-build-and-run/generator/javascript/JavascriptReleaseJob.groovy" timestamp="1549882035343" />
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-web/src/pages/ProfileCapture/Question/Question.component.test.tsx" timestamp="1549447029869">
-        <mark key="[" line="316" column="51" />
-        <mark key="]" line="316" column="51" />
-        <mark key="." line="316" column="51" />
-      </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/ci/print-version.sh" timestamp="1549868676860">
         <mark key="[" line="27" column="21" />
-      </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/src/pages/Home/components/FullMemberCardList/FullMemberCardList.component.tsx" timestamp="1549383280691">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/helpers/profileCapture/index.ts" timestamp="1549446787563">
         <mark key="[" line="0" column="30" />
@@ -118,49 +61,20 @@
         <mark key="." line="0" column="30" />
         <mark key="^" line="0" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/pictures/selectors.test.ts" timestamp="1549035275688">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/src/pages/ProfileDisplay/Photos/Photos.component.tsx" timestamp="1549035121092">
-        <mark key="[" line="41" column="6" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/fastlane/.env" timestamp="1549868984339">
         <mark key="[" line="14" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/node_modules/react-native-circular-progress/src/CircularProgress.js" timestamp="1549294156422">
-        <mark key="[" line="59" column="11" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-web/src/pages/ProfileCapture/ProfileCapture.pages.tsx" timestamp="1549373839647">
-        <mark key="[" line="31" column="6" />
-        <mark key="]" line="31" column="6" />
-        <mark key="." line="31" column="6" />
-      </file>
+      <file name="/ReactReleaseWebBuilder.groovy" timestamp="1549902363582" />
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-web/node_modules/react-infinite-scroller/dist/InfiniteScroll.js" timestamp="1549646491226">
         <mark key="[" line="55" column="8" />
         <mark key="]" line="55" column="8" />
         <mark key="^" line="55" column="33" />
         <mark key="." line="55" column="8" />
       </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/matches/saga.ts" timestamp="1549016353039">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/api/repositories/interactions/visits/visits.sagas.ts" timestamp="1548866909858">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-web/src/modules/saga.ts" timestamp="1549361151837">
-        <mark key="[" line="10" column="9" />
-        <mark key="]" line="10" column="9" />
-        <mark key="." line="10" column="9" />
+      <file name="$USER_HOME$/Projects/Meetic/project-build-and-run/builder/ReactReleaseWebBuilder.groovy" timestamp="1549902461062">
+        <mark key="[" line="38" column="60" />
+        <mark key="]" line="38" column="80" />
+        <mark key="." line="38" column="60" />
       </file>
     </filemarks>
     <jumps>
@@ -266,20 +180,20 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/auth/actions.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZGVmIGJ1aWxkU3VjY2Vzc2Z1bCgpIHsKICBzaChzY3JpcHQ6ICJzaCBhZmZpbnktYXBwL2NpL3N0b3JlX2xhc3RfYnVpbGQuc2ggSU9TICR7QlJBTkNIX05BTUV9IikKfQo=</text>
+      <register name="&quot;" type="4">
+        <text>snapshotVersionQualifier</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Ios</text>
+        <text>snapshotVersionQualifier</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZGVmIGJ1aWxkU3VjY2Vzc2Z1bCgpIHsKICBzaChzY3JpcHQ6ICJzaCBhZmZpbnktYXBwL2NpL3N0b3JlX2xhc3RfYnVpbGQuc2ggSU9TICR7QlJBTkNIX05BTUV9IikKfQo=</text>
+      <register name="0" type="4">
+        <text>fullQualifiedVersion</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAK</text>
