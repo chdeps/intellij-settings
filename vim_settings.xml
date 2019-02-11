@@ -1,0 +1,387 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/helpers/profileCapture/index.test.ts" timestamp="1549446974962">
+        <mark key="[" line="0" column="30" />
+        <mark key="]" line="0" column="30" />
+        <mark key="." line="0" column="30" />
+        <mark key="^" line="0" column="32" />
+      </file>
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/ci/bump-version.sh" timestamp="1549869109012" />
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/api/core/saga.ts" timestamp="1548867015766">
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="0" />
+        <mark key="." line="103" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/package.json" timestamp="1549868007119">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="35" column="50" />
+      </file>
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-web/src/components/CircleProgression/CircleProgression.component.tsx" timestamp="1548931328569">
+        <mark key="[" line="123" column="21" />
+        <mark key="]" line="124" column="0" />
+        <mark key="." line="124" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/loaders/types.ts" timestamp="1549359352691">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/Makefile" timestamp="1549536648860">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="^" line="58" column="39" />
+        <mark key="." line="57" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/WWF/wag-app/fastlane/Fastfile" timestamp="1549866556911">
+        <mark key="[" line="272" column="185" />
+        <mark key="]" line="272" column="204" />
+      </file>
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/package.json" timestamp="1549536636292">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/store.ts" timestamp="1549027470267">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-web/src/modules/auth/action.ts" timestamp="1549032086496">
+        <mark key="[" line="0" column="46" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/ci/version.js" timestamp="1549869178447" />
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/pictures/selectors.ts" timestamp="1549035236895">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/src/components/Avatar/AvatarWithPin/AvatarWithPin.component.tsx" timestamp="1549293622600">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/patches/react-native-circular-progress+1.0.1.patch" timestamp="1549294823119">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1549866701601">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/node_modules/idx/lib/idx.d.ts" timestamp="1549034076160">
+        <mark key="[" line="69" column="6" />
+        <mark key="]" line="69" column="6" />
+        <mark key="." line="69" column="6" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1549866388627">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-web/src/pages/ProfileCapture/Question/Question.component.test.tsx" timestamp="1549447029869">
+        <mark key="[" line="316" column="51" />
+        <mark key="]" line="316" column="51" />
+        <mark key="." line="316" column="51" />
+      </file>
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/ci/print-version.sh" timestamp="1549868676860">
+        <mark key="[" line="27" column="21" />
+      </file>
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/src/pages/Home/components/FullMemberCardList/FullMemberCardList.component.tsx" timestamp="1549383280691">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/helpers/profileCapture/index.ts" timestamp="1549446787563">
+        <mark key="[" line="0" column="30" />
+        <mark key="]" line="0" column="30" />
+        <mark key="." line="0" column="30" />
+        <mark key="^" line="0" column="36" />
+      </file>
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/pictures/selectors.test.ts" timestamp="1549035275688">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/src/pages/ProfileDisplay/Photos/Photos.component.tsx" timestamp="1549035121092">
+        <mark key="[" line="41" column="6" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/ci/increment-buildnumber.sh" timestamp="1549868546111" />
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/fastlane/.env" timestamp="1549868984339">
+        <mark key="[" line="14" column="34" />
+      </file>
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/Jenkinsfile" timestamp="1549865854844" />
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/node_modules/react-native-circular-progress/src/CircularProgress.js" timestamp="1549294156422">
+        <mark key="[" line="59" column="11" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-web/src/pages/ProfileCapture/ProfileCapture.pages.tsx" timestamp="1549373839647">
+        <mark key="[" line="31" column="6" />
+        <mark key="]" line="31" column="6" />
+        <mark key="." line="31" column="6" />
+      </file>
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-web/node_modules/react-infinite-scroller/dist/InfiniteScroll.js" timestamp="1549646491226">
+        <mark key="[" line="55" column="8" />
+        <mark key="]" line="55" column="8" />
+        <mark key="^" line="55" column="33" />
+        <mark key="." line="55" column="8" />
+      </file>
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/matches/saga.ts" timestamp="1549016353039">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/api/repositories/interactions/visits/visits.sagas.ts" timestamp="1548866909858">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-web/src/modules/saga.ts" timestamp="1549361151837">
+        <mark key="[" line="10" column="9" />
+        <mark key="]" line="10" column="9" />
+        <mark key="." line="10" column="9" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="57" column="9" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/src/modules/facebook/saga.test.ts" />
+      <jump line="36" column="14" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/src/modules/facebook/saga.test.ts" />
+      <jump line="80" column="31" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/src/pages/MyProfile/ProfilePictureEditGallery/ProfilePictureEditGallery.component.tsx" />
+      <jump line="63" column="8" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/src/pages/MyProfile/ProfilePictureEditGallery/ProfilePictureEditGallery.component.tsx" />
+      <jump line="65" column="26" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/src/pages/MyProfile/ProfilePictureEditGallery/ProfilePictureEditGallery.component.tsx" />
+      <jump line="5" column="8" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/src/bridges/SandboxTester.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/src/bridges/SandboxTester.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/api/core/resources/visits.resource.ts" />
+      <jump line="31" column="0" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/api/models/reveals/reveals.types.ts" />
+      <jump line="8" column="0" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/api/models/picture/picture.types.ts" />
+      <jump line="24" column="0" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/api/models/picture/picture.types.ts" />
+      <jump line="10" column="27" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/api/repositories/reveals/reveals.sagas.ts" />
+      <jump line="0" column="20" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/messages/reducer.ts" />
+      <jump line="0" column="26" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/reveals/saga.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/messages/saga.ts" />
+      <jump line="4" column="18" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/scores/saga.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/scores/saga.ts" />
+      <jump line="83" column="54" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/threads/saga.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/reveals/saga.test.ts" />
+      <jump line="38" column="14" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/helpers/pagination.ts" />
+      <jump line="30" column="58" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/helpers/pagination.test.ts" />
+      <jump line="59" column="0" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/helpers/pagination.test.ts" />
+      <jump line="59" column="0" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/account/saga.ts" />
+      <jump line="64" column="2" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/account/reducer.ts" />
+      <jump line="19" column="0" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/account/reducer.ts" />
+      <jump line="96" column="0" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/account/reducer.test.ts" />
+      <jump line="97" column="0" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/account/reducer.test.ts" />
+      <jump line="129" column="0" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/account/reducer.test.ts" />
+      <jump line="5" column="29" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/account/containers/profileAttributesContainerFactory.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/account/containers/profileAttributesContainerFactory.ts" />
+      <jump line="101" column="18" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/src/ui/RadioButton/RadioButton.component.tsx" />
+      <jump line="106" column="0" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/src/ui/RadioButton/RadioButton.component.tsx" />
+      <jump line="111" column="0" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/src/ui/RadioButton/RadioButton.component.tsx" />
+      <jump line="115" column="0" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/src/ui/RadioButton/RadioButton.component.tsx" />
+      <jump line="34" column="51" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/src/ui/RadioButton/RadioButton.component.tsx" />
+      <jump line="12" column="2" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/src/ui/RadioButton/RadioButton.doc.tsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/src/ui/RadioButton/RadioButton.doc.tsx" />
+      <jump line="36" column="33" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/src/pages/MyProfile/ChangeAnnounce/ChangeAnnounce.component.test.tsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/src/pages/MyProfile/ChangeAnnounce/ChangeAnnounce.component.test.tsx" />
+      <jump line="12" column="21" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/src/pages/RateCard/PaymentSuccessfull.component.tsx" />
+      <jump line="41" column="0" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/src/components/Modals/CongratsModal/CongratsModal.component.tsx" />
+      <jump line="33" column="12" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/src/pages/RateCard/PaymentSuccessfull.component.tsx" />
+      <jump line="61" column="5" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/src/pages/RateCard/PaymentSuccessfull.component.tsx" />
+      <jump line="171" column="0" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/src/components/PriceTable/PriceTable.component.tsx" />
+      <jump line="87" column="14" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/src/pages/RateCard/PaymentSuccessfull/PaymentSuccessfull.component.tsx" />
+      <jump line="17" column="21" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/payment/containers/storePaymentContainerFactory.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/payment/containers/storePaymentContainerFactory.ts" />
+      <jump line="2" column="24" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/api/core/affiny.endpoints.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/subscriptions/containers/getSubscriptionContainerFactory.ts" />
+      <jump line="79" column="17" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/payment/saga.test.ts" />
+      <jump line="9" column="59" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/src/pages/Home/MatchList/MatchList.component.tsx" />
+      <jump line="77" column="0" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/src/pages/Home/MatchList/MatchList.component.tsx" />
+      <jump line="10" column="21" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/auth/containers/loginContainerFactory.ts" />
+      <jump line="54" column="23" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/src/components/Recaptcha/captcha.js" />
+      <jump line="75" column="10" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/src/components/PriceTable/PriceTable.component.tsx" />
+      <jump line="48" column="21" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/src/pages/Home/MatchList/MatchList.component.tsx" />
+      <jump line="110" column="30" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/patches/react-native+0.57.7.patch" />
+      <jump line="48" column="83" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/src/bridges/RNIap.ts" />
+      <jump line="113" column="18" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/src/modules/payment/saga.ts" />
+      <jump line="30" column="22" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/src/bridges/RNIap.ts" />
+      <jump line="66" column="4" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/src/bridges/RNIap.ts" />
+      <jump line="222" column="5" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/src/modules/payment/saga.ts" />
+      <jump line="210" column="0" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/src/modules/payment/saga.ts" />
+      <jump line="184" column="0" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/src/modules/payment/saga.ts" />
+      <jump line="169" column="0" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/src/modules/payment/saga.ts" />
+      <jump line="48" column="6" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/src/modules/payment/saga.ts" />
+      <jump line="145" column="21" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-web/config/webpack.config.dev.js" />
+      <jump line="45" column="7" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-web/src/components/MemberCard/MemberCard.doc.tsx" />
+      <jump line="1" column="25" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/setup/setup.ts" />
+      <jump line="63" column="20" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/src/services/ImagePickerService.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/src/services/ImagePickerService.ts" />
+      <jump line="60" column="0" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/src/services/ImagePickerService.web.ts" />
+      <jump line="98" column="0" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/src/services/ImagePickerService.web.ts" />
+      <jump line="0" column="33" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/src/pages/RateCard/RateCardAndroid/RateCardAndroid.component.tsx" />
+      <jump line="27" column="14" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/types/react-native-adjust/index.d.ts" />
+      <jump line="28" column="0" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/types/react-native-adjust/index.d.ts" />
+      <jump line="30" column="0" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/types/react-native-adjust/index.d.ts" />
+      <jump line="32" column="0" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/types/react-native-adjust/index.d.ts" />
+      <jump line="36" column="0" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/types/react-native-adjust/index.d.ts" />
+      <jump line="40" column="0" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/types/react-native-adjust/index.d.ts" />
+      <jump line="44" column="0" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/types/react-native-adjust/index.d.ts" />
+      <jump line="48" column="0" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/types/react-native-adjust/index.d.ts" />
+      <jump line="52" column="0" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/types/react-native-adjust/index.d.ts" />
+      <jump line="56" column="0" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/types/react-native-adjust/index.d.ts" />
+      <jump line="60" column="0" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/types/react-native-adjust/index.d.ts" />
+      <jump line="68" column="0" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/types/react-native-adjust/index.d.ts" />
+      <jump line="11" column="26" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/src/pages/Landing/Welcome/Welcome.component.tsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/src/pages/Landing/Welcome/Welcome.component.tsx" />
+      <jump line="37" column="25" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/src/pages/Home/MatchList/MatchList.component.tsx" />
+      <jump line="37" column="72" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/src/components/Cards/FullPageMemberCard/FullPageMemberCard.component.test.tsx" />
+      <jump line="30" column="2" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/src/components/Cards/FullPageMemberCard/FullPageMemberCard.component.test.tsx" />
+      <jump line="576" column="45" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/translations/locales/fr.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/Yellow/trpc-mobile-app/web/src/components/Modal.js" />
+      <jump line="12" column="0" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/src/pages/Home/components/BottomNavigation/BottomNavigation.component.tsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/src/pages/Home/components/BottomNavigation/BottomNavigation.component.tsx" />
+      <jump line="1" column="15" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/src/pages/WhyPremium/WhyPremium.component.tsx" />
+      <jump line="0" column="32" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-web/src/pages/WhyPremium/WhyPremium.component.tsx" />
+      <jump line="123" column="24" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/auth/saga.ts" />
+      <jump line="11" column="38" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/auth/actions.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/auth/actions.ts" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>'#{description}'</text>
+      </register>
+      <register name="d" type="4">
+        <text />
+      </register>
+      <register name="-" type="4">
+        <text>'#{description}'</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxtZXNzYWdlc1w+</text>
+      </register>
+      <register name="0" type="4">
+        <text>'#{release_notes}'</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGRlc2NyaXB0aW9uID0gVUkuaW5wdXQoJyhsZWF2ZSBlbXB0eSBpZiBub3QgbmVlZGVkKSAvJykK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIFVJLmhlYWRlcignW0NPREUtUFVTSF06IENoYW5nZWxvZyBkZXNjcmlwdGlvbicpCiAgICBVSS5tZXNzYWdlKCdFbnRlciBhIGNvZGVwdXNoIHZlcnNpb24gZGVzY3JpcHRpb24gOicpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGhhc0lvc0RlcGxveUZhaWxlZCA9IGZhbHNlCg==</text>
+      </register>
+      <register name="s" type="4">
+        <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNvZGVwdXNoX3ZlcnNpb25fYW5kcm9pZCA9IEVOVlsnQU5EUk9JRF9WRVJTSU9OX05BTUUnXQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvZGVwdXNoX3ZlcnNpb25faW9zID0gRU5WWydJT1NfVkVSU0lPTiddCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICJhcHA6YnVuZGxlOmluc3RhbGwiOiAiY2QgYWZmaW55LWFwcCAmJiBidW5kbGUgaW5zdGFsbCIsCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CSQoREtDX1JVTl9ZQVJOKSBhcHA6YnVuZGxlOmluc3RhbGwK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICJjb2RlcHVzaDpkZXBsb3k6c3RhZ2luZyI6ICJidW5kbGUgaW5zdGFsbCAmJiAiLAogICAgImNvZGVwdXNoOmRlcGxveTpwcm9kIjogImJ1bmRsZSBleGVjIGZhc3RsYW5lIGNvZGVwdXNoIGRlcGxveSAtLWVudj1wcm9kIiwK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Y2ktYXBwLWJ1aWxkICMjIChDSSkgUHJlcGFyZSBhcHAgcHJvamVjdAoJJChES0NfUlVOX1lBUk4pIGFwcDpidW5kbGU6aW5zdGFsbAoK</text>
+      </register>
+      <register name=":" type="4">
+        <text>wq</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDxtZXNzYWdlc1w+</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxtZXNzYWdlc1w+</last-pattern>
+      <last-replace>onAnswerSelected</last-replace>
+      <last-substitute encoding="base64">XDxtZXNzYWdlc1w+</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry encoding="base64">XDw7XD4=</entry>
+        <entry encoding="base64">XDwiXD4=</entry>
+        <entry encoding="base64">XDxleWVcPg==</entry>
+        <entry encoding="base64">XDxBcHBOYXZpZ2F0b3JcPg==</entry>
+        <entry encoding="base64">XDxSb290U3RhY2tcPg==</entry>
+        <entry encoding="base64">XDxhbGxRdWVzdGlvbnNcPg==</entry>
+        <entry encoding="base64">XDxhbGxBY3RzXD4=</entry>
+        <entry encoding="base64">XDxhbGxBY3RDYXRlZ29yaWVzXD4=</entry>
+        <entry encoding="base64">XDxTdGFja05hdmlnYXRvclw+</entry>
+        <entry encoding="base64">XDxUYWJOYXZpZ2F0b3JcPg==</entry>
+        <entry encoding="base64">XDxTd2l0Y2hOYXZpZ2F0b3JcPg==</entry>
+        <entry encoding="base64">XDxleHRlcm5hbFVybFw+</entry>
+        <entry>i</entry>
+        <entry encoding="base64">XDxzZXRBbnN3ZXJzXD4=</entry>
+        <entry encoding="base64">XDxUVmFsaWRhdGVRdWVzdGlvblw+</entry>
+        <entry encoding="base64">XDxvbkFuc3dlcnNTZWxlY3RlZFw+</entry>
+        <entry encoding="base64">XDx2YWxpZGF0ZVF1ZXN0aW9uXD4=</entry>
+        <entry encoding="base64">XDx2ZXJzaW9uXD4=</entry>
+        <entry encoding="base64">XDxwYXRjaEFubm91bmNlQ29udGFpbmVyRmFjdG9yeVw+</entry>
+        <entry encoding="base64">XDxtZXNzYWdlc1w+</entry>
+      </history-search>
+      <history-cmd>
+        <entry>%s//STORE_COURSES</entry>
+        <entry>%s//course</entry>
+        <entry>%s//VALID/g</entry>
+        <entry>%s//willReconnectWithSSO/g</entry>
+        <entry>%s//willReconnectInSSO/g</entry>
+        <entry>%s//RootStack/g</entry>
+        <entry>%s//RootNavigator/g</entry>
+        <entry>%s//questions/g</entry>
+        <entry>%s//acts/g</entry>
+        <entry>%s//actCategories/g</entry>
+        <entry>%s//createStackNavigator</entry>
+        <entry>%s//createTabNavigator</entry>
+        <entry>%s//createSwitchNavigator</entry>
+        <entry>%s//url/g</entry>
+        <entry>//setAnswers/gc</entry>
+        <entry>%s//setAnswers/g</entry>
+        <entry>%s//onAnswersSelected/g</entry>
+        <entry>%s//onAnswerSelected/g</entry>
+        <entry>w</entry>
+        <entry>wq</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
