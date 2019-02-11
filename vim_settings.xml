@@ -9,10 +9,23 @@
         <mark key="." line="0" column="30" />
         <mark key="^" line="0" column="32" />
       </file>
+      <file name="$USER_HOME$/Projects/Meetic/project-build-and-run/builder/ReactReleaseIosBuilder.groovy" timestamp="1549899748131">
+        <mark key="p" line="31" column="4" />
+        <mark key="[" line="30" column="10" />
+        <mark key="]" line="43" column="1" />
+        <mark key="." line="38" column="2" />
+        <mark key="^" line="38" column="2" />
+      </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/api/core/saga.ts" timestamp="1548867015766">
         <mark key="[" line="103" column="0" />
         <mark key="]" line="103" column="0" />
         <mark key="." line="103" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/Meetic/project-build-and-run/builder/ReactReleaseAndroidBuilder.groovy" timestamp="1549899766405">
+        <mark key="[" line="29" column="7" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+        <mark key="^" line="43" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/package.json" timestamp="1549868007119">
         <mark key="[" line="35" column="0" />
@@ -56,9 +69,9 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Meetic/project-build-and-run/builder/ReactBuilder.groovy" timestamp="1549895806208">
-        <mark key="[" line="165" column="7" />
-        <mark key="]" line="150" column="0" />
+      <file name="$USER_HOME$/Projects/Meetic/project-build-and-run/builder/ReactBuilder.groovy" timestamp="1549899619466">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="161" />
         <mark key="." line="150" column="0" />
         <mark key="^" line="150" column="19" />
       </file>
@@ -73,11 +86,6 @@
         <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/patches/react-native-circular-progress+1.0.1.patch" timestamp="1549294823119">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1549895838294">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -259,49 +267,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzaCAiZ2l0IGNvbmZpZyB1c2VyLmVtYWlsIFwiJHtlbnYuSkVOS0lOU19HSVRfRU1BSUx9XCIiCiAgICAgICAgc2ggImdpdCBjb25maWcgdXNlci5uYW1lIFwiJHtlbnYuSkVOS0lOU19HSVRfVVNFUn1cIiIK</text>
+        <text encoding="base64">ZGVmIGJ1aWxkU3VjY2Vzc2Z1bCgpIHsKICBzaChzY3JpcHQ6ICJzaCBhZmZpbnktYXBwL2NpL3N0b3JlX2xhc3RfYnVpbGQuc2ggSU9TICR7QlJBTkNIX05BTUV9IikKfQo=</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>currentBranc</text>
+        <text>Ios</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
       </register>
-      <register name="0" type="4">
-        <text>setGitUser</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZGVmIGJ1aWxkU3VjY2Vzc2Z1bCgpIHsKICBzaChzY3JpcHQ6ICJzaCBhZmZpbnktYXBwL2NpL3N0b3JlX2xhc3RfYnVpbGQuc2ggSU9TICR7QlJBTkNIX05BTUV9IikKfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzaCAiZ2l0IGNvbmZpZyB1c2VyLmVtYWlsIFwiJHtlbnYuSkVOS0lOU19HSVRfRU1BSUx9XCIiCiAgICAgICAgc2ggImdpdCBjb25maWcgdXNlci5uYW1lIFwiJHtlbnYuSkVOS0lOU19HSVRfVVNFUn1cIiIK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgc2goc2NyaXB0OiAic2ggYWZmaW55LWFwcC9jaS9zdG9yZV9sYXN0X2J1aWxkLnNoIElPUyAke0JSQU5DSF9OQU1FfSIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBzaCAiZ2l0IGNvbmZpZyB1c2VyLmVtYWlsIFwiJHtlbnYuSkVOS0lOU19HSVRfRU1BSUx9XCIiCiAgICAgICAgc2ggImdpdCBjb25maWcgdXNlci5uYW1lIFwiJHtlbnYuSkVOS0lOU19HSVRfVVNFUn1cIiIK</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNoICJnaXQgY29uZmlnIHVzZXIuZW1haWwgXCIke2Vudi5KRU5LSU5TX0dJVF9FTUFJTH1cIiIKICAgIHNoICJnaXQgY29uZmlnIHVzZXIubmFtZSBcIiR7ZW52LkpFTktJTlNfR0lUX1VTRVJ9XCIiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBzdGFnZSgnQnVtcCB2ZXJzaW9uJykgewo=</text>
+        <text encoding="base64">ICAgIHNoICJnaXQgY29uZmlnIHVzZXIuZW1haWwgXCIke2Vudi5KRU5LSU5TX0dJVF9FTUFJTH1cIiIKICAgIHNoICJnaXQgY29uZmlnIHVzZXIubmFtZSBcIiR7ZW52LkpFTktJTlNfR0lUX1VTRVJ9XCIiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNldAo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzdGFnZSgnQnVtcCB2ZXJzaW9uJykgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNldAo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
