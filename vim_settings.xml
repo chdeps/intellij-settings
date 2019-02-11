@@ -9,7 +9,6 @@
         <mark key="." line="0" column="30" />
         <mark key="^" line="0" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/ci/bump-version.sh" timestamp="1549869109012" />
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/api/core/saga.ts" timestamp="1548867015766">
         <mark key="[" line="103" column="0" />
         <mark key="]" line="103" column="0" />
@@ -46,6 +45,7 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/Meetic/project-build-and-run/generator/ProjectCIMergeRequestHandler.groovy" timestamp="1549881971072" />
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/store.ts" timestamp="1549027470267">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -56,7 +56,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/ci/version.js" timestamp="1549869178447" />
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/pictures/selectors.ts" timestamp="1549035236895">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -72,7 +71,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549866701601">
+      <file name="/Dummy.txt" timestamp="1549881814575">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -85,6 +84,7 @@
       <file name="/GraphQL.result.json" timestamp="1549866388627">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/Meetic/project-build-and-run/generator/javascript/JavascriptReleaseJob.groovy" timestamp="1549882035343" />
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-web/src/pages/ProfileCapture/Question/Question.component.test.tsx" timestamp="1549447029869">
         <mark key="[" line="316" column="51" />
         <mark key="]" line="316" column="51" />
@@ -114,11 +114,9 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/ci/increment-buildnumber.sh" timestamp="1549868546111" />
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/fastlane/.env" timestamp="1549868984339">
         <mark key="[" line="14" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/Jenkinsfile" timestamp="1549865854844" />
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/node_modules/react-native-circular-progress/src/CircularProgress.js" timestamp="1549294156422">
         <mark key="[" line="59" column="11" />
         <mark key="]" line="64" column="0" />
