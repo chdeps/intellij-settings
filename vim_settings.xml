@@ -15,11 +15,11 @@
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/ci/get-deploy-strategy.sh" timestamp="1549967734268">
-        <mark key="[" line="21" column="24" />
-        <mark key="]" line="21" column="22" />
-        <mark key="^" line="21" column="22" />
-        <mark key="." line="21" column="22" />
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/ci/get-deploy-strategy.sh" timestamp="1549976417966">
+        <mark key="[" line="20" column="44" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="26" column="21" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/ci/test" timestamp="1549967387585">
         <mark key="[" line="0" column="0" />
@@ -67,11 +67,11 @@
         <mark key="." line="15" column="31" />
         <mark key="^" line="15" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/ci/last-build-location.sh" timestamp="1549965122784">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="13" column="8" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="7" column="7" />
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/ci/last-build-location.sh" timestamp="1549976311653">
+        <mark key="[" line="6" column="41" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="10" column="1" />
       </file>
     </filemarks>
     <jumps>
@@ -177,8 +177,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/auth/actions.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>| xargs</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZWNobyAkTkJfTkFUSVZFX0NIQU5HRQo=</text>
       </register>
       <register name="d" type="4">
         <text />
@@ -193,37 +193,37 @@
         <text encoding="base64">ICBleGl0IDAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">TEFTVF9CVUlMRF9MT0NBVElPTgo=</text>
+        <text encoding="base64">ZWNobyAkTkJfTkFUSVZFX0NIQU5HRQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">TEFTVF9CVUlMRF9MT0NBVElPTgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aWYgWyAteiAiJDEiIF0gCiAgdGhlbgogIGVjaG8gIlVzYWdlIDogIgogIGV4aXQgMQpmaQo=</text>
+        <text encoding="base64">ZWNobyAkTEFTVF9CVUlMRF9DT01NSVQK</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aWYgWyAiJDEiID09ICJJT1MiIF0KICB0aGVuCiAgRklMRV9OQU1FPSJpb3NidWlsZHZlcnNpb24iCmZpCgppZiBbICIkMSIgPT0gIkFORFJPSUQiIF0KICB0aGVuCiAgRklMRV9OQU1FPSJhbmRyb2lkYnVpbGR2ZXJzaW9uIgpmaQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZWNobyAkUFJFVklPVVNfTUVSR0VfU0hBMQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">TEFTVF9CVUlMRF9MT0NBVElPTj0gc2ggIi4vbGFzdC1idWlsZC1sb2NhdGlvbi5zaCAkMSIK</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">CgppZiAKICB0aGVuCiAgCmZp</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZWNobyAkQkFTRURJUgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">TEFTVF9CVUlMRF9MT0NBVElPTgo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">IyEvYmluL2Jhc2gK</text>
+        <text encoding="base64">TEFTVF9CVUlMRF9MT0NBVElPTgo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -277,8 +277,8 @@
         <entry>%s//setAnswers/g</entry>
         <entry>%s//onAnswersSelected/g</entry>
         <entry>%s//onAnswerSelected/g</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
