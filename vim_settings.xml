@@ -15,11 +15,11 @@
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/ci/get-deploy-strategy.sh" timestamp="1549976417966">
-        <mark key="[" line="20" column="44" />
-        <mark key="]" line="26" column="0" />
-        <mark key="^" line="26" column="21" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/ci/get-deploy-strategy.sh" timestamp="1549981057450">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="23" />
+        <mark key="^" line="17" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/ci/test" timestamp="1549967387585">
         <mark key="[" line="0" column="0" />
@@ -43,11 +43,8 @@
         <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/ci/version.js" timestamp="1549869178447" />
-      <file name="/Dummy.txt" timestamp="1549964845331">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/ci/store-last-build.sh" timestamp="1549902066278">
-        <mark key="[" line="1" column="0" />
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/ci/store-last-build.sh" timestamp="1549981179189">
+        <mark key="[" line="12" column="28" />
         <mark key="]" line="2" column="52" />
         <mark key="^" line="6" column="66" />
         <mark key="." line="6" column="66" />
@@ -178,49 +175,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZWNobyAkTkJfTkFUSVZFX0NIQU5HRQo=</text>
+        <text encoding="base64">QkFTRURJUj0kKGRpcm5hbWUgIiQwIikK</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>| xargs</text>
+        <text>LAST_BUILD_COMMIT</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBleGl0IDAK</text>
+      <register name="0" type="4">
+        <text>PREVIOUS_MERGE_SHA1</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZWNobyAkTkJfTkFUSVZFX0NIQU5HRQo=</text>
+        <text encoding="base64">QkFTRURJUj0kKGRpcm5hbWUgIiQwIikK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZWNobyAkTEFTVF9CVUlMRF9DT01NSVQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UFJFVklPVVNfTUVSR0VfU0hBMT0kKDwiJExBU1RfQlVJTERfQ09NTUlUIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZWNobyAkUFJFVklPVVNfTUVSR0VfU0hBMQo=</text>
+        <text encoding="base64">aWYgWyAteiAiJHtMQVNUX0JVSUxEX0NPTU1JVH0iIF0KICB0aGVuCiAgICBlY2hvICJoYXJkIgogICAgZXhpdCAwCmZpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aWYgWyAteiAiJHtMQVNUX0JVSUxEX0NPTU1JVH0iIF0KICB0aGVuCiAgICBlY2hvICJoYXJkIgogICAgZXhpdCAwCmZpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZWNobyAkQkFTRURJUgo=</text>
+        <text encoding="base64">CmVjaG8gJExBU1RfTUVSR0VfU0hBMQplY2hvICRQUkVWSU9VU19NRVJHRV9TSEExCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">TEFTVF9CVUlMRF9MT0NBVElPTgo=</text>
+        <text encoding="base64">ZWNobyAkTkJfTkFUSVZFX0NIQU5HRQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">TEFTVF9CVUlMRF9MT0NBVElPTgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
