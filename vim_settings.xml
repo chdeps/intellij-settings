@@ -9,18 +9,18 @@
         <mark key="." line="0" column="30" />
         <mark key="^" line="0" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/Meetic/project-build-and-run/builder/ReactReleaseIosBuilder.groovy" timestamp="1549980507349">
+      <file name="$USER_HOME$/Projects/Meetic/project-build-and-run/builder/ReactReleaseIosBuilder.groovy" timestamp="1549989761501">
         <mark key="p" line="31" column="4" />
-        <mark key="[" line="41" column="12" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-        <mark key="^" line="41" column="0" />
+        <mark key="[" line="41" column="37" />
+        <mark key="]" line="41" column="37" />
+        <mark key="." line="41" column="37" />
+        <mark key="^" line="44" column="61" />
       </file>
-      <file name="$USER_HOME$/Projects/Meetic/project-build-and-run/builder/ReactReleaseAndroidBuilder.groovy" timestamp="1549959828179">
-        <mark key="[" line="40" column="13" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-        <mark key="^" line="43" column="0" />
+      <file name="$USER_HOME$/Projects/Meetic/project-build-and-run/builder/ReactReleaseAndroidBuilder.groovy" timestamp="1549989776579">
+        <mark key="[" line="40" column="30" />
+        <mark key="]" line="40" column="30" />
+        <mark key="." line="40" column="30" />
+        <mark key="^" line="42" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/package.json" timestamp="1549868007119">
         <mark key="[" line="35" column="0" />
@@ -39,13 +39,10 @@
         <mark key="]" line="272" column="204" />
       </file>
       <file name="$USER_HOME$/Projects/Meetic/project-build-and-run/generator/ProjectCIMergeRequestHandler.groovy" timestamp="1549893055698" />
-      <file name="$USER_HOME$/Projects/Meetic/project-build-and-run/builder/ReactBuilder.groovy" timestamp="1549899619466">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="161" />
-        <mark key="." line="150" column="0" />
-        <mark key="^" line="150" column="19" />
+      <file name="$USER_HOME$/Projects/Meetic/project-build-and-run/builder/ReactBuilder.groovy" timestamp="1549989694570">
+        <mark key="[" line="211" column="80" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549959885889">
+      <file name="/Dummy.txt" timestamp="1549989788683">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1549866388627">
@@ -61,6 +58,11 @@
         <mark key="." line="0" column="30" />
         <mark key="^" line="0" column="36" />
       </file>
+      <file name="$USER_HOME$/Projects/Meetic/project-build-and-run/builder/ReactReleaseCodepushBuilder.groovy" timestamp="1549989768198">
+        <mark key="[" line="30" column="30" />
+        <mark key="]" line="30" column="30" />
+        <mark key="." line="30" column="30" />
+      </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/fastlane/.env" timestamp="1549868984339">
         <mark key="[" line="14" column="34" />
       </file>
@@ -72,9 +74,9 @@
         <mark key="." line="55" column="8" />
       </file>
       <file name="$USER_HOME$/Projects/Meetic/project-build-and-run/builder/ReactReleaseWebBuilder.groovy" timestamp="1549902461062">
-        <mark key="[" line="38" column="60" />
-        <mark key="]" line="38" column="80" />
-        <mark key="." line="38" column="60" />
+        <mark key="[" line="37" column="60" />
+        <mark key="]" line="37" column="80" />
+        <mark key="." line="37" column="60" />
       </file>
     </filemarks>
     <jumps>
@@ -181,49 +183,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>snapshotVersionQualifier</text>
+        <text>master|((v|release).*)</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>snapshotVersionQualifier</text>
+        <text>master|((v|release).*)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
       </register>
-      <register name="0" type="4">
-        <text>fullQualifiedVersion</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBzaCAiZ2l0IGFkZCBpb3NidWlsZHZlcnNpb24iCiAgc2ggImdpdCBjb21taXQgLW0gJ1tjaS1za2lwXSBTdG9yZSBzdWNjZXNzZnVsIGJ1aWxkIGNvbW1pdCciCiAgc2ggImdpdCBwdXNoIG9yaWdpbiAke0JSQU5DSF9OQU1FfSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBzaCAiZ2l0IGNvbW1pdCAtbSAiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgc2goc2NyaXB0OiAic2ggYWZmaW55LWFwcC9jaS9zdG9yZV9sYXN0X2J1aWxkLnNoIElPUyAke0JSQU5DSF9OQU1FfSIpCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzaCAiZ2l0IGNvbmZpZyB1c2VyLmVtYWlsIFwiJHtlbnYuSkVOS0lOU19HSVRfRU1BSUx9XCIiCiAgICAgICAgc2ggImdpdCBjb25maWcgdXNlci5uYW1lIFwiJHtlbnYuSkVOS0lOU19HSVRfVVNFUn1cIiIK</text>
+        <text encoding="base64">ICAgICAgc2goc2NyaXB0OiAic2ggYWZmaW55LWFwcC9jaS9zdG9yZV9sYXN0X2J1aWxkLnNoIElPUyAke0JSQU5DSF9OQU1FfSIpCg==</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzaCAiZ2l0IGNvbmZpZyB1c2VyLmVtYWlsIFwiJHtlbnYuSkVOS0lOU19HSVRfRU1BSUx9XCIiCiAgICAgICAgc2ggImdpdCBjb25maWcgdXNlci5uYW1lIFwiJHtlbnYuSkVOS0lOU19HSVRfVVNFUn1cIiIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNoICJnaXQgY29uZmlnIHVzZXIuZW1haWwgXCIke2Vudi5KRU5LSU5TX0dJVF9FTUFJTH1cIiIKICAgIHNoICJnaXQgY29uZmlnIHVzZXIubmFtZSBcIiR7ZW52LkpFTktJTlNfR0lUX1VTRVJ9XCIiCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIHNoICJnaXQgY29uZmlnIHVzZXIuZW1haWwgXCIke2Vudi5KRU5LSU5TX0dJVF9FTUFJTH1cIiIKICAgIHNoICJnaXQgY29uZmlnIHVzZXIubmFtZSBcIiR7ZW52LkpFTktJTlNfR0lUX1VTRVJ9XCIiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBzdGFnZSgnQnVtcCB2ZXJzaW9uJykgewo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNldAo=</text>
+        <text encoding="base64">ICBzdGFnZSgnQnVtcCB2ZXJzaW9uJykgewo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
