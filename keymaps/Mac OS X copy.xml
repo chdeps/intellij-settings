@@ -20,4 +20,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl less" />
   </action>
   <action id="NewScratchFile" />
+  <action id="Vcs.Push">
+    <keyboard-shortcut first-keystroke="shift ctrl equals" />
+  </action>
 </keymap>
