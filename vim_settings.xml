@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1550158156593">
+      <file name="/Dummy.txt" timestamp="1550158987681">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/ci/store-last-build.sh" timestamp="1550158140659">
@@ -41,11 +41,13 @@
         <mark key="^" line="58" column="39" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/ci/get-platform-deploy-strategy.sh" timestamp="1550069284518">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="50" />
-        <mark key="^" line="3" column="5" />
-        <mark key="." line="3" column="5" />
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/ci/get-platform-deploy-strategy.sh" timestamp="1550158970569">
+        <mark key="'" line="16" column="9" />
+        <mark key="[" line="21" column="65" />
+        <mark key="]" line="21" column="64" />
+        <mark key="^" line="21" column="64" />
+        <mark key="." line="21" column="64" />
+        <mark key="o" line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/WWF/wag-app/fastlane/Fastfile" timestamp="1549866556911">
         <mark key="[" line="272" column="185" />
@@ -78,7 +80,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="9" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/src/modules/facebook/saga.test.ts" />
       <jump line="36" column="14" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/src/modules/facebook/saga.test.ts" />
       <jump line="80" column="31" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/src/pages/MyProfile/ProfilePictureEditGallery/ProfilePictureEditGallery.component.tsx" />
       <jump line="63" column="8" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/src/pages/MyProfile/ProfilePictureEditGallery/ProfilePictureEditGallery.component.tsx" />
@@ -178,10 +179,11 @@
       <jump line="123" column="24" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/auth/saga.ts" />
       <jump line="11" column="38" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/auth/actions.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/auth/actions.ts" />
+      <jump line="16" column="9" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/ci/get-platform-deploy-strategy.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>affiny-app/src/ci</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y2htb2QgYSt4IC4vbGFzdC1idWlsZC1sb2NhdGlvbi5zaAo=</text>
       </register>
       <register name="d" type="4">
         <text />
@@ -199,31 +201,31 @@
         <text encoding="base64">Y2htb2QgYSt4IC4vbGFzdC1idWlsZC1sb2NhdGlvbi5zaAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2htb2QgYSt4IC4vZ2V0LXBsYXRmb3JtLWRlcGxveS1zdHJhdGVneS5zaAo=</text>
+        <text encoding="base64">QkFTRURJUj0kKGRpcm5hbWUgIiQwIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2htb2QgYSt4IC4vbGFzdC1idWlsZC1sb2NhdGlvbi5zaAo=</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZWNobyAkSU9TX0RFUExPWV9TVFJBVEVHWTsK</text>
+        <text encoding="base64">Y2htb2QgYSt4IC4vZ2V0LXBsYXRmb3JtLWRlcGxveS1zdHJhdGVneS5zaAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CmlmKElPU18pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QkFTRURJUj0kKGRpcm5hbWUgIiQwIikK</text>
+        <text encoding="base64">ZWNobyAkSU9TX0RFUExPWV9TVFJBVEVHWTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmlmKElPU18pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QkFTRURJUj0kKGRpcm5hbWUgIiQwIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">UFJFVklPVVNfTUVSR0VfU0hBMT0kKDwiJExBU1RfQlVJTERfQ09NTUlUIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
