@@ -3,14 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1550157260847">
+      <file name="/Dummy.txt" timestamp="1550158156593">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/ci/store-last-build.sh" timestamp="1550157154389">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="34" />
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/ci/store-last-build.sh" timestamp="1550158140659">
+        <mark key="[" line="3" column="23" />
+        <mark key="]" line="2" column="0" />
         <mark key="^" line="6" column="66" />
-        <mark key="." line="6" column="66" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1549866388627">
         <mark key="[" line="0" column="0" />
@@ -31,7 +31,7 @@
         <mark key="^" line="35" column="50" />
       </file>
       <file name="$USER_HOME$/Projects/Meetic/my-app/package.json" timestamp="1550155567894" />
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/ci/increment-buildnumber.sh" timestamp="1549964718372">
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/ci/increment-buildnumber.sh" timestamp="1550158061364">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="23" />
       </file>
@@ -55,11 +55,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="l" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/ci/get-deploy-strategy.sh" timestamp="1550157192678">
-        <mark key="[" line="8" column="43" />
-        <mark key="]" line="8" column="39" />
-        <mark key="^" line="7" column="0" />
-        <mark key="." line="8" column="12" />
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/ci/get-deploy-strategy.sh" timestamp="1550158127380">
+        <mark key="[" line="18" column="26" />
+        <mark key="]" line="18" column="38" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="18" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/ci/store_last_build.sh" timestamp="1549898554936">
         <mark key="[" line="15" column="12" />
@@ -181,49 +181,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>get-platform-deploy-strategy</text>
+        <text>affiny-app/src/ci</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>last-build-location</text>
+        <text>affiny-app/src/ci</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
       </register>
       <register name="0" type="4">
-        <text>get-platform-deploy-strategy</text>
+        <text>&quot;${BASEDIR}&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2htb2QgYSt4IC4vbGFzdC1idWlsZC1sb2NhdGlvbi5zaAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZWNobyAkSU9TX0RFUExPWV9TVFJBVEVHWTsK</text>
+        <text encoding="base64">Y2htb2QgYSt4IC4vZ2V0LXBsYXRmb3JtLWRlcGxveS1zdHJhdGVneS5zaAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CmlmKElPU18pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QkFTRURJUj0kKGRpcm5hbWUgIiQwIikK</text>
+        <text encoding="base64">ZWNobyAkSU9TX0RFUExPWV9TVFJBVEVHWTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmlmKElPU18pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QkFTRURJUj0kKGRpcm5hbWUgIiQwIikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">UFJFVklPVVNfTUVSR0VfU0hBMT0kKDwiJExBU1RfQlVJTERfQ09NTUlUIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aWYgWyAteiAiJHtMQVNUX0JVSUxEX0NPTU1JVH0iIF0KICB0aGVuCiAgICBlY2hvICJoYXJkIgogICAgZXhpdCAwCmZpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aWYgWyAteiAiJHtMQVNUX0JVSUxEX0NPTU1JVH0iIF0KICB0aGVuCiAgICBlY2hvICJoYXJkIgogICAgZXhpdCAwCmZpCg==</text>
+        <text encoding="base64">UFJFVklPVVNfTUVSR0VfU0hBMT0kKDwiJExBU1RfQlVJTERfQ09NTUlUIikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
