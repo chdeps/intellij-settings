@@ -85,6 +85,7 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="10" column="1" />
       </file>
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-web/src/index.tsx" timestamp="1550249374080" />
     </filemarks>
     <jumps>
       <jump line="36" column="14" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/src/modules/facebook/saga.test.ts" />
