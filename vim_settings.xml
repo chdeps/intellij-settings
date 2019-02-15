@@ -30,6 +30,7 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="35" column="50" />
       </file>
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/src/pages/Inbox/Thread/Thread.component.tsx" timestamp="1550218853812" />
       <file name="$USER_HOME$/Projects/Meetic/my-app/package.json" timestamp="1550155567894" />
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/ci/increment-buildnumber.sh" timestamp="1550158061364">
         <mark key="[" line="24" column="0" />
@@ -72,6 +73,9 @@
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/fastlane/.env" timestamp="1549868984339">
         <mark key="[" line="14" column="34" />
       </file>
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/threads/containers/threadContainerFactory.ts" timestamp="1550218321586" />
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/src/pages/Inbox/Inbox.container.ts" timestamp="1550218762678" />
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/threads/selectors.ts" timestamp="1550218336297" />
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/ci/last-build-location.sh" timestamp="1550071588492">
         <mark key="[" line="12" column="44" />
         <mark key="]" line="4" column="0" />
