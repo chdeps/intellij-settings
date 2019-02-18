@@ -67,6 +67,7 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="18" column="26" />
       </file>
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-web/src/OnPageChange.tsx" timestamp="1550484728436" />
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/ci/store_last_build.sh" timestamp="1549898554936">
         <mark key="[" line="15" column="12" />
         <mark key="]" line="15" column="31" />
@@ -187,13 +188,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y2htb2QgYSt4IC4vbGFzdC1idWlsZC1sb2NhdGlvbi5zaAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>affiny-app/src/ci</text>
+        <text>this.props.children</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
@@ -202,31 +203,31 @@
         <text>&quot;${BASEDIR}&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y2htb2QgYSt4IC4vbGFzdC1idWlsZC1sb2NhdGlvbi5zaAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QkFTRURJUj0kKGRpcm5hbWUgIiQwIikK</text>
+        <text encoding="base64">Ly8gV2hlbiByZW5kZXJpbmcgb3VyIGNvbnRhaW5lcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2htb2QgYSt4IC4vbGFzdC1idWlsZC1sb2NhdGlvbi5zaAo=</text>
+        <text encoding="base64">d2luZG93LmFkZEV2ZW50TGlzdGVuZXIoJ3RvdWNobW92ZScsIHByZXZlbnREZWZhdWx0LCB7CiAgcGFzc2l2ZTogZmFsc2UKfSk7Cg==</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2htb2QgYSt4IC4vZ2V0LXBsYXRmb3JtLWRlcGxveS1zdHJhdGVneS5zaAo=</text>
+        <text encoding="base64">Y29uc3QgcHJldmVudERlZmF1bHQgPSBlID0+IGUucHJldmVudERlZmF1bHQoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBvdmVyZmxvdzogaGlkZGVuOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZWNobyAkSU9TX0RFUExPWV9TVFJBVEVHWTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CmlmKElPU18pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QkFTRURJUj0kKGRpcm5hbWUgIiQwIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
