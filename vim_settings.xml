@@ -9,7 +9,11 @@
         <mark key="^" line="16" column="28" />
         <mark key="." line="9" column="59" />
       </file>
-      <file name="$USER_HOME$/Projects/MapDojo/dojo-map-expo/package.json" timestamp="1550492963311" />
+      <file name="$USER_HOME$/Projects/MapDojo/dojo-map-expo/package.json" timestamp="1550524330825">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="25" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/api/core/affiny.endpoints.ts" timestamp="1550482564390" />
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/package.json" timestamp="1550237770285">
         <mark key="[" line="35" column="0" />
@@ -49,6 +53,9 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/MapDojo/dojo-map-expo/babel.config.js" timestamp="1550523878994">
+        <mark key="[" line="3" column="35" />
+      </file>
       <file name="$USER_HOME$/Projects/MapDojo/dojo-map-expo/.gitignore" timestamp="1550492682916">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="18" />
@@ -56,7 +63,7 @@
         <mark key="." line="7" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/auth/saga.ts" timestamp="1550482535588" />
-      <file name="/Dummy.txt" timestamp="1550523457449">
+      <file name="/Dummy.txt" timestamp="1550524462849">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-web/src/components/TopTabs/TopTabs.component.tsx" timestamp="1550509418463">
@@ -71,6 +78,7 @@
         <mark key="^" line="6" column="66" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/MapDojo/dojo-map-expo/node_modules/expo/build/Expo.js" timestamp="1550524186254" />
       <file name="/GraphQL.result.json" timestamp="1549866388627">
         <mark key="[" line="0" column="0" />
       </file>
@@ -97,14 +105,22 @@
         <mark key="." line="18" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-web/node_modules/react-swipeable-views/src/SwipeableViews.js" timestamp="1550487667526" />
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-web/src/OnPageChange.tsx" timestamp="1550484728436" />
+      <file name="$USER_HOME$/Projects/MapDojo/dojo-map-expo/src/pages/Home/components/MapView/MapView.js" timestamp="1550524157401">
+        <mark key="[" line="7" column="38" />
+        <mark key="]" line="7" column="41" />
+        <mark key="." line="7" column="41" />
+        <mark key="^" line="7" column="41" />
+      </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/ci/store_last_build.sh" timestamp="1549898554936">
         <mark key="[" line="15" column="12" />
         <mark key="]" line="15" column="31" />
         <mark key="." line="15" column="31" />
         <mark key="^" line="15" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/MapDojo/dojo-map/package.json" timestamp="1550493146907" />
+      <file name="$USER_HOME$/Projects/MapDojo/dojo-map/package.json" timestamp="1550524346318">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="25" />
+      </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/fastlane/.env" timestamp="1549868984339">
         <mark key="[" line="14" column="34" />
       </file>
@@ -226,49 +242,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuY29udGV4dCk7Cg==</text>
+        <text encoding="base64">ICAgICJsb2Rhc2giOiAiXjQuMTcuMTEiLAo=</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>scrollDiv</text>
+        <text>react-native-maps</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuY29udGV4dCk7Cg==</text>
+        <text encoding="base64">ICAgICJsb2Rhc2giOiAiXjQuMTcuMTEiLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuY29udGV4dCk7Cg==</text>
+        <text encoding="base64">ICAgICJyZWFjdC1uYXZpZ2F0aW9uIjogIl4zLjMuMCIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ0NvbnRleHQnLCBTY3JvbGxDb250ZXh0KTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuY29udGV4dCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuY29udGV4dCk7Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ0NvbnRleHQnLCBTY3JvbGxDb250ZXh0KTsK</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9Jb3NTY3JvbGxQcm92aWRlcj4K</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuY29udGV4dCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPElvc1Njcm9sbFByb3ZpZGVyPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9Jb3NTY3JvbGxQcm92aWRlcj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTm9uU2Nyb2xsYWJsZURpdiB9IGZyb20gJ2FmZmlueS13ZWIvc3JjL3NlcnZpY2VzL2lvc1Njcm9sbC9Ob25TY3JvbGxhYmxlRGl2LmNvbXBvbmVudCc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPElvc1Njcm9sbFByb3ZpZGVyPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8L05vblNjcm9sbGFibGVEaXY+Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgTm9uU2Nyb2xsYWJsZURpdiB9IGZyb20gJ2FmZmlueS13ZWIvc3JjL3NlcnZpY2VzL2lvc1Njcm9sbC9Ob25TY3JvbGxhYmxlRGl2LmNvbXBvbmVudCc7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8Tm9uU2Nyb2xsYWJsZURpdj4K</text>
+        <text encoding="base64">ICAgICAgICA8L05vblNjcm9sbGFibGVEaXY+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGlzVGFyZ2V0U2Nyb2xsQmxvY2tlZCA9IHRoaXMubm9uU2Nyb2xsYWJsZURpdnMuc29tZSgKICAgICAgbm9uU2Nyb2xsYWJsZURpdiA9PiBub25TY3JvbGxhYmxlRGl2LmNvbnRhaW5zKHRhcmdldCkKICAgICk7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8Tm9uU2Nyb2xsYWJsZURpdj4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
