@@ -34,6 +34,7 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-web/node_modules/react-swipeable-views/src/SwipeableViews.js" timestamp="1550763585046" />
       <file name="$USER_HOME$/Projects/MapDojo/dojo-map-expo/src/pages/Home/components/MapView/MapView.js" timestamp="1550583069741">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="44" />
@@ -79,22 +80,18 @@
         <mark key="." line="23" column="65" />
         <mark key="^" line="23" column="65" />
       </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-web/src/pages/Home/Home.component.tsx" timestamp="1550745914378">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-web/src/pages/Home/Home.component.tsx" timestamp="1550762323157">
+        <mark key="[" line="78" column="16" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-web/src/pages/Interactions/Interactions.component.tsx" timestamp="1550745946829" />
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-web/src/pages/Interactions/Interactions.component.tsx" timestamp="1550762319107" />
       <file name="/Dummy.txt" timestamp="1550760282789">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-web/src/components/TopTabs/TopTabs.component.tsx" timestamp="1550759720178">
-        <mark key="[" line="174" column="0" />
-        <mark key="]" line="174" column="0" />
-        <mark key="." line="174" column="0" />
-      </file>
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-web/src/components/TopTabs/TopTabs.component.tsx" timestamp="1550763561469" />
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-web/src/services/iosScroll/ScrollableContainerFactory.tsx" timestamp="1550657244308">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="16" column="2" />
@@ -125,11 +122,11 @@
         <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-web/src/helpers/navigationHelpers.ts" timestamp="1550755296450" />
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-web/src/components/TopTabs/TabContainer/TabContainer.component.tsx" timestamp="1550759962503">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="41" column="1" />
-        <mark key="." line="41" column="1" />
-        <mark key="^" line="41" column="1" />
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-web/src/components/TopTabs/TabContainer/TabContainer.component.tsx" timestamp="1550762129339">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="33" column="3" />
       </file>
     </filemarks>
     <jumps>
@@ -235,14 +232,14 @@
       <jump line="23" column="56" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-web/src/services/iosScroll/ScrollableDiv.component.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBtYXgtaGVpZ2h0OiBjYWxjKDEwMHZoIC0gJHtUT1BfVEFCX0JBUl9IRUlHSFQgKyBOQVZfQkFSX0hFSUdIVH1weCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>key={param.label}</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC0gJHtUT1BfVEFCX0JBUl9IRUlHSFQgKyBOQVZfQkFSX0hFSUdIVH1weA==</text>
+        <text>key={param.label}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
@@ -251,34 +248,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgPC9TY3JvbGxhYmxlPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBtYXgtaGVpZ2h0OiBjYWxjKDEwMHZoIC0gJHtUT1BfVEFCX0JBUl9IRUlHSFQgKyBOQVZfQkFSX0hFSUdIVH1weCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9FeHRyYVNwYWNlPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBtYXJnaW4tYm90dG9tOiA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPEV4dHJhU3BhY2U+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBoZWlnaHQ6IDEwMHZoOwo=</text>
+        <text encoding="base64">ICAgICAgICB7aXNTd2lwZWFibGUgPyAoCiAgICAgICAgICA8U3dpcGVhYmxlVmlld3MKICAgICAgICAgICAgYXhpcz0ieCIKICAgICAgICAgICAgaW5kZXg9e3NlbGVjdGVkVGFiSW5kZXh9CiAgICAgICAgICAgIG9uQ2hhbmdlSW5kZXg9e3RoaXMuaGFuZGxlQ2hhbmdlSW5kZXh9CiAgICAgICAgICA+CiAgICAgICAgICAgIHt0YWJQYXJhbXMubWFwKHBhcmFtID0+ICgKICAgICAgICAgICAgICA8VGFiQ29udGFpbmVyCiAgICAgICAgICAgICAgICBwYXJhbT17cGFyYW19CiAgICAgICAgICAgICAgICBzZWxlY3RlZFRhYkluZGV4PXtzZWxlY3RlZFRhYkluZGV4fQogICAgICAgICAgICAgICAga2V5PXtwYXJhbS5sYWJlbH0KICAgICAgICAgICAgICAvPgogICAgICAgICAgICApKX0KICAgICAgICAgIDwvU3dpcGVhYmxlVmlld3M+CiAgICAgICAgKSA6ICgK</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBkaXNwbGF5OiBmbGV4OwogIGZsZXgtZGlyZWN0aW9uOiBjb2x1bW47Cg==</text>
+        <text encoding="base64">ICAgICAgPC8+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBoZWlnaHQ6IGNhbGMoMTAwdmggLSAke1RPUF9UQUJfQkFSX0hFSUdIVCArIE5BVl9CQVJfSEVJR0hUfXB4KTsK</text>
+        <text encoding="base64">ICAgICAgICA8Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBoZWlnaHQ6IGNhbGMoMTAwdmgpOwo=</text>
+        <text encoding="base64">ICAgICAgICApfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTkFWX0JBUl9IRUlHSFQgfSBmcm9tICdhZmZpbnktd2ViL3NyYy9oZWxwZXJzL25hdmlnYXRpb25IZWxwZXJzJzsK</text>
+        <text encoding="base64">ICAgICAgICB7aXNTd2lwZWFibGUgPyAoCiAgICAgICAgICA8U3dpcGVhYmxlVmlld3MKICAgICAgICAgICAgYXhpcz0ieCIKICAgICAgICAgICAgaW5kZXg9e3NlbGVjdGVkVGFiSW5kZXh9CiAgICAgICAgICAgIG9uQ2hhbmdlSW5kZXg9e3RoaXMuaGFuZGxlQ2hhbmdlSW5kZXh9CiAgICAgICAgICA+CiAgICAgICAgICAgIHt0YWJQYXJhbXMubWFwKHBhcmFtID0+ICgKICAgICAgICAgICAgICA8VGFiQ29udGFpbmVyCiAgICAgICAgICAgICAgICBwYXJhbT17cGFyYW19CiAgICAgICAgICAgICAgICBzZWxlY3RlZFRhYkluZGV4PXtzZWxlY3RlZFRhYkluZGV4fQogICAgICAgICAgICAgICAga2V5PXtwYXJhbS5sYWJlbH0KICAgICAgICAgICAgICAvPgogICAgICAgICAgICApKX0KICAgICAgICAgIDwvU3dpcGVhYmxlVmlld3M+CiAgICAgICAgKSA6ICgK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBvdmVyZmxvdy15OiBoaWRkZW47Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgU2Nyb2xsV3JhcHBlciA9IHN0eWxlZChTY3JvbGxhYmxlKWAKICBoZWlnaHQ6IDEwMHZoOwpgOwo=</text>
+        <text encoding="base64">ICBwYWRkaW5nLWJvdHRvbTogJHsoeyB0aGVtZSB9KSA9PiB0aGVtZS5zcGFjaW5nLm1lZGl1bUludCArIE5BVl9CQVJfSEVJR0hUfXB4Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
