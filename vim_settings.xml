@@ -11,7 +11,8 @@
         <mark key="^" line="1" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-web/src/ui/Svg/svgr/ProfilePlaceholder.tsx" timestamp="1551087834421" />
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/Makefile" timestamp="1551090805580" />
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/package.json" timestamp="1551103141695" />
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/Makefile" timestamp="1551103135063" />
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-web/src/services/iosScroll/IosScrollProvider.component.tsx" timestamp="1550767305108">
         <mark key="[" line="3" column="48" />
         <mark key="]" line="7" column="0" />
@@ -19,6 +20,15 @@
         <mark key="^" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-web/src/components/NavigationBar/NavigationBar.component.tsx" timestamp="1551087302178" />
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/ci/version.js" timestamp="1551103321078">
+        <mark key="[" line="53" column="63" />
+      </file>
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/ci/get-platform-test-strategy.sh" timestamp="1551102375857">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="15" column="20" />
+      </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/package.json" timestamp="1550774791287">
         <mark key="[" line="38" column="33" />
       </file>
@@ -37,7 +47,7 @@
         <mark key="]" line="81" column="0" />
         <mark key="." line="81" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551093480563">
+      <file name="/Dummy.txt" timestamp="1551103344631">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
@@ -52,10 +62,8 @@
         <mark key="[" line="2875" column="32" />
         <mark key="]" line="2875" column="44" />
       </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/ci/get-platform-deploy-strategy.sh" timestamp="1551093740959">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/ci/get-platform-deploy-strategy.sh" timestamp="1551102929967">
+        <mark key="[" line="25" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-web/src/OnPageChange.tsx" timestamp="1550757470670">
         <mark key="[" line="2" column="0" />
@@ -191,28 +199,46 @@
       <jump line="23" column="56" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-web/src/services/iosScroll/ScrollableDiv.component.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>CURRENT</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZWNobyAkTEFTVF9NRVJHRV9TSEExCg==</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>CURRENT</text>
+        <text>-- ${LAST_BUILD_COMMIT}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Q1VSUkVOVF9NRVJHRV9TSEExPSQoZ2l0IGxvZyBvcmlnaW4vJDIgLS1tZXJnZXMgLS1mb3JtYXQ9Zm9ybWF0OiVIIC0yIHwgc2VkIC1uIDFwKQo=</text>
+      <register name="0" type="4">
+        <text>git checkout ${LAST_MERGE_SHA1}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">TEFTVAo=</text>
+        <text encoding="base64">ZWNobyAkTEFTVF9NRVJHRV9TSEExCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ZWNobyAkUFJFVklPVVNfTUVSR0VfU0hBMQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="s" type="4">
+        <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Z2l0IGZldGNoCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Z2l0IHJlc2V0IC0taGFyZAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">TEFTVAo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIC8vIERPIE5PVEhJTkcK</text>
       </register>
-      <register name="3" type="4">
+      <register name="8" type="4">
         <text>else if (
         
       ) {
@@ -220,26 +246,8 @@
         return false;
       }</text>
       </register>
-      <register name="s" type="4">
-        <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2xpZGVTdHlsZT17eyBtYXJnaW5Cb3R0b206IDEwMCB9fQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9FeHRyYVNwYWNlPgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPEV4dHJhU3BhY2U+Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB7aXNTd2lwZWFibGUgPyAoCiAgICAgICAgICA8U3dpcGVhYmxlVmlld3MKICAgICAgICAgICAgYXhpcz0ieCIKICAgICAgICAgICAgaW5kZXg9e3NlbGVjdGVkVGFiSW5kZXh9CiAgICAgICAgICAgIG9uQ2hhbmdlSW5kZXg9e3RoaXMuaGFuZGxlQ2hhbmdlSW5kZXh9CiAgICAgICAgICA+CiAgICAgICAgICAgIHt0YWJQYXJhbXMubWFwKHBhcmFtID0+ICgKICAgICAgICAgICAgICA8VGFiQ29udGFpbmVyCiAgICAgICAgICAgICAgICBwYXJhbT17cGFyYW19CiAgICAgICAgICAgICAgICBzZWxlY3RlZFRhYkluZGV4PXtzZWxlY3RlZFRhYkluZGV4fQogICAgICAgICAgICAgICAga2V5PXtwYXJhbS5sYWJlbH0KICAgICAgICAgICAgICAvPgogICAgICAgICAgICApKX0KICAgICAgICAgIDwvU3dpcGVhYmxlVmlld3M+CiAgICAgICAgKSA6ICgK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
