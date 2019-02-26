@@ -3,6 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/package.json" timestamp="1551196372144">
+        <mark key="[" line="22" column="14" />
+        <mark key="]" line="22" column="13" />
+        <mark key="^" line="22" column="13" />
+        <mark key="." line="22" column="13" />
+      </file>
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/Makefile" timestamp="1551196405728">
+        <mark key="[" line="46" column="21" />
+        <mark key="]" line="45" column="30" />
+        <mark key="^" line="45" column="30" />
+        <mark key="." line="45" column="30" />
+      </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-web/src/ui/Loader/Loader.component.tsx" timestamp="1551111868586">
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
@@ -28,7 +40,7 @@
         <mark key="]" line="81" column="0" />
         <mark key="." line="81" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-web/public/index.html" timestamp="1551190730062" />
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-web/public/index.html" timestamp="1551196068603" />
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/androidbuildversion" timestamp="1551106585105">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -39,15 +51,20 @@
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-web/package.json" timestamp="1551196254877">
+        <mark key="[" line="79" column="14" />
+      </file>
       <file name="/GraphQL.result.json" timestamp="1551165706614">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/ci/print-version.sh" timestamp="1549868676860">
         <mark key="[" line="27" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-web/node_modules/@types/react/index.d.ts" timestamp="1551087829394">
-        <mark key="[" line="2875" column="32" />
-        <mark key="]" line="2875" column="44" />
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/README.md" timestamp="1551196322646">
+        <mark key="[" line="65" column="18" />
+        <mark key="]" line="65" column="18" />
+        <mark key="^" line="64" column="25" />
+        <mark key="." line="65" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/ci/get-platform-deploy-strategy.sh" timestamp="1551164273358">
         <mark key="[" line="40" column="14" />
@@ -181,20 +198,20 @@
       <jump line="23" column="56" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-web/src/services/iosScroll/ScrollableDiv.component.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">KTsK</text>
+      <register name="&quot;" type="4">
+        <text>staging</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>-- ${LAST_BUILD_COMMIT}</text>
+        <text>staging</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
       </register>
-      <register name="0" type="4">
-        <text>git checkout ${LAST_MERGE_SHA1}</text>
+      <register name="0" type="2">
+        <text encoding="base64">LSBgeWFybiB3ZWI6YnVpbGQ6c3RhZ2luZ2AK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">KTsK</text>
