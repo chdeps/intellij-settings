@@ -3,42 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/api/core/saga.ts" timestamp="1551283047451">
-        <mark key="[" line="103" column="21" />
-      </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/package.json" timestamp="1551266318998">
-        <mark key="[" line="23" column="50" />
-        <mark key="]" line="23" column="18" />
-        <mark key="^" line="23" column="18" />
-        <mark key="." line="23" column="18" />
-      </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/Makefile" timestamp="1551266394623">
-        <mark key="[" line="48" column="36" />
-        <mark key="]" line="48" column="13" />
-        <mark key="^" line="48" column="13" />
-        <mark key="." line="48" column="13" />
-      </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/ci/version.js" timestamp="1551103321078">
-        <mark key="[" line="53" column="63" />
-      </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/ci/get-platform-test-strategy.sh" timestamp="1551102375857">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="15" column="20" />
-      </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/package.json" timestamp="1550774791287">
-        <mark key="[" line="38" column="33" />
-      </file>
-      <file name="$USER_HOME$/Projects/MapDojo/dojo-map-expo/babel.config.js" timestamp="1550523878994">
-        <mark key="[" line="3" column="35" />
-      </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/auth/saga.ts" timestamp="1551284073467">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="47" />
-        <mark key="^" line="53" column="46" />
-        <mark key="." line="53" column="46" />
-      </file>
       <file name="/Dummy.txt" timestamp="1551285262018">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
@@ -56,12 +20,37 @@
         <mark key="^" line="64" column="25" />
         <mark key="." line="65" column="18" />
       </file>
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/api/core/saga.ts" timestamp="1551283047451">
+        <mark key="[" line="103" column="21" />
+      </file>
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-web/src/services/config/ConfigStrategy.ts" timestamp="1551346851846" />
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/package.json" timestamp="1551266318998">
+        <mark key="[" line="23" column="50" />
+        <mark key="]" line="23" column="18" />
+        <mark key="^" line="23" column="18" />
+        <mark key="." line="23" column="18" />
+      </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/api/core/middlewares.ts" timestamp="1551300199350">
         <mark key="]" line="71" column="0" />
         <mark key="." line="71" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/Makefile" timestamp="1551266394623">
+        <mark key="[" line="48" column="36" />
+        <mark key="]" line="48" column="13" />
+        <mark key="^" line="48" column="13" />
+        <mark key="." line="48" column="13" />
+      </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/ci/get-platform-deploy-strategy.sh" timestamp="1551164273358">
         <mark key="[" line="40" column="14" />
+      </file>
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/ci/version.js" timestamp="1551103321078">
+        <mark key="[" line="53" column="63" />
+      </file>
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/ci/get-platform-test-strategy.sh" timestamp="1551102375857">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="15" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/fastlane/.env" timestamp="1549868984339">
         <mark key="[" line="14" column="34" />
@@ -75,9 +64,23 @@
         <mark key="." line="0" column="6" />
         <mark key="^" line="0" column="6" />
       </file>
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/env.ts" timestamp="1551346914607" />
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/package.json" timestamp="1550774791287">
+        <mark key="[" line="38" column="33" />
+      </file>
+      <file name="$USER_HOME$/Projects/MapDojo/dojo-map-expo/babel.config.js" timestamp="1550523878994">
+        <mark key="[" line="3" column="35" />
+      </file>
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/auth/saga.ts" timestamp="1551284073467">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="47" />
+        <mark key="^" line="53" column="46" />
+        <mark key="." line="53" column="46" />
+      </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-web/src/components/TopTabs/TabContainer/TabContainer.component.tsx" timestamp="1550765801273">
         <mark key="[" line="5" column="65" />
       </file>
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-web/src/index.tsx" timestamp="1551346558731" />
     </filemarks>
     <jumps>
       <jump line="5" column="8" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/src/bridges/SandboxTester.ts" />
