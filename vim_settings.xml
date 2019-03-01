@@ -49,11 +49,11 @@
       <file name="$USER_HOME$/Projects/MapDojo/dojo-map-expo/babel.config.js" timestamp="1550523878994">
         <mark key="[" line="3" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-web/src/services/config/ConfigStrategy.test.ts" timestamp="1551369452962">
-        <mark key="[" line="47" column="42" />
-        <mark key="]" line="47" column="42" />
-        <mark key="^" line="40" column="45" />
-        <mark key="." line="47" column="42" />
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-web/src/services/config/ConfigStrategy.test.ts" timestamp="1551439140528">
+        <mark key="[" line="89" column="19" />
+        <mark key="]" line="89" column="19" />
+        <mark key="^" line="74" column="14" />
+        <mark key="." line="89" column="19" />
       </file>
       <file name="/Dummy.txt" timestamp="1551370501785">
         <mark key="[" line="0" column="0" />
@@ -71,11 +71,11 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-web/src/services/config/ConfigStrategy.ts" timestamp="1551435218395">
-        <mark key="[" line="57" column="1" />
-        <mark key="]" line="56" column="41" />
-        <mark key="." line="56" column="41" />
-        <mark key="^" line="56" column="41" />
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-web/src/services/config/ConfigStrategy.ts" timestamp="1551439659190">
+        <mark key="[" line="81" column="60" />
+        <mark key="]" line="81" column="51" />
+        <mark key="^" line="81" column="51" />
+        <mark key="." line="81" column="51" />
       </file>
       <file name="/MockConfigStrategy.ts" timestamp="1551349729573" />
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/src/services/config/ProductionConfigStrategy.ts" timestamp="1551351789072">
@@ -214,50 +214,50 @@
       <jump line="23" column="56" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-web/src/services/iosScroll/ScrollableDiv.component.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>undefined</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>EN</text>
+        <text>undefined</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIEVFbnZMb2NhbGUuZnI7Cg==</text>
+      <register name="0" type="4">
+        <text>uteam.www.affiny.fr.kube.recette.ilius.io</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gV2hlbgogICAgICBjb25zdCBlbnYgPSBlbnZGcm9tRG9tYWluTmFtZSgKICAgICAgICAndXRlYW0ud3d3LmFmZmlueS5mci5rdWJlLnJlY2V0dGUuaWxpdXMuaW8nCiAgICAgICk7CgogICAgICAvLyBFeHBlY3QKICAgICAgcmV0dXJuIGV4cGVjdChlbnYuZW52TmFtZSkudG9FcXVhbCgnc3RhZ2luZycpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1lZXRpY1VybHMgOiB7CiAgICAgIG9uZVRydXN0VXJsIDogCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY29udGV4dCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhtYXRjaGVzKTsK</text>
+        <text encoding="base64">ICAgICAgLy8gV2hlbgogICAgICBjb25zdCBlbnYgPSBlbnZGcm9tRG9tYWluTmFtZSgnd3d3LmFmZmlueS5jby51ay5wcHJvZCcpOwoKICAgICAgLy8gRXhwZWN0CiAgICAgIHJldHVybiBleHBlY3QoZW52LmVudk5hbWUpLnRvRXF1YWwoJ3ByZXByb2QnKTsK</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIEVFbnZDb3VudHJ5LkZSOwo=</text>
+        <text encoding="base64">ICAgICAgLy8gV2hlbgogICAgICBjb25zdCBlbnYgPSBlbnZGcm9tRG9tYWluTmFtZSgnd3d3LmFmZmlueS5mci5wcHJvZCcpOwoKICAgICAgLy8gRXhwZWN0CiAgICAgIHJldHVybiBleHBlY3QoZW52LmVudk5hbWUpLnRvRXF1YWwoJ3ByZXByb2QnKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIEVFbnZDb3VudHJ5LkZSOwo=</text>
+        <text encoding="base64">ICAgICAgLy8gV2hlbgogICAgICBjb25zdCBlbnYgPSBlbnZGcm9tRG9tYWluTmFtZSgnd3d3LmFmZmlueS5jby51aycpOwoKICAgICAgLy8gRXhwZWN0CiAgICAgIHJldHVybiBleHBlY3QoZW52LmVudk5hbWUpLnRvRXF1YWwoJ3Byb2QnKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBpZiAoaG9zdC5pbmNsdWRlcyhNQVRDSF9IT1NUX0VOKSkgcmV0dXJuIEVFbnZMb2NhbGUuZW47CiAgcmV0dXJuIEVFbnZMb2NhbGUuZnI7Cg==</text>
+        <text encoding="base64">ICAgIGl0KCdyZXR1cm4gU3RhZ2luZyBmb3IgdXRlYW0ud3d3LmFmZmlueS5jby51ay5rdWJlLnJlY2V0dGUuaWxpdXMuaW8nLCAoKSA9PiB7CiAgICAgIC8vIFdoZW4KICAgICAgY29uc3QgZW52ID0gZW52RnJvbURvbWFpbk5hbWUoCiAgICAgICAgJ3V0ZWFtLnd3dy5hZmZpbnkuY28udWsua3ViZS5yZWNldHRlLmlsaXVzLmlvJwogICAgICApOwoKICAgICAgLy8gRXhwZWN0CiAgICAgIHJldHVybiBleHBlY3QoZW52LmVudk5hbWUpLnRvRXF1YWwoJ3N0YWdpbmcnKTsKICAgIH0pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdCBtYXRjaGVzID0gaG9zdC5tYXRjaChVUkxSZWdFeHApOwo=</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KGNvbXB1dGVDb3VudHJ5RnJvbUhvc3QoJ3d3dy5hZmZpbnkuY29tJykpLnRvQmUoRUVudkNvdW50cnkuRlIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpZighbWF0Y2hlcykgcmV0dXJuIEVFbnZDb3VudHJ5LkZSOwogIGlmIChtYXRjaGVzWzNdID09PSBFSG9zdExhbmcuVUspIHJldHVybiBFRW52Q291bnRyeS5FTjsKICByZXR1cm4gRUVudkNvdW50cnkuRlI7Cg==</text>
+        <text encoding="base64">ICAgIGl0LmVhY2goW1snd3d3LmFmZmlueS5mciddXSkK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIC9eKHV0ZWFtXC4pPyh3d3dcLmFmZmlueVwuKGZyfGNvXC51aykpKFwucHByb2QpPy4qKFwucmVjZXR0ZSk/JC8K</text>
+      <register name="9" type="4">
+        <text encoding="base64">ewogIHVybEVudiwKICBuYW1lc3BhY2UsCn06IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
