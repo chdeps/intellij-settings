@@ -38,7 +38,7 @@
       <file name="/JavaScript Console" timestamp="1551365381384">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/env.ts" timestamp="1551370593406">
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/env.ts" timestamp="1551433567156">
         <mark key="[" line="0" column="29" />
         <mark key="]" line="0" column="29" />
         <mark key="." line="0" column="29" />
@@ -71,11 +71,10 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-web/src/services/config/ConfigStrategy.ts" timestamp="1551370565148">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-        <mark key="^" line="38" column="27" />
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-web/src/services/config/ConfigStrategy.ts" timestamp="1551433637654">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="/MockConfigStrategy.ts" timestamp="1551349729573" />
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/src/services/config/ProductionConfigStrategy.ts" timestamp="1551351789072">
@@ -215,7 +214,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhtYXRjaGVzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text />
@@ -230,34 +229,34 @@
         <text encoding="base64">ICAgICAgcmV0dXJuIEVFbnZMb2NhbGUuZnI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhtYXRjaGVzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIEVFbnZDb3VudHJ5LkZSOwo=</text>
+        <text encoding="base64">ICAgIG1lZXRpY1VybHMgOiB7CiAgICAgIG9uZVRydXN0VXJsIDogCiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIEVFbnZDb3VudHJ5LkZSOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhtYXRjaGVzKTsK</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpZiAoaG9zdC5pbmNsdWRlcyhNQVRDSF9IT1NUX0VOKSkgcmV0dXJuIEVFbnZMb2NhbGUuZW47CiAgcmV0dXJuIEVFbnZMb2NhbGUuZnI7Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIEVFbnZDb3VudHJ5LkZSOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zdCBtYXRjaGVzID0gaG9zdC5tYXRjaChVUkxSZWdFeHApOwo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIEVFbnZDb3VudHJ5LkZSOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBpZighbWF0Y2hlcykgcmV0dXJuIEVFbnZDb3VudHJ5LkZSOwogIGlmIChtYXRjaGVzWzNdID09PSBFSG9zdExhbmcuVUspIHJldHVybiBFRW52Q291bnRyeS5FTjsKICByZXR1cm4gRUVudkNvdW50cnkuRlI7Cg==</text>
+        <text encoding="base64">ICBpZiAoaG9zdC5pbmNsdWRlcyhNQVRDSF9IT1NUX0VOKSkgcmV0dXJuIEVFbnZMb2NhbGUuZW47CiAgcmV0dXJuIEVFbnZMb2NhbGUuZnI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC9eKHV0ZWFtXC4pPyh3d3dcLmFmZmlueVwuKGZyfGNvXC51aykpKFwucHByb2QpPy4qKFwucmVjZXR0ZSk/JC8K</text>
+        <text encoding="base64">ICBjb25zdCBtYXRjaGVzID0gaG9zdC5tYXRjaChVUkxSZWdFeHApOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBFRW52TmFtZSwK</text>
+        <text encoding="base64">ICBpZighbWF0Y2hlcykgcmV0dXJuIEVFbnZDb3VudHJ5LkZSOwogIGlmIChtYXRjaGVzWzNdID09PSBFSG9zdExhbmcuVUspIHJldHVybiBFRW52Q291bnRyeS5FTjsKICByZXR1cm4gRUVudkNvdW50cnkuRlI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBsZXQgZW52TmFtZTsKICBpZiAobWF0Y2hlc1sxXSB8fCBtYXRjaGVzWzVdKSB7CiAgICBlbnZOYW1lID0gRUFwcEVudi5zdGFnaW5nOwogIH0gZWxzZSB7CiAgICBpZiAobWF0Y2hlc1s0XSkgewogICAgICBlbnZOYW1lID0gRUFwcEVudi5wcmVwcm9kOwogICAgfSBlbHNlIHsKICAgICAgZW52TmFtZSA9IEVBcHBFbnYucHJvZDsKICAgIH0KICB9Cg==</text>
+        <text encoding="base64">ICAgIC9eKHV0ZWFtXC4pPyh3d3dcLmFmZmlueVwuKGZyfGNvXC51aykpKFwucHByb2QpPy4qKFwucmVjZXR0ZSk/JC8K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
