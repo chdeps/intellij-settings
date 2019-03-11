@@ -49,11 +49,11 @@
         <mark key="^" line="64" column="36" />
         <mark key="." line="70" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-core/modules/api/core/resources/auth.resource.ts" timestamp="1552309141738">
-        <mark key="[" line="50" column="14" />
-        <mark key="]" line="50" column="14" />
-        <mark key="^" line="53" column="10" />
-        <mark key="." line="50" column="14" />
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-core/modules/api/core/resources/auth.resource.ts" timestamp="1552311767810">
+        <mark key="[" line="50" column="13" />
+        <mark key="]" line="54" column="0" />
+        <mark key="^" line="50" column="15" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-web/src/environment/affiny/index.pprod.ts" timestamp="1551520650161">
         <mark key="[" line="0" column="0" />
@@ -158,7 +158,7 @@
       <file name="/JavaScript Console" timestamp="1551365381384">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552310162539">
+      <file name="/Dummy.txt" timestamp="1552311778854">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
@@ -328,8 +328,8 @@
       <jump line="26" column="3" filename="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-web/src/helpers/cookies.test.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>cleanCookie</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICB9LAo=</text>
       </register>
       <register name="d" type="4">
         <text />
@@ -343,7 +343,10 @@
       <register name="0" type="2">
         <text encoding="base64">ICBsb2dpbldpdGhFbmM6ICh7CiAgICBlbmMsCiAgICBzZXNzaW9uX29yaWdpbiwKICB9OiB7CiAgICBlbmM6IHN0cmluZzsKICAgIHNlc3Npb25fb3JpZ2luOiBzdHJpbmc7CiAgfSk6IFByb21pc2U8SUFwaUxvZ2luPiA9PiB7CiAgICByZXR1cm4gQWZmaW55RW5kcG9pbnQuQXV0aC51cmwoYC9hY2Nlc3NfdG9rZW4vYCkKICAgICAgLnBvc3QoewogICAgICAgIGdyYW50X3R5cGU6ICdlbmMnLAogICAgICAgIGVuYywKICAgICAgICBzZXNzaW9uX29yaWdpbiwKICAgICAgfSkKICAgICAgLmpzb248SUFwaUxvZ2luPigpOwogIH0sCg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICB9LAo=</text>
+      </register>
+      <register name="2" type="4">
         <text>{
     enc,
     session_origin,
@@ -352,36 +355,33 @@
     session_origin: string;
   }</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>{
         grant_type: 'enc',
         enc,
         session_origin,
       }</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICByZXNldENvb2tpZSwK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB5aWVsZCBjYWxsKHJlc2V0Q29va2llLCBBVVRIX0NPT0tJRSk7Cg==</text>
+        <text encoding="base64">ICByZXNldENvb2tpZSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVzY3JpYmUoJ3Jlc2V0Q29va2llcycsICgpID0+IHsKICBpdCgncmVzZXRzIHRoZSBlbmMgY29va2llJywgKCkgPT4gewogICAgLy8gR2l2ZW4KICAgIGNvbnN0IGNvb2tpZXMgPSAndGVzdD10ZXN0O2VuYz1BWlJFUUdEU0ZHWlJUQTtoZWxsbz13b3JsZDsnOwogICAgY29uc3Qga2V5ID0gJ2VuYyc7CgogICAgLy8gVGhlbgogICAgY29uc3QgbmV3Q29va2llcyA9IGNsZWFuQ29va2llKGNvb2tpZXMsIGtleSk7CgogICAgLy8gVGhlbgogICAgZXhwZWN0KG5ld0Nvb2tpZXMpLnRvRXF1YWwoJ3Rlc3Q9dGVzdDtlbmM9O2hlbGxvPXdvcmxkOycpOwogIH0pOwp9KTsK</text>
+        <text encoding="base64">ICB5aWVsZCBjYWxsKHJlc2V0Q29va2llLCBBVVRIX0NPT0tJRSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBjb21wdXRlTG9jYWxlRnJvbUhvc3RMYW5nKHRoaXMuY29udGV4dC5sYW5nKTsK</text>
+        <text encoding="base64">ZGVzY3JpYmUoJ3Jlc2V0Q29va2llcycsICgpID0+IHsKICBpdCgncmVzZXRzIHRoZSBlbmMgY29va2llJywgKCkgPT4gewogICAgLy8gR2l2ZW4KICAgIGNvbnN0IGNvb2tpZXMgPSAndGVzdD10ZXN0O2VuYz1BWlJFUUdEU0ZHWlJUQTtoZWxsbz13b3JsZDsnOwogICAgY29uc3Qga2V5ID0gJ2VuYyc7CgogICAgLy8gVGhlbgogICAgY29uc3QgbmV3Q29va2llcyA9IGNsZWFuQ29va2llKGNvb2tpZXMsIGtleSk7CgogICAgLy8gVGhlbgogICAgZXhwZWN0KG5ld0Nvb2tpZXMpLnRvRXF1YWwoJ3Rlc3Q9dGVzdDtlbmM9O2hlbGxvPXdvcmxkOycpOwogIH0pOwp9KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBjb21wdXRlQ291bnRyeUZyb21Ib3N0TGFuZyh0aGlzLmNvbnRleHQubGFuZyk7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBjb21wdXRlTG9jYWxlRnJvbUhvc3RMYW5nKHRoaXMuY29udGV4dC5sYW5nKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBsb2NhbGUK</text>
+        <text encoding="base64">ICAgIHJldHVybiBjb21wdXRlQ291bnRyeUZyb21Ib3N0TGFuZyh0aGlzLmNvbnRleHQubGFuZyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
