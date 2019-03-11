@@ -13,29 +13,25 @@
         <mark key="]" line="3" column="49" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-web/src/environment/affiny/index.local.ts" timestamp="1551521733870">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="68" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-web/src/environment/affiny/index.local.ts" timestamp="1552324262778">
+        <mark key="]" line="21" column="6" />
+        <mark key="." line="21" column="5" />
+        <mark key="^" line="21" column="5" />
       </file>
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-core/modules/auth/actions.ts" timestamp="1552321860611" />
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-core/env.types.ts" timestamp="1551515605649">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-web/.gitignore" timestamp="1551448131964">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="3" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/env.ts" timestamp="1551433567156">
         <mark key="[" line="0" column="29" />
         <mark key="]" line="0" column="29" />
         <mark key="." line="0" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-web/src/environment/affiny/index.ts" timestamp="1551521739381">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="68" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-web/src/environment/affiny/index.ts" timestamp="1552324238751">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="35" column="6" />
       </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/package.json" timestamp="1550774791287">
         <mark key="[" line="38" column="33" />
@@ -43,31 +39,19 @@
       <file name="$USER_HOME$/Projects/MapDojo/dojo-map-expo/babel.config.js" timestamp="1550523878994">
         <mark key="[" line="3" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-web/src/services/config/ConfigStrategy.test.ts" timestamp="1551447339298">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="^" line="64" column="36" />
-        <mark key="." line="70" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-core/modules/api/core/resources/auth.resource.ts" timestamp="1552317579014">
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-core/modules/api/core/resources/auth.resource.ts" timestamp="1552321898245">
         <mark key="[" line="51" column="54" />
         <mark key="]" line="51" column="54" />
         <mark key="^" line="42" column="36" />
         <mark key="." line="51" column="47" />
       </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-web/src/environment/affiny/index.pprod.ts" timestamp="1551520650161">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="68" />
-        <mark key="^" line="4" column="68" />
-        <mark key="." line="4" column="68" />
-      </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/ci/print-version.sh" timestamp="1549868676860">
         <mark key="[" line="27" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-core/env.ts" timestamp="1551522315588">
-        <mark key="[" line="207" column="28" />
-        <mark key="]" line="125" column="0" />
-        <mark key="." line="125" column="0" />
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-core/env.ts" timestamp="1552323607833">
+        <mark key="[" line="102" column="24" />
+        <mark key="]" line="126" column="0" />
+        <mark key="." line="126" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/src/services/config/MockConfigStrategy.ts" timestamp="1551447271170">
         <mark key="[" line="3" column="0" />
@@ -84,21 +68,14 @@
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-web/src/index.tsx" timestamp="1551515110792">
-        <mark key="[" line="25" column="30" />
-        <mark key="]" line="25" column="29" />
-        <mark key="." line="25" column="29" />
-        <mark key="^" line="25" column="29" />
-      </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/fastlane/.env" timestamp="1549868984339">
         <mark key="[" line="14" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-web/src/helpers/cookies.ts" timestamp="1552308979720" />
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-web/src/services/config/ConfigStrategy.test.ts" timestamp="1551450604348">
-        <mark key="[" line="92" column="52" />
-        <mark key="]" line="92" column="52" />
-        <mark key="." line="92" column="52" />
-        <mark key="^" line="98" column="28" />
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-web/src/helpers/cookies.ts" timestamp="1552323956526">
+        <mark key="[" line="21" column="2" />
+        <mark key="]" line="21" column="2" />
+        <mark key="^" line="14" column="32" />
+        <mark key="." line="21" column="2" />
       </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/services/config/MockConfigStrategy.ts" timestamp="1551447150987">
         <mark key="[" line="37" column="29" />
@@ -116,17 +93,13 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-web/src/services/config/ConfigStrategy.ts" timestamp="1551523219978">
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-web/src/services/config/ConfigStrategy.ts" timestamp="1552323303463">
         <mark key="[" line="41" column="22" />
         <mark key="]" line="39" column="31" />
         <mark key="." line="39" column="31" />
         <mark key="^" line="39" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-web/src/environment/affiny/index.prod.ts" timestamp="1551520661486">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="68" />
-        <mark key="." line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-web/src/environment/affiny/index.prod.ts" timestamp="1552323806200" />
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/lint/.gitignore" timestamp="1551448689496">
         <mark key="[" line="3" column="13" />
         <mark key="]" line="3" column="13" />
@@ -140,21 +113,10 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-web/src/modules/auth/saga.ts" timestamp="1552309851597">
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/package.json" timestamp="1551350076473">
-        <mark key="[" line="23" column="50" />
-        <mark key="]" line="23" column="18" />
-        <mark key="^" line="23" column="18" />
-        <mark key="." line="23" column="18" />
-      </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/Makefile" timestamp="1551350019421">
-        <mark key="[" line="48" column="36" />
-        <mark key="]" line="48" column="13" />
-        <mark key="^" line="48" column="13" />
-        <mark key="." line="48" column="13" />
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-web/src/modules/auth/saga.ts" timestamp="1552323098025">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/ci/version.js" timestamp="1551103321078">
         <mark key="[" line="53" column="63" />
@@ -162,8 +124,9 @@
       <file name="/JavaScript Console" timestamp="1551365381384">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-core/modules/auth/containers/loginContainerFactory.ts" timestamp="1552321840256" />
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-core/modules/api/core/middlewares.ts" timestamp="1552316971232" />
-      <file name="/Dummy.txt" timestamp="1552317732025">
+      <file name="/Dummy.txt" timestamp="1552324026232">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
@@ -171,31 +134,21 @@
       <file name="/GraphQL.result.json" timestamp="1551165706614">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-web/src/environment/index.ts" timestamp="1551520504061">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="3" column="49" />
-        <mark key="^" line="3" column="49" />
-        <mark key="." line="3" column="49" />
-      </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/env.types.ts" timestamp="1551366828261">
         <mark key="[" line="14" column="1" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-web/src/services/config/ConfigStrategy.ts" timestamp="1551447163936">
-        <mark key="[" line="21" column="29" />
-        <mark key="]" line="21" column="29" />
-        <mark key="^" line="15" column="20" />
-        <mark key="." line="21" column="29" />
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-web/src/environment/affiny/index.preprod.ts" timestamp="1552323795649">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="34" column="8" />
+        <mark key="." line="15" column="30" />
+        <mark key="^" line="15" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-web/src/environment/affiny/index.preprod.ts" timestamp="1551521731289">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="68" />
-      </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-web/src/environment/affiny/index.staging.ts" timestamp="1551521741933">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="68" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-web/src/environment/affiny/index.staging.ts" timestamp="1552324283084">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/ci/get-platform-deploy-strategy.sh" timestamp="1551164273358">
         <mark key="[" line="40" column="14" />
@@ -213,17 +166,11 @@
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/fastlane/Fastfile" timestamp="1551187458196">
         <mark key="[" line="2" column="64" />
       </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/api/models/interactions/interaction.serializer.ts" timestamp="1551363784040">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="27" column="3" />
-        <mark key="." line="28" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-web/src/components/TopTabs/TabContainer/TabContainer.component.tsx" timestamp="1550765801273">
         <mark key="[" line="5" column="65" />
       </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-web/src/helpers/cookies.test.ts" timestamp="1552310159832">
-        <mark key="[" line="0" column="10" />
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-web/src/helpers/cookies.test.ts" timestamp="1552324067713">
+        <mark key="[" line="27" column="3" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
         <mark key="^" line="0" column="8" />
@@ -332,60 +279,50 @@
       <jump line="26" column="3" filename="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-web/src/helpers/cookies.test.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/oauth/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvb2tpZXM6IHsKICAgICAgZG9tYWluczogWydsb2NhbGhvc3QnXSwKICAgIH0sCg==</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>/oauth/</text>
+        <text encoding="base64">ZG9jdW1lbnQuY29va2llID0g</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBsb2dpbldpdGhFbmM6ICh7CiAgICBlbmMsCiAgICBzZXNzaW9uX29yaWdpbiwKICB9OiB7CiAgICBlbmM6IHN0cmluZzsKICAgIHNlc3Npb25fb3JpZ2luOiBzdHJpbmc7CiAgfSk6IFByb21pc2U8SUFwaUxvZ2luPiA9PiB7CiAgICByZXR1cm4gQWZmaW55RW5kcG9pbnQuQXV0aC51cmwoYC9hY2Nlc3NfdG9rZW4vYCkKICAgICAgLnBvc3QoewogICAgICAgIGdyYW50X3R5cGU6ICdlbmMnLAogICAgICAgIGVuYywKICAgICAgICBzZXNzaW9uX29yaWdpbiwKICAgICAgfSkKICAgICAgLmpzb248SUFwaUxvZ2luPigpOwogIH0sCg==</text>
+        <text encoding="base64">ICAgIGNvb2tpZXM6IHsKICAgICAgZG9tYWluczogWydsb2NhbGhvc3QnXSwKICAgIH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGdldCAK</text>
+        <text encoding="base64">ICAgIGNvb2tpZXM6IHsKICAgICAgZG9tYWluczogWydsb2NhbGhvc3QnXSwKICAgIH0sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGNvb2tpZXM6IHsKICAgICAgZG9tYWluczogWydsb2NhbGhvc3QnXSwKICAgIH0sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9LAo=</text>
+        <text encoding="base64">ICBjb25zdCB2YWx1ZSA9IGdldENvb2tpZShjb29raWVzLCBrZXkpOwogIGlmICghdmFsdWUpIHJldHVybiBjb29raWVzOwogIHJldHVybiBjb29raWVzLnJlcGxhY2UodmFsdWUsICcnKTsK</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
-      <register name="4" type="4">
-        <text>{
-    enc,
-    session_origin,
-  }: {
-    enc: string;
-    session_origin: string;
-  }</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICBjb25maWcuZW52LmNvb2tpZXMgJiYK</text>
       </register>
-      <register name="5" type="4">
-        <text>{
-        grant_type: 'enc',
-        enc,
-        session_origin,
-      }</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBwYXJzZWRDb29raWVzLnJlbW92ZShrZXksIHsgcGF0aDogJy8nLCBkb21haW46ICcnIH0pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICByZXNldENvb2tpZSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB5aWVsZCBjYWxsKHJlc2V0Q29va2llLCBBVVRIX0NPT0tJRSk7Cg==</text>
+        <text encoding="base64">ICAgICAgZG9tYWluczogW10sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVzY3JpYmUoJ3Jlc2V0Q29va2llcycsICgpID0+IHsKICBpdCgncmVzZXRzIHRoZSBlbmMgY29va2llJywgKCkgPT4gewogICAgLy8gR2l2ZW4KICAgIGNvbnN0IGNvb2tpZXMgPSAndGVzdD10ZXN0O2VuYz1BWlJFUUdEU0ZHWlJUQTtoZWxsbz13b3JsZDsnOwogICAgY29uc3Qga2V5ID0gJ2VuYyc7CgogICAgLy8gVGhlbgogICAgY29uc3QgbmV3Q29va2llcyA9IGNsZWFuQ29va2llKGNvb2tpZXMsIGtleSk7CgogICAgLy8gVGhlbgogICAgZXhwZWN0KG5ld0Nvb2tpZXMpLnRvRXF1YWwoJ3Rlc3Q9dGVzdDtlbmM9O2hlbGxvPXdvcmxkOycpOwogIH0pOwp9KTsK</text>
+        <text encoding="base64">ICAgIGNvb2tpZXM6IHsKICAgIH0sCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
