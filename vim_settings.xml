@@ -71,7 +71,7 @@
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/fastlane/.env" timestamp="1549868984339">
         <mark key="[" line="14" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-web/src/helpers/cookies.ts" timestamp="1552323956526">
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-web/src/helpers/cookies.ts" timestamp="1552327857686">
         <mark key="[" line="21" column="2" />
         <mark key="]" line="21" column="2" />
         <mark key="^" line="14" column="32" />
@@ -168,12 +168,6 @@
       </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-web/src/components/TopTabs/TabContainer/TabContainer.component.tsx" timestamp="1550765801273">
         <mark key="[" line="5" column="65" />
-      </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-web/src/helpers/cookies.test.ts" timestamp="1552324067713">
-        <mark key="[" line="27" column="3" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="8" />
-        <mark key="^" line="0" column="8" />
       </file>
     </filemarks>
     <jumps>
@@ -280,49 +274,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvb2tpZXM6IHsKICAgICAgZG9tYWluczogWydsb2NhbGhvc3QnXSwKICAgIH0sCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGNvb2tpZXMgPQo=</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZG9jdW1lbnQuY29va2llID0g</text>
+        <text>reset</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvb2tpZXM6IHsKICAgICAgZG9tYWluczogWydsb2NhbGhvc3QnXSwKICAgIH0sCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGNvb2tpZXMgPSAndGVzdD10ZXN0O2VuYz1BWlJFUUdEU0ZHWlJUQTtoZWxsbz13b3JsZDsnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvb2tpZXM6IHsKICAgICAgZG9tYWluczogWydsb2NhbGhvc3QnXSwKICAgIH0sCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGNvb2tpZXMgPQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIGNvb2tpZXM6IHsKICAgICAgZG9tYWluczogWydsb2NhbGhvc3QnXSwKICAgIH0sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zdCB2YWx1ZSA9IGdldENvb2tpZShjb29raWVzLCBrZXkpOwogIGlmICghdmFsdWUpIHJldHVybiBjb29raWVzOwogIHJldHVybiBjb29raWVzLnJlcGxhY2UodmFsdWUsICcnKTsK</text>
+        <text encoding="base64">ICAgIGNvb2tpZXM6IHsKICAgICAgZG9tYWluczogWydsb2NhbGhvc3QnXSwKICAgIH0sCg==</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25maWcuZW52LmNvb2tpZXMgJiYK</text>
+        <text encoding="base64">ICBjb25zdCB2YWx1ZSA9IGdldENvb2tpZShjb29raWVzLCBrZXkpOwogIGlmICghdmFsdWUpIHJldHVybiBjb29raWVzOwogIHJldHVybiBjb29raWVzLnJlcGxhY2UodmFsdWUsICcnKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25maWcuZW52LmNvb2tpZXMgJiYK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwYXJzZWRDb29raWVzLnJlbW92ZShrZXksIHsgcGF0aDogJy8nLCBkb21haW46ICcnIH0pOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBwYXJzZWRDb29raWVzLnJlbW92ZShrZXksIHsgcGF0aDogJy8nLCBkb21haW46ICcnIH0pOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZG9tYWluczogW10sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvb2tpZXM6IHsKICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgZG9tYWluczogW10sCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
