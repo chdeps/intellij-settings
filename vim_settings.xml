@@ -14,10 +14,9 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-web/src/environment/affiny/index.local.ts" timestamp="1552397116185">
-        <mark key="[" line="37" column="16" />
-        <mark key="]" line="37" column="16" />
-        <mark key="." line="37" column="16" />
-        <mark key="^" line="23" column="15" />
+        <mark key="[" line="22" column="16" />
+        <mark key="]" line="22" column="16" />
+        <mark key="." line="22" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-core/env.types.ts" timestamp="1551515605649">
         <mark key="[" line="15" column="0" />
@@ -73,7 +72,11 @@
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/fastlane/.env" timestamp="1549868984339">
         <mark key="[" line="14" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-web/src/helpers/cookies.ts" timestamp="1552402377884" />
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-web/src/helpers/cookies.ts" timestamp="1552407448148">
+        <mark key="[" line="18" column="32" />
+        <mark key="]" line="19" column="39" />
+        <mark key="." line="19" column="39" />
+      </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/services/config/MockConfigStrategy.ts" timestamp="1551447150987">
         <mark key="[" line="37" column="29" />
         <mark key="]" line="37" column="29" />
@@ -125,7 +128,7 @@
       <file name="/JavaScript Console" timestamp="1551365381384">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552388542087">
+      <file name="/Dummy.txt" timestamp="1552407456808">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
@@ -285,20 +288,20 @@
       <jump line="0" column="30" filename="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-web/src/helpers/cookies.test.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB5aWVsZCBjYWxsKEF1dGhSZXNvdXJjZS5sb2dvdXQpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>, domain</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>'localhost', 'test'</text>
+        <text>, domain</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZG9tYWluczogWydsb2NhbGhvc3QnLCAndGVzdCddLAo=</text>
+        <text encoding="base64">ICAgIHBhcnNlZENvb2tpZXMucmVtb3ZlKGtleSwgeyBwYXRoOiAnLycsIGRvbWFpbiB9KTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICB5aWVsZCBjYWxsKEF1dGhSZXNvdXJjZS5sb2dvdXQpOwo=</text>
