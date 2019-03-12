@@ -45,16 +45,18 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-web/src/modules/auth/saga.ts" timestamp="1552323098025">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-web/src/modules/auth/saga.ts" timestamp="1552384155518">
+        <mark key="[" line="113" column="6" />
+        <mark key="]" line="112" column="20" />
+        <mark key="." line="112" column="20" />
+        <mark key="^" line="112" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-core/env.types.ts" timestamp="1551515605649">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/modules/auth/fastforward.saga.test.ts" timestamp="1552384675305" />
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/ci/version.js" timestamp="1551103321078">
         <mark key="[" line="53" column="63" />
       </file>
@@ -87,6 +89,7 @@
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-core/modules/api/core/saga.ts" timestamp="1552383892459" />
       <file name="/GraphQL.result.json" timestamp="1551165706614">
         <mark key="[" line="0" column="0" />
       </file>
@@ -142,6 +145,7 @@
         <mark key="]" line="5" column="21" />
         <mark key="." line="5" column="21" />
       </file>
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-core/modules/auth/saga.ts" timestamp="1552384445988" />
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/fastlane/.env" timestamp="1549868984339">
         <mark key="[" line="14" column="34" />
       </file>
