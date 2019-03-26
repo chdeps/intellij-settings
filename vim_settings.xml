@@ -13,6 +13,12 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/components/Cards/MemberCard/MemberCard.component.test.tsx" timestamp="1553634926729">
+        <mark key="[" line="27" column="10" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/modules/auth/fastforward.saga.ts" timestamp="1552470734160">
         <mark key="[" line="149" column="1" />
         <mark key="]" line="152" column="8" />
@@ -25,9 +31,24 @@
         <mark key="." line="306" column="8" />
         <mark key="^" line="306" column="8" />
       </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/docker-compose.yml" timestamp="1552492180385" />
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-web/src/pages/LoginDebug/LoginDebug.pages.tsx" timestamp="1552386936940" />
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/ci/version.js" timestamp="1552492776113" />
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-core/types/index.d.ts" timestamp="1551448922047">
+        <mark key="[" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-web/src/services/config/ConfigStrategy.ts" timestamp="1552387030105">
+        <mark key="[" line="10" column="32" />
+        <mark key="]" line="10" column="32" />
+        <mark key="." line="10" column="32" />
+        <mark key="^" line="39" column="31" />
+      </file>
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/api/core/saga.ts" timestamp="1551283047451">
+        <mark key="[" line="103" column="21" />
+      </file>
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/ci/version.js" timestamp="1551103321078">
+        <mark key="[" line="53" column="63" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1551365381384">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-web/src/environment/affiny/index.ts" timestamp="1552396887400">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="18" column="6" />
@@ -44,6 +65,14 @@
         <mark key="^" line="42" column="36" />
         <mark key="." line="51" column="47" />
       </file>
+      <file name="/Dummy.txt" timestamp="1553634912478">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1551165706614">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/ci/print-version.sh" timestamp="1549868676860">
         <mark key="[" line="27" column="21" />
       </file>
@@ -56,54 +85,6 @@
         <mark key="[" line="102" column="24" />
         <mark key="]" line="127" column="0" />
         <mark key="." line="127" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/ci/get-platform-deploy-strategy.sh" timestamp="1552590642113">
-        <mark key="[" line="37" column="58" />
-      </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-web/src/services/config/parser/parser.ts" timestamp="1552386780512" />
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/fastlane/.env" timestamp="1549868984339">
-        <mark key="[" line="14" column="34" />
-      </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-web/src/helpers/cookies.ts" timestamp="1552471341185">
-        <mark key="]" line="21" column="39" />
-        <mark key="." line="21" column="39" />
-      </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-core/services/websockets/websocket.ts" timestamp="1552469955443" />
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-web/package.json" timestamp="1552492456823">
-        <mark key="[" line="2" column="20" />
-      </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-web/src/pages/routes.ts" timestamp="1552386476894">
-        <mark key="[" line="35" column="17" />
-      </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-core/types/index.d.ts" timestamp="1551448922047">
-        <mark key="[" line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-web/src/services/config/ConfigStrategy.ts" timestamp="1552387030105">
-        <mark key="[" line="10" column="32" />
-        <mark key="]" line="10" column="32" />
-        <mark key="." line="10" column="32" />
-        <mark key="^" line="39" column="31" />
-      </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/api/core/saga.ts" timestamp="1551283047451">
-        <mark key="[" line="103" column="21" />
-      </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/package.json" timestamp="1552492616680" />
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/Makefile" timestamp="1552492606828" />
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/modules/auth/fastforward.saga.test.ts" timestamp="1552384675305" />
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/ci/version.js" timestamp="1551103321078">
-        <mark key="[" line="53" column="63" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1551365381384">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1552645405032">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="11" />
-        <mark key="." line="0" column="11" />
-      </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-core/modules/api/core/saga.ts" timestamp="1552385551387" />
-      <file name="/GraphQL.result.json" timestamp="1551165706614">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-web/src/environment/affiny/index.preprod.ts" timestamp="1552402117333">
         <mark key="[" line="7" column="33" />
@@ -123,14 +104,28 @@
         <mark key="]" line="228" column="4" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/ci/get-platform-deploy-strategy.sh" timestamp="1552590642113">
+        <mark key="[" line="37" column="58" />
+      </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/ci/last-build-location.sh" timestamp="1552590700892">
         <mark key="[" line="6" column="25" />
+      </file>
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/fastlane/.env" timestamp="1549868984339">
+        <mark key="[" line="14" column="34" />
+      </file>
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-web/src/helpers/cookies.ts" timestamp="1552471341185">
+        <mark key="]" line="21" column="39" />
+        <mark key="." line="21" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/fastlane/Fastfile" timestamp="1551187458196">
         <mark key="[" line="2" column="64" />
       </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/ci/bump-version.sh" timestamp="1552492672085" />
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/fastlane/.env" timestamp="1552491717917" />
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-web/package.json" timestamp="1552492456823">
+        <mark key="[" line="2" column="20" />
+      </file>
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-web/src/pages/routes.ts" timestamp="1552386476894">
+        <mark key="[" line="35" column="17" />
+      </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/affiny-web/src/components/TopTabs/TabContainer/TabContainer.component.tsx" timestamp="1550765801273">
         <mark key="[" line="5" column="65" />
       </file>
