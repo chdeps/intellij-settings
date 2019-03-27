@@ -3,58 +3,40 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/migrate.js" timestamp="1553696683772" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/index.js" timestamp="1553692172592" />
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/modules/auth/fastforward.saga.ts" timestamp="1552470734160">
-        <mark key="[" line="149" column="1" />
-        <mark key="]" line="152" column="8" />
-        <mark key="." line="152" column="8" />
-        <mark key="^" line="152" column="8" />
-      </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-core/modules/auth/saga.test.ts" timestamp="1552481816975">
-        <mark key="[" line="307" column="8" />
-        <mark key="]" line="306" column="8" />
-        <mark key="." line="306" column="8" />
-        <mark key="^" line="306" column="8" />
-      </file>
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/migrations/1549489009174-link_users_to_customer_entity.js" timestamp="1553698384821" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/scripts/start.js" timestamp="1553691982540" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/config/paths.js" timestamp="1553692262094" />
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/migrations/1545317057720-remove_duplicate_dashboard_users.js" timestamp="1553697528182">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/lib/SSO/index.js" timestamp="1553692871601" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/dashboard.js" timestamp="1553692273333" />
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-core/modules/api/core/resources/auth.resource.ts" timestamp="1552321898245">
-        <mark key="[" line="51" column="54" />
-        <mark key="]" line="51" column="54" />
-        <mark key="^" line="42" column="36" />
-        <mark key="." line="51" column="47" />
-      </file>
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/hoc/withDateRangeQuery.js" timestamp="1553693673145" />
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/appsettings.json" timestamp="1553697962385">
+        <mark key="[" line="29" column="24" />
+        <mark key="]" line="29" column="24" />
+        <mark key="." line="29" column="24" />
+      </file>
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/DashboardApp.js" timestamp="1553695907751" />
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/repositories/DashboardUserRepository.js" timestamp="1553696030847" />
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/repositories/DashboardUserRepository.js" timestamp="1553697935024" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/scripts/build.js" timestamp="1553691156538" />
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/components/Cards/MemberCard/MemberCard.component.test.tsx" timestamp="1553634926729">
-        <mark key="[" line="27" column="10" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/config/webpack.config.prod.js" timestamp="1553691393936" />
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-web/src/services/config/ConfigStrategy.ts" timestamp="1552387030105">
-        <mark key="[" line="10" column="32" />
-        <mark key="]" line="10" column="32" />
-        <mark key="." line="10" column="32" />
-        <mark key="^" line="39" column="31" />
-      </file>
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/components/DashboardComponents/FeedbackList/FeedbackList.container.js" timestamp="1553693669211" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/lib/registerServiceWorker.js" timestamp="1553691421653" />
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/index.js" timestamp="1553696043796">
-        <mark key="[" line="112" column="5" />
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/index.js" timestamp="1553698082671" />
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/index.js" timestamp="1553697998534">
+        <mark key="[" line="164" column="19" />
+        <mark key="]" line="164" column="19" />
+        <mark key="." line="164" column="19" />
       </file>
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/migrations/1547649730241-add_customer_ids.js" timestamp="1553697560164" />
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/lib/db.js" timestamp="1553696871197" />
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/package.json" timestamp="1553696698549" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/lib/call.js" timestamp="1553693708051" />
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-web/src/App.tsx" timestamp="1552387160411">
-        <mark key="[" line="49" column="19" />
-        <mark key="]" line="49" column="18" />
-        <mark key="^" line="49" column="18" />
-        <mark key="." line="49" column="18" />
-      </file>
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/docker-compose.yml" timestamp="1553691542182" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/pages/Dashboard.js" timestamp="1553693665894" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/lib/api.js" timestamp="1553693681532" />
@@ -163,13 +145,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>I invite you to go check it out if need be.</text>
+        <text>antoined</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>I invite you to go check it out if need be.</text>
+        <text>antoined</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
@@ -178,34 +160,34 @@
         <text encoding="base64">ICB5aWVsZCBwdXQoCiAgICBhdXRoQWN0aW9ucy5mYXN0Rm9yd2FyZE5hdmlnYXRlKHsKICAgICAgcm91dGU6IHsgZ29XZWxjb21lOiB0cnVlIH0sCiAgICB9KQogICk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CmtACg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAucHV0KGF1dGhBY3Rpb25zLnJlc2V0QXV0aCgpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZ2V0Q29uZmlndXJhdGlvbnNBY3Rpb24gfSBmcm9tICcuLi9jb25maWd1cmF0aW9ucy9hY3Rpb25zJzsK</text>
+        <text encoding="base64">CmtACg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRha2VMYXRlc3QoRUF1dGhBY3Rpb25UeXBlLlJFU0VUX0FVVEgsIHJlc2V0QXV0aFNhZ2EpLAo=</text>
+        <text encoding="base64">ICAgICAgICAucHV0KGF1dGhBY3Rpb25zLnJlc2V0QXV0aCgpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CmV4cG9ydCBmdW5jdGlvbiogcmVzZXRBdXRoU2FnYSgpIHsKICB5aWVsZCBwdXQoZ2V0Q29uZmlndXJhdGlvbnNBY3Rpb24oKSk7Cn0K</text>
+        <text encoding="base64">aW1wb3J0IHsgZ2V0Q29uZmlndXJhdGlvbnNBY3Rpb24gfSBmcm9tICcuLi9jb25maWd1cmF0aW9ucy9hY3Rpb25zJzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB5aWVsZCBwdXQoCiAgICBhdXRoQWN0aW9ucy5mYXN0Rm9yd2FyZE5hdmlnYXRlKHsKICAgICAgcm91dGU6IHsgZ29XZWxjb21lOiB0cnVlIH0sCiAgICB9KQogICk7Cg==</text>
+        <text encoding="base64">ICAgIHRha2VMYXRlc3QoRUF1dGhBY3Rpb25UeXBlLlJFU0VUX0FVVEgsIHJlc2V0QXV0aFNhZ2EpLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBSRVNFVF9BVVRIID0gJ0FVVEgvUkVTRVQnLAo=</text>
+        <text encoding="base64">CmV4cG9ydCBmdW5jdGlvbiogcmVzZXRBdXRoU2FnYSgpIHsKICB5aWVsZCBwdXQoZ2V0Q29uZmlndXJhdGlvbnNBY3Rpb24oKSk7Cn0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICByZXNldEF1dGg6ICgpID0+IGNyZWF0ZUFjdGlvbihFQXV0aEFjdGlvblR5cGUuUkVTRVRfQVVUSCksCg==</text>
+        <text encoding="base64">ICB5aWVsZCBwdXQoCiAgICBhdXRoQWN0aW9ucy5mYXN0Rm9yd2FyZE5hdmlnYXRlKHsKICAgICAgcm91dGU6IHsgZ29XZWxjb21lOiB0cnVlIH0sCiAgICB9KQogICk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
