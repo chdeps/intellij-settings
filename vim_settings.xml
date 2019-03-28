@@ -4,6 +4,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/migrate.js" timestamp="1553696683772" />
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/App.js" timestamp="1553770741328" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/index.js" timestamp="1553692172592" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/migrations/1549489009174-link_users_to_customer_entity.js" timestamp="1553698384821" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/pages/Survey.js" timestamp="1553701943868" />
@@ -14,11 +15,11 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/SurveyFlow.js" timestamp="1553701683931" />
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/SurveyFlow.js" timestamp="1553770650794" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/lib/SSO/index.js" timestamp="1553692871601" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/dashboard.js" timestamp="1553692273333" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/hoc/withDateRangeQuery.js" timestamp="1553693673145" />
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/appsettings.json" timestamp="1553769745217">
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/appsettings.json" timestamp="1553770399695">
         <mark key="[" line="29" column="24" />
         <mark key="]" line="13" column="16" />
         <mark key="." line="13" column="16" />
@@ -33,7 +34,7 @@
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/lib/registerServiceWorker.js" timestamp="1553691421653" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/repositories/FeedbackRepository.js" timestamp="1553700066409" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/index.js" timestamp="1553700956087" />
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/index.js" timestamp="1553700999227">
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/index.js" timestamp="1553771255130">
         <mark key="[" line="164" column="19" />
         <mark key="]" line="164" column="19" />
         <mark key="." line="164" column="19" />
