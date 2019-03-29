@@ -10,8 +10,8 @@
         <mark key="^" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Generator/react-native-make/.gitignore" timestamp="1553782664235">
-        <mark key="[" line="3" column="0" />
+      <file name="$USER_HOME$/Projects/Generator/react-native-make/.gitignore" timestamp="1553850772138">
+        <mark key="[" line="3" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-plugin-make/modules/init/index.js" timestamp="1553784465103" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/migrations/1545317057720-remove_duplicate_dashboard_users.js" timestamp="1553697528182">
@@ -32,11 +32,17 @@
         <mark key="^" line="11" column="1" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1553850985203">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-plugin-make/modules/makeAnApp/index.js" timestamp="1553850331040">
         <mark key="[" line="8" column="18" />
         <mark key="]" line="10" column="38" />
         <mark key="^" line="10" column="38" />
         <mark key="." line="10" column="38" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1553850751041">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/appsettings.json" timestamp="1553770399695">
         <mark key="[" line="29" column="24" />
