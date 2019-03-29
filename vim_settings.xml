@@ -3,14 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1553850985203">
+      <file name="/Dummy.txt" timestamp="1553855866929">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-plugin-make/modules/makeAnApp/index.js" timestamp="1553853876422">
-        <mark key="[" line="43" column="43" />
-        <mark key="]" line="43" column="40" />
-        <mark key="^" line="43" column="40" />
-        <mark key="." line="43" column="40" />
+      <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-plugin-make/modules/makeAnApp/index.js" timestamp="1553856329739">
+        <mark key="[" line="45" column="18" />
+        <mark key="]" line="45" column="18" />
+        <mark key="^" line="54" column="38" />
+        <mark key="." line="45" column="18" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1553850751041">
         <mark key="[" line="0" column="0" />
@@ -24,11 +24,18 @@
       <file name="$USER_HOME$/Projects/Generator/react-native-make/.gitignore" timestamp="1553850772138">
         <mark key="[" line="3" column="7" />
       </file>
+      <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-plugin-make/modules/utils/git.js" timestamp="1553855241287" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/appsettings.json" timestamp="1553770399695">
         <mark key="[" line="29" column="24" />
         <mark key="]" line="13" column="16" />
         <mark key="." line="13" column="16" />
         <mark key="^" line="13" column="16" />
+      </file>
+      <file name="$USER_HOME$/Projects/Generator/react-native-make/README.md" timestamp="1553855805969">
+        <mark key="[" line="4" column="91" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Generator/react-native-make/lerna.json" timestamp="1553782636386">
         <mark key="[" line="1" column="0" />
@@ -141,13 +148,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dependencies</text>
+        <text>projectPath</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>dependencies</text>
+        <text>projectPath</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
@@ -156,10 +163,10 @@
         <text encoding="base64">ICB5aWVsZCBwdXQoCiAgICBhdXRoQWN0aW9ucy5mYXN0Rm9yd2FyZE5hdmlnYXRlKHsKICAgICAgcm91dGU6IHsgZ29XZWxjb21lOiB0cnVlIH0sCiAgICB9KQogICk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAibGVybmEiIDogIjIuMTEuMCIsCg==</text>
+        <text encoding="base64">fTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAibGVybmEiIDogIjIuMTEuMCIsCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -168,22 +175,22 @@
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CmtACg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAucHV0KGF1dGhBY3Rpb25zLnJlc2V0QXV0aCgpKQo=</text>
+        <text encoding="base64">CmtACg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZ2V0Q29uZmlndXJhdGlvbnNBY3Rpb24gfSBmcm9tICcuLi9jb25maWd1cmF0aW9ucy9hY3Rpb25zJzsK</text>
+        <text encoding="base64">ICAgICAgICAucHV0KGF1dGhBY3Rpb25zLnJlc2V0QXV0aCgpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRha2VMYXRlc3QoRUF1dGhBY3Rpb25UeXBlLlJFU0VUX0FVVEgsIHJlc2V0QXV0aFNhZ2EpLAo=</text>
+        <text encoding="base64">aW1wb3J0IHsgZ2V0Q29uZmlndXJhdGlvbnNBY3Rpb24gfSBmcm9tICcuLi9jb25maWd1cmF0aW9ucy9hY3Rpb25zJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmV4cG9ydCBmdW5jdGlvbiogcmVzZXRBdXRoU2FnYSgpIHsKICB5aWVsZCBwdXQoZ2V0Q29uZmlndXJhdGlvbnNBY3Rpb24oKSk7Cn0K</text>
+        <text encoding="base64">ICAgIHRha2VMYXRlc3QoRUF1dGhBY3Rpb25UeXBlLlJFU0VUX0FVVEgsIHJlc2V0QXV0aFNhZ2EpLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
