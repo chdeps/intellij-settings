@@ -14,18 +14,9 @@
         <mark key="[" line="3" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-plugin-make/modules/init/index.js" timestamp="1553784465103" />
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/migrations/1545317057720-remove_duplicate_dashboard_users.js" timestamp="1553697528182">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/SurveyFlow.js" timestamp="1553788663866" />
+      <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-plugin-make/package.json" timestamp="1553851543745" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/index.js" timestamp="1553788640972" />
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/index.js" timestamp="1553771255130">
-        <mark key="[" line="164" column="19" />
-        <mark key="]" line="164" column="19" />
-        <mark key="." line="164" column="19" />
-      </file>
       <file name="$USER_HOME$/Projects/Generator/react-native-make/lerna.json" timestamp="1553782636386">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -44,6 +35,7 @@
       <file name="/GraphQL.result.json" timestamp="1553850751041">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-plugin-make/modules/utils/runCommandFromProject.js" timestamp="1553852236116" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/appsettings.json" timestamp="1553770399695">
         <mark key="[" line="29" column="24" />
         <mark key="]" line="13" column="16" />
