@@ -4,6 +4,12 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-plugin-make/shells/commandLine.js" timestamp="1553794806529" />
+      <file name="$USER_HOME$/Projects/Generator/react-native-make/package.json" timestamp="1553850456083">
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/Generator/react-native-make/.gitignore" timestamp="1553782664235">
         <mark key="[" line="3" column="0" />
       </file>
@@ -26,8 +32,11 @@
         <mark key="^" line="11" column="1" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-plugin-make/modules/makeAnApp/index.js" timestamp="1553795200723">
-        <mark key="[" line="7" column="0" />
+      <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-plugin-make/modules/makeAnApp/index.js" timestamp="1553850331040">
+        <mark key="[" line="8" column="18" />
+        <mark key="]" line="10" column="38" />
+        <mark key="^" line="10" column="38" />
+        <mark key="." line="10" column="38" />
       </file>
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/appsettings.json" timestamp="1553770399695">
         <mark key="[" line="29" column="24" />
