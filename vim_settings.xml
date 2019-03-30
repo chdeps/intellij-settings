@@ -3,13 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1553953035610">
+      <file name="/Dummy.txt" timestamp="1553953890454">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-plugin-make/modules/makeAnApp/index.js" timestamp="1553953452482">
-        <mark key="[" line="78" column="5" />
+      <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-plugin-make/modules/makeAnApp/index.js" timestamp="1553953801049">
+        <mark key="[" line="113" column="6" />
         <mark key="]" line="76" column="31" />
         <mark key="." line="76" column="31" />
         <mark key="^" line="72" column="50" />
@@ -59,7 +59,9 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Generator/generator-rn-toolbox/generators/fastlane-setup/index.js" timestamp="1553953275759" />
+      <file name="$USER_HOME$/Projects/Generator/generator-rn-toolbox/generators/fastlane-setup/index.js" timestamp="1553953654000" />
+      <file name="$USER_HOME$/Projects/lab/Biloute/android/app/build.gradle" timestamp="1553953606072" />
+      <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-template-bam/fastlane/Fastfile" timestamp="1553954434264" />
       <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-plugin-make/modules/utils/templateEngine.js" timestamp="1553953479268">
         <mark key="[" line="32" column="47" />
         <mark key="]" line="32" column="54" />
