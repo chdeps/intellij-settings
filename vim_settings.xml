@@ -3,16 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1553883829267">
+      <file name="/Dummy.txt" timestamp="1553952791188">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-plugin-make/modules/makeAnApp/index.js" timestamp="1553950771777">
-        <mark key="[" line="65" column="31" />
-        <mark key="]" line="65" column="32" />
-        <mark key="." line="65" column="32" />
-        <mark key="^" line="65" column="32" />
+      <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-plugin-make/modules/makeAnApp/index.js" timestamp="1553952165218">
+        <mark key="[" line="78" column="5" />
+        <mark key="]" line="76" column="31" />
+        <mark key="." line="76" column="31" />
+        <mark key="^" line="72" column="50" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1553850751041">
         <mark key="[" line="0" column="0" />
@@ -59,11 +59,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-plugin-make/modules/utils/templateEngine.js" timestamp="1553950763923">
-        <mark key="[" line="39" column="7" />
-        <mark key="]" line="29" column="8" />
-        <mark key="." line="29" column="8" />
-        <mark key="^" line="29" column="8" />
+      <file name="$USER_HOME$/Projects/Generator/generator-rn-toolbox/generators/fastlane-setup/index.js" timestamp="1553952074550" />
+      <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-plugin-make/modules/utils/templateEngine.js" timestamp="1553951905958">
+        <mark key="[" line="32" column="47" />
+        <mark key="]" line="32" column="54" />
+        <mark key="^" line="32" column="54" />
+        <mark key="." line="32" column="54" />
       </file>
       <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-template-bam/src/environment/index.ts" timestamp="1553871072511">
         <mark key="[" line="0" column="0" />
@@ -179,49 +180,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>/build.gradle</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>/build.gradle</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zdCB0ZW1wbGF0ZUVuZ2luZSA9IG5ldyBUZW1wbGF0ZUVuZ2luZSh7CiAgICBzb3VyY2VSb290OiBURU1QTEFURV9BQlNPTFVURV9QQVRILAogICAgZGVzdGluYXRpb25Sb290OiBkZXN0aW5hdGlvblJvb3QsCiAgfSk7Cg==</text>
+        <text encoding="base64">ICAgIHsKICAgICAgc291cmNlczogWydzdHJpbmdzLnhtbCddLAogICAgICBkZXN0aW5hdGlvbjogJ2FuZHJvaWQvYXBwL3NyYy9tYWluL3Jlcy92YWx1ZXMvc3RyaW5ncy54bWwnLAogICAgfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCByZWdFeHBNYXRjaCA9IC9hcHBuYW1lL2k7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IF9kZXN0aW5hdGlvbiA9IHBhdGgucmVzb2x2ZSh0aGlzLm9wdGlvbnMuZGVzdGluYXRpb25Sb290LCBkZXN0aW5hdGlvbik7CiAgICByZXR1cm4gbmV3IFByb21pc2UoKHJlc29sdmUsIHJlamVjdCkgPT4gewogICAgICBndWxwCiAgICAgICAgLnNyYyhzb3VyY2VzLCB7IGN3ZDogdGhpcy5vcHRpb25zLnNvdXJjZVJvb3QsIGRvdDogdHJ1ZSB9KQogICAgICAgIC5waXBlKHJlcGxhY2UobWF0Y2gsIHJlcGxhY2VtZW50KSkKICAgICAgICAucGlwZShndWxwLmRlc3QoX2Rlc3RpbmF0aW9uKSkKICAgICAgICAub24oJ2Vycm9yJywgcmVqZWN0KQogICAgICAgIC5vbignZW5kJywgcmVzb2x2ZSk7CiAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICBzdHJlYW0ucGlwZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb3MK</text>
+        <text encoding="base64">ICAgICAgICAgIHN0cmVhbQogICAgICAgICAgICAucGlwZShyZXBsYWNlKG1hdGNoLCByZXBsYWNlbWVudCkpCg==</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHN0cmVhbSA9IGd1bHAuc3JjKHNvdXJjZXMsIHsgY3dkOiB0aGlzLm9wdGlvbnMuc291cmNlUm9vdCwgZG90OiB0cnVlIH0pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGd1bHAKICAgICAgICAgICAgLnNyYyhzb3VyY2VzLCB7IGN3ZDogdGhpcy5vcHRpb25zLnNvdXJjZVJvb3QsIGRvdDogdHJ1ZSB9KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAuCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IF9kZXN0aW5hdGlvbiA9IHBhdGgucmVzb2x2ZSh0aGlzLm9wdGlvbnMuZGVzdGluYXRpb25Sb290LCBkZXN0aW5hdGlvbik7CiAgICByZXR1cm4gbmV3IFByb21pc2UoKHJlc29sdmUsIHJlamVjdCkgPT4gewogICAgICBndWxwCiAgICAgICAgLnNyYyhzb3VyY2VzLCB7IGN3ZDogdGhpcy5vcHRpb25zLnNvdXJjZVJvb3QsIGRvdDogdHJ1ZSB9KQogICAgICAgIC5waXBlKHJlcGxhY2UobWF0Y2gsIHJlcGxhY2VtZW50KSkKICAgICAgICAucGlwZShndWxwLmRlc3QoX2Rlc3RpbmF0aW9uKSkKICAgICAgICAub24oJ2Vycm9yJywgcmVqZWN0KQogICAgICAgIC5vbignZW5kJywgcmVzb2x2ZSk7CiAgICB9KTsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGd1bHAKICAgICAgLnNyYyhzb3VyY2VzLCB7IGN3ZDogdGhpcy5vcHRpb25zLnNvdXJjZVJvb3QsIGRvdDogdHJ1ZSB9KQogICAgICAucGlwZShyZXBsYWNlKG1hdGNoLCByZXBsYWNlbWVudCkpOwo=</text>
+        <text encoding="base64">ICBjb3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJndWxwLXJlcGxhY2UtcGF0aCI6ICJeMC40LjAiLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
