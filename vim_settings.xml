@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1553953890454">
+      <file name="/Dummy.txt" timestamp="1553958082141">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -14,6 +14,7 @@
         <mark key="." line="76" column="31" />
         <mark key="^" line="72" column="50" />
       </file>
+      <file name="$USER_HOME$/Projects/lab/Biloute/fastlane/Fastfile" timestamp="1553957780881" />
       <file name="/GraphQL.result.json" timestamp="1553850751041">
         <mark key="[" line="0" column="0" />
       </file>
@@ -59,9 +60,14 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Generator/generator-rn-toolbox/generators/fastlane-setup/index.js" timestamp="1553953654000" />
+      <file name="$USER_HOME$/Projects/Generator/generator-rn-toolbox/generators/fastlane-setup/index.js" timestamp="1553958317661" />
+      <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-template-bam/build.gradle" timestamp="1553958078374">
+        <mark key="[" line="95" column="75" />
+        <mark key="]" line="95" column="75" />
+        <mark key="." line="95" column="75" />
+      </file>
       <file name="$USER_HOME$/Projects/lab/Biloute/android/app/build.gradle" timestamp="1553953606072" />
-      <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-template-bam/fastlane/Fastfile" timestamp="1553954434264" />
+      <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-template-bam/fastlane/Fastfile" timestamp="1553958323372" />
       <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-plugin-make/modules/utils/templateEngine.js" timestamp="1553953479268">
         <mark key="[" line="32" column="47" />
         <mark key="]" line="32" column="54" />
@@ -182,13 +188,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/build.gradle</text>
+        <text>.debug</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>/build.gradle</text>
+        <text>.debug</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
