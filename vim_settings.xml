@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1553952791188">
+      <file name="/Dummy.txt" timestamp="1553953035610">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-plugin-make/modules/makeAnApp/index.js" timestamp="1553952165218">
+      <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-plugin-make/modules/makeAnApp/index.js" timestamp="1553953452482">
         <mark key="[" line="78" column="5" />
         <mark key="]" line="76" column="31" />
         <mark key="." line="76" column="31" />
@@ -59,8 +59,8 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Generator/generator-rn-toolbox/generators/fastlane-setup/index.js" timestamp="1553952074550" />
-      <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-plugin-make/modules/utils/templateEngine.js" timestamp="1553951905958">
+      <file name="$USER_HOME$/Projects/Generator/generator-rn-toolbox/generators/fastlane-setup/index.js" timestamp="1553953275759" />
+      <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-plugin-make/modules/utils/templateEngine.js" timestamp="1553953479268">
         <mark key="[" line="32" column="47" />
         <mark key="]" line="32" column="54" />
         <mark key="^" line="32" column="54" />
