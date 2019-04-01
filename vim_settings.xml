@@ -3,91 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/components/DashboardComponents/Filters/CustomerFilter.js" timestamp="1554058055055" />
-      <file name="$USER_HOME$/Projects/Generator/react-native-make/package.json" timestamp="1553850456083">
-        <mark key="[" line="7" column="4" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/components/DashboardComponents/FeedbackList/FeedbackList.container.js" timestamp="1554054938767" />
-      <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-plugin-make/package.json" timestamp="1553945388066">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/repositories/FeedbackRepository.js" timestamp="1554057631664" />
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/index.js" timestamp="1554058157477" />
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/components/DashboardComponents/FeedbackItem/FeedbackItem.js" timestamp="1554054652238" />
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/repositories/CustomerRepository.js" timestamp="1554056598027" />
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/controllers/UserController.js" timestamp="1554056704014" />
-      <file name="$USER_HOME$/Projects/Generator/react-native-make/lerna.json" timestamp="1553782636386">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="11" column="1" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/controllers/CustomerController.js" timestamp="1554056535930" />
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/hoc/withDelayedLoadingState.js" timestamp="1554055071612" />
-      <file name="/Dummy.txt" timestamp="1554054435461">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-plugin-make/modules/makeAnApp/index.js" timestamp="1553953801049">
-        <mark key="[" line="113" column="6" />
-        <mark key="]" line="76" column="31" />
-        <mark key="." line="76" column="31" />
-        <mark key="^" line="72" column="50" />
-      </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/.gitignore" timestamp="1554054428870">
-        <mark key="[" line="11" column="9" />
-        <mark key="]" line="11" column="9" />
-        <mark key="^" line="11" column="9" />
-        <mark key="." line="11" column="9" />
-      </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/components/DashboardComponents/Header.js" timestamp="1554058078750" />
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/components/DashboardComponents/FeedbackList/FeedbackList.component.js" timestamp="1554055330913" />
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/hoc/withDateRangeQuery.js" timestamp="1554055313839" />
-      <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-plugin-make/modules/utils/execCommandFromProject.js" timestamp="1553868455194">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="7" column="30" />
-      </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/lib/c4c.js" timestamp="1554058464675" />
-      <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-template-bam/fastlane/.env" timestamp="1553871010421">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/appsettings.json" timestamp="1553770399695">
-        <mark key="[" line="29" column="24" />
-        <mark key="]" line="13" column="16" />
-        <mark key="." line="13" column="16" />
-        <mark key="^" line="13" column="16" />
-      </file>
-      <file name="$USER_HOME$/Projects/Generator/react-native-make/README.md" timestamp="1553855805969">
-        <mark key="[" line="4" column="91" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/pages/Dashboard.js" timestamp="1554058103882" />
-      <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-template-bam/build.gradle" timestamp="1553958078374">
-        <mark key="[" line="95" column="75" />
-        <mark key="]" line="95" column="75" />
-        <mark key="." line="95" column="75" />
-      </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/lib/api.js" timestamp="1554058396252" />
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/DashboardApp.js" timestamp="1554056246104" />
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/repositories/DashboardUserRepository.js" timestamp="1554056410104" />
-      <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-plugin-make/modules/utils/templateEngine.js" timestamp="1553953479268">
-        <mark key="[" line="32" column="47" />
-        <mark key="]" line="32" column="54" />
-        <mark key="^" line="32" column="54" />
-        <mark key="." line="32" column="54" />
-      </file>
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/lib/c4c.js" timestamp="1554106108928" />
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/appsettings.json" timestamp="1554106104492" />
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/controllers/UserController.js" timestamp="1554105466215" />
     </filemarks>
     <jumps>
       <jump line="31" column="0" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/api/models/reveals/reveals.types.ts" />
