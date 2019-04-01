@@ -4,7 +4,11 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/lib/c4c.js" timestamp="1554106108928" />
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/index.js" timestamp="1554108431978" />
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/pages/Dashboard.js" timestamp="1554108551314" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/appsettings.json" timestamp="1554106104492" />
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/lib/api.js" timestamp="1554108398156" />
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/DashboardApp.js" timestamp="1554108325297" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/controllers/UserController.js" timestamp="1554105466215" />
     </filemarks>
     <jumps>
