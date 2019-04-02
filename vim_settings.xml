@@ -26,10 +26,11 @@
         <mark key="." line="107" column="6" />
       </file>
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/index.js" timestamp="1554193077637" />
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/components/DashboardComponents/FeedbackItem/FeedbackItem.js" timestamp="1554221768859">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="2" />
-        <mark key="." line="50" column="2" />
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/components/DashboardComponents/FeedbackItem/FeedbackItem.js" timestamp="1554227858689">
+        <mark key="[" line="124" column="37" />
+        <mark key="]" line="124" column="0" />
+        <mark key="." line="124" column="0" />
+        <mark key="^" line="130" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/repositories/CustomerRepository.js" timestamp="1554220530436">
         <mark key="[" line="14" column="72" />
@@ -47,13 +48,12 @@
         <mark key="[" line="4" column="57" />
       </file>
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/services/analyticsService.js" timestamp="1554192780851" />
-      <file name="/Dummy.txt" timestamp="1554220580555">
+      <file name="/Dummy.txt" timestamp="1554227940403">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/components/DashboardComponents/Header.js" timestamp="1554113480966">
         <mark key="[" line="64" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/components/DashboardComponents/FeedbackList/FeedbackList.component.js" timestamp="1554191934687" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/hoc/withDateRangeQuery.js" timestamp="1554221456811" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/pages/Dashboard.js" timestamp="1554191914574" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/services/dashboardUserService.js" timestamp="1554220651041">
@@ -61,7 +61,9 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/lib/api.js" timestamp="1554221294231" />
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/lib/api.js" timestamp="1554227905065">
+        <mark key="[" line="42" column="15" />
+      </file>
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/repositories/UserRepository.js" timestamp="1554206427669">
         <mark key="[" line="65" column="11" />
         <mark key="]" line="64" column="48" />
@@ -175,7 +177,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8gOiBUYWtlIGludG8gYWNjb3VudCBjaGlsZCBjdXN0b21lcnMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB7ISFmZWVkYmFjay5jdXN0b21lciAmJgogICAgICAgICAgICA8L3NwYW4+Cg==</text>
       </register>
       <register name="d" type="4">
         <text />
@@ -190,10 +192,10 @@
         <text encoding="base64">Y29uc3QgU2NoZW1hID0gbW9uZ29vc2UuU2NoZW1hOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8gOiBUYWtlIGludG8gYWNjb3VudCBjaGlsZCBjdXN0b21lcnMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB7ISFmZWVkYmFjay5jdXN0b21lciAmJgogICAgICAgICAgICA8L3NwYW4+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBmaW5kQnlJZHM6IGlkcyA9PiBDdXN0b21lci5maW5kKHsgX2lkOiB7ICRpbjogaWRzIH0gfSksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICgoZmVlZGJhY2suY3VzdG9tZXIucGFyZW50ICYmIGZlZWRiYWNrLmN1c3RvbWVyLnBhcmVudC5uYW1lKSB8fAogICAgICAgICAgICAgICAgICBmZWVkYmFjay5jdXN0b21lci5uYW1lKX0K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -202,22 +204,22 @@
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHBhcmVudEN1c3RvbWVySWRzID0gW107CiAgICBjdXN0b21lcnMuZm9yRWFjaChjdXN0b21lciA9PiB7CiAgICAgIGlmIChjdXN0b21lci5wYXJlbnQpIHsKICAgICAgICBwYXJlbnRDdXN0b21lcklkcy5wdXNoKGN1c3RvbWVyLnBhcmVudCk7CiAgICAgIH0KICAgIH0pOwo=</text>
+        <text encoding="base64">ICBnZXRGZWVkYmFja0N1c3RvbWVyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjdXN0b21lclJlcG9zaXRyeS5maW5kQnlJZHMoKQo=</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8gOiBUYWtlIGludG8gYWNjb3VudCBjaGlsZCBjdXN0b21lcnMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBmaW5kQWxsQ3VzdG9tZXJzOiAoKSA9PiBDdXN0b21lci53aGVyZSgpLmZpbmQoeyBwYXJlbnRBY2NvdW50SWQ6IHsgJG5lOiAnJyB9IH0pLAo=</text>
+        <text encoding="base64">ICBmaW5kQnlJZHM6IGlkcyA9PiBDdXN0b21lci5maW5kKHsgX2lkOiB7ICRpbjogaWRzIH0gfSksCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgYWRkQ2hpbGRyZW4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gQWRkIHRoZSBicmFuZCBmaWVsZCB0byB0aGUgdXNlciBvYmplY3QKICAgICAgICAgICAgY3VzdG9tZXJSZXBvc2l0b3J5CiAgICAgICAgICAgICAgLmZpbmRQYXJlbnRDdXN0b21lcklmRXhpc3RzKHVzZXIuY3VzdG9tZXIpCiAgICAgICAgICAgICAgLnRoZW4oKGVyciwgY3VzdG9tZXIpID0+IHsKICAgICAgICAgICAgICAgIGlmIChjdXN0b21lcikgewogICAgICAgICAgICAgICAgICB1c2VyLmJyYW5kID0gY3VzdG9tZXI7CiAgICAgICAgICAgICAgICAgIHVzZXIuY3VzdG9tZXIgPSBjdXN0b21lcjsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIHJldHVybiByZXNvbHZlKHVzZXIpOwogICAgICAgICAgICAgIH0pCiAgICAgICAgICAgICAgLmRvbmUoKTsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHBhcmVudEN1c3RvbWVySWRzID0gW107CiAgICBjdXN0b21lcnMuZm9yRWFjaChjdXN0b21lciA9PiB7CiAgICAgIGlmIChjdXN0b21lci5wYXJlbnQpIHsKICAgICAgICBwYXJlbnRDdXN0b21lcklkcy5wdXNoKGN1c3RvbWVyLnBhcmVudCk7CiAgICAgIH0KICAgIH0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjdXN0b21lclJlcG9zaXRyeS5maW5kQnlJZHMoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
