@@ -3,10 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/components/DashboardComponents/Filters/CustomerFilter.js" timestamp="1554113546557" />
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/index.js" timestamp="1554119629967" />
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/migrations/1549489009174-link_users_to_customer_entity.js" timestamp="1554128948926" />
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/migrations/1554131630697-add_parent_customer_account_id.js" timestamp="1554137820168">
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/migrations/1554131630697-add_parent_customer_account_id.js" timestamp="1554190411512">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="12" column="2" />
@@ -15,8 +12,6 @@
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/services/userService.js" timestamp="1554127536631">
         <mark key="[" line="32" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/components/DashboardComponents/ExtractCsv.js" timestamp="1554122927349" />
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/pages/Survey.js" timestamp="1554119650561" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/migrations/1549639506891-fix_dashboard_users_customers.js" timestamp="1554129013345">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="12" column="0" />
@@ -24,12 +19,6 @@
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/repositories/FeedbackRepository.js" timestamp="1554123232609">
         <mark key="[" line="39" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/SurveyFlow.js" timestamp="1554119617491" />
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/index.js" timestamp="1554150159044" />
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/pages/ManageDashboardUsers/ManageDashboardUsers.js" timestamp="1554115740821" />
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/index.js" timestamp="1554125351367" />
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/components/DashboardComponents/FeedbackItem/FeedbackItem.js" timestamp="1554124061445" />
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/migrations/1549464583391-link_dashboard_users_to_customer_entity.js" timestamp="1554128972570" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/migrations/1554128851626-add_parent_account_id.js" timestamp="1554131599005">
         <mark key="'" line="0" column="15" />
         <mark key="[" line="0" column="0" />
@@ -37,22 +26,21 @@
         <mark key="^" line="5" column="15" />
         <mark key="." line="5" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/components/DashboardComponents/Filters/Filters.js" timestamp="1554113527158" />
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/repositories/CustomerRepository.js" timestamp="1554137829933">
-        <mark key="[" line="3" column="20" />
-        <mark key="]" line="6" column="15" />
-        <mark key="." line="6" column="15" />
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/repositories/CustomerRepository.js" timestamp="1554189171611">
+        <mark key="[" line="12" column="32" />
+        <mark key="]" line="12" column="32" />
+        <mark key="." line="12" column="32" />
+        <mark key="^" line="12" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/controllers/UserController.js" timestamp="1554115438847" />
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/controllers/CustomerController.js" timestamp="1554110608032" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/migrations/1554128851626-addParentAccountId.js" timestamp="1554131143562">
         <mark key="[" line="29" column="42" />
         <mark key="]" line="29" column="74" />
         <mark key="." line="29" column="0" />
         <mark key="^" line="13" column="53" />
       </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/lib/db.js" timestamp="1554137176928" />
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/services/analyticsService.js" timestamp="1554119920700" />
+      <file name="/Dummy.txt" timestamp="1554189107974">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/components/DashboardComponents/Header.js" timestamp="1554113480966">
         <mark key="[" line="64" column="17" />
       </file>
@@ -62,16 +50,7 @@
         <mark key="^" line="10" column="6" />
         <mark key="." line="10" column="6" />
       </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/lib/c4c.js" timestamp="1554115017689" />
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/package.json" timestamp="1554123410321" />
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/pages/Dashboard.js" timestamp="1554115791686" />
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/appsettings.json" timestamp="1554114695929" />
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/services/dashboardUserService.js" timestamp="1554112592307" />
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/lib/api.js" timestamp="1554149940450" />
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/repositories/UserRepository.js" timestamp="1554128809911" />
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/DashboardApp.js" timestamp="1554108325297" />
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/repositories/DashboardUserRepository.js" timestamp="1554115574177" />
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/migrations/1549478419119-link_feedbacks_to_customer_entity.js" timestamp="1554128992136" />
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/migrations/1549529618449-link_old_feedbacks_to_C4C_tickets.js" timestamp="1554190397459" />
     </filemarks>
     <jumps>
       <jump line="8" column="0" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/api/models/picture/picture.types.ts" />
@@ -176,14 +155,14 @@
       <jump line="0" column="15" filename="$USER_HOME$/Projects/Faurecia/customer-satisfaction/migrations/1554128851626-add_parent_account_id.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.where({})</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>CustomerModel</text>
+        <text>.where({})</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
