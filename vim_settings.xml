@@ -20,8 +20,11 @@
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/repositories/FeedbackRepository.js" timestamp="1554193184192">
         <mark key="[" line="145" column="76" />
       </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/index.js" timestamp="1554191887886">
-        <mark key="[" line="313" column="43" />
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/index.js" timestamp="1554195308689">
+        <mark key="[" line="593" column="11" />
+        <mark key="]" line="594" column="0" />
+        <mark key="^" line="596" column="19" />
+        <mark key="." line="594" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/index.js" timestamp="1554193077637" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/migrations/1554128851626-add_parent_account_id.js" timestamp="1554131599005">
@@ -31,11 +34,20 @@
         <mark key="^" line="5" column="15" />
         <mark key="." line="5" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/repositories/CustomerRepository.js" timestamp="1554189171611">
-        <mark key="[" line="12" column="32" />
-        <mark key="]" line="12" column="32" />
-        <mark key="." line="12" column="32" />
-        <mark key="^" line="12" column="39" />
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/repositories/CustomerRepository.js" timestamp="1554197590374">
+        <mark key="[" line="12" column="27" />
+        <mark key="]" line="12" column="66" />
+        <mark key="." line="12" column="26" />
+        <mark key="^" line="19" column="25" />
+      </file>
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/controllers/UserController.js" timestamp="1554196950628">
+        <mark key="[" line="28" column="47" />
+        <mark key="]" line="28" column="47" />
+        <mark key="." line="28" column="47" />
+        <mark key="^" line="23" column="13" />
+      </file>
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/controllers/CustomerController.js" timestamp="1554197691774">
+        <mark key="[" line="4" column="57" />
       </file>
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/migrations/1554128851626-addParentAccountId.js" timestamp="1554131143562">
         <mark key="[" line="29" column="42" />
@@ -44,7 +56,7 @@
         <mark key="^" line="13" column="53" />
       </file>
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/services/analyticsService.js" timestamp="1554192780851" />
-      <file name="/Dummy.txt" timestamp="1554193576609">
+      <file name="/Dummy.txt" timestamp="1554197231388">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/components/DashboardComponents/Header.js" timestamp="1554113480966">
@@ -58,7 +70,16 @@
       </file>
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/components/DashboardComponents/FeedbackList/FeedbackList.component.js" timestamp="1554191934687" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/pages/Dashboard.js" timestamp="1554191914574" />
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/lib/api.js" timestamp="1554191484215" />
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/services/dashboardUserService.js" timestamp="1554197697583">
+        <mark key="[" line="31" column="57" />
+      </file>
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/lib/api.js" timestamp="1554194712977" />
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/repositories/UserRepository.js" timestamp="1554197194806">
+        <mark key="[" line="36" column="35" />
+        <mark key="]" line="36" column="26" />
+        <mark key="^" line="36" column="26" />
+        <mark key="." line="36" column="26" />
+      </file>
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/migrations/1549529618449-link_old_feedbacks_to_C4C_tickets.js" timestamp="1554190397459" />
     </filemarks>
     <jumps>
@@ -165,28 +186,28 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.where({})</text>
+        <text>where({ parentAccountId})</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>.where({})</text>
+        <text>where({ parentAccountId})</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgbW9uZ29vc2UgPSByZXF1aXJlKCdtb25nb29zZScpOwoKcmVxdWlyZSgnLi4vYXBpL3JlcG9zaXRvcmllcy9DdXN0b21lclJlcG9zaXRvcnknKTsKcmVxdWlyZSgnLi4vYXBpL3JlcG9zaXRvcmllcy9EYXNoYm9hcmRVc2VyUmVwb3NpdG9yeScpOwoKLy8gVW5jb21tZW50IGRhdGFiYXNlIGNvbm5lY3Rpb24gaWYgeW91IHJ1biBtaWdyYXRpb25zIHdpdGggY2xpCi8vIGNvbnN0IGNvbmZpZyA9IHJlcXVpcmUoJy4uL2FwcHNldHRpbmdzLmpzb24nKTsKLy8gY29uc3QgeyBjb25uZWN0VG9EYXRhYmFzZSB9ID0gcmVxdWlyZSgnLi4vYXBpL2xpYi9kYicpOwovLyBjb25uZWN0VG9EYXRhYmFzZShjb25maWcuTU9OR09fREIuREJfVVJMLCBjb25maWcuTU9OR09fREIuREJfVVNFUiwgY29uZmlnLk1PTkdPX0RCLkRCX1BBU1NXT1JEKTsKCmNvbnN0IEN1c3RvbWVyTW9kZWwgPSBtb25nb29zZS5tb2RlbCgnQ3VzdG9tZXInKTsKCi8qKgogKiBNYWtlIGFueSBjaGFuZ2VzIHlvdSBuZWVkIHRvIG1ha2UgdG8gdGhlIGRhdGFiYXNlIGhlcmUKICovCmV4cG9ydCBhc3luYyBmdW5jdGlvbiB1cChkb25lKSB7CiAgdHJ5IHsKICAgIGF3YWl0IEN1c3RvbWVyTW9kZWwudXBkYXRlTWFueSh7fSwgeyAkc2V0OiB7IHBhcmVudEFjY291bnRJZDogJycgfSB9KTsKICAgIGRvbmUoKTsKICB9IGNhdGNoIChlcnIpIHsKICAgIGRvbmUoZXJyKTsKICB9Cn0KCi8qKgogKiBNYWtlIGFueSBjaGFuZ2VzIHRoYXQgVU5ETyB0aGUgdXAgZnVuY3Rpb24gc2lkZSBlZmZlY3RzIGhlcmUgKGlmIHBvc3NpYmxlKQogKi8KZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIGRvd24oZG9uZSkgewogIHRyeSB7CiAgICBhd2FpdCBDdXN0b21lck1vZGVsLnVwZGF0ZU1hbnkoe30sIHsgJHVuc2V0OiB7IHBhcmVudEFjY291bnRJZDogJycgfSB9KTsKICAgIGRvbmUoKTsKICB9IGNhdGNoIChlcnIpIHsKICAgIGRvbmUoZXJyKTsKICB9Cn0K</text>
+      <register name="0" type="4">
+        <text>.where({ parentAccountId: { $ne: '' } })</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxldCBjdXN0Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgbW9uZ29vc2UgPSByZXF1aXJlKCdtb25nb29zZScpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cmVxdWlyZSgnLi4vYXBpL3JlcG9zaXRvcmllcy9EYXNoYm9hcmRVc2VyUmVwb3NpdG9yeScpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
@@ -195,19 +216,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgQ3VzdG9tZXJNb2RlbCA9IG1vbmdvb3NlLm1vZGVsKCdDdXN0b21lcicpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdXNlcjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LyoqCiAqIE1ha2UgYW55IGNoYW5nZXMgeW91IG5lZWQgdG8gbWFrZSB0byB0aGUgZGF0YWJhc2UgaGVyZQogKi8KZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIHVwKCkgewogIC8vIFdyaXRlIG1pZ3JhdGlvbiBoZXJlCn0KCi8qKgogKiBNYWtlIGFueSBjaGFuZ2VzIHRoYXQgVU5ETyB0aGUgdXAgZnVuY3Rpb24gc2lkZSBlZmZlY3RzIGhlcmUgKGlmIHBvc3NpYmxlKQogKi8KZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIGRvd24oKSB7CiAgLy8gV3JpdGUgbWlncmF0aW9uIGhlcmUKfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLyBXcml0ZSBtaWdyYXRpb24gaGVyZQo=</text>
+        <text encoding="base64">Y29uc3QgbW9uZ29vc2UgPSByZXF1aXJlKCdtb25nb29zZScpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">cmVxdWlyZSgnLi4vYXBpL3JlcG9zaXRvcmllcy9EYXNoYm9hcmRVc2VyUmVwb3NpdG9yeScpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvLyBXcml0ZSBtaWdyYXRpb24gaGVyZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
