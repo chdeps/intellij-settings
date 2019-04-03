@@ -3,59 +3,38 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1554278140044">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/components/DashboardComponents/Header.js" timestamp="1554113480966">
+        <mark key="[" line="64" column="17" />
+      </file>
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/migrations/1554131630697-add_parent_customer_account_id.js" timestamp="1554207643406">
         <mark key="[" line="17" column="55" />
         <mark key="]" line="17" column="55" />
         <mark key="^" line="12" column="2" />
         <mark key="." line="17" column="55" />
       </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/services/userService.js" timestamp="1554127536631">
-        <mark key="[" line="32" column="29" />
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/services/userService.js" timestamp="1554277961128">
+        <mark key="[" line="32" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/components/DashboardComponents/ExtractCsv.js" timestamp="1554191478412" />
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/components/DashboardComponents/FeedbackList/FeedbackList.container.js" timestamp="1554221307311" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/repositories/FeedbackRepository.js" timestamp="1554219960796">
         <mark key="[" line="70" column="16" />
         <mark key="]" line="66" column="0" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/index.js" timestamp="1554221261957">
-        <mark key="[" line="107" column="6" />
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/index.js" timestamp="1554278131922">
+        <mark key="[" line="597" column="18" />
         <mark key="]" line="107" column="6" />
         <mark key="^" line="107" column="5" />
         <mark key="." line="107" column="6" />
       </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/index.js" timestamp="1554193077637" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/components/DashboardComponents/FeedbackItem/FeedbackItem.js" timestamp="1554227858689">
         <mark key="[" line="124" column="37" />
         <mark key="]" line="124" column="0" />
         <mark key="." line="124" column="0" />
         <mark key="^" line="130" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/repositories/CustomerRepository.js" timestamp="1554220530436">
-        <mark key="[" line="14" column="72" />
-        <mark key="]" line="20" column="42" />
-        <mark key="." line="20" column="42" />
-        <mark key="^" line="20" column="42" />
-      </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/controllers/UserController.js" timestamp="1554206095234">
-        <mark key="[" line="24" column="8" />
-        <mark key="]" line="24" column="8" />
-        <mark key="." line="24" column="8" />
-        <mark key="^" line="24" column="37" />
-      </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/controllers/CustomerController.js" timestamp="1554197691774">
-        <mark key="[" line="4" column="57" />
-      </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/services/analyticsService.js" timestamp="1554192780851" />
-      <file name="/Dummy.txt" timestamp="1554227940403">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/components/DashboardComponents/Header.js" timestamp="1554113480966">
-        <mark key="[" line="64" column="17" />
-      </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/hoc/withDateRangeQuery.js" timestamp="1554221456811" />
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/pages/Dashboard.js" timestamp="1554191914574" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/services/dashboardUserService.js" timestamp="1554220651041">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -70,8 +49,21 @@
         <mark key="^" line="64" column="48" />
         <mark key="." line="64" column="48" />
       </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/migrations/1549529618449-link_old_feedbacks_to_C4C_tickets.js" timestamp="1554190397459" />
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/repositories/DashboardUserRepository.js" timestamp="1554200369766" />
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/repositories/CustomerRepository.js" timestamp="1554277885712">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="23" column="58" />
+      </file>
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/controllers/UserController.js" timestamp="1554277794782">
+        <mark key="[" line="19" column="28" />
+        <mark key="]" line="24" column="8" />
+        <mark key="." line="24" column="8" />
+        <mark key="^" line="24" column="37" />
+      </file>
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/controllers/CustomerController.js" timestamp="1554197691774">
+        <mark key="[" line="4" column="57" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="8" column="0" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/api/models/picture/picture.types.ts" />
@@ -177,13 +169,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7ISFmZWVkYmFjay5jdXN0b21lciAmJgogICAgICAgICAgICA8L3NwYW4+Cg==</text>
+        <text encoding="base64">ICBmaW5kUGFyZW50Q3VzdG9tZXJJZkV4aXN0czogY3VzdG9tZXIgPT4gewogICAgcmV0dXJuIEN1c3RvbWVyLmZpbmRPbmUoeyBhY2NvdW50SWQ6IGN1c3RvbWVyLnBhcmVudEFjY291bnRJZCB9KTsKICB9LAo=</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>where()</text>
+        <text>.where({  })</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
@@ -192,34 +184,34 @@
         <text encoding="base64">Y29uc3QgU2NoZW1hID0gbW9uZ29vc2UuU2NoZW1hOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7ISFmZWVkYmFjay5jdXN0b21lciAmJgogICAgICAgICAgICA8L3NwYW4+Cg==</text>
+        <text encoding="base64">ICBmaW5kUGFyZW50Q3VzdG9tZXJJZkV4aXN0czogY3VzdG9tZXIgPT4gewogICAgcmV0dXJuIEN1c3RvbWVyLmZpbmRPbmUoeyBhY2NvdW50SWQ6IGN1c3RvbWVyLnBhcmVudEFjY291bnRJZCB9KTsKICB9LAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICgoZmVlZGJhY2suY3VzdG9tZXIucGFyZW50ICYmIGZlZWRiYWNrLmN1c3RvbWVyLnBhcmVudC5uYW1lKSB8fAogICAgICAgICAgICAgICAgICBmZWVkYmFjay5jdXN0b21lci5uYW1lKX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB7ISFmZWVkYmFjay5jdXN0b21lciAmJgogICAgICAgICAgICA8L3NwYW4+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICgoZmVlZGJhY2suY3VzdG9tZXIucGFyZW50ICYmIGZlZWRiYWNrLmN1c3RvbWVyLnBhcmVudC5uYW1lKSB8fAogICAgICAgICAgICAgICAgICBmZWVkYmFjay5jdXN0b21lci5uYW1lKX0K</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBnZXRGZWVkYmFja0N1c3RvbWVyCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8gOiBUYWtlIGludG8gYWNjb3VudCBjaGlsZCBjdXN0b21lcnMK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBmaW5kQnlJZHM6IGlkcyA9PiBDdXN0b21lci5maW5kKHsgX2lkOiB7ICRpbjogaWRzIH0gfSksCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBnZXRGZWVkYmFja0N1c3RvbWVyCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC8vIFRPRE8gOiBUYWtlIGludG8gYWNjb3VudCBjaGlsZCBjdXN0b21lcnMK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBmaW5kQnlJZHM6IGlkcyA9PiBDdXN0b21lci5maW5kKHsgX2lkOiB7ICRpbjogaWRzIH0gfSksCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHBhcmVudEN1c3RvbWVySWRzID0gW107CiAgICBjdXN0b21lcnMuZm9yRWFjaChjdXN0b21lciA9PiB7CiAgICAgIGlmIChjdXN0b21lci5wYXJlbnQpIHsKICAgICAgICBwYXJlbnRDdXN0b21lcklkcy5wdXNoKGN1c3RvbWVyLnBhcmVudCk7CiAgICAgIH0KICAgIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjdXN0b21lclJlcG9zaXRyeS5maW5kQnlJZHMoKQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHBhcmVudEN1c3RvbWVySWRzID0gW107CiAgICBjdXN0b21lcnMuZm9yRWFjaChjdXN0b21lciA9PiB7CiAgICAgIGlmIChjdXN0b21lci5wYXJlbnQpIHsKICAgICAgICBwYXJlbnRDdXN0b21lcklkcy5wdXNoKGN1c3RvbWVyLnBhcmVudCk7CiAgICAgIH0KICAgIH0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
