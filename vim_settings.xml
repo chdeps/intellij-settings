@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1554302595736">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/components/DashboardComponents/Header.js" timestamp="1554113480966">
-        <mark key="[" line="64" column="17" />
-      </file>
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/migrations/1554131630697-add_parent_customer_account_id.js" timestamp="1554207643406">
         <mark key="[" line="17" column="55" />
         <mark key="]" line="17" column="55" />
@@ -29,11 +23,11 @@
         <mark key="." line="66" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/README.md" timestamp="1554294835632" />
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/index.js" timestamp="1554303125037">
-        <mark key="[" line="320" column="9" />
-        <mark key="]" line="321" column="0" />
-        <mark key="^" line="321" column="26" />
-        <mark key="." line="321" column="0" />
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/index.js" timestamp="1554303771119">
+        <mark key="[" line="318" column="0" />
+        <mark key="]" line="318" column="51" />
+        <mark key="^" line="319" column="40" />
+        <mark key="." line="318" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/migrations/1554135227576-add_C4C_access_in_dashboard_user.js" timestamp="1554295012356" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/components/DashboardComponents/FeedbackItem/FeedbackItem.js" timestamp="1554227858689">
@@ -41,20 +35,6 @@
         <mark key="]" line="124" column="0" />
         <mark key="." line="124" column="0" />
         <mark key="^" line="130" column="37" />
-      </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/services/dashboardUserService.js" timestamp="1554301153761">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/lib/api.js" timestamp="1554301017142">
-        <mark key="[" line="42" column="15" />
-      </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/repositories/UserRepository.js" timestamp="1554206427669">
-        <mark key="[" line="65" column="11" />
-        <mark key="]" line="64" column="48" />
-        <mark key="^" line="64" column="48" />
-        <mark key="." line="64" column="48" />
       </file>
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/repositories/CustomerRepository.js" timestamp="1554277885712">
         <mark key="[" line="18" column="0" />
@@ -76,6 +56,26 @@
       </file>
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/controllers/CustomerController.js" timestamp="1554197691774">
         <mark key="[" line="4" column="57" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1554304136194">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/components/DashboardComponents/Header.js" timestamp="1554113480966">
+        <mark key="[" line="64" column="17" />
+      </file>
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/services/dashboardUserService.js" timestamp="1554301153761">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/lib/api.js" timestamp="1554301017142">
+        <mark key="[" line="42" column="15" />
+      </file>
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/repositories/UserRepository.js" timestamp="1554206427669">
+        <mark key="[" line="65" column="11" />
+        <mark key="]" line="64" column="48" />
+        <mark key="^" line="64" column="48" />
+        <mark key="." line="64" column="48" />
       </file>
     </filemarks>
     <jumps>
@@ -182,7 +182,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjdXN0b21lcjogZmVlZGJhY2suY3VzdG9tZXIucGFyZW50IHx8IGZlZWRiYWNrLmN1c3RvbWVyLAogICAgICAgIGJyYW5kOiBmZWVkYmFjay5jdXN0b21lci5wYXJlbnQgPyBmZWVkYmFjay5jdXN0b21lciA6IHVuZGVmaW5lZCwK</text>
+        <text encoding="base64">ICAgICAgICAgIG5ld0ZlZWRiYWNrLmJyYW5kID0gbmV3RmVlZGJhY2suY3VzdG9tZXI7Cg==</text>
       </register>
       <register name="d" type="4">
         <text />
@@ -197,36 +197,36 @@
         <text encoding="base64">Y29uc3QgU2NoZW1hID0gbW9uZ29vc2UuU2NoZW1hOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjdXN0b21lcjogZmVlZGJhY2suY3VzdG9tZXIucGFyZW50IHx8IGZlZWRiYWNrLmN1c3RvbWVyLAogICAgICAgIGJyYW5kOiBmZWVkYmFjay5jdXN0b21lci5wYXJlbnQgPyBmZWVkYmFjay5jdXN0b21lciA6IHVuZGVmaW5lZCwK</text>
+        <text encoding="base64">ICAgICAgICAgIG5ld0ZlZWRiYWNrLmJyYW5kID0gbmV3RmVlZGJhY2suY3VzdG9tZXI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3RmVlZGJhY2s7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjdXN0b21lcjogZmVlZGJhY2suY3VzdG9tZXIucGFyZW50IHx8IGZlZWRiYWNrLmN1c3RvbWVyLAogICAgICAgIGJyYW5kOiBmZWVkYmFjay5jdXN0b21lci5wYXJlbnQgPyBmZWVkYmFjay5jdXN0b21lciA6IHVuZGVmaW5lZCwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3RmVlZGJhY2s7Cg==</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
-      <register name="4" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgY29uc3QK</text>
+      </register>
+      <register name="5" type="4">
         <text>{
           newFeedback.brand = undefined
         }</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBuZXdGZWVkYmFjay5jdXN0b21lciA9IG5ld0ZlZWRiYWNrLmN1c3RvbWVyLnBhcmVudCB8fCBuZXdGZWVkYmFjay5jdXN0b21lcjsK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICBmaW5kUGFyZW50Q3VzdG9tZXJJZkV4aXN0czogY3VzdG9tZXIgPT4gewogICAgcmV0dXJuIEN1c3RvbWVyLmZpbmRPbmUoeyBhY2NvdW50SWQ6IGN1c3RvbWVyLnBhcmVudEFjY291bnRJZCB9KTsKICB9LAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7ISFmZWVkYmFjay5jdXN0b21lciAmJgogICAgICAgICAgICA8L3NwYW4+Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICgoZmVlZGJhY2suY3VzdG9tZXIucGFyZW50ICYmIGZlZWRiYWNrLmN1c3RvbWVyLnBhcmVudC5uYW1lKSB8fAogICAgICAgICAgICAgICAgICBmZWVkYmFjay5jdXN0b21lci5uYW1lKX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB7ISFmZWVkYmFjay5jdXN0b21lciAmJgogICAgICAgICAgICA8L3NwYW4+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
