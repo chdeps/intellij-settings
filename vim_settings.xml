@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1554278140044">
+      <file name="/Dummy.txt" timestamp="1554294909995">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/components/DashboardComponents/Header.js" timestamp="1554113480966">
@@ -23,13 +23,14 @@
         <mark key="]" line="66" column="0" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/README.md" timestamp="1554286714892" />
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/README.md" timestamp="1554294835632" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/index.js" timestamp="1554278131922">
         <mark key="[" line="597" column="18" />
         <mark key="]" line="107" column="6" />
         <mark key="^" line="107" column="5" />
         <mark key="." line="107" column="6" />
       </file>
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/migrations/1554135227576-add_C4C_access_in_dashboard_user.js" timestamp="1554295012356" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/components/DashboardComponents/FeedbackItem/FeedbackItem.js" timestamp="1554227858689">
         <mark key="[" line="124" column="37" />
         <mark key="]" line="124" column="0" />
@@ -51,10 +52,10 @@
         <mark key="." line="64" column="48" />
       </file>
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/repositories/CustomerRepository.js" timestamp="1554277885712">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="23" column="58" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="1" column="58" />
       </file>
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/controllers/UserController.js" timestamp="1554277794782">
         <mark key="[" line="19" column="28" />
