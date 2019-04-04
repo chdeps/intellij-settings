@@ -3,11 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/components/DashboardComponents/ExtractCsv.js" timestamp="1554303159074">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/migrations/1549639506891-fix_dashboard_users_customers.js" timestamp="1554367418012" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/repositories/FeedbackRepository.js" timestamp="1554371137351">
         <mark key="[" line="8" column="19" />
@@ -34,6 +29,12 @@
         <mark key="." line="124" column="0" />
         <mark key="^" line="130" column="37" />
       </file>
+      <file name="$USER_HOME$/Projects/onlineApp/OnlineApp/ios/Podfile" timestamp="1554373051834">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="8" column="1" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/services/analyticsService.js" timestamp="1554368131730">
         <mark key="[" line="8" column="13" />
         <mark key="]" line="3" column="51" />
@@ -50,11 +51,6 @@
       </file>
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/lib/c4c.js" timestamp="1554368609713" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/appsettings.json" timestamp="1554368421050" />
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/services/dashboardUserService.js" timestamp="1554301153761">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/lib/api.js" timestamp="1554371334568">
         <mark key="[" line="42" column="15" />
       </file>
@@ -62,7 +58,6 @@
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/repositories/DashboardUserRepository.js" timestamp="1554367303950" />
     </filemarks>
     <jumps>
-      <jump line="8" column="0" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/api/models/picture/picture.types.ts" />
       <jump line="24" column="0" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/api/models/picture/picture.types.ts" />
       <jump line="10" column="27" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/api/repositories/reveals/reveals.sagas.ts" />
       <jump line="0" column="20" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/messages/reducer.ts" />
@@ -162,10 +157,11 @@
       <jump line="0" column="30" filename="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-web/src/helpers/cookies.test.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/Generator/generator-rn-toolbox/generators/fastlane-setup/templates/env" />
       <jump line="0" column="15" filename="$USER_HOME$/Projects/Faurecia/customer-satisfaction/migrations/1554128851626-add_parent_account_id.js" />
+      <jump line="5" column="20" filename="$USER_HOME$/Projects/onlineApp/OnlineApp/ios/Podfile" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ticket.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text />
@@ -180,36 +176,34 @@
         <text encoding="base64">ICAgIGNvbnN0IGM0Y1RpY2tldCA9IGF3YWl0IGM0Yy5nZXRUaWNrZXRCeUM0Q0lkKGM0Y1RpY2tldElkKTsKICAgIGNvbnN0IGZlZWRiYWNrID0gYXdhaXQgZmVlZGJhY2tSZXBvc2l0b3J5LmdldEZlZWRiYWNrQnlDNENPYmplY3RJZChjNGNUaWNrZXQuT2JqZWN0SUQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zdCB0aWNrZXQgPSBhd2FpdCBjNGMuZ2V0VGlja2V0QnlDNENJZCh0aWNrZXRJZCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICB0YXJnZXQgJ09ubGluZUFwcC10dk9TVGVzdHMnIGRvCiAgICBpbmhlcml0ISA6c2VhcmNoX3BhdGhzCiAgICAjIFBvZHMgZm9yIHRlc3RpbmcKICBlbmQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByb2Nlc3Mub24oJ2Vycm9yJywgcmVqZWN0KTsKICAgIHByb2Nlc3Mub24oJ2V4aXQnLCByZXNvbHZlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIG5ld0ZlZWRiYWNrLmJyYW5kID0gbmV3RmVlZGJhY2suY3VzdG9tZXI7Cg==</text>
+        <text encoding="base64">cG9kICdBbGFtb2ZpcmUnLCAnfj4gNS4wLjAtYmV0YS4zJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjdXN0b21lcjogZmVlZGJhY2suY3VzdG9tZXIucGFyZW50IHx8IGZlZWRiYWNrLmN1c3RvbWVyLAogICAgICAgIGJyYW5kOiBmZWVkYmFjay5jdXN0b21lci5wYXJlbnQgPyBmZWVkYmFjay5jdXN0b21lciA6IHVuZGVmaW5lZCwK</text>
+        <text encoding="base64">dGFyZ2V0ICdPbmxpbmVBcHAnIGRvCiAgIyBVbmNvbW1lbnQgdGhlIG5leHQgbGluZSBpZiB5b3UncmUgdXNpbmcgU3dpZnQgb3Igd291bGQgbGlrZSB0byB1c2UgZHluYW1pYyBmcmFtZXdvcmtzCiAgIyB1c2VfZnJhbWV3b3JrcyEKCiAgIyBQb2RzIGZvciBPbmxpbmVBcHAKCiAgdGFyZ2V0ICdPbmxpbmVBcHAtdHZPU1Rlc3RzJyBkbwogICAgaW5oZXJpdCEgOnNlYXJjaF9wYXRocwogICAgIyBQb2RzIGZvciB0ZXN0aW5nCiAgZW5kCgogIHRhcmdldCAnT25saW5lQXBwVGVzdHMnIGRvCiAgICBpbmhlcml0ISA6c2VhcmNoX3BhdGhzCiAgICAjIFBvZHMgZm9yIHRlc3RpbmcKICBlbmQKCmVuZAoKdGFyZ2V0ICdPbmxpbmVBcHAtdHZPUycgZG8KICAjIFVuY29tbWVudCB0aGUgbmV4dCBsaW5lIGlmIHlvdSdyZSB1c2luZyBTd2lmdCBvciB3b3VsZCBsaWtlIHRvIHVzZSBkeW5hbWljIGZyYW1ld29ya3MKICAjIHVzZV9mcmFtZXdvcmtzIQoKICAjIFBvZHMgZm9yIE9ubGluZUFwcC10dk9TCgogIHRhcmdldCAnT25saW5lQXBwLXR2T1NUZXN0cycgZG8KICAgIGluaGVyaXQhIDpzZWFyY2hfcGF0aHMKICAgICMgUG9kcyBmb3IgdGVzdGluZwogIGVuZAoKZW5kCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3RmVlZGJhY2s7Cg==</text>
+        <text encoding="base64">ICBjb25zdCB0aWNrZXQgPSBhd2FpdCBjNGMuZ2V0VGlja2V0QnlDNENJZCh0aWNrZXRJZCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>{
-          newFeedback.brand = undefined
-        }</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHByb2Nlc3Mub24oJ2Vycm9yJywgcmVqZWN0KTsKICAgIHByb2Nlc3Mub24oJ2V4aXQnLCByZXNvbHZlKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIG5ld0ZlZWRiYWNrLmJyYW5kID0gbmV3RmVlZGJhY2suY3VzdG9tZXI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
