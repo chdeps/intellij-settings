@@ -3,12 +3,20 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/index.js" timestamp="1554393934992" />
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/pages/Survey.js" timestamp="1554393965086">
+        <mark key="[" line="42" column="42" />
+        <mark key="]" line="42" column="41" />
+        <mark key="^" line="42" column="41" />
+        <mark key="." line="42" column="41" />
+      </file>
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/migrations/1549639506891-fix_dashboard_users_customers.js" timestamp="1554367418012" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/repositories/FeedbackRepository.js" timestamp="1554371137351">
         <mark key="[" line="8" column="19" />
         <mark key="]" line="66" column="0" />
         <mark key="." line="66" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/SurveyFlow.js" timestamp="1554393939956" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/index.js" timestamp="1554388036262">
         <mark key="[" line="139" column="0" />
         <mark key="]" line="140" column="91" />
