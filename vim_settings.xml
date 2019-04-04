@@ -6,7 +6,7 @@
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/services/analyticsService.js" timestamp="1554363772747">
         <mark key="[" line="3" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554304136194">
+      <file name="/Dummy.txt" timestamp="1554365875039">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/components/DashboardComponents/Header.js" timestamp="1554113480966">
@@ -26,7 +26,11 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-plugin-make/modules/utils/execCommandFromProject.js" timestamp="1554365078081" />
+      <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-plugin-make/modules/utils/execCommandFromProject.js" timestamp="1554365761318">
+        <mark key="[" line="4" column="4" />
+        <mark key="]" line="4" column="4" />
+        <mark key="." line="4" column="4" />
+      </file>
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/repositories/FeedbackRepository.js" timestamp="1554301901968">
         <mark key="[" line="98" column="16" />
         <mark key="]" line="66" column="0" />
@@ -191,13 +195,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>thi</text>
+        <text encoding="base64">Y29uc3QgcHJvY2VzcyA9IA==</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>thi</text>
+        <text encoding="base64">Y29uc3QgcHJvY2VzcyA9IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
@@ -206,36 +210,36 @@
         <text encoding="base64">Y29uc3QgU2NoZW1hID0gbW9uZ29vc2UuU2NoZW1hOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIG5ld0ZlZWRiYWNrLmJyYW5kID0gbmV3RmVlZGJhY2suY3VzdG9tZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjdXN0b21lcjogZmVlZGJhY2suY3VzdG9tZXIucGFyZW50IHx8IGZlZWRiYWNrLmN1c3RvbWVyLAogICAgICAgIGJyYW5kOiBmZWVkYmFjay5jdXN0b21lci5wYXJlbnQgPyBmZWVkYmFjay5jdXN0b21lciA6IHVuZGVmaW5lZCwK</text>
+        <text encoding="base64">ICAgIHByb2Nlc3Mub24oJ2Vycm9yJywgcmVqZWN0KTsKICAgIHByb2Nlc3Mub24oJ2V4aXQnLCByZXNvbHZlKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3RmVlZGJhY2s7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIG5ld0ZlZWRiYWNrLmJyYW5kID0gbmV3RmVlZGJhY2suY3VzdG9tZXI7Cg==</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjdXN0b21lcjogZmVlZGJhY2suY3VzdG9tZXIucGFyZW50IHx8IGZlZWRiYWNrLmN1c3RvbWVyLAogICAgICAgIGJyYW5kOiBmZWVkYmFjay5jdXN0b21lci5wYXJlbnQgPyBmZWVkYmFjay5jdXN0b21lciA6IHVuZGVmaW5lZCwK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3RmVlZGJhY2s7Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgY29uc3QK</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>{
           newFeedback.brand = undefined
         }</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBuZXdGZWVkYmFjay5jdXN0b21lciA9IG5ld0ZlZWRiYWNrLmN1c3RvbWVyLnBhcmVudCB8fCBuZXdGZWVkYmFjay5jdXN0b21lcjsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBmaW5kUGFyZW50Q3VzdG9tZXJJZkV4aXN0czogY3VzdG9tZXIgPT4gewogICAgcmV0dXJuIEN1c3RvbWVyLmZpbmRPbmUoeyBhY2NvdW50SWQ6IGN1c3RvbWVyLnBhcmVudEFjY291bnRJZCB9KTsKICB9LAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7ISFmZWVkYmFjay5jdXN0b21lciAmJgogICAgICAgICAgICA8L3NwYW4+Cg==</text>
+        <text encoding="base64">ICAgICAgICBuZXdGZWVkYmFjay5jdXN0b21lciA9IG5ld0ZlZWRiYWNrLmN1c3RvbWVyLnBhcmVudCB8fCBuZXdGZWVkYmFjay5jdXN0b21lcjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
