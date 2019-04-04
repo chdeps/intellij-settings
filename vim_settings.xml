@@ -10,6 +10,7 @@
         <mark key="^" line="42" column="41" />
         <mark key="." line="42" column="41" />
       </file>
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/lib/auth.js" timestamp="1554399220858" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/migrations/1549639506891-fix_dashboard_users_customers.js" timestamp="1554367418012" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/repositories/FeedbackRepository.js" timestamp="1554371137351">
         <mark key="[" line="8" column="19" />
@@ -18,11 +19,10 @@
       </file>
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/README.md" timestamp="1554397855222" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/SurveyFlow.js" timestamp="1554393939956" />
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/index.js" timestamp="1554398622531">
-        <mark key="[" line="612" column="21" />
-        <mark key="]" line="612" column="21" />
-        <mark key="^" line="604" column="43" />
-        <mark key="." line="612" column="21" />
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/index.js" timestamp="1554399192852">
+        <mark key="[" line="597" column="21" />
+        <mark key="]" line="597" column="21" />
+        <mark key="." line="597" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/migrations/1554135227576-add_C4C_access_in_dashboard_user.js" timestamp="1554367787047" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/index.js" timestamp="1554370843172">
@@ -56,7 +56,7 @@
         <mark key="^" line="3" column="51" />
         <mark key="." line="3" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554370848911">
+      <file name="/Dummy.txt" timestamp="1554399013507">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-plugin-make/modules/utils/execCommandFromProject.js" timestamp="1554365761318">
