@@ -4,9 +4,6 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/index.js" timestamp="1554393934992" />
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/services/userService.js" timestamp="1554277961128">
-        <mark key="[" line="32" column="32" />
-      </file>
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/pages/Survey.js" timestamp="1554393965086">
         <mark key="[" line="42" column="42" />
         <mark key="]" line="42" column="41" />
@@ -14,15 +11,46 @@
         <mark key="." line="42" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/lib/auth.js" timestamp="1554399220858" />
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/migrations/1549639506891-fix_dashboard_users_customers.js" timestamp="1554367418012" />
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Payment/payment.resolver.js" timestamp="1554404265723" />
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/README.md" timestamp="1554397855222" />
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/SurveyFlow.js" timestamp="1554393939956" />
+      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Menu/menu.data.js" timestamp="1554454627451" />
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/controllers/CustomerController.js" timestamp="1554197691774">
+        <mark key="[" line="4" column="57" />
+      </file>
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/services/analyticsService.js" timestamp="1554368131730">
+        <mark key="[" line="8" column="13" />
+        <mark key="]" line="3" column="51" />
+        <mark key="^" line="3" column="51" />
+        <mark key="." line="3" column="51" />
+      </file>
+      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Payment/payment.gql" timestamp="1554452981430" />
+      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/resolvers.js" timestamp="1554404165024" />
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/components/DashboardComponents/Header.js" timestamp="1554113480966">
+        <mark key="[" line="64" column="17" />
+      </file>
+      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/middlewares/orderUpdateWebhookMiddleware.js" timestamp="1554404103342" />
+      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Order/order.resolver.js" timestamp="1554404209690" />
+      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/TimeSlot/timeSlot.business.js" timestamp="1554450021909" />
+      <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-plugin-make/modules/utils/execCommandFromProject.js" timestamp="1554365761318">
+        <mark key="[" line="4" column="4" />
+        <mark key="]" line="4" column="4" />
+        <mark key="." line="4" column="4" />
+      </file>
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/appsettings.json" timestamp="1554368421050" />
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/repositories/DashboardUserRepository.js" timestamp="1554367303950" />
+      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Order/order.business.js" timestamp="1554454885315" />
+      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/index.js" timestamp="1554404145850" />
+      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Article/article.business.js" timestamp="1554454811160" />
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/services/userService.js" timestamp="1554277961128">
+        <mark key="[" line="32" column="32" />
+      </file>
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/migrations/1549639506891-fix_dashboard_users_customers.js" timestamp="1554367418012" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/repositories/FeedbackRepository.js" timestamp="1554371137351">
         <mark key="[" line="8" column="19" />
         <mark key="]" line="66" column="0" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/README.md" timestamp="1554397855222" />
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/SurveyFlow.js" timestamp="1554393939956" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/index.js" timestamp="1554399192852">
         <mark key="[" line="597" column="21" />
         <mark key="]" line="597" column="21" />
@@ -48,51 +76,26 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="30" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/controllers/CustomerController.js" timestamp="1554197691774">
-        <mark key="[" line="4" column="57" />
-      </file>
       <file name="$USER_HOME$/Projects/onlineApp/OnlineApp/ios/Podfile" timestamp="1554374629311">
         <mark key="[" line="8" column="35" />
         <mark key="]" line="12" column="0" />
         <mark key="^" line="8" column="35" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/services/analyticsService.js" timestamp="1554368131730">
-        <mark key="[" line="8" column="13" />
-        <mark key="]" line="3" column="51" />
-        <mark key="^" line="3" column="51" />
-        <mark key="." line="3" column="51" />
-      </file>
-      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Payment/payment.gql" timestamp="1554452981430" />
       <file name="/Dummy.txt" timestamp="1554399013507">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/resolvers.js" timestamp="1554404165024" />
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/components/DashboardComponents/Header.js" timestamp="1554113480966">
-        <mark key="[" line="64" column="17" />
-      </file>
-      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/middlewares/orderUpdateWebhookMiddleware.js" timestamp="1554404103342" />
       <file name="/GraphQL.result.json" timestamp="1554404176575">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Order/order.resolver.js" timestamp="1554404209690" />
-      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Payment/payment.business.js" timestamp="1554453164169" />
-      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/TimeSlot/timeSlot.business.js" timestamp="1554450021909" />
-      <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-plugin-make/modules/utils/execCommandFromProject.js" timestamp="1554365761318">
-        <mark key="[" line="4" column="4" />
-        <mark key="]" line="4" column="4" />
-        <mark key="." line="4" column="4" />
-      </file>
+      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Payment/payment.business.js" timestamp="1554455239839" />
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/docker-compose.yml" timestamp="1554453243733" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/lib/c4c.js" timestamp="1554390144226" />
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/appsettings.json" timestamp="1554368421050" />
-      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Payment/payment.data.js" timestamp="1554453895165" />
+      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Payment/payment.data.js" timestamp="1554455635232" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/lib/api.js" timestamp="1554397685841">
         <mark key="[" line="42" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/migrations/1545122445717-replace_dashboard_users_customers_with_array.js" timestamp="1554367736101" />
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/repositories/DashboardUserRepository.js" timestamp="1554367303950" />
-      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/index.js" timestamp="1554404145850" />
     </filemarks>
     <jumps>
       <jump line="24" column="0" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/api/models/picture/picture.types.ts" />
