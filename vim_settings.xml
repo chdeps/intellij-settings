@@ -63,6 +63,7 @@
         <mark key="^" line="3" column="51" />
         <mark key="." line="3" column="51" />
       </file>
+      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Payment/payment.gql" timestamp="1554452981430" />
       <file name="/Dummy.txt" timestamp="1554399013507">
         <mark key="[" line="0" column="0" />
       </file>
@@ -75,13 +76,14 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Order/order.resolver.js" timestamp="1554404209690" />
-      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Payment/payment.business.js" timestamp="1554449778484" />
+      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Payment/payment.business.js" timestamp="1554453164169" />
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/TimeSlot/timeSlot.business.js" timestamp="1554450021909" />
       <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-plugin-make/modules/utils/execCommandFromProject.js" timestamp="1554365761318">
         <mark key="[" line="4" column="4" />
         <mark key="]" line="4" column="4" />
         <mark key="." line="4" column="4" />
       </file>
+      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/docker-compose.yml" timestamp="1554453243733" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/lib/c4c.js" timestamp="1554390144226" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/appsettings.json" timestamp="1554368421050" />
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Payment/payment.data.js" timestamp="1554449725819" />
