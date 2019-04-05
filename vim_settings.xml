@@ -3,14 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/index.js" timestamp="1554393934992" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/pages/Survey.js" timestamp="1554393965086">
         <mark key="[" line="42" column="42" />
         <mark key="]" line="42" column="41" />
         <mark key="^" line="42" column="41" />
         <mark key="." line="42" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/lib/auth.js" timestamp="1554399220858" />
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Payment/payment.resolver.js" timestamp="1554456604522">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="6" column="2" />
@@ -18,9 +16,7 @@
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/typeDefs.gql" timestamp="1554474387927">
         <mark key="[" line="11" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/README.md" timestamp="1554397855222" />
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/SurveyFlow.js" timestamp="1554393939956" />
-      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Menu/menu.data.js" timestamp="1554480139172">
+      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Menu/menu.data.js" timestamp="1554486892704">
         <mark key="[" line="13" column="64" />
       </file>
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/db/migrations/20190405173419_make_uid_field_non_null.js" timestamp="1554478704293">
@@ -29,8 +25,7 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="15" column="13" />
       </file>
-      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Restaurant/restaurant.gql" timestamp="1554464479898" />
-      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/db/fixtures/restaurants.js" timestamp="1554479816398" />
+      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/db/fixtures/restaurants.js" timestamp="1554487375161" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/controllers/CustomerController.js" timestamp="1554197691774">
         <mark key="[" line="4" column="57" />
       </file>
@@ -53,65 +48,38 @@
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/components/DashboardComponents/Header.js" timestamp="1554113480966">
         <mark key="[" line="64" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/middlewares/orderUpdateWebhookMiddleware.js" timestamp="1554465134187" />
-      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Order/order.resolver.js" timestamp="1554404209690" />
-      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/TimeSlot/timeSlot.business.js" timestamp="1554464685780" />
-      <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-plugin-make/modules/utils/execCommandFromProject.js" timestamp="1554365761318">
-        <mark key="[" line="4" column="4" />
-        <mark key="]" line="4" column="4" />
-        <mark key="." line="4" column="4" />
-      </file>
+      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/TimeSlot/timeSlot.business.js" timestamp="1554488168467" />
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/middlewares/authMiddleware.js" timestamp="1554479486184">
         <mark key="[" line="23" column="17" />
         <mark key="]" line="23" column="17" />
         <mark key="^" line="22" column="31" />
         <mark key="." line="23" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/appsettings.json" timestamp="1554368421050" />
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/repositories/DashboardUserRepository.js" timestamp="1554367303950" />
-      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Order/order.business.js" timestamp="1554479228433">
-        <mark key="[" line="113" column="9" />
-        <mark key="]" line="122" column="34" />
-        <mark key="." line="122" column="34" />
-        <mark key="^" line="122" column="34" />
+      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Order/order.business.js" timestamp="1554489203176">
+        <mark key="[" line="88" column="23" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/index.js" timestamp="1554404145850" />
-      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Article/article.business.js" timestamp="1554458972339" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/services/userService.js" timestamp="1554277961128">
         <mark key="[" line="32" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/ExternalOrder/externalOrder.gql" timestamp="1554479095842">
+      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/ExternalOrder/externalOrder.gql" timestamp="1554490127078">
         <mark key="[" line="6" column="28" />
         <mark key="]" line="6" column="11" />
         <mark key="." line="6" column="11" />
         <mark key="^" line="6" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/migrations/1549639506891-fix_dashboard_users_customers.js" timestamp="1554367418012" />
-      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/config/default.yaml" timestamp="1554480113460">
+      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/config/default.yaml" timestamp="1554487489249">
         <mark key="[" line="68" column="2" />
         <mark key="]" line="68" column="2" />
         <mark key="." line="68" column="2" />
       </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/repositories/FeedbackRepository.js" timestamp="1554371137351">
-        <mark key="[" line="8" column="19" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/index.js" timestamp="1554399192852">
-        <mark key="[" line="597" column="21" />
-        <mark key="]" line="597" column="21" />
-        <mark key="." line="597" column="21" />
-      </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/migrations/1554135227576-add_C4C_access_in_dashboard_user.js" timestamp="1554367787047" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/index.js" timestamp="1554370843172">
         <mark key="[" line="264" column="4" />
         <mark key="]" line="262" column="8" />
         <mark key="^" line="262" column="8" />
         <mark key="." line="262" column="8" />
       </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/components/Button.js" timestamp="1554364677598" />
-      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/lib/timeSlot.js" timestamp="1554464691385" />
-      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/User/user.business.js" timestamp="1554468955325" />
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/db/migrations/20181018200201_nullable_collectioncode.js" timestamp="1554478494804">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="17" column="2" />
@@ -149,36 +117,36 @@
         <mark key="^" line="8" column="35" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554479348968">
+      <file name="/Dummy.txt" timestamp="1554489421921">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Restaurant/restaurant.business.js" timestamp="1554467323029">
+      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Restaurant/restaurant.business.js" timestamp="1554487801199">
         <mark key="[" line="64" column="58" />
         <mark key="]" line="64" column="39" />
         <mark key="^" line="64" column="39" />
         <mark key="." line="64" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/ExternalOrder/externalOrder.business.js" timestamp="1554479682156">
-        <mark key="[" line="9" column="13" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="92" column="0" />
+      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/ExternalOrder/externalOrder.business.js" timestamp="1554489082515">
+        <mark key="[" line="29" column="46" />
+        <mark key="]" line="29" column="46" />
+        <mark key="." line="29" column="46" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1554404176575">
+      <file name="/GraphQL.result.json" timestamp="1554487793757">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/docker-compose.yml" timestamp="1554453243733" />
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/lib/c4c.js" timestamp="1554390144226" />
+      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/config/prod.yaml" timestamp="1554486357587" />
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/ExternalOrder/externalOrder.resolver.js" timestamp="1554479091399">
         <mark key="[" line="4" column="6" />
         <mark key="]" line="0" column="55" />
         <mark key="." line="0" column="55" />
         <mark key="^" line="0" column="53" />
       </file>
-      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Order/order.data.js" timestamp="1554475189713" />
-      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Payment/payment.data.js" timestamp="1554479735274">
+      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Order/order.data.js" timestamp="1554489068065">
+        <mark key="[" line="34" column="3" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Payment/payment.data.js" timestamp="1554489479876">
         <mark key="[" line="44" column="30" />
         <mark key="]" line="44" column="30" />
         <mark key="." line="44" column="30" />
@@ -187,13 +155,11 @@
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/lib/api.js" timestamp="1554397685841">
         <mark key="[" line="42" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/migrations/1545122445717-replace_dashboard_users_customers_with_array.js" timestamp="1554367736101" />
-      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Menu/lib.js" timestamp="1554470671241">
+      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Menu/lib.js" timestamp="1554487314048">
         <mark key="[" line="16" column="93" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="27" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/api/repositories/reveals/reveals.sagas.ts" />
       <jump line="0" column="20" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/messages/reducer.ts" />
       <jump line="0" column="26" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/reveals/saga.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/messages/saga.ts" />
@@ -293,52 +259,53 @@
       <jump line="0" column="15" filename="$USER_HOME$/Projects/Faurecia/customer-satisfaction/migrations/1554128851626-add_parent_account_id.js" />
       <jump line="5" column="20" filename="$USER_HOME$/Projects/onlineApp/OnlineApp/ios/Podfile" />
       <jump line="0" column="7" filename="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Payment/payment.business.js" />
+      <jump line="48" column="58" filename="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Order/order.business.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLmRlZmF1bHRUbygxKTsK</text>
+        <text encoding="base64">UGFzcyB0aGUgcmVzdGF1cmFudCBpZAo=</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>collectionCode</text>
+        <text>hasBeenOrdere</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZXhwb3J0cy51cCA9IGZ1bmN0aW9uKGtuZXgsIFByb21pc2UpIHsKICByZXR1cm4ga25leC5zY2hlbWEuYWx0ZXJUYWJsZSgnb3JkZXJzJywgZnVuY3Rpb24odGFibGUpIHsKICAgIHRhYmxlCiAgICAgIC5pbnRlZ2VyKCdjb2xsZWN0aW9uQ29kZScpCiAgICAgIC5hbHRlcigpCiAgICAgIC5udWxsYWJsZSgpCiAgICAgIC5kZWZhdWx0VG8obnVsbCk7CiAgfSk7Cn07CgpleHBvcnRzLmRvd24gPSBmdW5jdGlvbihrbmV4LCBQcm9taXNlKSB7CiAgcmV0dXJuIGtuZXguc2NoZW1hLmFsdGVyVGFibGUoJ29yZGVycycsIGZ1bmN0aW9uKHRhYmxlKSB7CiAgICB0YWJsZQogICAgICAuaW50ZWdlcignY29sbGVjdGlvbkNvZGUnKQogICAgICAuYWx0ZXIoKQogICAgICAuZGVmYXVsdFRvKDEpOwogIH0pOwp9Owo=</text>
+        <text encoding="base64">ICBzdGF0aWMgYXN5bmMgZ2V0T3JkZXJCeUlkKGlkOiBzdHJpbmcpIHsKICAgIHJldHVybiBkYgogICAgICAuZmlyc3QoKQogICAgICAudGFibGUoJ29yZGVycycpCiAgICAgIC53aGVyZSgnaWQnLCBpZCk7CiAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLmRlZmF1bHRUbygxKTsK</text>
+        <text encoding="base64">UGFzcyB0aGUgcmVzdGF1cmFudCBpZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgc3RhdGljIGFzeW5jIGdldE9yZGVyQnlVc2VyVW5pcXVlQ2hhcmdlSWQoewogICAgdXNlclVuaXF1ZUNoYXJnZUlkLAogICAgdXNlclVpZCwKICB9OiB7CiAgICB1c2VyVW5pcXVlQ2hhcmdlSWQ6IHN0cmluZywKICAgIHVzZXJVaWQ6IHN0cmluZywKICB9KSB7CiAgICByZXR1cm4gZGIKICAgICAgLmZpcnN0KCkKICAgICAgLnRhYmxlKCdvcmRlcnMnKQogICAgICAud2hlcmUoJ3VuaXF1ZUNoYXJnZUlkJywgdXNlclVuaXF1ZUNoYXJnZUlkKQogICAgICAud2hlcmUoJ3VzZXJVaWQnLCB1c2VyVWlkKTsKICB9Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLm5vbk51bGxhYmxlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXhwb3J0cy51cCA9IGZ1bmN0aW9uKGtuZXgsIFByb21pc2UpIHt9OwoKZXhwb3J0cy5kb3duID0gZnVuY3Rpb24oa25leCwgUHJvbWlzZSkge307Cg==</text>
+        <text encoding="base64">ICBzdGF0aWMgYXN5bmMgZ2V0QnlVc2VyVWlkQW5kVXNlclVuaXF1ZUNoYXJnZUlkKHVzZXJVaWQ6IHN0cmluZywgdXNlclVuaXF1ZUNoYXJnZUlkOiBzdHJpbmcpIHsKICAgIHJldHVybiBkYgogICAgICAuZmlyc3QoKQogICAgICAudGFibGUoJ29yZGVycycpCiAgICAgIC53aGVyZSh7IHVzZXJVaWQsIHVzZXJVbmlxdWVDaGFyZ2VJZCB9KTsKICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IFVzZXIgZnJvbSAnLi4vVXNlci91c2VyLmJ1c2luZXNzJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBzdGF0aWMgYXN5bmMgdGlwKHsgYW1vdW50LCByZXN0YXVyYW50IH0sIGN0eCkgewogICAgaWYgKCFjdHgudXNlci51aWQpIHRocm93IG5ldyBFcnJvcignVU5BVVRIT1JJWkVEJyk7CgogICAgY29uc3QgeyBzdHJpcGVJZCB9ID0gYXdhaXQgVXNlci5maW5kT3JDcmVhdGUoY3R4LnVzZXIudWlkKTsKICAgIGlmICghc3RyaXBlSWQpIHRocm93IG5ldyBFcnJvcignSEFTX05PX1BBWU1FTlRfQUNDT1VOVCcpOwoKICAgIHJldHVybiBEYXRhLmNoYXJnZUN1c3RvbWVyKHsKICAgICAgc3RyaXBlSWQsCiAgICAgIGFtb3VudCwKICAgICAgcmVzdGF1cmFudElkOiByZXN0YXVyYW50LmlkLAogICAgICBtZXRhZGF0YTogeyB0aXA6IHRydWUgfSwKICAgIH0pOwogIH0K</text>
+        <text encoding="base64">ICBzdGF0aWMgYXN5bmMgaGFzQmVlbk9yZGVyZWQoeyB1c2VyVW5pcXVlQ2hhcmdlSWQsIHVzZXJVaWQgfSkgewogICAgY29uc3Qgb3JkZXIgPSBhd2FpdCBEYXRhLmdldE9yZGVyQnlVc2VyVW5pcXVlQ2hhcmdlSWQoeyB1c2VyVW5pcXVlQ2hhcmdlSWQsIHVzZXJVaWQgfSk7CiAgICByZXR1cm4gISFvcmRlcjsKICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdGhyb3cgbmV3IEVycm9yKCdPUkRFUl9GQUlMRUQnKTsK</text>
+        <text encoding="base64">ICAgIH0gZWxzZSB7CiAgICAgIGRhdGEgPSBhd2FpdCBEYXRhLmNyZWF0ZU9yZGVyKHsKICAgICAgICBzdGF0dXM6ICdJTklUJywKICAgICAgICByZXN0YXVyYW50SWQ6IGFyZ3MucmVzdGF1cmFudElkLAogICAgICAgIHRvdGFsUHJpY2U6IGFyZ3MudG90YWxQcmljZSwKICAgICAgICB1c2VyVW5pcXVlQ2hhcmdlSWQ6IGFyZ3MudXNlclVuaXF1ZUNoYXJnZUlkLAogICAgICB9KTsKICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBzdGF0dXM6ICdJTklUJywKICAgICAgICByZXN0YXVyYW50SWQ6IGFyZ3MucmVzdGF1cmFudElkLAogICAgICAgIHRvdGFsUHJpY2U6IGFyZ3MudG90YWxQcmljZSwKICAgICAgICBjb2xsZWN0aW9uQ29kZTogYXJncy5jb2xsZWN0aW9uQ29kZSwKICAgICAgICB1c2VyVW5pcXVlQ2hhcmdlSWQ6IGFyZ3MudXNlclVuaXF1ZUNoYXJnZUlkLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGFyZ3Muc2NoZWR1bGVkVGltZUZvck9yZGVyQXNJc284NjAxKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICB1c2VyVWlkOiB1c2VyLnVpZCwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
