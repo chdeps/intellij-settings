@@ -15,12 +15,18 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="6" column="2" />
       </file>
+      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/typeDefs.gql" timestamp="1554474387927">
+        <mark key="[" line="11" column="33" />
+      </file>
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/README.md" timestamp="1554397855222" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/SurveyFlow.js" timestamp="1554393939956" />
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Menu/menu.data.js" timestamp="1554470710227">
         <mark key="[" line="13" column="64" />
       </file>
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Restaurant/restaurant.gql" timestamp="1554464479898" />
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/controllers/CustomerController.js" timestamp="1554197691774">
+        <mark key="[" line="4" column="57" />
+      </file>
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/services/analyticsService.js" timestamp="1554368131730">
         <mark key="[" line="8" column="13" />
         <mark key="]" line="3" column="51" />
@@ -36,6 +42,9 @@
         <mark key="]" line="15" column="74" />
         <mark key="^" line="15" column="74" />
         <mark key="." line="15" column="74" />
+      </file>
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/components/DashboardComponents/Header.js" timestamp="1554113480966">
+        <mark key="[" line="64" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/middlewares/orderUpdateWebhookMiddleware.js" timestamp="1554465134187" />
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Order/order.resolver.js" timestamp="1554404209690" />
@@ -53,14 +62,17 @@
       </file>
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/appsettings.json" timestamp="1554368421050" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/repositories/DashboardUserRepository.js" timestamp="1554367303950" />
-      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Order/order.business.js" timestamp="1554471440285">
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="110" column="0" />
-        <mark key="^" line="107" column="7" />
-        <mark key="." line="110" column="0" />
+      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Order/order.business.js" timestamp="1554474324649">
+        <mark key="[" line="85" column="36" />
+        <mark key="]" line="117" column="34" />
+        <mark key="." line="117" column="34" />
+        <mark key="^" line="117" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/index.js" timestamp="1554404145850" />
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Article/article.business.js" timestamp="1554458972339" />
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/services/userService.js" timestamp="1554277961128">
+        <mark key="[" line="32" column="32" />
+      </file>
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/ExternalOrder/externalOrder.gql" timestamp="1554472256128">
         <mark key="[" line="6" column="28" />
         <mark key="]" line="6" column="11" />
@@ -123,7 +135,7 @@
         <mark key="^" line="8" column="35" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554472738298">
+      <file name="/Dummy.txt" timestamp="1554474478748">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Restaurant/restaurant.business.js" timestamp="1554467323029">
@@ -132,11 +144,14 @@
         <mark key="^" line="64" column="39" />
         <mark key="." line="64" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/ExternalOrder/externalOrder.business.js" timestamp="1554472648666">
-        <mark key="[" line="12" column="18" />
-        <mark key="]" line="12" column="18" />
-        <mark key="." line="12" column="18" />
-        <mark key="^" line="11" column="31" />
+      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/ExternalOrder/externalOrder.business.js" timestamp="1554474101322">
+        <mark key="[" line="1" column="24" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="3" column="40" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1554404176575">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Payment/payment.business.js" timestamp="1554467566849">
         <mark key="'" line="0" column="7" />
@@ -152,7 +167,7 @@
         <mark key="^" line="4" column="53" />
       </file>
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Order/order.data.js" timestamp="1554465144266" />
-      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Payment/payment.data.js" timestamp="1554471184743">
+      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Payment/payment.data.js" timestamp="1554473664198">
         <mark key="[" line="44" column="30" />
         <mark key="]" line="44" column="30" />
         <mark key="." line="44" column="30" />
@@ -269,8 +284,8 @@
       <jump line="0" column="7" filename="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Payment/payment.business.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>uid</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGlmKGNvbGxlY3Rpb25Db2RlKSB0aGlzLmNvbGxlY3Rpb25Db2RlID0gY29sbGVjdGlvbkNvZGU7CiAgICBlbHNlIHsKICAgICAgCiAgICB9Cg==</text>
       </register>
       <register name="d" type="4">
         <text />
@@ -285,34 +300,34 @@
         <text encoding="base64">aW5wdXQgQ2FydEFydGljbGVJbnB1dCB7CiAgYXJ0aWNsZUlkOiBJRCEKICBxdWFudGl0eTogSW50IQp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmKGNvbGxlY3Rpb25Db2RlKSB0aGlzLmNvbGxlY3Rpb25Db2RlID0gY29sbGVjdGlvbkNvZGU7CiAgICBlbHNlIHsKICAgICAgCiAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBhcnRpY2xlSWQ6IElEIQogIHF1YW50aXR5OiBJbnQhCg==</text>
+        <text encoding="base64">aW1wb3J0IERhdGEgZnJvbSAnLi9wYXltZW50LmRhdGEnOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNjaGVkdWxlZFRpbWVGb3JPcmRlckFzSXNvODYwMTogRGF0ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CmlucHV0IENhcnRBcnRpY2xlSW5wdXQgewogIGFydGljbGVJZDogSUQhCiAgcXVhbnRpdHk6IEludCEKfQo=</text>
+        <text encoding="base64">ICBhcnRpY2xlSWQ6IElEIQogIHF1YW50aXR5OiBJbnQhCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNhcmRJZDogSUQhCiAgICByZXN0YXVyYW50SWQ6IElEIQogICAgY2FydDogW0NhcnRBcnRpY2xlSW5wdXRdCiAgICB0b3RhbFByaWNlOiBJbnQKICAgIHVzZXJVbmlxdWVDaGFyZ2VJZDogU3RyaW5nCiAgICB0aW1lU2xvdDogRGF0ZQo=</text>
+        <text encoding="base64">ICAgIHNjaGVkdWxlZFRpbWVGb3JPcmRlckFzSXNvODYwMTogRGF0ZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbmZpZyBmcm9tICdjb25maWcnOwo=</text>
+        <text encoding="base64">CmlucHV0IENhcnRBcnRpY2xlSW5wdXQgewogIGFydGljbGVJZDogSUQhCiAgcXVhbnRpdHk6IEludCEKfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IE9yZGVyRGF0YSBmcm9tICcuLi9PcmRlci9vcmRlci5kYXRhJzsK</text>
+        <text encoding="base64">ICAgIGNhcmRJZDogSUQhCiAgICByZXN0YXVyYW50SWQ6IElEIQogICAgY2FydDogW0NhcnRBcnRpY2xlSW5wdXRdCiAgICB0b3RhbFByaWNlOiBJbnQKICAgIHVzZXJVbmlxdWVDaGFyZ2VJZDogU3RyaW5nCiAgICB0aW1lU2xvdDogRGF0ZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LmlkZWEvd29ya3NwYWNlLnhtbAouaWRlYS90YXNrcy54bWwKLmlkZWEvZ3JhZGxlLnhtbAouaWRlYS9kaWN0aW9uYXJpZXMKLmlkZWEvbGlicmFyaWVzCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbmZpZyBmcm9tICdjb25maWcnOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IE9yZGVyRGF0YSBmcm9tICcuLi9PcmRlci9vcmRlci5kYXRhJzsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
