@@ -20,10 +20,17 @@
       </file>
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/README.md" timestamp="1554397855222" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/SurveyFlow.js" timestamp="1554393939956" />
-      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Menu/menu.data.js" timestamp="1554470710227">
+      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Menu/menu.data.js" timestamp="1554480139172">
         <mark key="[" line="13" column="64" />
       </file>
+      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/db/migrations/20190405173419_make_uid_field_non_null.js" timestamp="1554478704293">
+        <mark key="[" line="15" column="14" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="15" column="13" />
+      </file>
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Restaurant/restaurant.gql" timestamp="1554464479898" />
+      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/db/fixtures/restaurants.js" timestamp="1554479816398" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/controllers/CustomerController.js" timestamp="1554197691774">
         <mark key="[" line="4" column="57" />
       </file>
@@ -54,7 +61,7 @@
         <mark key="]" line="4" column="4" />
         <mark key="." line="4" column="4" />
       </file>
-      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/middlewares/authMiddleware.js" timestamp="1554470181462">
+      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/middlewares/authMiddleware.js" timestamp="1554479486184">
         <mark key="[" line="23" column="17" />
         <mark key="]" line="23" column="17" />
         <mark key="^" line="22" column="31" />
@@ -62,7 +69,7 @@
       </file>
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/appsettings.json" timestamp="1554368421050" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/repositories/DashboardUserRepository.js" timestamp="1554367303950" />
-      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Order/order.business.js" timestamp="1554475989986">
+      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Order/order.business.js" timestamp="1554479228433">
         <mark key="[" line="113" column="9" />
         <mark key="]" line="122" column="34" />
         <mark key="." line="122" column="34" />
@@ -73,14 +80,14 @@
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/services/userService.js" timestamp="1554277961128">
         <mark key="[" line="32" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/ExternalOrder/externalOrder.gql" timestamp="1554475858000">
+      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/ExternalOrder/externalOrder.gql" timestamp="1554479095842">
         <mark key="[" line="6" column="28" />
         <mark key="]" line="6" column="11" />
         <mark key="." line="6" column="11" />
         <mark key="^" line="6" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/migrations/1549639506891-fix_dashboard_users_customers.js" timestamp="1554367418012" />
-      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/config/default.yaml" timestamp="1554468257170">
+      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/config/default.yaml" timestamp="1554480113460">
         <mark key="[" line="68" column="2" />
         <mark key="]" line="68" column="2" />
         <mark key="." line="68" column="2" />
@@ -105,6 +112,10 @@
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/components/Button.js" timestamp="1554364677598" />
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/lib/timeSlot.js" timestamp="1554464691385" />
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/User/user.business.js" timestamp="1554468955325" />
+      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/db/migrations/20181018200201_nullable_collectioncode.js" timestamp="1554478494804">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="17" column="2" />
+      </file>
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/components/DashboardComponents/FeedbackItem/FeedbackItem.js" timestamp="1554371380843">
         <mark key="[" line="161" column="4" />
         <mark key="]" line="124" column="0" />
@@ -138,7 +149,7 @@
         <mark key="^" line="8" column="35" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554476088756">
+      <file name="/Dummy.txt" timestamp="1554479348968">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -149,8 +160,8 @@
         <mark key="^" line="64" column="39" />
         <mark key="." line="64" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/ExternalOrder/externalOrder.business.js" timestamp="1554476023368">
-        <mark key="[" line="3" column="0" />
+      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/ExternalOrder/externalOrder.business.js" timestamp="1554479682156">
+        <mark key="[" line="9" column="13" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="92" column="0" />
@@ -158,21 +169,16 @@
       <file name="/GraphQL.result.json" timestamp="1554404176575">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Payment/payment.business.js" timestamp="1554467566849">
-        <mark key="'" line="0" column="7" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="70" />
-      </file>
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/docker-compose.yml" timestamp="1554453243733" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/lib/c4c.js" timestamp="1554390144226" />
-      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/ExternalOrder/externalOrder.resolver.js" timestamp="1554471712852">
-        <mark key="[" line="4" column="55" />
-        <mark key="]" line="4" column="55" />
-        <mark key="." line="4" column="55" />
-        <mark key="^" line="4" column="53" />
+      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/ExternalOrder/externalOrder.resolver.js" timestamp="1554479091399">
+        <mark key="[" line="4" column="6" />
+        <mark key="]" line="0" column="55" />
+        <mark key="." line="0" column="55" />
+        <mark key="^" line="0" column="53" />
       </file>
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Order/order.data.js" timestamp="1554475189713" />
-      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Payment/payment.data.js" timestamp="1554473664198">
+      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Payment/payment.data.js" timestamp="1554479735274">
         <mark key="[" line="44" column="30" />
         <mark key="]" line="44" column="30" />
         <mark key="." line="44" column="30" />
@@ -289,50 +295,50 @@
       <jump line="0" column="7" filename="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Payment/payment.business.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Implementation of hasBeenOrdered</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgLmRlZmF1bHRUbygxKTsK</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Implementation of hasBeenOrdered</text>
+        <text>collectionCode</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW5wdXQgQ2FydEFydGljbGVJbnB1dCB7CiAgYXJ0aWNsZUlkOiBJRCEKICBxdWFudGl0eTogSW50IQp9Cg==</text>
+        <text encoding="base64">ZXhwb3J0cy51cCA9IGZ1bmN0aW9uKGtuZXgsIFByb21pc2UpIHsKICByZXR1cm4ga25leC5zY2hlbWEuYWx0ZXJUYWJsZSgnb3JkZXJzJywgZnVuY3Rpb24odGFibGUpIHsKICAgIHRhYmxlCiAgICAgIC5pbnRlZ2VyKCdjb2xsZWN0aW9uQ29kZScpCiAgICAgIC5hbHRlcigpCiAgICAgIC5udWxsYWJsZSgpCiAgICAgIC5kZWZhdWx0VG8obnVsbCk7CiAgfSk7Cn07CgpleHBvcnRzLmRvd24gPSBmdW5jdGlvbihrbmV4LCBQcm9taXNlKSB7CiAgcmV0dXJuIGtuZXguc2NoZW1hLmFsdGVyVGFibGUoJ29yZGVycycsIGZ1bmN0aW9uKHRhYmxlKSB7CiAgICB0YWJsZQogICAgICAuaW50ZWdlcignY29sbGVjdGlvbkNvZGUnKQogICAgICAuYWx0ZXIoKQogICAgICAuZGVmYXVsdFRvKDEpOwogIH0pOwp9Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IFVzZXIgZnJvbSAnLi4vVXNlci91c2VyLmJ1c2luZXNzJzsK</text>
+        <text encoding="base64">ICAgICAgLmRlZmF1bHRUbygxKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBzdGF0aWMgYXN5bmMgdGlwKHsgYW1vdW50LCByZXN0YXVyYW50IH0sIGN0eCkgewogICAgaWYgKCFjdHgudXNlci51aWQpIHRocm93IG5ldyBFcnJvcignVU5BVVRIT1JJWkVEJyk7CgogICAgY29uc3QgeyBzdHJpcGVJZCB9ID0gYXdhaXQgVXNlci5maW5kT3JDcmVhdGUoY3R4LnVzZXIudWlkKTsKICAgIGlmICghc3RyaXBlSWQpIHRocm93IG5ldyBFcnJvcignSEFTX05PX1BBWU1FTlRfQUNDT1VOVCcpOwoKICAgIHJldHVybiBEYXRhLmNoYXJnZUN1c3RvbWVyKHsKICAgICAgc3RyaXBlSWQsCiAgICAgIGFtb3VudCwKICAgICAgcmVzdGF1cmFudElkOiByZXN0YXVyYW50LmlkLAogICAgICBtZXRhZGF0YTogeyB0aXA6IHRydWUgfSwKICAgIH0pOwogIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdGhyb3cgbmV3IEVycm9yKCdPUkRFUl9GQUlMRUQnKTsK</text>
+        <text encoding="base64">ICAgICAgLm5vbk51bGxhYmxlCg==</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ZXhwb3J0cy51cCA9IGZ1bmN0aW9uKGtuZXgsIFByb21pc2UpIHt9OwoKZXhwb3J0cy5kb3duID0gZnVuY3Rpb24oa25leCwgUHJvbWlzZSkge307Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGFyZ3Muc2NoZWR1bGVkVGltZUZvck9yZGVyQXNJc284NjAxKSB7Cg==</text>
+        <text encoding="base64">aW1wb3J0IFVzZXIgZnJvbSAnLi4vVXNlci91c2VyLmJ1c2luZXNzJzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmKGNvbGxlY3Rpb25Db2RlKSB0aGlzLmNvbGxlY3Rpb25Db2RlID0gY29sbGVjdGlvbkNvZGU7CiAgICBlbHNlIHsKICAgICAgCiAgICB9Cg==</text>
+        <text encoding="base64">ICBzdGF0aWMgYXN5bmMgdGlwKHsgYW1vdW50LCByZXN0YXVyYW50IH0sIGN0eCkgewogICAgaWYgKCFjdHgudXNlci51aWQpIHRocm93IG5ldyBFcnJvcignVU5BVVRIT1JJWkVEJyk7CgogICAgY29uc3QgeyBzdHJpcGVJZCB9ID0gYXdhaXQgVXNlci5maW5kT3JDcmVhdGUoY3R4LnVzZXIudWlkKTsKICAgIGlmICghc3RyaXBlSWQpIHRocm93IG5ldyBFcnJvcignSEFTX05PX1BBWU1FTlRfQUNDT1VOVCcpOwoKICAgIHJldHVybiBEYXRhLmNoYXJnZUN1c3RvbWVyKHsKICAgICAgc3RyaXBlSWQsCiAgICAgIGFtb3VudCwKICAgICAgcmVzdGF1cmFudElkOiByZXN0YXVyYW50LmlkLAogICAgICBtZXRhZGF0YTogeyB0aXA6IHRydWUgfSwKICAgIH0pOwogIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IERhdGEgZnJvbSAnLi9wYXltZW50LmRhdGEnOwo=</text>
+        <text encoding="base64">ICAgICAgdGhyb3cgbmV3IEVycm9yKCdPUkRFUl9GQUlMRUQnKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBhcnRpY2xlSWQ6IElEIQogIHF1YW50aXR5OiBJbnQhCg==</text>
+        <text encoding="base64">ICAgICAgaWYgKGFyZ3Muc2NoZWR1bGVkVGltZUZvck9yZGVyQXNJc284NjAxKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
