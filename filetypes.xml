@@ -18,6 +18,7 @@
       <mapping ext="gradle" type="PLAIN_TEXT" />
       <mapping ext="java" type="PLAIN_TEXT" />
       <mapping ext="tab" type="PLAIN_TEXT" />
+      <mapping ext="gql" type="PLAIN_TEXT" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
       <mapping ext="pbxproj" type="PLAIN_TEXT" />
     </extensionMap>
