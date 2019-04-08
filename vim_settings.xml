@@ -3,65 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/services/userService.js" timestamp="1554277961128">
+        <mark key="[" line="32" column="32" />
+      </file>
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/pages/Survey.js" timestamp="1554393965086">
         <mark key="[" line="42" column="42" />
         <mark key="]" line="42" column="41" />
         <mark key="^" line="42" column="41" />
         <mark key="." line="42" column="41" />
-      </file>
-      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Payment/payment.resolver.js" timestamp="1554456604522">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="6" column="2" />
-      </file>
-      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/typeDefs.gql" timestamp="1554474387927">
-        <mark key="[" line="11" column="33" />
-      </file>
-      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Menu/menu.data.js" timestamp="1554486892704">
-        <mark key="[" line="13" column="64" />
-      </file>
-      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/db/migrations/20190405173419_make_uid_field_non_null.js" timestamp="1554478704293">
-        <mark key="[" line="15" column="14" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="15" column="13" />
-      </file>
-      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/db/fixtures/restaurants.js" timestamp="1554487375161" />
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/controllers/CustomerController.js" timestamp="1554197691774">
-        <mark key="[" line="4" column="57" />
-      </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/services/analyticsService.js" timestamp="1554368131730">
-        <mark key="[" line="8" column="13" />
-        <mark key="]" line="3" column="51" />
-        <mark key="^" line="3" column="51" />
-        <mark key="." line="3" column="51" />
-      </file>
-      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Payment/payment.gql" timestamp="1554472159161">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="14" column="1" />
-      </file>
-      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/resolvers.js" timestamp="1554472472317">
-        <mark key="[" line="28" column="6" />
-        <mark key="]" line="15" column="74" />
-        <mark key="^" line="15" column="74" />
-        <mark key="." line="15" column="74" />
-      </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/components/DashboardComponents/Header.js" timestamp="1554113480966">
-        <mark key="[" line="64" column="17" />
-      </file>
-      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/TimeSlot/timeSlot.business.js" timestamp="1554488168467" />
-      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/middlewares/authMiddleware.js" timestamp="1554479486184">
-        <mark key="[" line="23" column="17" />
-        <mark key="]" line="23" column="17" />
-        <mark key="^" line="22" column="31" />
-        <mark key="." line="23" column="17" />
-      </file>
-      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Order/order.business.js" timestamp="1554489203176">
-        <mark key="[" line="88" column="23" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/services/userService.js" timestamp="1554277961128">
-        <mark key="[" line="32" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/ExternalOrder/externalOrder.gql" timestamp="1554490836101">
         <mark key="[" line="6" column="28" />
@@ -69,10 +18,17 @@
         <mark key="." line="6" column="11" />
         <mark key="^" line="6" column="11" />
       </file>
+      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Payment/payment.resolver.js" timestamp="1554456604522">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="6" column="2" />
+      </file>
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/config/default.yaml" timestamp="1554487489249">
         <mark key="[" line="68" column="2" />
         <mark key="]" line="68" column="2" />
         <mark key="." line="68" column="2" />
+      </file>
+      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/typeDefs.gql" timestamp="1554474387927">
+        <mark key="[" line="11" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/index.js" timestamp="1554370843172">
         <mark key="[" line="264" column="4" />
@@ -84,6 +40,9 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="17" column="2" />
       </file>
+      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Menu/menu.data.js" timestamp="1554486892704">
+        <mark key="[" line="13" column="64" />
+      </file>
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/components/DashboardComponents/FeedbackItem/FeedbackItem.js" timestamp="1554371380843">
         <mark key="[" line="161" column="4" />
         <mark key="]" line="124" column="0" />
@@ -92,6 +51,12 @@
       </file>
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/build/main.js" timestamp="1554475963292">
         <mark key="[" line="643" column="21" />
+      </file>
+      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/db/migrations/20190405173419_make_uid_field_non_null.js" timestamp="1554478704293">
+        <mark key="[" line="15" column="14" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="15" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/.gitignore" timestamp="1554471562900">
         <mark key="[" line="209" column="0" />
@@ -111,14 +76,33 @@
         <mark key="." line="34" column="45" />
         <mark key="^" line="34" column="45" />
       </file>
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/controllers/CustomerController.js" timestamp="1554197691774">
+        <mark key="[" line="4" column="57" />
+      </file>
       <file name="$USER_HOME$/Projects/onlineApp/OnlineApp/ios/Podfile" timestamp="1554374629311">
         <mark key="[" line="8" column="35" />
         <mark key="]" line="12" column="0" />
         <mark key="^" line="8" column="35" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/services/analyticsService.js" timestamp="1554368131730">
+        <mark key="[" line="8" column="13" />
+        <mark key="]" line="3" column="51" />
+        <mark key="^" line="3" column="51" />
+        <mark key="." line="3" column="51" />
+      </file>
+      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Payment/payment.gql" timestamp="1554472159161">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="14" column="1" />
+      </file>
       <file name="/Dummy.txt" timestamp="1554489421921">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/resolvers.js" timestamp="1554472472317">
+        <mark key="[" line="28" column="6" />
+        <mark key="]" line="15" column="74" />
+        <mark key="^" line="15" column="74" />
+        <mark key="." line="15" column="74" />
       </file>
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Restaurant/restaurant.business.js" timestamp="1554487801199">
         <mark key="[" line="64" column="58" />
@@ -126,7 +110,10 @@
         <mark key="^" line="64" column="39" />
         <mark key="." line="64" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/ExternalOrder/externalOrder.business.js" timestamp="1554489082515">
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/components/DashboardComponents/Header.js" timestamp="1554113480966">
+        <mark key="[" line="64" column="17" />
+      </file>
+      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/ExternalOrder/externalOrder.business.js" timestamp="1554714358858">
         <mark key="[" line="29" column="46" />
         <mark key="]" line="29" column="46" />
         <mark key="." line="29" column="46" />
@@ -134,7 +121,12 @@
       <file name="/GraphQL.result.json" timestamp="1554487793757">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/config/prod.yaml" timestamp="1554486357587" />
+      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/middlewares/authMiddleware.js" timestamp="1554479486184">
+        <mark key="[" line="23" column="17" />
+        <mark key="]" line="23" column="17" />
+        <mark key="^" line="22" column="31" />
+        <mark key="." line="23" column="17" />
+      </file>
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/ExternalOrder/externalOrder.resolver.js" timestamp="1554479091399">
         <mark key="[" line="4" column="6" />
         <mark key="]" line="0" column="55" />
@@ -154,6 +146,11 @@
       </file>
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/lib/api.js" timestamp="1554397685841">
         <mark key="[" line="42" column="15" />
+      </file>
+      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Order/order.business.js" timestamp="1554714490040">
+        <mark key="[" line="88" column="23" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Menu/lib.js" timestamp="1554487314048">
         <mark key="[" line="16" column="93" />
