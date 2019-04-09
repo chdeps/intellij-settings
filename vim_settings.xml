@@ -28,17 +28,17 @@
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/build/main.js" timestamp="1554475963292">
         <mark key="[" line="643" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/repositories/CustomerRepository.js" timestamp="1554814806469">
-        <mark key="[" line="42" column="15" />
-        <mark key="]" line="42" column="15" />
-        <mark key="." line="42" column="15" />
-        <mark key="^" line="33" column="47" />
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/repositories/CustomerRepository.js" timestamp="1554815120955">
+        <mark key="[" line="51" column="28" />
+        <mark key="]" line="51" column="28" />
+        <mark key="." line="51" column="11" />
+        <mark key="^" line="51" column="10" />
       </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/controllers/UserController.js" timestamp="1554803048807">
-        <mark key="[" line="30" column="17" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="30" column="16" />
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/controllers/UserController.js" timestamp="1554815196442">
+        <mark key="[" line="33" column="16" />
+        <mark key="]" line="33" column="16" />
+        <mark key="." line="33" column="16" />
+        <mark key="^" line="31" column="77" />
       </file>
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/controllers/CustomerController.js" timestamp="1554803902940">
         <mark key="[" line="23" column="0" />
@@ -187,19 +187,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>reportingHierarchy</text>
+        <text>user.customer</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>reportingHierarchy</text>
+        <text>user.customer</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBzdGF0aWMgYXN5bmMgZ2V0T3JkZXJCeUlkKGlkOiBzdHJpbmcpIHsKICAgIHJldHVybiBkYgogICAgICAuZmlyc3QoKQogICAgICAudGFibGUoJ29yZGVycycpCiAgICAgIC53aGVyZSgnaWQnLCBpZCk7CiAgfQo=</text>
+      <register name="0" type="4">
+        <text>customerWithHierarchy</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBnZXRQYXJlbnRDdXN0b21lcjogY3VzdG9tZXIgPT4gewogICAgcmV0dXJuIGN1c3RvbWVyUmVwb3NpdG9yeS5jb2xsZWN0aW9uLgogIH0sCg==</text>
