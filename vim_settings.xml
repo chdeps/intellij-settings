@@ -3,7 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/App.js" timestamp="1554904747398" />
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/App.js" timestamp="1554907885444">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="23" column="17" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/modules/payment/saga.ts" timestamp="1554814493453" />
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/typeDefs.gql" timestamp="1554474387927">
         <mark key="[" line="11" column="33" />
@@ -206,8 +211,8 @@
       <jump line="48" column="58" filename="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Order/order.business.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'https://api.cognitive.microsofttranslator.com/'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPFJvdXRlPgo=</text>
       </register>
       <register name="d" type="4">
         <text />
@@ -222,10 +227,10 @@
         <text>customerWithHierarchy[0]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJFTkRQT0lOVCIgOiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFJvdXRlPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGluamVjdFNoZWV0IGZyb20gJ3JlYWN0LWpzcyc7Cg==</text>
+        <text encoding="base64">ICAgICJFTkRQT0lOVCIgOiAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">aW1wb3J0IGluamVjdFNoZWV0IGZyb20gJ3JlYWN0LWpzcyc7Cg==</text>
@@ -234,22 +239,22 @@
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnSEVMTE8nLCB1c2VyVWlkKTsK</text>
+        <text encoding="base64">aW1wb3J0IGluamVjdFNoZWV0IGZyb20gJ3JlYWN0LWpzcyc7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zdCBjbGllbnRJZCA9IHVzZXJVaWQ7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnSEVMTE8nLCB1c2VyVWlkKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHBhcmVudCA9IGN1c3RvbWVyV2l0aEhpZXJhcmNoeVswXS5jdXN0b21lckhpZXJhcmNoeVswXTsK</text>
+        <text encoding="base64">ICBjb25zdCBjbGllbnRJZCA9IHVzZXJVaWQ7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGN1c3RvbWVyCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHBhcmVudCA9IGN1c3RvbWVyV2l0aEhpZXJhcmNoeVswXS5jdXN0b21lckhpZXJhcmNoeVswXTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBjdXN0b21lcldpdGhIaWVyYXJjaHlbMF0KICAgICAgPyBjdXN0b21lcldpdGhIaWVyYXJjaHlbMF0uY3VzdG9tZXJIaWVyYXJjaHlbMF0gfHwgY3VzdG9tZXJXaXRoSGllcmFyY2h5WzBdCiAgICAgIDogbnVsbDsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IGN1c3RvbWVyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ1BBUkVOVCcsIHBhcmVudEN1c3RvbWVyKTsK</text>
+        <text encoding="base64">ICAgIHJldHVybiBjdXN0b21lcldpdGhIaWVyYXJjaHlbMF0KICAgICAgPyBjdXN0b21lcldpdGhIaWVyYXJjaHlbMF0uY3VzdG9tZXJIaWVyYXJjaHlbMF0gfHwgY3VzdG9tZXJXaXRoSGllcmFyY2h5WzBdCiAgICAgIDogbnVsbDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
