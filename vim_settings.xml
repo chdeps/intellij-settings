@@ -14,7 +14,7 @@
         <mark key="^" line="23" column="17" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/android/app/src/main/res/values/strings.xml" timestamp="1554983352022" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/android/app/src/main/res/values/strings.xml" timestamp="1554984178343" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/services/userService.js" timestamp="1554277961128">
         <mark key="[" line="32" column="32" />
       </file>
@@ -59,7 +59,7 @@
         <mark key="." line="3" column="45" />
         <mark key="^" line="3" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554983474409">
+      <file name="/Dummy.txt" timestamp="1554984840801">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-plugin-make/modules/makeAnApp/index.js" timestamp="1554976986283" />
@@ -71,7 +71,9 @@
         <mark key="]" line="29" column="46" />
         <mark key="." line="29" column="46" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1554977581637">
+      <file name="$USER_HOME$/Projects/WWF/wag-app/android/app/src/main/res/values/strings.xml" timestamp="1554984267987" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/fastlane/Fastfile" timestamp="1554984727921" />
+      <file name="/GraphQL.result.json" timestamp="1554984201168">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-plugin-make/modules/utils/execCommandFromProject.js" timestamp="1554977037117">
@@ -83,6 +85,7 @@
         <mark key="^" line="10" column="6" />
         <mark key="." line="8" column="11" />
       </file>
+      <file name="$USER_HOME$/Projects/WWF/wag-app/ios/wag/Info.plist" timestamp="1554984320369" />
       <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-plugin-make/modules/utils/git.js" timestamp="1554976994558" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/appsettings.json" timestamp="1554914349948">
         <mark key="[" line="37" column="27" />
@@ -115,11 +118,11 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/android/app/src/main/java/com/inshallah/MainApplication.java" timestamp="1554983489663">
-        <mark key="[" line="32" column="12" />
-        <mark key="]" line="20" column="11" />
-        <mark key="^" line="20" column="11" />
-        <mark key="." line="20" column="11" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/android/app/src/main/java/com/inshallah/MainApplication.java" timestamp="1554984157303">
+        <mark key="[" line="20" column="12" />
+        <mark key="]" line="21" column="3" />
+        <mark key="^" line="21" column="3" />
+        <mark key="." line="21" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Menu/lib.js" timestamp="1554487314048">
         <mark key="[" line="16" column="93" />
