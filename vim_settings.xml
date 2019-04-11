@@ -22,7 +22,7 @@
         <mark key="^" line="15" column="4" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/services/analyticsService.js" timestamp="1554891308714">
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/services/analyticsService.js" timestamp="1554915157461">
         <mark key="[" line="7" column="7" />
         <mark key="]" line="3" column="45" />
         <mark key="." line="3" column="45" />
@@ -32,10 +32,11 @@
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/components/DashboardComponents/Header.js" timestamp="1554113480966">
         <mark key="[" line="64" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/appsettings.json" timestamp="1554913689381">
-        <mark key="[" line="39" column="59" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/appsettings.json" timestamp="1554914349948">
+        <mark key="[" line="37" column="27" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+        <mark key="^" line="25" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/package.json" timestamp="1554725182928" />
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/package.json" timestamp="1554724787810" />
@@ -59,7 +60,7 @@
         <mark key="]" line="68" column="2" />
         <mark key="." line="68" column="2" />
       </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/index.js" timestamp="1554909340653" />
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/index.js" timestamp="1554915521312" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/index.js" timestamp="1554904579470">
         <mark key="[" line="246" column="0" />
         <mark key="]" line="246" column="0" />
@@ -75,7 +76,7 @@
         <mark key="." line="32" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-core/modules/payment/actions.ts" timestamp="1554814506640" />
-      <file name="/Dummy.txt" timestamp="1554899468861">
+      <file name="/Dummy.txt" timestamp="1554914411384">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/ExternalOrder/externalOrder.business.js" timestamp="1554714358858">
@@ -215,7 +216,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFJvdXRlPgo=</text>
+        <text encoding="base64">ICAiIjogCg==</text>
       </register>
       <register name="d" type="4">
         <text />
@@ -230,13 +231,13 @@
         <text>customerWithHierarchy[0]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFJvdXRlPgo=</text>
+        <text encoding="base64">ICAiIjogCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJFTkRQT0lOVCIgOiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFJvdXRlPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGluamVjdFNoZWV0IGZyb20gJ3JlYWN0LWpzcyc7Cg==</text>
+        <text encoding="base64">ICAgICJFTkRQT0lOVCIgOiAK</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
@@ -245,19 +246,19 @@
         <text encoding="base64">aW1wb3J0IGluamVjdFNoZWV0IGZyb20gJ3JlYWN0LWpzcyc7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnSEVMTE8nLCB1c2VyVWlkKTsK</text>
+        <text encoding="base64">aW1wb3J0IGluamVjdFNoZWV0IGZyb20gJ3JlYWN0LWpzcyc7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCBjbGllbnRJZCA9IHVzZXJVaWQ7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnSEVMTE8nLCB1c2VyVWlkKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHBhcmVudCA9IGN1c3RvbWVyV2l0aEhpZXJhcmNoeVswXS5jdXN0b21lckhpZXJhcmNoeVswXTsK</text>
+        <text encoding="base64">ICBjb25zdCBjbGllbnRJZCA9IHVzZXJVaWQ7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGN1c3RvbWVyCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHBhcmVudCA9IGN1c3RvbWVyV2l0aEhpZXJhcmNoeVswXS5jdXN0b21lckhpZXJhcmNoeVswXTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBjdXN0b21lcldpdGhIaWVyYXJjaHlbMF0KICAgICAgPyBjdXN0b21lcldpdGhIaWVyYXJjaHlbMF0uY3VzdG9tZXJIaWVyYXJjaHlbMF0gfHwgY3VzdG9tZXJXaXRoSGllcmFyY2h5WzBdCiAgICAgIDogbnVsbDsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IGN1c3RvbWVyCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
