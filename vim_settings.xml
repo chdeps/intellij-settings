@@ -46,6 +46,12 @@
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/storage-eventstore/eventstore.module.ts" timestamp="1554995432122">
         <mark key="[" line="15" column="58" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/fastlane/Fastfile" timestamp="1555312711881">
+        <mark key="[" line="254" column="48" />
+        <mark key="]" line="143" column="50" />
+        <mark key="^" line="143" column="49" />
+        <mark key="." line="143" column="49" />
+      </file>
       <file name="/GraphQL.result.json" timestamp="1555312627943">
         <mark key="[" line="0" column="0" />
       </file>
@@ -61,6 +67,9 @@
         <mark key="]" line="27" column="44" />
         <mark key="." line="27" column="44" />
         <mark key="^" line="27" column="44" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/fastlane/.env.staging" timestamp="1555312780693">
+        <mark key="[" line="29" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/interface/login.command.ts" timestamp="1554997472344">
         <mark key="[" line="0" column="0" />
@@ -191,7 +200,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB7IGF1dGhUb2tlbiwgcmVmcmVzaFRva2VuLCBpZCB9Owo=</text>
+        <text encoding="base64">ICAgICAgZ3JvdXA6IEVOVlsnQVBQQ0VOVEVSX0RJU1RSSUJVVElPTl9HUk9VUFMnXSwK</text>
       </register>
       <register name="d" type="4">
         <text />
@@ -203,7 +212,7 @@
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHNlcnZpY2VGbiA9IHRoaXMuYXV0aFNlcnZpY2UucmVnaXN0ZXIuYmluZCh0aGlzLmF1dGhTZXJ2aWNlKTsKICAgIHJldHVybiBmb3JtYXRHcnBjUmVzcG9uc2Uoc2VydmljZUZuLCBbYXV0aENyZWRlbnRpYWxzRHRvXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgZ3JvdXA6IEVOVlsnQVBQQ0VOVEVSX0RJU1RSSUJVVElPTl9HUk9VUFMnXSwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHJldHVybiB7IGF1dGhUb2tlbiwgcmVmcmVzaFRva2VuLCBpZCB9Owo=</text>
