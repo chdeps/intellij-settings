@@ -4,11 +4,37 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Projects/WWF/wag-app/fastlane/.env.prod" timestamp="1555408707241" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/.gitattributes" timestamp="1555417535867">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="45" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/fastlane/version/minor" timestamp="1555408997176">
         <mark key="[" line="0" column="1" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/android/app/src/main/res/values/strings.xml" timestamp="1555417789649">
+        <mark key="[" line="3" column="37" />
+        <mark key="]" line="9" column="33" />
+        <mark key="." line="9" column="33" />
+        <mark key="^" line="9" column="33" />
+      </file>
+      <file name="$USER_HOME$/Projects/WWF/wag-app/src/components/CodePushUpdateButton.js" timestamp="1555418210394">
+        <mark key="'" line="0" column="7" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="97" column="3" />
+      </file>
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/services/userService.js" timestamp="1554277961128">
         <mark key="[" line="32" column="32" />
+      </file>
+      <file name="$USER_HOME$/Projects/WWF/wag-app/.gitattributes" timestamp="1555417531114">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="44" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/components/CodePushUpdateButton/CodePushUpdateButton.tsx" timestamp="1555419577546">
+        <mark key="[" line="62" column="41" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="66" column="4" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/typeDefs.gql" timestamp="1554474387927">
         <mark key="[" line="11" column="33" />
@@ -37,9 +63,9 @@
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/build/main.js" timestamp="1554475963292">
         <mark key="[" line="643" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/WWF/wag-app/fastlane/Fastfile" timestamp="1555405194076">
-        <mark key="[" line="268" column="0" />
-        <mark key="]" line="271" column="86" />
+      <file name="$USER_HOME$/Projects/WWF/wag-app/fastlane/Fastfile" timestamp="1555417264812">
+        <mark key="[" line="196" column="256" />
+        <mark key="]" line="196" column="301" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/dto/authCredentials.dto.ts" timestamp="1555340947765">
         <mark key="[" line="23" column="1" />
@@ -63,7 +89,7 @@
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/registerAccount.handler.ts" timestamp="1555324687643">
         <mark key="[" line="19" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555416536691">
+      <file name="/Dummy.txt" timestamp="1555417838610">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -79,24 +105,41 @@
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/storage-eventstore/eventstore.module.ts" timestamp="1554995432122">
         <mark key="[" line="15" column="58" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1555399768776">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/fastlane/Fastfile" timestamp="1555417306692">
+        <mark key="[" line="314" column="275" />
+        <mark key="]" line="314" column="321" />
+        <mark key="." line="314" column="274" />
+        <mark key="^" line="314" column="273" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/fastlane/.env.staging" timestamp="1555408772611">
-        <mark key="'" line="0" column="13" />
+      <file name="$USER_HOME$/Projects/WWF/wag-app/android/app/src/main/res/values/strings.xml" timestamp="1555417718102">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="9" column="41" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1555399768776">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/auth.module.ts" timestamp="1555414978482" />
       <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-plugin-make/modules/utils/execCommandFromProject.js" timestamp="1554977037117">
         <mark key="[" line="4" column="75" />
       </file>
+      <file name="$USER_HOME$/Projects/WWF/wag-app/ios/wag/Info.plist" timestamp="1555417101879">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="78" column="33" />
+      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/infrastructure/api/auth.proto" timestamp="1555322657542">
         <mark key="[" line="18" column="21" />
         <mark key="]" line="18" column="21" />
         <mark key="." line="18" column="21" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/android/settings.gradle" timestamp="1555417607159" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/lib/api.js" timestamp="1554909375052">
         <mark key="[" line="42" column="15" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/components/CodePushUpdateButton/CodePushUpdateButton.ts" timestamp="1555419139855">
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="^" line="66" column="5" />
+        <mark key="." line="82" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/package.json" timestamp="1555409298283">
         <mark key="[" line="8" column="18" />
@@ -117,10 +160,14 @@
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Menu/lib.js" timestamp="1554487314048">
         <mark key="[" line="16" column="93" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/ios/InshAllah/Info.plist" timestamp="1555417829857">
+        <mark key="[" line="27" column="12" />
+        <mark key="]" line="27" column="12" />
+        <mark key="." line="27" column="12" />
+      </file>
+      <file name="$USER_HOME$/Projects/WWF/wag-app/src/App.js" timestamp="1555418015457" />
     </filemarks>
     <jumps>
-      <jump line="4" column="18" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/scores/saga.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/scores/saga.ts" />
       <jump line="83" column="54" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/threads/saga.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/reveals/saga.test.ts" />
       <jump line="38" column="14" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/helpers/pagination.ts" />
@@ -219,52 +266,54 @@
       <jump line="26" column="22" filename="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/infrastructure/api/auth.controller.ts" />
       <jump line="59" column="53" filename="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/controllers/auth.controller.ts" />
       <jump line="0" column="13" filename="$USER_HOME$/Projects/InshAllah/InshAllah/fastlane/.env.staging" />
+      <jump line="28" column="29" filename="$USER_HOME$/Projects/WWF/wag-app/src/components/CodePushUpdateButton.js" />
+      <jump line="0" column="7" filename="$USER_HOME$/Projects/WWF/wag-app/src/components/CodePushUpdateButton.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Deploy commands</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Deploy commands</text>
+        <text>style={{ fontSize: 8, maxWidth: 150, color: 'white' }}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICJkZXBsb3kiOiAiYmluL2RlcGxveS5zaCIsCg==</text>
+      <register name="0" type="4">
+        <text>'Checking for update'</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">R1JBRExFX0FQUF9JREVOVElGSUVSPSdjb20uYmFtLmluc2hhbGxhaC5zdGFnaW5nJwpHUkFETEVfQVBQX05BTUU9J0luc2hBbGxhaCBTdGFnaW5nJwpBTkRST0lEX0FQUENFTlRFUl9BUFBfSUQ9J0luc2hBbGxhaC1BbmRyb2lkLVN0YWdpbmcnCkdSQURMRV9LRVlTVE9SRT0naW5zaGFsbGFoLnN0YWdpbmcua2V5c3RvcmUnCg==</text>
+        <text encoding="base64">dGhpcy5zZXRTdGF0ZSh7IHN0YXR1czogJ0NoZWNraW5nIGZvciB1cGRhdGUnIH0pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QVBQQ0VOVEVSX1VTRVJOQU1FPSdCQU0udGVjaCcKQVBQQ0VOVEVSX0RJU1RSSUJVVElPTl9HUk9VUFM9J0NvbGxhYm9yYXRvcnMsUHVibGljJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB0aGlzLnNldFN0YXRlKHsgc3RhdHVzOiAnQ2hlY2tpbmcgZm9yIHVwZGF0ZScgfSk7Cg==</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">TUFUQ0hfR0lUX0JSQU5DSD0nbWFzdGVyJwpNQVRDSF9UWVBFPSdlbnRlcnByaXNlJwpNQVRDSF9GT1JDRV9FTlRFUlBSSVNFPScxJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB0aGlzLnNldFN0YXRlKHsgc3RhdHVzOiAnQXdhaXRpbmcgYWN0aW9uJyB9KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">SU9TX0FQUF9JRD0nY29tLmJhbS5pbnNoYWxsYWguc3RhZ2luZycKSU9TX1RFQU1fSUQ9JzU4NjI4SDY2NlQnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB0aGlzLnNldFN0YXRlKHsgc3RhdHVzOiAnRG93bmxvYWRpbmcnIH0pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">SU9TX0FQUF9OQU1FPSdJbnNoQWxsYWggU3RhZ2luZycKSU9TX0FQUENFTlRFUl9BUFBfSUQ9J0luc2hBbGxhaCcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB0aGlzLnNldFN0YXRlKHsgc3RhdHVzOiAnSW5zdGFsbGluZycgfSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">REVQTE9ZTUVOVF9QTEFURk9STT0nYXBwY2VudGVyJwpSRVBPX0dJVF9CUkFOQ0g9J3N0YWdpbmcnCg==</text>
+        <text encoding="base64">aW1wb3J0IHRoZW1lIGZyb20gJy4uL3RoZW1lJzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBFbXB0eSBmb3Igbm93Cg==</text>
+        <text encoding="base64">dHlwZSBQcm9wc1R5cGUgPSB7CiAgc3R5bGU6IGFueSwKfTsKCnR5cGUgU3RhdGVUeXBlID0gewogIGluZm86ID9zdHJpbmcsCiAgc3RhdHVzOiA/c3RyaW5nLAogIG1pc21hdGNoOiBib29sZWFuLAp9Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBCdWlsZCBudW1iZXIgaXMgY29tcG9zZWQgb2YgOgojIDErIGRpZ2l0IGZvciBtYWpvciB2ZXJzaW9uIG51bWJlcgojIDIgZGlnaXRzIGZvciBtaW5vciB2ZXJzaW9uIG51bWJlcgojIDIgZGlnaXRzIGZvciBwYXRjaCB2ZXJzaW9uIG51bWJlcgojIDIgZGlnaXRzIGZvciB0aGUgcmVsZWFzZSBjYW5kaWRhdGUKIyBFeGFtcGxlIDogVmVyc2lvbiAxLjIuMzkgd2l0aCBidWlsZCBOwrA1ID0gQnVpbGQgMTAyMzkwNQoKIyBJdCBpcyByZWNvbW1lbmRlZCB0byBoYXZlCiMgSU9TX1ZFUlNJT04gPSBBTkRST0lEX1ZFUlNJT05fTkFNRQojIGFuZAojIElPU19WRVJTSU9OX0JVSUxEX05VTUJFUiA9IEFORFJPSURfVkVSU0lPTl9DT0RFCg==</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgY2xhc3MgQ29kZVB1c2hVcGRhdGVCdXR0b24gZXh0ZW5kcyBDb21wb25lbnQ8UHJvcHNUeXBlLCBTdGF0ZVR5cGU+IHsKICBzdGF0ZSA9IHsKICAgIGluZm86IG51bGwsCiAgICBzdGF0dXM6IG51bGwsCiAgICBtaXNtYXRjaDogZmFsc2UsCiAgfTsKCiAgY29tcG9uZW50RGlkTW91bnQoKSB7CiAgfQoKICBsb29rRm9yVXBkYXRlID0gKCkgPT4gewogICAgQ29kZVB1c2guc3luYygKICAgICAgewogICAgICAgIHVwZGF0ZURpYWxvZzogewogICAgICAgICAgYXBwZW5kUmVsZWFzZURlc2NyaXB0aW9uOiB0cnVlLAogICAgICAgICAgZGVzY3JpcHRpb25QcmVmaXg6ICdcblxuQ2hhbmdlbG9nOlxuJywKICAgICAgICB9LAogICAgICAgIGluc3RhbGxNb2RlOiBDb2RlUHVzaC5JbnN0YWxsTW9kZS5JTU1FRElBVEUsCiAgICAgIH0sCiAgICAgIFN5bmNTdGF0dXMgPT4gewogICAgICAgIHN3aXRjaCAoU3luY1N0YXR1cykgewogICAgICAgICAgY2FzZSBDb2RlUHVzaC5TeW5jU3RhdHVzLkNIRUNLSU5HX0ZPUl9VUERBVEU6CiAgICAgICAgICAgIHRoaXMuc2V0U3RhdGUoeyBzdGF0dXM6ICdDaGVja2luZyBmb3IgdXBkYXRlJyB9KTsKICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICBjYXNlIENvZGVQdXNoLlN5bmNTdGF0dXMuQVdBSVRJTkdfVVNFUl9BQ1RJT046CiAgICAgICAgICAgIHRoaXMuc2V0U3RhdGUoeyBzdGF0dXM6ICdBd2FpdGluZyBhY3Rpb24nIH0pOwogICAgICAgICAgICBicmVhazsKICAgICAgICAgIGNhc2UgQ29kZVB1c2guU3luY1N0YXR1cy5ET1dOTE9BRElOR19QQUNLQUdFOgogICAgICAgICAgICB0aGlzLnNldFN0YXRlKHsgc3RhdHVzOiAnRG93bmxvYWRpbmcnIH0pOwogICAgICAgICAgICBicmVhazsKICAgICAgICAgIGNhc2UgQ29kZVB1c2guU3luY1N0YXR1cy5JTlNUQUxMSU5HX1VQREFURToKICAgICAgICAgICAgdGhpcy5zZXRTdGF0ZSh7IHN0YXR1czogJ0luc3RhbGxpbmcnIH0pOwogICAgICAgICAgICBicmVhazsKICAgICAgICAgIGRlZmF1bHQ6CiAgICAgICAgICAgIHRoaXMuc2V0U3RhdGUoeyBzdGF0dXM6ICdObyB1cGRhdGUgZm91bmQnIH0pOwogICAgICAgIH0KICAgICAgfSwKICAgICAgbnVsbCwKICAgICAgbWlzbWF0Y2ggPT4gbWlzbWF0Y2ggJiYgdGhpcy5zZXRTdGF0ZSh7IG1pc21hdGNoOiB0cnVlIH0pCiAgICApOwogIH07CgogIHJlbmRlcigpIHsKICB9Cn0KCmNvbnN0IHN0eWxlcyA9IFN0eWxlU2hlZXQuY3JlYXRlKHsKICBjb250YWluZXI6IHsKICAgIHBhZGRpbmc6IDE1LAogICAgYmFja2dyb3VuZENvbG9yOiAnIzk5OTk5OTk5JywKICB9LAogIHRleHQ6IHsKICAgIGNvbG9yOiAnd2hpdGUnLAogICAgbWF4V2lkdGg6IDE2MCwKICB9LAp9KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
