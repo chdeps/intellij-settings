@@ -23,33 +23,31 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="97" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/services/userService.js" timestamp="1554277961128">
-        <mark key="[" line="32" column="32" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/pages/Signup/Signup.tsx" timestamp="1555423309092">
+        <mark key="[" line="3" column="40" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/pages/Authentication/Authentication.tsx" timestamp="1555423548608">
+        <mark key="[" line="32" column="2" />
+        <mark key="]" line="32" column="2" />
+        <mark key="." line="32" column="2" />
+        <mark key="^" line="32" column="6" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/navigation/index.ts" timestamp="1555423190216" />
       <file name="$USER_HOME$/Projects/WWF/wag-app/.gitattributes" timestamp="1555417531114">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="44" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/components/CodePushUpdateButton/CodePushUpdateButton.tsx" timestamp="1555419577546">
-        <mark key="[" line="62" column="41" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="66" column="4" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/components/CodePushUpdateButton/CodePushUpdateButton.tsx" timestamp="1555423399456">
+        <mark key="[" line="61" column="46" />
+        <mark key="]" line="61" column="46" />
+        <mark key="." line="61" column="46" />
+        <mark key="^" line="61" column="57" />
       </file>
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/typeDefs.gql" timestamp="1554474387927">
         <mark key="[" line="11" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/WWF/wag-app/.gitignore" timestamp="1555344289300">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="54" column="19" />
-      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/.gitignore" timestamp="1555321305505">
         <mark key="[" line="2" column="5" />
-      </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/index.js" timestamp="1555340760977">
-        <mark key="[" line="634" column="0" />
-        <mark key="]" line="634" column="0" />
-        <mark key="." line="634" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/fastlane/.env" timestamp="1555408867678">
         <mark key="[" line="36" column="0" />
@@ -60,9 +58,6 @@
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Menu/menu.data.js" timestamp="1554486892704">
         <mark key="[" line="13" column="64" />
       </file>
-      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/build/main.js" timestamp="1554475963292">
-        <mark key="[" line="643" column="21" />
-      </file>
       <file name="$USER_HOME$/Projects/WWF/wag-app/fastlane/Fastfile" timestamp="1555417264812">
         <mark key="[" line="196" column="256" />
         <mark key="]" line="196" column="301" />
@@ -70,29 +65,19 @@
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/dto/authCredentials.dto.ts" timestamp="1555340947765">
         <mark key="[" line="23" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/index.ts" timestamp="1554997493383">
-        <mark key="[" line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/WWF/wag-app/android/app/build.gradle" timestamp="1555405585542">
         <mark key="[" line="137" column="0" />
         <mark key="]" line="138" column="41" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/environment/index.staging.js" timestamp="1555315544231">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/WWF/wag-app/package.json" timestamp="1555409141607">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="30" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/components/Button/Button.tsx" timestamp="1555423413276">
+        <mark key="[" line="1" column="31" />
+      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/registerAccount.handler.ts" timestamp="1555324687643">
         <mark key="[" line="19" column="31" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1555417838610">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/.gitignore" timestamp="1555399520444">
         <mark key="[" line="57" column="0" />
@@ -106,21 +91,66 @@
         <mark key="[" line="15" column="58" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/fastlane/Fastfile" timestamp="1555417306692">
-        <mark key="[" line="314" column="275" />
-        <mark key="]" line="314" column="321" />
-        <mark key="." line="314" column="274" />
-        <mark key="^" line="314" column="273" />
+        <mark key="[" line="202" column="275" />
+        <mark key="]" line="202" column="321" />
+        <mark key="." line="202" column="274" />
+        <mark key="^" line="202" column="273" />
       </file>
       <file name="$USER_HOME$/Projects/WWF/wag-app/android/app/src/main/res/values/strings.xml" timestamp="1555417718102">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="9" column="41" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1555399768776">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/auth.module.ts" timestamp="1555414978482" />
       <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-plugin-make/modules/utils/execCommandFromProject.js" timestamp="1554977037117">
         <mark key="[" line="4" column="75" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/android/settings.gradle" timestamp="1555417607159" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/auth.service.ts" timestamp="1555338194755">
+        <mark key="[" line="28" column="4" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/android/app/build.gradle" timestamp="1555405590431">
+        <mark key="[" line="136" column="0" />
+        <mark key="]" line="136" column="0" />
+        <mark key="^" line="136" column="4" />
+        <mark key="." line="136" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/ios/InshAllah/Info.plist" timestamp="1555417829857">
+        <mark key="[" line="27" column="12" />
+        <mark key="]" line="27" column="12" />
+        <mark key="." line="27" column="12" />
+      </file>
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/services/userService.js" timestamp="1554277961128">
+        <mark key="[" line="32" column="32" />
+      </file>
+      <file name="$USER_HOME$/Projects/WWF/wag-app/.gitignore" timestamp="1555344289300">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="54" column="19" />
+      </file>
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/index.js" timestamp="1555340760977">
+        <mark key="[" line="634" column="0" />
+        <mark key="]" line="634" column="0" />
+        <mark key="." line="634" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/build/main.js" timestamp="1554475963292">
+        <mark key="[" line="643" column="21" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/index.ts" timestamp="1554997493383">
+        <mark key="[" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/environment/index.staging.js" timestamp="1555315544231">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1555423561858">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1555399768776">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/WWF/wag-app/ios/wag/Info.plist" timestamp="1555417101879">
         <mark key="[" line="67" column="0" />
@@ -131,7 +161,6 @@
         <mark key="]" line="18" column="21" />
         <mark key="." line="18" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/android/settings.gradle" timestamp="1555417607159" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/lib/api.js" timestamp="1554909375052">
         <mark key="[" line="42" column="15" />
       </file>
@@ -146,24 +175,8 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/auth.service.ts" timestamp="1555338194755">
-        <mark key="[" line="28" column="4" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/android/app/build.gradle" timestamp="1555405590431">
-        <mark key="[" line="136" column="0" />
-        <mark key="]" line="136" column="0" />
-        <mark key="^" line="136" column="4" />
-        <mark key="." line="136" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Menu/lib.js" timestamp="1554487314048">
         <mark key="[" line="16" column="93" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/ios/InshAllah/Info.plist" timestamp="1555417829857">
-        <mark key="[" line="27" column="12" />
-        <mark key="]" line="27" column="12" />
-        <mark key="." line="27" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/WWF/wag-app/src/App.js" timestamp="1555418015457" />
     </filemarks>
@@ -270,50 +283,50 @@
       <jump line="0" column="7" filename="$USER_HOME$/Projects/WWF/wag-app/src/components/CodePushUpdateButton.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>top</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>style={{ fontSize: 8, maxWidth: 150, color: 'white' }}</text>
+        <text>top</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
       </register>
-      <register name="0" type="4">
-        <text>'Checking for update'</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICB0b3A6ICR7KHsgdGhlbWUgfSkgPT4gdGhlbWUubWFyZ2luLngxfTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByaWdodAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dGhpcy5zZXRTdGF0ZSh7IHN0YXR1czogJ0NoZWNraW5nIGZvciB1cGRhdGUnIH0pOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgVmlldywgVGV4dCB9IGZyb20gJ3JlYWN0LW5hdGl2ZSc7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB0aGlzLnNldFN0YXRlKHsgc3RhdHVzOiAnQ2hlY2tpbmcgZm9yIHVwZGF0ZScgfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB0aGlzLnNldFN0YXRlKHsgc3RhdHVzOiAnQXdhaXRpbmcgYWN0aW9uJyB9KTsK</text>
+        <text encoding="base64">dGhpcy5zZXRTdGF0ZSh7IHN0YXR1czogJ0NoZWNraW5nIGZvciB1cGRhdGUnIH0pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB0aGlzLnNldFN0YXRlKHsgc3RhdHVzOiAnRG93bmxvYWRpbmcnIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB0aGlzLnNldFN0YXRlKHsgc3RhdHVzOiAnQ2hlY2tpbmcgZm9yIHVwZGF0ZScgfSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB0aGlzLnNldFN0YXRlKHsgc3RhdHVzOiAnSW5zdGFsbGluZycgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB0aGlzLnNldFN0YXRlKHsgc3RhdHVzOiAnQXdhaXRpbmcgYWN0aW9uJyB9KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHRoZW1lIGZyb20gJy4uL3RoZW1lJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB0aGlzLnNldFN0YXRlKHsgc3RhdHVzOiAnRG93bmxvYWRpbmcnIH0pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dHlwZSBQcm9wc1R5cGUgPSB7CiAgc3R5bGU6IGFueSwKfTsKCnR5cGUgU3RhdGVUeXBlID0gewogIGluZm86ID9zdHJpbmcsCiAgc3RhdHVzOiA/c3RyaW5nLAogIG1pc21hdGNoOiBib29sZWFuLAp9Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB0aGlzLnNldFN0YXRlKHsgc3RhdHVzOiAnSW5zdGFsbGluZycgfSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgY2xhc3MgQ29kZVB1c2hVcGRhdGVCdXR0b24gZXh0ZW5kcyBDb21wb25lbnQ8UHJvcHNUeXBlLCBTdGF0ZVR5cGU+IHsKICBzdGF0ZSA9IHsKICAgIGluZm86IG51bGwsCiAgICBzdGF0dXM6IG51bGwsCiAgICBtaXNtYXRjaDogZmFsc2UsCiAgfTsKCiAgY29tcG9uZW50RGlkTW91bnQoKSB7CiAgfQoKICBsb29rRm9yVXBkYXRlID0gKCkgPT4gewogICAgQ29kZVB1c2guc3luYygKICAgICAgewogICAgICAgIHVwZGF0ZURpYWxvZzogewogICAgICAgICAgYXBwZW5kUmVsZWFzZURlc2NyaXB0aW9uOiB0cnVlLAogICAgICAgICAgZGVzY3JpcHRpb25QcmVmaXg6ICdcblxuQ2hhbmdlbG9nOlxuJywKICAgICAgICB9LAogICAgICAgIGluc3RhbGxNb2RlOiBDb2RlUHVzaC5JbnN0YWxsTW9kZS5JTU1FRElBVEUsCiAgICAgIH0sCiAgICAgIFN5bmNTdGF0dXMgPT4gewogICAgICAgIHN3aXRjaCAoU3luY1N0YXR1cykgewogICAgICAgICAgY2FzZSBDb2RlUHVzaC5TeW5jU3RhdHVzLkNIRUNLSU5HX0ZPUl9VUERBVEU6CiAgICAgICAgICAgIHRoaXMuc2V0U3RhdGUoeyBzdGF0dXM6ICdDaGVja2luZyBmb3IgdXBkYXRlJyB9KTsKICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICBjYXNlIENvZGVQdXNoLlN5bmNTdGF0dXMuQVdBSVRJTkdfVVNFUl9BQ1RJT046CiAgICAgICAgICAgIHRoaXMuc2V0U3RhdGUoeyBzdGF0dXM6ICdBd2FpdGluZyBhY3Rpb24nIH0pOwogICAgICAgICAgICBicmVhazsKICAgICAgICAgIGNhc2UgQ29kZVB1c2guU3luY1N0YXR1cy5ET1dOTE9BRElOR19QQUNLQUdFOgogICAgICAgICAgICB0aGlzLnNldFN0YXRlKHsgc3RhdHVzOiAnRG93bmxvYWRpbmcnIH0pOwogICAgICAgICAgICBicmVhazsKICAgICAgICAgIGNhc2UgQ29kZVB1c2guU3luY1N0YXR1cy5JTlNUQUxMSU5HX1VQREFURToKICAgICAgICAgICAgdGhpcy5zZXRTdGF0ZSh7IHN0YXR1czogJ0luc3RhbGxpbmcnIH0pOwogICAgICAgICAgICBicmVhazsKICAgICAgICAgIGRlZmF1bHQ6CiAgICAgICAgICAgIHRoaXMuc2V0U3RhdGUoeyBzdGF0dXM6ICdObyB1cGRhdGUgZm91bmQnIH0pOwogICAgICAgIH0KICAgICAgfSwKICAgICAgbnVsbCwKICAgICAgbWlzbWF0Y2ggPT4gbWlzbWF0Y2ggJiYgdGhpcy5zZXRTdGF0ZSh7IG1pc21hdGNoOiB0cnVlIH0pCiAgICApOwogIH07CgogIHJlbmRlcigpIHsKICB9Cn0KCmNvbnN0IHN0eWxlcyA9IFN0eWxlU2hlZXQuY3JlYXRlKHsKICBjb250YWluZXI6IHsKICAgIHBhZGRpbmc6IDE1LAogICAgYmFja2dyb3VuZENvbG9yOiAnIzk5OTk5OTk5JywKICB9LAogIHRleHQ6IHsKICAgIGNvbG9yOiAnd2hpdGUnLAogICAgbWF4V2lkdGg6IDE2MCwKICB9LAp9KTsK</text>
+        <text encoding="base64">aW1wb3J0IHRoZW1lIGZyb20gJy4uL3RoZW1lJzsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
