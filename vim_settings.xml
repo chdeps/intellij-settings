@@ -3,6 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/WWF/wag-app/fastlane/.env.prod" timestamp="1555408707241" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/fastlane/version/minor" timestamp="1555408997176">
+        <mark key="[" line="0" column="1" />
+      </file>
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/services/userService.js" timestamp="1554277961128">
         <mark key="[" line="32" column="32" />
       </file>
@@ -21,10 +25,11 @@
         <mark key="]" line="634" column="0" />
         <mark key="." line="634" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/fastlane/.env" timestamp="1555405630886">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/fastlane/.env" timestamp="1555408867678">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="0" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Menu/menu.data.js" timestamp="1554486892704">
         <mark key="[" line="13" column="64" />
@@ -51,16 +56,23 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/WWF/wag-app/package.json" timestamp="1555409141607">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="30" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/fastlane/version/patch" timestamp="1555409002405">
+        <mark key="[" line="0" column="1" />
+      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/registerAccount.handler.ts" timestamp="1555324687643">
         <mark key="[" line="19" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555404961173">
+      <file name="/Dummy.txt" timestamp="1555409312267">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/.gitignore" timestamp="1555399520444">
-        <mark key="[" line="54" column="0" />
+        <mark key="[" line="57" column="0" />
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
@@ -70,20 +82,12 @@
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/storage-eventstore/eventstore.module.ts" timestamp="1554995432122">
         <mark key="[" line="15" column="58" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/fastlane/Fastfile" timestamp="1555405204615">
-        <mark key="[" line="148" column="0" />
-        <mark key="]" line="148" column="0" />
-        <mark key="." line="148" column="0" />
-        <mark key="^" line="149" column="41" />
-      </file>
       <file name="/GraphQL.result.json" timestamp="1555399768776">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/fastlane/.env.staging" timestamp="1555405897411">
-        <mark key="[" line="42" column="26" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-        <mark key="^" line="42" column="0" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/fastlane/.env.staging" timestamp="1555408772611">
+        <mark key="'" line="0" column="13" />
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-plugin-make/modules/utils/execCommandFromProject.js" timestamp="1554977037117">
         <mark key="[" line="4" column="75" />
@@ -95,6 +99,11 @@
       </file>
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/lib/api.js" timestamp="1554909375052">
         <mark key="[" line="42" column="15" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/package.json" timestamp="1555409298283">
+        <mark key="[" line="8" column="18" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/auth.service.ts" timestamp="1555338194755">
         <mark key="[" line="28" column="4" />
@@ -110,15 +119,8 @@
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Menu/lib.js" timestamp="1554487314048">
         <mark key="[" line="16" column="93" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/fastlane/.env.staging.secret" timestamp="1555404718706">
-        <mark key="[" line="6" column="33" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="6" column="32" />
-        <mark key="." line="7" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/messages/saga.ts" />
       <jump line="4" column="18" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/scores/saga.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/scores/saga.ts" />
       <jump line="83" column="54" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/threads/saga.ts" />
@@ -218,52 +220,53 @@
       <jump line="48" column="58" filename="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Order/order.business.js" />
       <jump line="26" column="22" filename="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/infrastructure/api/auth.controller.ts" />
       <jump line="59" column="53" filename="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/controllers/auth.controller.ts" />
+      <jump line="0" column="13" filename="$USER_HOME$/Projects/InshAllah/InshAllah/fastlane/.env.staging" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyBCdWlsZCBudW1iZXIgaXMgY29tcG9zZWQgb2YgOgojIDErIGRpZ2l0IGZvciBtYWpvciB2ZXJzaW9uIG51bWJlcgojIDIgZGlnaXRzIGZvciBtaW5vciB2ZXJzaW9uIG51bWJlcgojIDIgZGlnaXRzIGZvciBwYXRjaCB2ZXJzaW9uIG51bWJlcgojIDIgZGlnaXRzIGZvciB0aGUgcmVsZWFzZSBjYW5kaWRhdGUKIyBFeGFtcGxlIDogVmVyc2lvbiAxLjIuMzkgd2l0aCBidWlsZCBOwrA1ID0gQnVpbGQgMTAyMzkwNQoKIyBJdCBpcyByZWNvbW1lbmRlZCB0byBoYXZlCiMgSU9TX1ZFUlNJT04gPSBBTkRST0lEX1ZFUlNJT05fTkFNRQojIGFuZAojIElPU19WRVJTSU9OX0JVSUxEX05VTUJFUiA9IEFORFJPSURfVkVSU0lPTl9DT0RFCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>_versionCode</text>
+        <text encoding="base64">eWFybiBidWlsZDpmcmFnbWVudHMgJiYg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJzaW9uQ29kZSBnZW5lcmF0ZVZlcnNpb25Db2RlKCkKICAgICAgICB2ZXJzaW9uTmFtZSBnZW5lcmF0ZVZlcnNpb25OYW1lKCkK</text>
+        <text encoding="base64">ICAgICJkZXBsb3kiOiAiYmluL2RlcGxveS5zaCIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBCdWlsZCBudW1iZXIgaXMgY29tcG9zZWQgb2YgOgojIDErIGRpZ2l0IGZvciBtYWpvciB2ZXJzaW9uIG51bWJlcgojIDIgZGlnaXRzIGZvciBtaW5vciB2ZXJzaW9uIG51bWJlcgojIDIgZGlnaXRzIGZvciBwYXRjaCB2ZXJzaW9uIG51bWJlcgojIDIgZGlnaXRzIGZvciB0aGUgcmVsZWFzZSBjYW5kaWRhdGUKIyBFeGFtcGxlIDogVmVyc2lvbiAxLjIuMzkgd2l0aCBidWlsZCBOwrA1ID0gQnVpbGQgMTAyMzkwNQoKIyBJdCBpcyByZWNvbW1lbmRlZCB0byBoYXZlCiMgSU9TX1ZFUlNJT04gPSBBTkRST0lEX1ZFUlNJT05fTkFNRQojIGFuZAojIElPU19WRVJTSU9OX0JVSUxEX05VTUJFUiA9IEFORFJPSURfVkVSU0lPTl9DT0RFCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">SU9TX1ZFUlNJT049JzEuMC4wJwpBTkRST0lEX1ZFUlNJT05fTkFNRT0nMS4wLjAnCklPU19WRVJTSU9OX0JVSUxEX05VTUJFUj0nMTAwMDAwMCcKQU5EUk9JRF9WRVJTSU9OX0NPREU9JzEwMDAwMDAnCg==</text>
+        <text encoding="base64">R1JBRExFX0FQUF9JREVOVElGSUVSPSdjb20uYmFtLmluc2hhbGxhaC5zdGFnaW5nJwpHUkFETEVfQVBQX05BTUU9J0luc2hBbGxhaCBTdGFnaW5nJwpBTkRST0lEX0FQUENFTlRFUl9BUFBfSUQ9J0luc2hBbGxhaC1BbmRyb2lkLVN0YWdpbmcnCkdSQURMRV9LRVlTVE9SRT0naW5zaGFsbGFoLnN0YWdpbmcua2V5c3RvcmUnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJzaW9uQ29kZSAKICAgICAgICB2ZXJzaW9uTmFtZSBfdmVyc2lvbk5hbWUK</text>
+        <text encoding="base64">QVBQQ0VOVEVSX1VTRVJOQU1FPSdCQU0udGVjaCcKQVBQQ0VOVEVSX0RJU1RSSUJVVElPTl9HUk9VUFM9J0NvbGxhYm9yYXRvcnMsUHVibGljJwo=</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIF92ZXJzaW9uQ29kZSA9IChTeXN0ZW0uZ2V0ZW52KCJBTkRST0lEX1ZFUlNJT05fQ09ERSIpID86ICIxIikgYXMgSW50ZWdlcgpkZWYgX3ZlcnNpb25OYW1lID0gU3lzdGVtLmdldGVudigiQU5EUk9JRF9WRVJTSU9OX05BTUUiKSA/OiAiMS4wLjAiCg==</text>
+        <text encoding="base64">TUFUQ0hfR0lUX0JSQU5DSD0nbWFzdGVyJwpNQVRDSF9UWVBFPSdlbnRlcnByaXNlJwpNQVRDSF9GT1JDRV9FTlRFUlBSSVNFPScxJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwbGlzdFsnQ0ZCdW5kbGVTaG9ydFZlcnNpb25TdHJpbmcnXSA9IEVOVlsnSU9TX1ZFUlNJT04nXQogICAgICAgIHBsaXN0WydDRkJ1bmRsZVZlcnNpb24nXSA9IEVOVlsnSU9TX1ZFUlNJT05fQlVJTERfTlVNQkVSJ10K</text>
+        <text encoding="base64">SU9TX0FQUF9JRD0nY29tLmJhbS5pbnNoYWxsYWguc3RhZ2luZycKSU9TX1RFQU1fSUQ9JzU4NjI4SDY2NlQnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QU5EUk9JRF9DT0RFUFVTSF9ERVBMT1lNRU5UX05BTUU9JycK</text>
+        <text encoding="base64">SU9TX0FQUF9OQU1FPSdJbnNoQWxsYWggU3RhZ2luZycKSU9TX0FQUENFTlRFUl9BUFBfSUQ9J0luc2hBbGxhaCcK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QU5EUk9JRF9DT0RFUFVTSF9ERVBMT1lNRU5UX05BTUU9JycK</text>
+        <text encoding="base64">REVQTE9ZTUVOVF9QTEFURk9STT0nYXBwY2VudGVyJwpSRVBPX0dJVF9CUkFOQ0g9J3N0YWdpbmcnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QU5EUk9JRF9DT0RFUFVTSF9ERVBMT1lNRU5UX05BTUU9JycK</text>
+        <text encoding="base64">IyBFbXB0eSBmb3Igbm93Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbWF0Y2goCiAgICAgICAgc2hhbGxvd19jbG9uZTogdHJ1ZSwKICAgICAgICBjbG9uZV9icmFuY2hfZGlyZWN0bHk6IHRydWUsCiAgICAgICAgcmVhZG9ubHk6IHRydWUKICAgICAgKQo=</text>
+        <text encoding="base64">IyBCdWlsZCBudW1iZXIgaXMgY29tcG9zZWQgb2YgOgojIDErIGRpZ2l0IGZvciBtYWpvciB2ZXJzaW9uIG51bWJlcgojIDIgZGlnaXRzIGZvciBtaW5vciB2ZXJzaW9uIG51bWJlcgojIDIgZGlnaXRzIGZvciBwYXRjaCB2ZXJzaW9uIG51bWJlcgojIDIgZGlnaXRzIGZvciB0aGUgcmVsZWFzZSBjYW5kaWRhdGUKIyBFeGFtcGxlIDogVmVyc2lvbiAxLjIuMzkgd2l0aCBidWlsZCBOwrA1ID0gQnVpbGQgMTAyMzkwNQoKIyBJdCBpcyByZWNvbW1lbmRlZCB0byBoYXZlCiMgSU9TX1ZFUlNJT04gPSBBTkRST0lEX1ZFUlNJT05fTkFNRQojIGFuZAojIElPU19WRVJTSU9OX0JVSUxEX05VTUJFUiA9IEFORFJPSURfVkVSU0lPTl9DT0RFCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
