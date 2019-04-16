@@ -21,22 +21,30 @@
         <mark key="]" line="634" column="0" />
         <mark key="." line="634" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/fastlane/.env" timestamp="1555402773331" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/fastlane/.env" timestamp="1555405630886">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Menu/menu.data.js" timestamp="1554486892704">
         <mark key="[" line="13" column="64" />
       </file>
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/build/main.js" timestamp="1554475963292">
         <mark key="[" line="643" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/WWF/wag-app/fastlane/Fastfile" timestamp="1555403487467">
-        <mark key="[" line="192" column="0" />
-        <mark key="]" line="195" column="86" />
+      <file name="$USER_HOME$/Projects/WWF/wag-app/fastlane/Fastfile" timestamp="1555405194076">
+        <mark key="[" line="268" column="0" />
+        <mark key="]" line="271" column="86" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/dto/authCredentials.dto.ts" timestamp="1555340947765">
         <mark key="[" line="23" column="1" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/index.ts" timestamp="1554997493383">
         <mark key="[" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/WWF/wag-app/android/app/build.gradle" timestamp="1555405585542">
+        <mark key="[" line="137" column="0" />
+        <mark key="]" line="138" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/environment/index.staging.js" timestamp="1555315544231">
         <mark key="[" line="0" column="0" />
@@ -46,7 +54,7 @@
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/registerAccount.handler.ts" timestamp="1555324687643">
         <mark key="[" line="19" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555399620961">
+      <file name="/Dummy.txt" timestamp="1555404961173">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -62,17 +70,20 @@
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/storage-eventstore/eventstore.module.ts" timestamp="1554995432122">
         <mark key="[" line="15" column="58" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/fastlane/Fastfile" timestamp="1555403481290">
-        <mark key="[" line="200" column="0" />
-        <mark key="]" line="203" column="86" />
-        <mark key="^" line="206" column="11" />
-        <mark key="." line="200" column="0" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/fastlane/Fastfile" timestamp="1555405204615">
+        <mark key="[" line="148" column="0" />
+        <mark key="]" line="148" column="0" />
+        <mark key="." line="148" column="0" />
+        <mark key="^" line="149" column="41" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1555399768776">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/fastlane/.env.staging" timestamp="1555403207140">
-        <mark key="[" line="29" column="29" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/fastlane/.env.staging" timestamp="1555405897411">
+        <mark key="[" line="42" column="26" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+        <mark key="^" line="42" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-plugin-make/modules/utils/execCommandFromProject.js" timestamp="1554977037117">
         <mark key="[" line="4" column="75" />
@@ -90,14 +101,20 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/android/app/build.gradle" timestamp="1555402768728" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/android/app/build.gradle" timestamp="1555405590431">
+        <mark key="[" line="136" column="0" />
+        <mark key="]" line="136" column="0" />
+        <mark key="^" line="136" column="4" />
+        <mark key="." line="136" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Menu/lib.js" timestamp="1554487314048">
         <mark key="[" line="16" column="93" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/fastlane/.env.staging.secret" timestamp="1555344194493">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/fastlane/.env.staging.secret" timestamp="1555404718706">
+        <mark key="[" line="6" column="33" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="6" column="32" />
+        <mark key="." line="7" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -204,49 +221,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgcGF0Y2hWZXJzaW9uQ29kZSA9IEZpbGUucmVhZCgidmVyc2lvbi9wYXRjaCIpLnRvX2kKICAgICAgbWlub3JWZXJzaW9uQ29kZSA9IEZpbGUucmVhZCgidmVyc2lvbi9taW5vciIpLnRvX2kKICAgICAgbWFqb3JWZXJzaW9uQ29kZSA9IEZpbGUucmVhZCgidmVyc2lvbi9tYWpvciIpLnRvX2kKICAgICAgYXBwX3ZlcnNpb25fbmFtZSA9ICIje21ham9yVmVyc2lvbkNvZGV9LiN7bWlub3JWZXJzaW9uQ29kZX0uI3twYXRjaFZlcnNpb25Db2RlfSIK</text>
+        <text encoding="base64">IyBCdWlsZCBudW1iZXIgaXMgY29tcG9zZWQgb2YgOgojIDErIGRpZ2l0IGZvciBtYWpvciB2ZXJzaW9uIG51bWJlcgojIDIgZGlnaXRzIGZvciBtaW5vciB2ZXJzaW9uIG51bWJlcgojIDIgZGlnaXRzIGZvciBwYXRjaCB2ZXJzaW9uIG51bWJlcgojIDIgZGlnaXRzIGZvciB0aGUgcmVsZWFzZSBjYW5kaWRhdGUKIyBFeGFtcGxlIDogVmVyc2lvbiAxLjIuMzkgd2l0aCBidWlsZCBOwrA1ID0gQnVpbGQgMTAyMzkwNQoKIyBJdCBpcyByZWNvbW1lbmRlZCB0byBoYXZlCiMgSU9TX1ZFUlNJT04gPSBBTkRST0lEX1ZFUlNJT05fTkFNRQojIGFuZAojIElPU19WRVJTSU9OX0JVSUxEX05VTUJFUiA9IEFORFJPSURfVkVSU0lPTl9DT0RFCg==</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Set up staging certificates</text>
+        <text>_versionCode</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcGF0Y2hWZXJzaW9uQ29kZSA9IEZpbGUucmVhZCgidmVyc2lvbi9wYXRjaCIpLnRvX2kKICAgICAgbWlub3JWZXJzaW9uQ29kZSA9IEZpbGUucmVhZCgidmVyc2lvbi9taW5vciIpLnRvX2kKICAgICAgbWFqb3JWZXJzaW9uQ29kZSA9IEZpbGUucmVhZCgidmVyc2lvbi9tYWpvciIpLnRvX2kKICAgICAgYXBwX3ZlcnNpb25fbmFtZSA9ICIje21ham9yVmVyc2lvbkNvZGV9LiN7bWlub3JWZXJzaW9uQ29kZX0uI3twYXRjaFZlcnNpb25Db2RlfSIK</text>
+        <text encoding="base64">ICAgICAgICB2ZXJzaW9uQ29kZSBnZW5lcmF0ZVZlcnNpb25Db2RlKCkKICAgICAgICB2ZXJzaW9uTmFtZSBnZW5lcmF0ZVZlcnNpb25OYW1lKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFNwYWNlc2hpcC5sb2dpbgogICAgU3BhY2VzaGlwLnNlbGVjdF90ZWFtCiAgICBrZXlOYW1lID0gIlB1c2ggSldUICN7RU5WWydJT1NfQVBQX05BTUUnXX0gI3tFTlZbJ0VOViddfSIuZ3N1YiEoL1teMC05QS1aYS16IF0vLCAnJykKICAgIGtleSA9IFNwYWNlc2hpcDo6UG9ydGFsOjpLZXkuY3JlYXRlKG5hbWU6IGtleU5hbWUsIGFwbnM6IHRydWUpCiAgICBwdXRzICJLZXkgSUQgaXMiCiAgICBwdXRzIGtleS5pZAogICAgRmlsZS53cml0ZSgiI3trZXlOYW1lfS5wOCIsIGtleS5kb3dubG9hZCkK</text>
+        <text encoding="base64">IyBCdWlsZCBudW1iZXIgaXMgY29tcG9zZWQgb2YgOgojIDErIGRpZ2l0IGZvciBtYWpvciB2ZXJzaW9uIG51bWJlcgojIDIgZGlnaXRzIGZvciBtaW5vciB2ZXJzaW9uIG51bWJlcgojIDIgZGlnaXRzIGZvciBwYXRjaCB2ZXJzaW9uIG51bWJlcgojIDIgZGlnaXRzIGZvciB0aGUgcmVsZWFzZSBjYW5kaWRhdGUKIyBFeGFtcGxlIDogVmVyc2lvbiAxLjIuMzkgd2l0aCBidWlsZCBOwrA1ID0gQnVpbGQgMTAyMzkwNQoKIyBJdCBpcyByZWNvbW1lbmRlZCB0byBoYXZlCiMgSU9TX1ZFUlNJT04gPSBBTkRST0lEX1ZFUlNJT05fTkFNRQojIGFuZAojIElPU19WRVJTSU9OX0JVSUxEX05VTUJFUiA9IEFORFJPSURfVkVSU0lPTl9DT0RFCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1hdGNoKAogICAgICB0eXBlOiAnZGV2ZWxvcG1lbnQnLAogICAgICBzaGFsbG93X2Nsb25lOiB0cnVlLAogICAgICBjbG9uZV9icmFuY2hfZGlyZWN0bHk6IHRydWUsCiAgICAgIGZvcmNlX2Zvcl9uZXdfZGV2aWNlczogdHJ1ZQogICAgKQo=</text>
+        <text encoding="base64">SU9TX1ZFUlNJT049JzEuMC4wJwpBTkRST0lEX1ZFUlNJT05fTkFNRT0nMS4wLjAnCklPU19WRVJTSU9OX0JVSUxEX05VTUJFUj0nMTAwMDAwMCcKQU5EUk9JRF9WRVJTSU9OX0NPREU9JzEwMDAwMDAnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2ZXJzaW9uQ29kZSAKICAgICAgICB2ZXJzaW9uTmFtZSBfdmVyc2lvbk5hbWUK</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdXJsU2NoZW1lID0gcGxpc3RbIkNGQnVuZGxlVVJMVHlwZXMiXS5maW5ke3xzY2hlbWV8IHNjaGVtZVsiQ0ZCdW5kbGVVUkxOYW1lIl0gPT0gImZiLnNjaGVtZXMifQogICAgICB1cmxTY2hlbWVbOkNGQnVuZGxlVVJMU2NoZW1lc10gPSBbImZiIiArIEVOVlsnRkFDRUJPT0tfQVBQX0lEJ11dCgogICAgICB1cmxTY2hlbWUgPSBwbGlzdFsiQ0ZCdW5kbGVVUkxUeXBlcyJdLmZpbmR7fHNjaGVtZXwgc2NoZW1lWyJDRkJ1bmRsZVVSTE5hbWUiXS5pbmNsdWRlPyAiY29tLmdvb2dsZXVzZXJjb250ZW50LmFwcHMifQogICAgICB1cmxTY2hlbWVbOkNGQnVuZGxlVVJMU2NoZW1lc10gPSBbImNvbS5nb29nbGV1c2VyY29udGVudC5hcHBzLiIrRU5WWydHT09HTEVfU0lHTklOX0lEJ11dCiAgICAgIHVybFNjaGVtZVs6Q0ZCdW5kbGVVUkxOYW1lXSA9ICJjb20uZ29vZ2xldXNlcmNvbnRlbnQuYXBwcy4iK0VOVlsnR09PR0xFX1NJR05JTl9JRCddCg==</text>
+        <text encoding="base64">ZGVmIF92ZXJzaW9uQ29kZSA9IChTeXN0ZW0uZ2V0ZW52KCJBTkRST0lEX1ZFUlNJT05fQ09ERSIpID86ICIxIikgYXMgSW50ZWdlcgpkZWYgX3ZlcnNpb25OYW1lID0gU3lzdGVtLmdldGVudigiQU5EUk9JRF9WRVJTSU9OX05BTUUiKSA/OiAiMS4wLjAiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcGxpc3RbJ0ZhY2Vib29rQXBwSUQnXSA9IEVOVlsnRkFDRUJPT0tfQVBQX0lEJ10KICAgICAgcGxpc3RbJ0ZhY2Vib29rRGlzcGxheU5hbWUnXSA9IEVOVlsnRkFDRUJPT0tfQVBQX05BTUUnXQogICAgICBwbGlzdFsnSU9TR29vZ2xlTWFwc0FwaUtleSddID0gRU5WWydJT1NfR09PR0xFX01BUFNfQVBJX0tFWSddCg==</text>
+        <text encoding="base64">ICAgICAgICBwbGlzdFsnQ0ZCdW5kbGVTaG9ydFZlcnNpb25TdHJpbmcnXSA9IEVOVlsnSU9TX1ZFUlNJT04nXQogICAgICAgIHBsaXN0WydDRkJ1bmRsZVZlcnNpb24nXSA9IEVOVlsnSU9TX1ZFUlNJT05fQlVJTERfTlVNQkVSJ10K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QU5EUk9JRF9DT0RFUFVTSF9ERVBMT1lNRU5UX05BTUU9JycK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ki9mYXN0bGFuZS9yZXBvcnQueG1sCiovZmFzdGxhbmUvUHJldmlldy5odG1sCiovZmFzdGxhbmUvc2NyZWVuc2hvdHMK</text>
+        <text encoding="base64">QU5EUk9JRF9DT0RFUFVTSF9ERVBMT1lNRU5UX05BTUU9JycK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QU5EUk9JRF9DT0RFUFVTSF9ERVBMT1lNRU5UX05BTUU9JycK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbWF0Y2goCiAgICAgICAgc2hhbGxvd19jbG9uZTogdHJ1ZSwKICAgICAgICBjbG9uZV9icmFuY2hfZGlyZWN0bHk6IHRydWUsCiAgICAgICAgcmVhZG9ubHk6IHRydWUKICAgICAgKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
