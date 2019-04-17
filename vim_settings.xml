@@ -41,7 +41,11 @@
         <mark key="." line="36" column="0" />
         <mark key="^" line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/controller/auth.controller.ts" timestamp="1555515658773" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/controller/auth.controller.ts" timestamp="1555517621971">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Menu/menu.data.js" timestamp="1554486892704">
         <mark key="[" line="13" column="64" />
       </file>
@@ -149,6 +153,7 @@
       <file name="/GraphQL.result.json" timestamp="1555485287909">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/infrastructure/api/auth.controller.ts" timestamp="1555517564732" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/module.ts" timestamp="1555514653977" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/scripts/deploy.sh" timestamp="1555510136851">
         <mark key="[" line="44" column="0" />
@@ -291,32 +296,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVjbGFyZSBjb25zdCBtb2R1bGU6IHVua25vd247Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgT2JzZXJ2YWJsZSB9IGZyb20gJ3J4anMnOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CltbIC16ICQoZ2l0IHN0YXR1cyAtcykgXV0gfHwgd2FybiAnUGxlYXNlIG1ha2Ugc3VyZSB5b3UgZGVwbG95IHdpdGggbm8gY2hhbmdlcyBvciB1bnRyYWNrZWQgZmlsZXMuIFlvdSBjYW4gcnVuICpnaXQgc3Rhc2ggLS1pbmNsdWRlLXVudHJhY2tlZCouJwoKY2hlY2tfZW52aXJvbm1lbnQgJEFQUF9FTlY=</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
-      <register name="4" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">ZGVjbGFyZSBjb25zdCBtb2R1bGU6IHVua25vd247Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">CltbIC16ICQoZ2l0IHN0YXR1cyAtcykgXV0gfHwgd2FybiAnUGxlYXNlIG1ha2Ugc3VyZSB5b3UgZGVwbG95IHdpdGggbm8gY2hhbmdlcyBvciB1bnRyYWNrZWQgZmlsZXMuIFlvdSBjYW4gcnVuICpnaXQgc3Rhc2ggLS1pbmNsdWRlLXVudHJhY2tlZCouJwoKY2hlY2tfZW52aXJvbm1lbnQgJEFQUF9FTlY=</text>
+      </register>
+      <register name="6" type="4">
         <text encoding="base64">CmNoZWNrX2Vudmlyb25tZW50KCl7CiAgQ1VSUkVOVF9CUkFOQ0g9YGdpdCByZXYtcGFyc2UgLS1hYmJyZXYtcmVmIEhFQURgCgogIGlmIFsgIiRDVVJSRU5UX0JSQU5DSCIgIT0gIiRBUFBfRU5WIiBdCiAgdGhlbgogICAgd2FybiAiV3JvbmcgYnJhbmNoLCBjaGVja291dCAkQVBQX0VOViB0byBkZXBsb3kgdG8gJEFQUF9FTlYuIgogIGVsc2UKICAgIHN1Y2Nlc3MgIkRlcGxveWluZyB0byAkQVBQX0VOVi4iCiAgZmkKfQ==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">QnVtcCBwYXRjaCBudW1iCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Tm8gbmVlZCBmb3IgdHlwZVJvb3QK</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>,
-  &quot;typeRoots&quot;: [&quot;node_modules/@types&quot;]</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
