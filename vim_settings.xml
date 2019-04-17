@@ -15,12 +15,6 @@
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/pages/Signup/Signup.tsx" timestamp="1555423309092">
         <mark key="[" line="3" column="40" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/pages/Authentication/Authentication.tsx" timestamp="1555446935976">
-        <mark key="[" line="8" column="47" />
-        <mark key="]" line="8" column="47" />
-        <mark key="." line="8" column="47" />
-        <mark key="^" line="4" column="29" />
-      </file>
       <file name="$USER_HOME$/Projects/WWF/wag-app/.gitattributes" timestamp="1555417531114">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="44" />
@@ -31,6 +25,7 @@
         <mark key="." line="61" column="0" />
         <mark key="^" line="50" column="14" />
       </file>
+      <file name="$USER_HOME$/Projects/WWF/wag-app/bin/deploy.sh" timestamp="1555510753551" />
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/typeDefs.gql" timestamp="1554474387927">
         <mark key="[" line="11" column="33" />
       </file>
@@ -52,7 +47,7 @@
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Menu/menu.data.js" timestamp="1554486892704">
         <mark key="[" line="13" column="64" />
       </file>
-      <file name="$USER_HOME$/Projects/WWF/wag-app/fastlane/Fastfile" timestamp="1555417264812">
+      <file name="$USER_HOME$/Projects/WWF/wag-app/fastlane/Fastfile" timestamp="1555509960760">
         <mark key="[" line="196" column="256" />
         <mark key="]" line="196" column="301" />
       </file>
@@ -63,7 +58,7 @@
         <mark key="[" line="137" column="0" />
         <mark key="]" line="138" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/WWF/wag-app/package.json" timestamp="1555409141607">
+      <file name="$USER_HOME$/Projects/WWF/wag-app/package.json" timestamp="1555508775170">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="30" />
       </file>
@@ -71,7 +66,6 @@
         <mark key="[" line="0" column="34" />
         <mark key="]" line="0" column="34" />
         <mark key="." line="0" column="34" />
-        <mark key="^" line="1" column="38" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/registerAccount.handler.ts" timestamp="1555324687643">
         <mark key="[" line="19" column="31" />
@@ -82,7 +76,7 @@
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/storage-eventstore/eventstore.module.ts" timestamp="1554995432122">
         <mark key="[" line="15" column="58" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/fastlane/Fastfile" timestamp="1555417306692">
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/fastlane/Fastfile" timestamp="1555510020988">
         <mark key="[" line="202" column="275" />
         <mark key="]" line="202" column="321" />
         <mark key="." line="202" column="274" />
@@ -119,11 +113,12 @@
         <mark key="." line="136" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/tsconfig.json" timestamp="1555485338007">
-        <mark key="[" line="21" column="3" />
-        <mark key="]" line="21" column="3" />
-        <mark key="." line="21" column="3" />
-        <mark key="^" line="20" column="22" />
+        <mark key="[" line="22" column="3" />
+        <mark key="]" line="22" column="3" />
+        <mark key="." line="22" column="3" />
+        <mark key="^" line="21" column="22" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/fastlane/.env.staging.secret" timestamp="1555508743905" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/ios/InshAllah/Info.plist" timestamp="1555417829857">
         <mark key="[" line="27" column="12" />
         <mark key="]" line="27" column="12" />
@@ -159,13 +154,12 @@
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/index.ts" timestamp="1554997493383">
         <mark key="[" line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/WWF/wag-app/fastlane/.env" timestamp="1555509482803" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/.eslintrc.js" timestamp="1555444862816">
         <mark key="[" line="21" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555502565792">
+      <file name="/Dummy.txt" timestamp="1555510162502">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1555485287909">
         <mark key="[" line="0" column="0" />
@@ -178,6 +172,11 @@
         <mark key="[" line="67" column="0" />
         <mark key="]" line="78" column="33" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/scripts/deploy.sh" timestamp="1555510136851">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/lib/api.js" timestamp="1554909375052">
         <mark key="[" line="42" column="15" />
       </file>
@@ -187,21 +186,8 @@
         <mark key="^" line="66" column="5" />
         <mark key="." line="82" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/package.json" timestamp="1555447316291">
-        <mark key="[" line="14" column="22" />
-        <mark key="]" line="17" column="18" />
-        <mark key="." line="17" column="18" />
-        <mark key="^" line="17" column="18" />
-      </file>
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Menu/lib.js" timestamp="1554487314048">
         <mark key="[" line="16" column="93" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/lib/styled-components.ts" timestamp="1555446027981">
-        <mark key="v" line="2" column="6" />
-        <mark key="[" line="8" column="81" />
-        <mark key="]" line="8" column="81" />
-        <mark key="." line="8" column="81" />
-        <mark key="^" line="2" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/WWF/wag-app/src/App.js" timestamp="1555427170175">
         <mark key="[" line="105" column="0" />
@@ -311,8 +297,8 @@
       <jump line="0" column="7" filename="$USER_HOME$/Projects/WWF/wag-app/src/components/CodePushUpdateButton.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Tm8gbmVlZCBmb3IgdHlwZVJvb3QK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CltbIC16ICQoZ2l0IHN0YXR1cyAtcykgXV0gfHwgd2FybiAnUGxlYXNlIG1ha2Ugc3VyZSB5b3UgZGVwbG95IHdpdGggbm8gY2hhbmdlcyBvciB1bnRyYWNrZWQgZmlsZXMuIFlvdSBjYW4gcnVuICpnaXQgc3Rhc2ggLS1pbmNsdWRlLXVudHJhY2tlZCouJwoKY2hlY2tfZW52aXJvbm1lbnQgJEFQUF9FTlY=</text>
       </register>
       <register name="d" type="4">
         <text />
@@ -324,38 +310,38 @@
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJza2lwTGliQ2hlY2siOiB0cnVlLAo=</text>
+        <text encoding="base64">ICAgICJkZXBsb3kiOiAiYmluL2RlcGxveS5zaCIsCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Tm8gbmVlZCBmb3IgdHlwZVJvb3QK</text>
+      <register name="1" type="4">
+        <text encoding="base64">CltbIC16ICQoZ2l0IHN0YXR1cyAtcykgXV0gfHwgd2FybiAnUGxlYXNlIG1ha2Ugc3VyZSB5b3UgZGVwbG95IHdpdGggbm8gY2hhbmdlcyBvciB1bnRyYWNrZWQgZmlsZXMuIFlvdSBjYW4gcnVuICpnaXQgc3Rhc2ggLS1pbmNsdWRlLXVudHJhY2tlZCouJwoKY2hlY2tfZW52aXJvbm1lbnQgJEFQUF9FTlY=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CmNoZWNrX2Vudmlyb25tZW50KCl7CiAgQ1VSUkVOVF9CUkFOQ0g9YGdpdCByZXYtcGFyc2UgLS1hYmJyZXYtcmVmIEhFQURgCgogIGlmIFsgIiRDVVJSRU5UX0JSQU5DSCIgIT0gIiRBUFBfRU5WIiBdCiAgdGhlbgogICAgd2FybiAiV3JvbmcgYnJhbmNoLCBjaGVja291dCAkQVBQX0VOViB0byBkZXBsb3kgdG8gJEFQUF9FTlYuIgogIGVsc2UKICAgIHN1Y2Nlc3MgIkRlcGxveWluZyB0byAkQVBQX0VOVi4iCiAgZmkKfQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QnVtcCBwYXRjaCBudW1iCg==</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
-      <register name="4" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">Tm8gbmVlZCBmb3IgdHlwZVJvb3QK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
         <text>,
   &quot;typeRoots&quot;: [&quot;node_modules/@types&quot;]</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAiZXhjbHVkZSI6IFsibm9kZV9tb2R1bGVzIl0sCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBjaGlsZHJlbj86IFJlYWN0Tm9kZTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICJsaW50IjogInlhcm4gdHNsaW50OmNoZWNrICYmIHlhcm4gcHJldHR5Omxpc3QgJiYgeWFybiB0czpjaGVjayIsCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICJsaW50OmZpeCI6ICJ0c2xpbnQgLS1maXggLS1wcm9qZWN0IC4gJiYgeWFybiBwcmV0dHk6Zml4IiwK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjaGlsZHJlbj86IFJlYWN0Tm9kZTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
