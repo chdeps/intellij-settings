@@ -6,16 +6,40 @@
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/fastlane/version/minor" timestamp="1555408997176">
         <mark key="[" line="0" column="1" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/android/app/src/main/res/values/strings.xml" timestamp="1555417789649">
+        <mark key="[" line="3" column="37" />
+        <mark key="]" line="9" column="33" />
+        <mark key="." line="9" column="33" />
+        <mark key="^" line="9" column="33" />
+      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/pages/Signup/Signup.tsx" timestamp="1555423309092">
         <mark key="[" line="3" column="40" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/components/CodePushUpdateButton/CodePushUpdateButton.tsx" timestamp="1555567998221">
+        <mark key="[" line="61" column="29" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+        <mark key="^" line="50" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/WWF/wag-app/bin/deploy.sh" timestamp="1555510753551" />
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/typeDefs.gql" timestamp="1554474387927">
         <mark key="[" line="11" column="33" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/components/Text/Text.ts" timestamp="1555445934779">
+        <mark key="[" line="0" column="47" />
+        <mark key="]" line="0" column="47" />
+        <mark key="^" line="0" column="29" />
+        <mark key="." line="0" column="47" />
+      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/ecosystem.config.js" timestamp="1555515491839" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/.gitignore" timestamp="1555321305505">
         <mark key="[" line="2" column="5" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/fastlane/.env" timestamp="1555408867678">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="0" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/controller/auth.controller.ts" timestamp="1555517621971">
         <mark key="[" line="0" column="0" />
@@ -25,18 +49,10 @@
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Menu/menu.data.js" timestamp="1554486892704">
         <mark key="[" line="13" column="64" />
       </file>
-      <file name="$USER_HOME$/Projects/WWF/wag-app/fastlane/Fastfile" timestamp="1555509960760">
-        <mark key="[" line="196" column="256" />
-        <mark key="]" line="196" column="301" />
-      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/dto/authCredentials.dto.ts" timestamp="1555340947765">
         <mark key="[" line="23" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/WWF/wag-app/package.json" timestamp="1555508775170">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="30" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/registerAccount.handler.ts" timestamp="1555528686383">
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/registerAccount.handler.ts" timestamp="1555532492329">
         <mark key="[" line="19" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/components/DashboardComponents/Header.js" timestamp="1554113480966">
@@ -45,13 +61,13 @@
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/storage-eventstore/eventstore.module.ts" timestamp="1554995432122">
         <mark key="[" line="15" column="58" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/fastlane/Fastfile" timestamp="1555510020988">
-        <mark key="[" line="202" column="275" />
-        <mark key="]" line="202" column="321" />
-        <mark key="." line="202" column="274" />
-        <mark key="^" line="202" column="273" />
-      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/auth.module.ts" timestamp="1555530614261" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/node_modules/react-native-gesture-handler/react-native-gesture-handler.d.ts" timestamp="1555447897155">
+        <mark key="[" line="421" column="6" />
+        <mark key="]" line="421" column="0" />
+        <mark key="^" line="421" column="0" />
+        <mark key="." line="421" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-plugin-make/modules/utils/execCommandFromProject.js" timestamp="1554977037117">
         <mark key="[" line="4" column="75" />
       </file>
@@ -65,19 +81,38 @@
         <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/auth.service.ts" timestamp="1555530358282" />
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/tsconfig.json" timestamp="1555485338007">
-        <mark key="[" line="22" column="3" />
-        <mark key="]" line="22" column="3" />
-        <mark key="." line="22" column="3" />
-        <mark key="^" line="21" column="22" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/android/app/build.gradle" timestamp="1555405590431">
+        <mark key="[" line="136" column="0" />
+        <mark key="]" line="136" column="0" />
+        <mark key="^" line="136" column="4" />
+        <mark key="." line="136" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/fastlane/.env.staging.secret" timestamp="1555508743905" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/handler/loggedIn.handler.ts" timestamp="1555532827544" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/services/userService.js" timestamp="1554277961128">
         <mark key="[" line="32" column="32" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/App.tsx" timestamp="1555567960455">
+        <mark key="[" line="18" column="5" />
+        <mark key="]" line="18" column="6" />
+        <mark key="." line="18" column="6" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/jest.config.js" timestamp="1555429282666">
+        <mark key="[" line="12" column="20" />
+        <mark key="]" line="12" column="20" />
+        <mark key="^" line="12" column="22" />
+        <mark key="." line="12" column="20" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/components/Title/Title.ts" timestamp="1555445908986">
+        <mark key="[" line="0" column="47" />
+        <mark key="]" line="0" column="46" />
+        <mark key="^" line="0" column="46" />
+        <mark key="." line="0" column="46" />
       </file>
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/build/main.js" timestamp="1554475963292">
         <mark key="[" line="643" column="21" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/service-eventstore/eventstore.service.ts" timestamp="1555532941764" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/index.ts" timestamp="1554997493383">
         <mark key="[" line="2" column="0" />
       </file>
@@ -86,7 +121,7 @@
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/.eslintrc.js" timestamp="1555444862816">
         <mark key="[" line="21" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555510162502">
+      <file name="/Dummy.txt" timestamp="1555568015596">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1555485287909">
@@ -100,9 +135,16 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/sagas/updateQuery.saga.ts" timestamp="1555532603991" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/infrastructure/api/auth.proto" timestamp="1555515084531" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/lib/api.js" timestamp="1554909375052">
         <mark key="[" line="42" column="15" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/components/CodePushUpdateButton/CodePushUpdateButton.ts" timestamp="1555419139855">
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="^" line="66" column="5" />
+        <mark key="." line="82" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Menu/lib.js" timestamp="1554487314048">
         <mark key="[" line="16" column="93" />
@@ -211,8 +253,11 @@
       <jump line="0" column="7" filename="$USER_HOME$/Projects/WWF/wag-app/src/components/CodePushUpdateButton.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>environment.ENV === 'prod'
+    ? {
+        checkFrequency: CodePush.CheckFrequency.ON_APP_START,
+      }</text>
       </register>
       <register name="d" type="4">
         <text />
@@ -226,35 +271,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICJkZXBsb3kiOiAiYmluL2RlcGxveS5zaCIsCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>environment.ENV === 'prod'
+    ? {
+        checkFrequency: CodePush.CheckFrequency.ON_APP_START,
+      }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgT2JzZXJ2YWJsZSB9IGZyb20gJ3J4anMnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgT2JzZXJ2YWJsZSB9IGZyb20gJ3J4anMnOwo=</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ZGVjbGFyZSBjb25zdCBtb2R1bGU6IHVua25vd247Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CltbIC16ICQoZ2l0IHN0YXR1cyAtcykgXV0gfHwgd2FybiAnUGxlYXNlIG1ha2Ugc3VyZSB5b3UgZGVwbG95IHdpdGggbm8gY2hhbmdlcyBvciB1bnRyYWNrZWQgZmlsZXMuIFlvdSBjYW4gcnVuICpnaXQgc3Rhc2ggLS1pbmNsdWRlLXVudHJhY2tlZCouJwoKY2hlY2tfZW52aXJvbm1lbnQgJEFQUF9FTlY=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CmNoZWNrX2Vudmlyb25tZW50KCl7CiAgQ1VSUkVOVF9CUkFOQ0g9YGdpdCByZXYtcGFyc2UgLS1hYmJyZXYtcmVmIEhFQURgCgogIGlmIFsgIiRDVVJSRU5UX0JSQU5DSCIgIT0gIiRBUFBfRU5WIiBdCiAgdGhlbgogICAgd2FybiAiV3JvbmcgYnJhbmNoLCBjaGVja291dCAkQVBQX0VOViB0byBkZXBsb3kgdG8gJEFQUF9FTlYuIgogIGVsc2UKICAgIHN1Y2Nlc3MgIkRlcGxveWluZyB0byAkQVBQX0VOVi4iCiAgZmkKfQ==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">QnVtcCBwYXRjaCBudW1iCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Tm8gbmVlZCBmb3IgdHlwZVJvb3QK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Tm8gbmVlZCBmb3IgdHlwZVJvb3QK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
