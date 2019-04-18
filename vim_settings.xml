@@ -37,12 +37,12 @@
         <mark key="[" line="196" column="256" />
         <mark key="]" line="196" column="301" />
       </file>
-      <file name="$USER_HOME$/Projects/CQRS/blog/src/commands/handlers/create-article.handler.ts" timestamp="1555614443052">
+      <file name="$USER_HOME$/Projects/CQRS/blog/src/commands/handlers/create-article.handler.ts" timestamp="1555616595143">
         <mark key="p" line="12" column="1" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="16" column="65" />
-        <mark key="." line="16" column="65" />
-        <mark key="^" line="16" column="65" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="9" column="42" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/dto/authCredentials.dto.ts" timestamp="1555340947765">
         <mark key="[" line="23" column="1" />
@@ -103,6 +103,12 @@
         <mark key="^" line="21" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/fastlane/.env.staging.secret" timestamp="1555508743905" />
+      <file name="$USER_HOME$/Projects/CQRS/blog/src/events/create-article.event.ts" timestamp="1555615795132">
+        <mark key="[" line="2" column="23" />
+        <mark key="]" line="2" column="23" />
+        <mark key="^" line="1" column="107" />
+        <mark key="." line="2" column="23" />
+      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/handler/loggedIn.handler.ts" timestamp="1555532827544" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/services/userService.js" timestamp="1554277961128">
         <mark key="[" line="32" column="32" />
@@ -112,12 +118,12 @@
         <mark key="]" line="22" column="6" />
         <mark key="." line="22" column="6" />
       </file>
-      <file name="$USER_HOME$/Projects/CQRS/blog/src/article.entity.ts" timestamp="1555614713379">
+      <file name="$USER_HOME$/Projects/CQRS/blog/src/article.entity.ts" timestamp="1555616554025">
         <mark key="'" line="14" column="1" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="14" column="1" />
-        <mark key="^" line="11" column="18" />
-        <mark key="." line="11" column="18" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="3" />
+        <mark key="^" line="5" column="3" />
+        <mark key="." line="5" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/build/main.js" timestamp="1554475963292">
         <mark key="[" line="643" column="21" />
@@ -142,7 +148,7 @@
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/.eslintrc.js" timestamp="1555444862816">
         <mark key="[" line="21" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555614306059">
+      <file name="/Dummy.txt" timestamp="1555616647507">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -290,13 +296,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBAQ29sdW1uKCcnKQo=</text>
+        <text encoding="base64">VXNlIGNvbW1hbmQgYnVzCg==</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>json</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
@@ -305,34 +311,34 @@
         <text encoding="base64">ICBAQ29sdW1uKCdqc29uJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBAQ29sdW1uKCcnKQo=</text>
+        <text encoding="base64">VXNlIGNvbW1hbmQgYnVzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">aW1wb3J0IHsgSW5qZWN0RW50aXR5TWFuYWdlciB9IGZyb20gJ0BuZXN0anMvdHlwZW9ybSc7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQ3JlYXRlQXJ0aWNsZUNvbW1hbmQgfSBmcm9tICcuL2NvbW1hbmRzL2ludGVyZmFjZXMvY3JlYXRlLWFydGljbGUuY29tbWFuZCc7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgRW50aXR5TWFuYWdlciB9IGZyb20gJ3R5cGVvcm0nOwo=</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQXJ0aWNsZUR0byB9IGZyb20gJy4uLy4uL2FydGljbGVzLmR0byc7Cg==</text>
+        <text encoding="base64">ICBjb25zdHJ1Y3RvcigKICApIHt9Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBASW5qZWN0RW50aXR5TWFuYWdlcignYmlsb3V0ZUNvbm5lY3Rpb24nKQogIHByaXZhdGUgcmVhZG9ubHkgZW50aXR5TWFuYWdlcjogRW50aXR5TWFuYWdlciwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG5ld0FydGljbGUgPSBhd2FpdCB0aGlzLmFydGljbGVSZXBvc2l0b3J5LmNyZWF0ZShhcnRpY2xlKTsKICAgIHRoaXMuYXJ0aWNsZVJlcG9zaXRvcnkuc2F2ZShuZXdBcnRpY2xlKTsKICAgIHJldHVybiBuZXdBcnRpY2xlOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBwcml2YXRlIHJlYWRvbmx5IGFydGljbGVSZXBvc2l0b3J5ID0gdGhpcy5lbnRpdHlNYW5hZ2VyLmdldFJlcG9zaXRvcnkoQXJ0aWNsZUVudGl0eSk7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyByZWFkb25seQo=</text>
+        <text encoding="base64">ICAgIHRoaXMuYXJ0aWNsZVJlcG9zaXRvcnkuc2F2ZShuZXdBcnRpY2xlKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zCg==</text>
+        <text encoding="base64">ICBjb25zdCBuZXdBcnRpY2xlID0gbmV3IEFydGljbGUoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
