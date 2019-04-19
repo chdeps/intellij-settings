@@ -39,12 +39,12 @@
         <mark key="[" line="196" column="256" />
         <mark key="]" line="196" column="301" />
       </file>
-      <file name="$USER_HOME$/Projects/CQRS/blog/src/commands/handlers/create-article.handler.ts" timestamp="1555621518962">
+      <file name="$USER_HOME$/Projects/CQRS/blog/src/commands/handlers/create-article.handler.ts" timestamp="1555670973665">
         <mark key="p" line="12" column="1" />
-        <mark key="[" line="7" column="14" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="9" column="47" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="8" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/dto/authCredentials.dto.ts" timestamp="1555340947765">
         <mark key="[" line="23" column="1" />
@@ -148,16 +148,16 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/CQRS/blog/src/app.service.ts" timestamp="1555614294887">
-        <mark key="[" line="20" column="4" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="25" column="3" />
+      <file name="$USER_HOME$/Projects/CQRS/blog/src/app.service.ts" timestamp="1555670922938">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="43" />
+        <mark key="." line="10" column="16" />
+        <mark key="^" line="10" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/.eslintrc.js" timestamp="1555444862816">
         <mark key="[" line="21" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555621529173">
+      <file name="/Dummy.txt" timestamp="1555670844078">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -308,50 +308,50 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRW50aXR5TWFuYWdlciB9IGZyb20gJ3R5cGVvcm0nOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>private readonly entityManager : EntityManager</text>
+        <text>newArticle</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwdWJsaWMgY29uc3RydWN0b3IoCiAgICBASW5qZWN0RW50aXR5TWFuYWdlcignYWNjb3VudENvbm5lY3Rpb24nKQogICAgcHJpdmF0ZSByZWFkb25seSBlbnRpdHlNYW5hZ2VyOiBFbnRpdHlNYW5hZ2VyLAogICkge30K</text>
+        <text encoding="base64">ICBASW5qZWN0RW50aXR5TWFuYWdlcignYmlsb3V0ZUNvbm5lY3Rpb24nKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRW50aXR5TWFuYWdlciB9IGZyb20gJ3R5cGVvcm0nOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBwcml2YXRlIHJlYWRvbmx5IGFydGljbGVSZXBvc2l0b3J5Cg==</text>
+        <text encoding="base64">U2F2ZSBhcnRpY2xlIGluIERCCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>om 'rxjs';
-import { map } from 'rxj/</text>
+      <register name="3" type="2">
+        <text encoding="base64">SGFuZGxlIGV2ZW50IGluIHNhZ2FzCg==</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QEV2ZW50c0hhbmRsZXIoQXJ0aWNsKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">VXNlIGNvbW1hbmQgYnVzCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSW5qZWN0RW50aXR5TWFuYWdlciB9IGZyb20gJ0BuZXN0anMvdHlwZW9ybSc7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IHsgRW50aXR5TWFuYWdlciB9IGZyb20gJ3R5cGVvcm0nOwo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBwcml2YXRlIHJlYWRvbmx5IGFydGljbGVSZXBvc2l0b3J5Cg==</text>
+      </register>
+      <register name="7" type="4">
+        <text>om 'rxjs';
+import { map } from 'rxj/</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdHJ1Y3RvcigKICApIHt9Cgo=</text>
+        <text encoding="base64">QEV2ZW50c0hhbmRsZXIoQXJ0aWNsKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBASW5qZWN0RW50aXR5TWFuYWdlcignYmlsb3V0ZUNvbm5lY3Rpb24nKQogIHByaXZhdGUgcmVhZG9ubHkgZW50aXR5TWFuYWdlcjogRW50aXR5TWFuYWdlciwK</text>
+        <text encoding="base64">VXNlIGNvbW1hbmQgYnVzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
