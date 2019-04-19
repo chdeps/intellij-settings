@@ -4,12 +4,14 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/model/account.model.ts" timestamp="1555572195928" />
+      <file name="$USER_HOME$/Projects/Yellow/trpc-mobile-app/src/config/index.js" timestamp="1555668066284" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/fastlane/version/minor" timestamp="1555408997176">
         <mark key="[" line="0" column="1" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/pages/Signup/Signup.tsx" timestamp="1555423309092">
         <mark key="[" line="3" column="40" />
       </file>
+      <file name="$USER_HOME$/Projects/Yellow/trpc-mobile-app/src/lib/i18n.js" timestamp="1555667717071" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/components/CodePushUpdateButton/CodePushUpdateButton.tsx" timestamp="1555600172349">
         <mark key="[" line="61" column="29" />
         <mark key="]" line="61" column="0" />
@@ -161,7 +163,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1555485287909">
+      <file name="/GraphQL.result.json" timestamp="1555667587649">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/handler/accountRegistred.handler.ts" timestamp="1555572232299" />
