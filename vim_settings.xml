@@ -93,7 +93,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/module.ts" timestamp="1555514653977" />
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/sagas/updateQuery.saga.ts" timestamp="1555783935997">
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/sagas/updateQuery.saga.ts" timestamp="1555920024309">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="17" column="6" />
       </file>
@@ -138,7 +138,7 @@
       </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-core/env.ts" timestamp="1555599082305" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/query/handler/getUserAndRolesFromJwt.handler.ts" timestamp="1555528242473" />
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/auth.service.ts" timestamp="1555681665605" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/auth.service.ts" timestamp="1555919612380" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/fastlane/.env.staging.secret" timestamp="1555508743905" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/interface/accountRegistred.event.ts" timestamp="1555619386348" />
       <file name="$USER_HOME$/Projects/CQRS/blog/src/events/create-article.event.ts" timestamp="1555615795132">
@@ -169,7 +169,7 @@
         <mark key="." line="10" column="16" />
         <mark key="^" line="10" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/login.handler.ts" timestamp="1555680893702" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/login.handler.ts" timestamp="1555919601029" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/.eslintrc.js" timestamp="1555444862816">
         <mark key="[" line="21" column="6" />
       </file>
