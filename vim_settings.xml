@@ -66,6 +66,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/components/Announce/Announce.component.tsx" timestamp="1556032095758" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/App.tsx" timestamp="1555567960455">
         <mark key="[" line="24" column="5" />
         <mark key="]" line="24" column="6" />
@@ -90,15 +91,18 @@
         <mark key="^" line="19" column="56" />
       </file>
       <file name="$USER_HOME$/Projects/Yellow/trpc-mobile-app/src/lib/i18n.js" timestamp="1555667717071" />
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/components/Cards/MemberCard/MemberCard.component.tsx" timestamp="1556032425178" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/components/CodePushUpdateButton/CodePushUpdateButton.tsx" timestamp="1555600172349">
         <mark key="[" line="61" column="29" />
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
         <mark key="^" line="50" column="14" />
       </file>
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/components/Buttons/IconButton/IconButton.component.tsx" timestamp="1556032118775" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/dto/authCredentials.dto.ts" timestamp="1556024303285">
         <mark key="[" line="23" column="1" />
       </file>
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/libraries/styled-components/styled.app.ts" timestamp="1556032440114" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/registerAccount.handler.ts" timestamp="1555619371350">
         <mark key="[" line="19" column="31" />
       </file>
@@ -144,6 +148,7 @@
         <mark key="." line="182" column="51" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/service-eventstore/eventstore.service.ts" timestamp="1555870515199" />
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/components/Buttons/Add/Add.test.ts" timestamp="1556032537765" />
       <file name="$USER_HOME$/Projects/CQRS/blog/src/app.module.ts" timestamp="1555620525697">
         <mark key="[" line="24" column="46" />
         <mark key="]" line="7" column="0" />
@@ -156,6 +161,7 @@
         <mark key="^" line="10" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/login.handler.ts" timestamp="1556025439599" />
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/ui/createTestFromDocs.tsx" timestamp="1556032550501" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/infrastructure/api/auth.controller.ts" timestamp="1556024346109" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/query/handler/getUserIdAfterValidation.handler.ts" timestamp="1556024985209">
         <mark key="[" line="15" column="0" />
