@@ -59,7 +59,10 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/WWF/wag-app/src/components/FacebookAuthButton/FacebookAuthButton.js" timestamp="1556101588651" />
+      <file name="$USER_HOME$/Projects/WWF/wag-app/src/components/FacebookAuthButton/FacebookAuthButton.js" timestamp="1556119100482">
+        <mark key="[" line="47" column="18" />
+        <mark key="]" line="47" column="52" />
+      </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-core/themes/affiny/shadows.ts" timestamp="1556013336347" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/components/DashboardComponents/Filters/CustomerFilter.js" timestamp="1556021693414">
         <mark key="[" line="22" column="53" />
@@ -84,6 +87,9 @@
       <file name="$USER_HOME$/Projects/WWF/wag-app/fastlane/.env" timestamp="1555509482803" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/infrastructure/api/auth.client.ts" timestamp="1556023921438" />
       <file name="$USER_HOME$/Projects/YesNYou/vinci-up/src/pages/Login/Login.component.js" timestamp="1556098755336" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/.gitattributes" timestamp="1556118868882">
+        <mark key="[" line="0" column="33" />
+      </file>
       <file name="/GraphQL.result.json" timestamp="1556097364612">
         <mark key="[" line="0" column="0" />
       </file>
@@ -148,7 +154,7 @@
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/config/database.js" timestamp="1556008307976" />
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-core/themes/affiny/fonts.ts" timestamp="1556093339146" />
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/auth.service.ts" timestamp="1556107086364" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/auth.service.ts" timestamp="1556120316803" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/query/interface/getUserIdAfterValidation.query.ts" timestamp="1556024727829" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/interface/accountRegistred.event.ts" timestamp="1556107710619" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/handler/loggedIn.handler.ts" timestamp="1556107665282" />
@@ -175,8 +181,14 @@
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/.eslintrc.js" timestamp="1555444862816">
         <mark key="[" line="21" column="6" />
       </file>
+      <file name="/Dummy.txt" timestamp="1556118889852">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/infrastructure/api/auth.controller.ts" timestamp="1556107065832" />
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/query/handler/getUserIdAfterValidation.handler.ts" timestamp="1556024985209">
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/query/handler/getUserIdAfterValidation.handler.ts" timestamp="1556119863901">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="50" />
       </file>
@@ -300,8 +312,8 @@
       <jump line="0" column="0" filename="/Dummy.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBBcGlFeGNsdWRlRW5kcG9pbnQsCg==</text>
+      <register name="&quot;" type="4">
+        <text>AccessToken.getCurrentAccessToken()</text>
       </register>
       <register name="d" type="4">
         <text />
@@ -312,8 +324,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">RkFTVExBTkVfUEFTU1dPUkQ9J3ZPSHpKbHVJanpQRWs1bnotZmhVUCcKTUFUQ0hfUEFTU1dPUkQ9J0hlbnJpIERlcyA0IGV2ZXInCg==</text>
+      <register name="0" type="4">
+        <text>AccessToken.getCurrentAccessToken()</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBBcGlFeGNsdWRlRW5kcG9pbnQsCg==</text>
