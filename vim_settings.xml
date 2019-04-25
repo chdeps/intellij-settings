@@ -8,21 +8,39 @@
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/fastlane/version/minor" timestamp="1555408997176">
         <mark key="[" line="0" column="1" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/android/app/src/main/res/values/strings.xml" timestamp="1555417789649">
+        <mark key="[" line="3" column="37" />
+        <mark key="]" line="9" column="33" />
+        <mark key="." line="9" column="33" />
+        <mark key="^" line="9" column="33" />
+      </file>
       <file name="$USER_HOME$/Projects/WWF/wag-app/bin/deploy.sh" timestamp="1555510753551" />
       <file name="$USER_HOME$/Projects/WWF/wag-app/src/lib/I18n/index.js" timestamp="1555599163533" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/components/Text/Text.ts" timestamp="1555445934779">
+        <mark key="[" line="0" column="47" />
+        <mark key="]" line="0" column="47" />
+        <mark key="^" line="0" column="29" />
+        <mark key="." line="0" column="47" />
+      </file>
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/SurveyFlow/SurveyFlow.container.js" timestamp="1556030377060">
         <mark key="[" line="4" column="15" />
         <mark key="]" line="4" column="15" />
         <mark key="." line="4" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/.eslintignore" timestamp="1556193582860">
-        <mark key="[" line="4" column="33" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/.eslintignore" timestamp="1556200947543">
+        <mark key="[" line="5" column="9" />
+        <mark key="]" line="5" column="9" />
+        <mark key="." line="5" column="9" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/ecosystem.config.js" timestamp="1555515491839" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/.gitignore" timestamp="1555321305505">
         <mark key="[" line="2" column="5" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/fastlane/.env" timestamp="1555408867678">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="0" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/controller/auth.controller.ts" timestamp="1556188396997">
         <mark key="[" line="0" column="0" />
@@ -75,6 +93,12 @@
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/.travis.yml" timestamp="1555447471910">
         <mark key="[" line="5" column="17" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/package.json" timestamp="1556201215362">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="31" column="27" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="22" column="3" />
+      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-algo/domain/model/userStatistics.model.ts" timestamp="1555870380927" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/index.ts" timestamp="1555515566474">
         <mark key="[" line="9" column="0" />
@@ -117,6 +141,12 @@
         <mark key="[" line="24" column="5" />
         <mark key="]" line="24" column="6" />
         <mark key="." line="24" column="6" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/components/Title/Title.ts" timestamp="1555445908986">
+        <mark key="[" line="0" column="47" />
+        <mark key="]" line="0" column="46" />
+        <mark key="^" line="0" column="46" />
+        <mark key="." line="0" column="46" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/index.ts" timestamp="1554997493383">
         <mark key="[" line="2" column="0" />
@@ -166,10 +196,11 @@
         <mark key="." line="19" column="56" />
         <mark key="^" line="19" column="56" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/package.json" timestamp="1556193430831">
-        <mark key="[" line="11" column="13" />
-        <mark key="]" line="11" column="13" />
-        <mark key="." line="11" column="13" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/package.json" timestamp="1556201209121">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="46" column="27" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="12" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/pages/Signup/Signup.tsx" timestamp="1555423309092">
         <mark key="[" line="3" column="40" />
@@ -204,15 +235,17 @@
         <mark key="[" line="17" column="0" />
         <mark key="]" line="1" column="42" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/node_modules/react-native-gesture-handler/react-native-gesture-handler.d.ts" timestamp="1555447897155">
+        <mark key="[" line="421" column="6" />
+        <mark key="]" line="421" column="0" />
+        <mark key="^" line="421" column="0" />
+        <mark key="." line="421" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/pages/withCorrectLanguage.js" timestamp="1556030387059" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/infrastructure/persistence/entity/account.entity.ts" timestamp="1556024777177" />
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-core/env.ts" timestamp="1555599082305" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/query/handler/getUserAndRolesFromJwt.handler.ts" timestamp="1555528242473" />
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/.env" timestamp="1556087919251">
-        <mark key="[" line="4" column="14" />
-        <mark key="]" line="4" column="14" />
-        <mark key="." line="4" column="14" />
-      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/.env" timestamp="1556200691696" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/config/database.js" timestamp="1556008307976" />
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-core/themes/affiny/fonts.ts" timestamp="1556093339146" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/auth.service.ts" timestamp="1556120316803" />
@@ -252,6 +285,12 @@
         <mark key="^" line="17" column="58" />
         <mark key="." line="17" column="58" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/jest.config.js" timestamp="1555429282666">
+        <mark key="[" line="12" column="20" />
+        <mark key="]" line="12" column="20" />
+        <mark key="^" line="12" column="22" />
+        <mark key="." line="12" column="20" />
+      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/api/authentication/index.ts" timestamp="1556098890871" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/index.js" timestamp="1556031132745">
         <mark key="[" line="182" column="51" />
@@ -284,11 +323,16 @@
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/.eslintrc.js" timestamp="1555444862816">
         <mark key="[" line="21" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556188414319">
+      <file name="/Dummy.txt" timestamp="1556200295580">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/.eslintignore" timestamp="1556201134625">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/infrastructure/api/auth.controller.ts" timestamp="1556107065832" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/query/handler/getUserIdAfterValidation.handler.ts" timestamp="1556119863901">
@@ -306,6 +350,12 @@
         <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/infrastructure/api/auth.proto" timestamp="1556023956380" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/components/CodePushUpdateButton/CodePushUpdateButton.ts" timestamp="1555419139855">
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="^" line="66" column="5" />
+        <mark key="." line="82" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/package.json" timestamp="1556193426025">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="19" />
@@ -422,7 +472,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cm4tY2xpLmNvbmZpZy5qcwo=</text>
+        <text encoding="base64">ICAgICJqZXN0IjogIl4yNC43LjEiLAogICAgInByZXR0aWVyIjogIl4xLjE2LjQiLAogICAgInRzLWplc3QiOiAiXjI0LjAuMiIsCiAgICAidHlwZXNjcmlwdCI6ICJeMy40LjEiLAo=</text>
       </register>
       <register name="d" type="4">
         <text />
@@ -434,13 +484,13 @@
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cGFja2FnZS5qc29uCnJuLWNsaS5jb25maWcuanMKLmVzbGludHJjLmpzCg==</text>
+        <text encoding="base64">ICAgICJqZXN0IjogIl4yNC43LjEiLAogICAgInByZXR0aWVyIjogIl4xLjE2LjQiLAogICAgInRzLWplc3QiOiAiXjI0LjAuMiIsCiAgICAidHlwZXNjcmlwdCI6ICJeMy40LjEiLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cm4tY2xpLmNvbmZpZy5qcwo=</text>
+        <text encoding="base64">cGFja2FnZXMvdXRpbHMtZ2VuZXJhdG9yL3RlbXBsYXRlCnBhY2thZ2VzLwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGlzdApidWlsZAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -449,19 +499,19 @@
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYW5kcm9pZDp1c2VzQ2xlYXJ0ZXh0VHJhZmZpYz0idHJ1ZSIK</text>
+        <text encoding="base64">ICAgICJsaW50IjogInlhcm4gZXNsaW50OmNoZWNrICYmIHlhcm4gcHJldHR5Omxpc3QgJiYgeWFybiB0czpjaGVjayIsCiAgICAicHJldHR5Omxpc3QiOiAieWFybiBwcmV0dGllciAtLWxpc3QtZGlmZmVyZW50ICcuLyoqLyoue3RzLHRzeH0nIiwKICAgICJlc2xpbnQ6Y2hlY2siOiAiZXNsaW50IC4iLAogICAgInRzOmNoZWNrIjogInRzYyIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBBcGlFeGNsdWRlRW5kcG9pbnQsCg==</text>
+        <text encoding="base64">ICAgICJzdGFydCI6ICJiYWNrcGFjayAtciBkb3RlbnYvY29uZmlnIHwgaW5zaGFsbGFoLXByZXR0eSIsCiAgICAic3RhcnQ6ZGVidWciOiAiYmFja3BhY2sgLXIgZG90ZW52L2NvbmZpZyAtLWluc3BlY3QgfCBpbnNoYWxsYWgtcHJldHR5IiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBheWxvYWQpOwo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ0VOVicsIHByb2Nlc3MuZW52KTsK</text>
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cmVxdWlyZSgnZG90ZW52JykuY29uZmlnKCk7Cg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
