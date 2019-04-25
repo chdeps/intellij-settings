@@ -183,7 +183,7 @@
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/.eslintrc.js" timestamp="1555444862816">
         <mark key="[" line="21" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556118889852">
+      <file name="/Dummy.txt" timestamp="1556176875873">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -315,13 +315,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>AccessToken.getCurrentAccessToken()</text>
+        <text>Bump version</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Set up the delete route for logout</text>
+        <text>Bump version</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
