@@ -110,10 +110,10 @@
         <mark key="]" line="47" column="52" />
       </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-core/themes/affiny/shadows.ts" timestamp="1556013336347" />
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/components/DashboardComponents/Filters/CustomerFilter.js" timestamp="1556021693414">
-        <mark key="[" line="22" column="53" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/components/DashboardComponents/Filters/CustomerFilter.js" timestamp="1556209317567">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/components/Announce/Announce.component.tsx" timestamp="1556032095758" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/services/userService.js" timestamp="1554277961128">
@@ -129,6 +129,11 @@
       </file>
       <file name="$USER_HOME$/Projects/WWF/wag-app/fastlane/.env" timestamp="1555509482803" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/infrastructure/api/auth.client.ts" timestamp="1556023921438" />
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/controllers/UserController.js" timestamp="1556209571486">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/modules/authentication/sagas.ts" timestamp="1556093104720">
         <mark key="[" line="8" column="22" />
         <mark key="]" line="12" column="2" />
@@ -257,12 +262,6 @@
         <mark key="." line="17" column="58" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/api/authentication/index.ts" timestamp="1556098890871" />
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/index.js" timestamp="1556031132745">
-        <mark key="[" line="182" column="51" />
-        <mark key="]" line="182" column="51" />
-        <mark key="^" line="182" column="2" />
-        <mark key="." line="182" column="51" />
-      </file>
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/build/main.js" timestamp="1554475963292">
         <mark key="[" line="643" column="21" />
       </file>
@@ -289,7 +288,7 @@
         <mark key="[" line="21" column="6" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/.eslintrc.js" timestamp="1556204019778" />
-      <file name="/Dummy.txt" timestamp="1556207939227">
+      <file name="/Dummy.txt" timestamp="1556209574988">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -432,7 +431,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJAdHlwZXNjcmlwdC1lc2xpbnQvZXNsaW50LXBsdWdpbiI6ICJeMS42LjAiLAogICAgIkB0eXBlc2NyaXB0LWVzbGludC9wYXJzZXIiOiAiXjEuNi4wIiwK</text>
+        <text encoding="base64">Y29uc3QgbW9uZ29vc2UgPSByZXF1aXJlKCdtb25nb29zZScpOwo=</text>
       </register>
       <register name="d" type="4">
         <text />
@@ -447,34 +446,34 @@
         <text encoding="base64">ICAgICJAdHlwZXNjcmlwdC1lc2xpbnQvZXNsaW50LXBsdWdpbiI6ICJeMS42LjAiLAogICAgIkB0eXBlc2NyaXB0LWVzbGludC9wYXJzZXIiOiAiXjEuNi4wIiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgbW9uZ29vc2UgPSByZXF1aXJlKCdtb25nb29zZScpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHt1c2VyQ3VzdG9tZXJzRmlsdGVyLCBmaWx0ZXJzfSA9IHRoaXMucHJvcHM7CiAgICBjb25zdCBjdXN0b21lckxhYmVsID0KICAgICAgdXNlckN1c3RvbWVyc0ZpbHRlciAmJiB1c2VyQ3VzdG9tZXJzRmlsdGVyLmZpbmQoKHt2YWx1ZX0pID0+IHZhbHVlID09PSBmaWx0ZXJzLmN1c3RvbWVyKTsKICAgIHJldHVybiAoY3VzdG9tZXJMYWJlbCAmJiBjdXN0b21lckxhYmVsLmxhYmVsKSB8fCAnQWxsIGN1c3RvbWVycyc7CiAgfTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB1c2VyQ3VzdG9tZXJzRmlsdGVyOiA/QXJyYXk8e2xhYmVsOnN0cmluZywgdmFsdWU6c3RyaW5nLCBjaGlsZHJlbjogQXJyYXk8YW55PiB9PiwK</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cGFja2FnZXMvCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">cGFja2FnZXMvdXRpbHMtZ2VuZXJhdG9yL3RlbXBsYXRlCnBhY2thZ2VzLwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZGlzdApidWlsZAo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">cGFja2FnZXMvCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJsaW50IjogInlhcm4gZXNsaW50OmNoZWNrICYmIHlhcm4gcHJldHR5Omxpc3QgJiYgeWFybiB0czpjaGVjayIsCiAgICAicHJldHR5Omxpc3QiOiAieWFybiBwcmV0dGllciAtLWxpc3QtZGlmZmVyZW50ICcuLyoqLyoue3RzLHRzeH0nIiwKICAgICJlc2xpbnQ6Y2hlY2siOiAiZXNsaW50IC4iLAogICAgInRzOmNoZWNrIjogInRzYyIK</text>
+        <text encoding="base64">cGFja2FnZXMvdXRpbHMtZ2VuZXJhdG9yL3RlbXBsYXRlCnBhY2thZ2VzLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJzdGFydCI6ICJiYWNrcGFjayAtciBkb3RlbnYvY29uZmlnIHwgaW5zaGFsbGFoLXByZXR0eSIsCiAgICAic3RhcnQ6ZGVidWciOiAiYmFja3BhY2sgLXIgZG90ZW52L2NvbmZpZyAtLWluc3BlY3QgfCBpbnNoYWxsYWgtcHJldHR5IiwK</text>
+        <text encoding="base64">ZGlzdApidWlsZAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
