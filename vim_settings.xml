@@ -137,7 +137,7 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="3" column="12" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1556192249395">
+      <file name="/GraphQL.result.json" timestamp="1556196454175">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/handler/accountRegistred.handler.ts" timestamp="1555572232299" />
