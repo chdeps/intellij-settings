@@ -20,6 +20,7 @@
       <mapping ext="tab" type="PLAIN_TEXT" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
       <mapping ext="pbxproj" type="PLAIN_TEXT" />
+      <mapping ext="template" type="Spacebars" />
     </extensionMap>
   </component>
 </application>
