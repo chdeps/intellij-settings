@@ -3,36 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/package.json" timestamp="1556282028005">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="17" column="34" />
-        <mark key="." line="16" column="0" />
-      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-generator/template/query/business/query/interface/{{ camelCase ms.queryName }}.query.ts.template" timestamp="1556295188518" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/fastlane/version/minor" timestamp="1555408997176">
         <mark key="[" line="0" column="1" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/pages/Signup/Signup.tsx" timestamp="1555423309092">
-        <mark key="[" line="3" column="40" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/components/CodePushUpdateButton/CodePushUpdateButton.tsx" timestamp="1555600172349">
-        <mark key="[" line="61" column="29" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
-        <mark key="^" line="50" column="14" />
-      </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/SurveyFlow/SurveyFlow.container.js" timestamp="1556030377060">
-        <mark key="[" line="4" column="15" />
-        <mark key="]" line="4" column="15" />
-        <mark key="." line="4" column="15" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/.eslintignore" timestamp="1556256883753">
-        <mark key="[" line="1" column="12" />
-        <mark key="]" line="1" column="12" />
-        <mark key="." line="1" column="12" />
-      </file>
-      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/typeDefs.gql" timestamp="1554474387927">
-        <mark key="[" line="11" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-algo/tsconfig.json" timestamp="1556271553290">
         <mark key="'" line="0" column="0" />
@@ -44,55 +17,17 @@
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/.gitignore" timestamp="1556260563912">
         <mark key="[" line="2" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/controller/auth.controller.ts" timestamp="1556259323948">
-        <mark key="[" line="24" column="23" />
-        <mark key="]" line="24" column="23" />
-        <mark key="." line="24" column="23" />
-      </file>
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Menu/menu.data.js" timestamp="1554486892704">
         <mark key="[" line="13" column="64" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/dto/authCredentials.dto.ts" timestamp="1556098818306">
-        <mark key="[" line="23" column="1" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-algo/business/command/handler/__tests__/updateAttractiveness.handler.test.ts" timestamp="1556281260173">
-        <mark key="[" line="35" column="19" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-        <mark key="^" line="35" column="18" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/plopfile.js" timestamp="1556293079966">
+        <mark key="[" line="1" column="90" />
       </file>
       <file name="$USER_HOME$/Projects/CQRS/blog/src/articles.dto.ts" timestamp="1555601709867">
         <mark key="[" line="2" column="10" />
         <mark key="]" line="1" column="5" />
         <mark key="^" line="1" column="5" />
         <mark key="." line="1" column="5" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/components/Button/Button.tsx" timestamp="1555447116139">
-        <mark key="[" line="0" column="34" />
-        <mark key="]" line="0" column="34" />
-        <mark key="." line="0" column="34" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/index.ts" timestamp="1556088304512">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="2" column="31" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/Gemfile.lock" timestamp="1556209938412">
-        <mark key="[" line="217" column="4" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/registerAccount.handler.ts" timestamp="1555619371350">
-        <mark key="[" line="19" column="31" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/ios/Podfile" timestamp="1556284304464">
-        <mark key="[" line="34" column="49" />
-        <mark key="]" line="34" column="49" />
-        <mark key="." line="34" column="49" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/.gitignore" timestamp="1556011387702">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/components/DashboardComponents/Header.js" timestamp="1554113480966">
         <mark key="[" line="64" column="17" />
@@ -106,31 +41,17 @@
         <mark key="." line="202" column="274" />
         <mark key="^" line="202" column="273" />
       </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/jest.config.js" timestamp="1556291514924" />
       <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-plugin-make/modules/utils/execCommandFromProject.js" timestamp="1554977037117">
         <mark key="[" line="4" column="75" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/.travis.yml" timestamp="1555447471910">
         <mark key="[" line="5" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/package.json" timestamp="1556271645984">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/package.json" timestamp="1556292780430">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
         <mark key="^" line="16" column="3" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/SurveyFlow/SurveyFlow.component.js" timestamp="1556030576571">
-        <mark key="[" line="40" column="47" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/patches/react-native-code-push+5.6.0.patch" timestamp="1556288801424">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/index.ts" timestamp="1556260197136">
-        <mark key="[" line="11" column="88" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/android/app/src/main/AndroidManifest.xml" timestamp="1556179149525">
         <mark key="[" line="12" column="0" />
@@ -150,6 +71,113 @@
         <mark key="." line="22" column="3" />
         <mark key="^" line="21" column="22" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/query/interface/fetchUserQuery.query.ts" timestamp="1556293432614" />
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/services/userService.js" timestamp="1554277961128">
+        <mark key="[" line="32" column="32" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/README.md" timestamp="1556087139488">
+        <mark key="[" line="24" column="8" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/index.ts" timestamp="1554997493383">
+        <mark key="[" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/infrastructure/api/auth.client.ts" timestamp="1556292554064" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/modules/authentication/sagas.ts" timestamp="1556093104720">
+        <mark key="[" line="8" column="22" />
+        <mark key="]" line="12" column="2" />
+        <mark key="^" line="12" column="2" />
+        <mark key="." line="12" column="2" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/.gitattributes" timestamp="1556118868882">
+        <mark key="[" line="0" column="33" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-algo/package.json" timestamp="1556271779260">
+        <mark key="[" line="7" column="17" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/ios/InshAllah.xcodeproj/project.pbxproj" timestamp="1556284176128">
+        <mark key="[" line="1590" column="45" />
+        <mark key="]" line="1584" column="62" />
+        <mark key="." line="1584" column="62" />
+        <mark key="^" line="1584" column="68" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1556270240616">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/CQRS/blog/src/commands/interfaces/create-article.command.ts" timestamp="1555613009024">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/lib/call.js" timestamp="1556030755463">
+        <mark key="[" line="9" column="41" />
+      </file>
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/lib/api.js" timestamp="1554909375052">
+        <mark key="[" line="42" column="15" />
+      </file>
+      <file name="$USER_HOME$/Projects/CQRS/blog/src/app.controller.ts" timestamp="1555612338384">
+        <mark key="[" line="19" column="47" />
+        <mark key="]" line="19" column="56" />
+        <mark key="." line="19" column="56" />
+        <mark key="^" line="19" column="56" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-generator/generator/command.generator.js" timestamp="1556294855032">
+        <mark key="[" line="27" column="66" />
+        <mark key="]" line="27" column="66" />
+        <mark key="." line="27" column="66" />
+        <mark key="^" line="23" column="22" />
+        <mark key="o" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/package.json" timestamp="1556292401644">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="17" column="34" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/pages/Signup/Signup.tsx" timestamp="1555423309092">
+        <mark key="[" line="3" column="40" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/components/CodePushUpdateButton/CodePushUpdateButton.tsx" timestamp="1555600172349">
+        <mark key="[" line="61" column="29" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+        <mark key="^" line="50" column="14" />
+      </file>
+      <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/typeDefs.gql" timestamp="1554474387927">
+        <mark key="[" line="11" column="33" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/dto/authCredentials.dto.ts" timestamp="1556098818306">
+        <mark key="[" line="23" column="1" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-algo/business/command/handler/__tests__/updateAttractiveness.handler.test.ts" timestamp="1556281260173">
+        <mark key="[" line="35" column="19" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="35" column="18" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/index.ts" timestamp="1556088304512">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="2" column="31" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/Gemfile.lock" timestamp="1556209938412">
+        <mark key="[" line="217" column="4" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/registerAccount.handler.ts" timestamp="1555619371350">
+        <mark key="[" line="19" column="31" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/ios/Podfile" timestamp="1556284304464">
+        <mark key="[" line="34" column="49" />
+        <mark key="]" line="34" column="49" />
+        <mark key="." line="34" column="49" />
+      </file>
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/jest.config.js" timestamp="1556291514924" />
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/SurveyFlow/SurveyFlow.component.js" timestamp="1556030576571">
+        <mark key="[" line="40" column="47" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/patches/react-native-code-push+5.6.0.patch" timestamp="1556288801424">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/fastlane/.env.staging.secret" timestamp="1556014912117">
         <mark key="[" line="6" column="71" />
         <mark key="]" line="7" column="0" />
@@ -162,28 +190,14 @@
         <mark key="^" line="1" column="107" />
         <mark key="." line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/components/DashboardComponents/Filters/CustomerFilter.js" timestamp="1556209317567">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/backpack.config.js" timestamp="1556292840385">
+        <mark key="[" line="6" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/controller/algo.controller.ts" timestamp="1556259487851">
-        <mark key="[" line="55" column="3" />
-        <mark key="]" line="55" column="3" />
-        <mark key="." line="55" column="3" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/tsconfig.json" timestamp="1556282056601">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/services/userService.js" timestamp="1554277961128">
-        <mark key="[" line="32" column="32" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/App.tsx" timestamp="1555567960455">
-        <mark key="[" line="29" column="5" />
-        <mark key="]" line="29" column="6" />
-        <mark key="." line="29" column="6" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-generator/generator/query.generator.js" timestamp="1556294981688">
+        <mark key="[" line="134" column="64" />
+        <mark key="]" line="99" column="6" />
+        <mark key="^" line="10" column="9" />
+        <mark key="." line="10" column="9" />
       </file>
       <file name="$USER_HOME$/Projects/CQRS/blog/src/article.saga.ts" timestamp="1555621416280">
         <mark key="[" line="18" column="4" />
@@ -199,29 +213,8 @@
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/build/main.js" timestamp="1554475963292">
         <mark key="[" line="643" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/README.md" timestamp="1556087139488">
-        <mark key="[" line="24" column="8" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/index.ts" timestamp="1554997493383">
-        <mark key="[" line="2" column="0" />
-      </file>
       <file name="/JavaScript Console" timestamp="1556188306977">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/tsconfig.json" timestamp="1556271267807">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/controllers/UserController.js" timestamp="1556209571486">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/CQRS/blog/src/app.module.ts" timestamp="1555620525697">
-        <mark key="[" line="24" column="46" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/CQRS/blog/src/app.service.ts" timestamp="1555670922938">
         <mark key="[" line="11" column="0" />
@@ -229,70 +222,18 @@
         <mark key="." line="10" column="16" />
         <mark key="^" line="10" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/modules/authentication/sagas.ts" timestamp="1556093104720">
-        <mark key="[" line="8" column="22" />
-        <mark key="]" line="12" column="2" />
-        <mark key="^" line="12" column="2" />
-        <mark key="." line="12" column="2" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/.gitattributes" timestamp="1556118868882">
-        <mark key="[" line="0" column="33" />
-      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/.eslintrc.js" timestamp="1555444862816">
         <mark key="[" line="21" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556288964616">
+      <file name="/Dummy.txt" timestamp="1556293025391">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-algo/package.json" timestamp="1556271779260">
-        <mark key="[" line="7" column="17" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/shared/tsconfig.base.json" timestamp="1556271549463">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="18" column="3" />
-        <mark key="." line="15" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/ios/Podfile.lock" timestamp="1556284215013" />
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/ios/InshAllah.xcodeproj/project.pbxproj" timestamp="1556284176128">
-        <mark key="[" line="1590" column="45" />
-        <mark key="]" line="1584" column="62" />
-        <mark key="." line="1584" column="62" />
-        <mark key="^" line="1584" column="68" />
-      </file>
-      <file name="/GraphQL.result.json" timestamp="1556270240616">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/.eslintignore" timestamp="1556203130131">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/CQRS/blog/src/commands/interfaces/create-article.command.ts" timestamp="1555613009024">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/lib/call.js" timestamp="1556030755463">
-        <mark key="[" line="9" column="41" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/scripts/deploy.sh" timestamp="1555510136851">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/shared/tsconfig.base.ts" timestamp="1556271135960">
-        <mark key="[" line="20" column="111" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/lib/api.js" timestamp="1554909375052">
-        <mark key="[" line="42" column="15" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/accessControl/authentication/jwt.strategy.ts" timestamp="1556126022253">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-algo/business/command/handler/index.ts" timestamp="1556295072561">
+        <mark key="[" line="2" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/package.json" timestamp="1556289243740">
         <mark key="'" line="15" column="20" />
@@ -300,12 +241,6 @@
         <mark key="]" line="52" column="30" />
         <mark key="^" line="15" column="20" />
         <mark key="." line="52" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/CQRS/blog/src/app.controller.ts" timestamp="1555612338384">
-        <mark key="[" line="19" column="47" />
-        <mark key="]" line="19" column="56" />
-        <mark key="." line="19" column="56" />
-        <mark key="^" line="19" column="56" />
       </file>
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Menu/lib.js" timestamp="1554487314048">
         <mark key="[" line="16" column="93" />
@@ -414,50 +349,50 @@
       <jump line="15" column="20" filename="$USER_HOME$/Projects/InshAllah/InshAllah/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Quer</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Keep legacy build syste</text>
+        <text>Quer</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJsaW50IjogInlhcm4gZXNsaW50OmNoZWNrICYmIHlhcm4gcHJldHR5Omxpc3QgJiYgeWFybiB0czpjaGVjayIsCiAgICAicHJldHR5Omxpc3QiOiAieWFybiBwcmV0dGllciAtLWxpc3QtZGlmZmVyZW50ICcuLyoqLyoudHMnIiwKICAgICJlc2xpbnQ6Y2hlY2siOiAiZXNsaW50IC4vKiovKi50cyIsCiAgICAidHM6Y2hlY2siOiAidHNjIC0tbm9FbWl0Igo=</text>
+        <text encoding="base64">ICAgIHsKICAgICAgdHlwZTogJ2lucHV0JywKICAgICAgbmFtZTogJ21zLnF1ZXJ5TmFtZScsCiAgICAgIG1lc3NhZ2U6ICdRdWVyeSBOYW1lIChJbXBlcmF0aXZlIFRlbnNlKT8nLAogICAgICBkZWZhdWx0OiAnR2V0VXNlclF1ZXJ5JywKICAgICAgdmFsaWRhdGU6IGlucHV0ID0+IHsKICAgICAgICBpZiAoaW5wdXQgPT09ICdHZXRVc2VyUXVlcnknKSByZXR1cm4gJ0RvIG5vdCB1c2UgdGhlIGRlZmF1bHQgXl4gJzsKICAgICAgICBpZiAoIWlucHV0LmVuZHNXaXRoKCdRdWVyeScpKSByZXR1cm4gJ0VuZCB0aGUgbmFtZSB3aXRoIFF1ZXJ5JzsKICAgICAgICBpZiAoaW5wdXRbMF0gPT09IGlucHV0WzBdLnRvTG93ZXJDYXNlKCkpIHJldHVybiAnUGxlYXNlIGNhcGl0YWxpemUnOwogICAgICAgIHJldHVybiB0cnVlOwogICAgICB9LAogICAgfSwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ZGlmZiAtLWdpdCBhL25vZGVfbW9kdWxlcy9yZWFjdC1uYXRpdmUtY29kZS1wdXNoL2FuZHJvaWQvYXBwL3JlYWN0LW5hdGl2ZS1jb2RlLXB1c2guaW1sIGIvbm9kZV9tb2R1bGVzL3JlYWN0LW5hdGl2ZS1jb2RlLXB1c2gvYW5kcm9pZC9hcHAvcmVhY3QtbmF0aXZlLWNvZGUtcHVzaC5pbWwKbmV3IGZpbGUgbW9kZSAxMDA2NDQKaW5kZXggMDAwMDAwMC4uNTYyNDBjMAotLS0gL2Rldi9udWxsCisrKyBiL25vZGVfbW9kdWxlcy9yZWFjdC1uYXRpdmUtY29kZS1wdXNoL2FuZHJvaWQvYXBwL3JlYWN0LW5hdGl2ZS1jb2RlLXB1c2guaW1sCkBAIC0wLDAgKzEsMTQzIEBACis8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PgorPG1vZHVsZSBleHRlcm5hbC5saW5rZWQucHJvamVjdC5pZD0iOnJlYWN0LW5hdGl2ZS1jb2RlLXB1c2giIGV4dGVybmFsLmxpbmtlZC5wcm9qZWN0LnBhdGg9IiRNT0RVTEVfRElSJCIgZXh0ZXJuYWwucm9vdC5wcm9qZWN0LnBhdGg9IiRNT0RVTEVfRElSJC8uLi8uLi8uLi8uLi9hbmRyb2lkIiBleHRlcm5hbC5zeXN0ZW0uaWQ9IkdSQURMRSIgdHlwZT0iSkFWQV9NT0RVTEUiIHZlcnNpb249IjQiPgorICA8Y29tcG9uZW50IG5hbWU9IkZhY2V0TWFuYWdlciI+CisgICAgPGZhY2V0IHR5cGU9ImFuZHJvaWQtZ3JhZGxlIiBuYW1lPSJBbmRyb2lkLUdyYWRsZSI+CisgICAgICA8Y29uZmlndXJhdGlvbj4KKyAgICAgICAgPG9wdGlvbiBuYW1lPSJHUkFETEVfUFJPSkVDVF9QQVRIIiB2YWx1ZT0iOnJlYWN0LW5hdGl2ZS1jb2RlLXB1c2giIC8+CisgICAgICA8L2NvbmZpZ3VyYXRpb24+CisgICAgPC9mYWNldD4KKyAgICA8ZmFjZXQgdHlwZT0iYW5kcm9pZCIgbmFtZT0iQW5kcm9pZCI+CisgICAgICA8Y29uZmlndXJhdGlvbj4KKyAgICAgICAgPG9wdGlvbiBuYW1lPSJTRUxFQ1RFRF9CVUlMRF9WQVJJQU5UIiB2YWx1ZT0iZGVidWciIC8+CisgICAgICAgIDxvcHRpb24gbmFtZT0iQVNTRU1CTEVfVEFTS19OQU1FIiB2YWx1ZT0iYXNzZW1ibGVEZWJ1ZyIgLz4KKyAgICAgICAgPG9wdGlvbiBuYW1lPSJDT01QSUxFX0pBVkFfVEFTS19OQU1FIiB2YWx1ZT0iY29tcGlsZURlYnVnU291cmNlcyIgLz4KKyAgICAgICAgPGFmdGVyU3luY1Rhc2tzPgorICAgICAgICAgIDx0YXNrPmdlbmVyYXRlRGVidWdTb3VyY2VzPC90YXNrPgorICAgICAgICA8L2FmdGVyU3luY1Rhc2tzPgorICAgICAgICA8b3B0aW9uIG5hbWU9IkFMTE9XX1VTRVJfQ09ORklHVVJBVElPTiIgdmFsdWU9ImZhbHNlIiAvPgorICAgICAgICA8b3B0aW9uIG5hbWU9Ik1BTklGRVNUX0ZJTEVfUkVMQVRJVkVfUEFUSCIgdmFsdWU9Ii9zcmMvbWFpbi9BbmRyb2lkTWFuaWZlc3QueG1sIiAvPgorICAgICAgICA8b3B0aW9uIG5hbWU9IlJFU19GT0xERVJfUkVMQVRJVkVfUEFUSCIgdmFsdWU9Ii9zcmMvbWFpbi9yZXMiIC8+CisgICAgICAgIDxvcHRpb24gbmFtZT0iUkVTX0ZPTERFUlNfUkVMQVRJVkVfUEFUSCIgdmFsdWU9IiIgLz4KKyAgICAgICAgPG9wdGlvbiBuYW1lPSJBU1NFVFNfRk9MREVSX1JFTEFUSVZFX1BBVEgiIHZhbHVlPSIvc3JjL21haW4vYXNzZXRzIiAvPgorICAgICAgICA8b3B0aW9uIG5hbWU9IlBST0pFQ1RfVFlQRSIgdmFsdWU9IjEiIC8+CisgICAgICA8L2NvbmZpZ3VyYXRpb24+CisgICAgPC9mYWNldD4KKyAgPC9jb21wb25lbnQ+CisgIDxjb21wb25lbnQgbmFtZT0iTmV3TW9kdWxlUm9vdE1hbmFnZXIiPgorICAgIDxvdXRwdXQgdXJsPSJmaWxlOi8vJE1PRFVMRV9ESVIkL2J1aWxkL2ludGVybWVkaWF0ZXMvamF2YWMvZGVidWcvY29tcGlsZURlYnVnSmF2YVdpdGhKYXZhYy9jbGFzc2VzIiAvPgorICAgIDxvdXRwdXQtdGVzdCB1cmw9ImZpbGU6Ly8kTU9EVUxFX0RJUiQvYnVpbGQvaW50ZXJtZWRpYXRlcy9qYXZhYy9kZWJ1Z1VuaXRUZXN0L2NvbXBpbGVEZWJ1Z1VuaXRUZXN0SmF2YVdpdGhKYXZhYy9jbGFzc2VzIiAvPgorICAgIDxleGNsdWRlLW91dHB1dCAvPgorICAgIDxjb250ZW50IHVybD0iZmlsZTovLyRNT0RVTEVfRElSJCI+CisgICAgICA8c291cmNlRm9sZGVyIHVybD0iZmlsZTovLyRNT0RVTEVfRElSJC9idWlsZC9nZW5lcmF0ZWQvc291cmNlL2FwdC9kZWJ1ZyIgaXNUZXN0U291cmNlPSJmYWxzZSIgZ2VuZXJhdGVkPSJ0cnVlIiAvPgorICAgICAgPHNvdXJjZUZvbGRlciB1cmw9ImZpbGU6Ly8kTU9EVUxFX0RJUiQvYnVpbGQvZ2VuZXJhdGVkL2FpZGxfc291cmNlX291dHB1dF9kaXIvZGVidWcvY29tcGlsZURlYnVnQWlkbC9vdXQiIGlzVGVzdFNvdXJjZT0iZmFsc2UiIGdlbmVyYXRlZD0idHJ1ZSIgLz4KKyAgICAgIDxzb3VyY2VGb2xkZXIgdXJsPSJmaWxlOi8vJE1PRFVMRV9ESVIkL2J1aWxkL2dlbmVyYXRlZC9zb3VyY2UvYnVpbGRDb25maWcvZGVidWciIGlzVGVzdFNvdXJjZT0iZmFsc2UiIGdlbmVyYXRlZD0idHJ1ZSIgLz4KKyAgICAgIDxzb3VyY2VGb2xkZXIgdXJsPSJmaWxlOi8vJE1PRFVMRV9ESVIkL2J1aWxkL2dlbmVyYXRlZC9yZW5kZXJzY3JpcHRfc291cmNlX291dHB1dF9kaXIvZGVidWcvY29tcGlsZURlYnVnUmVuZGVyc2NyaXB0L291dCIgaXNUZXN0U291cmNlPSJmYWxzZSIgZ2VuZXJhdGVkPSJ0cnVlIiAvPgorICAgICAgPHNvdXJjZUZvbGRlciB1cmw9ImZpbGU6Ly8kTU9EVUxFX0RJUiQvYnVpbGQvZ2VuZXJhdGVkL3Jlcy9ycy9kZWJ1ZyIgdHlwZT0iamF2YS1yZXNvdXJjZSIgLz4KKyAgICAgIDxzb3VyY2VGb2xkZXIgdXJsPSJmaWxlOi8vJE1PRFVMRV9ESVIkL2J1aWxkL2dlbmVyYXRlZC9yZXMvcmVzVmFsdWVzL2RlYnVnIiB0eXBlPSJqYXZhLXJlc291cmNlIiAvPgorICAgICAgPHNvdXJjZUZvbGRlciB1cmw9ImZpbGU6Ly8kTU9EVUxFX0RJUiQvYnVpbGQvZ2VuZXJhdGVkL3NvdXJjZS9hcHQvYW5kcm9pZFRlc3QvZGVidWciIGlzVGVzdFNvdXJjZT0idHJ1ZSIgZ2VuZXJhdGVkPSJ0cnVlIiAvPgorICAgICAgPHNvdXJjZUZvbGRlciB1cmw9ImZpbGU6Ly8kTU9EVUxFX0RJUiQvYnVpbGQvZ2VuZXJhdGVkL2FpZGxfc291cmNlX291dHB1dF9kaXIvZGVidWdBbmRyb2lkVGVzdC9jb21waWxlRGVidWdBbmRyb2lkVGVzdEFpZGwvb3V0IiBpc1Rlc3RTb3VyY2U9InRydWUiIGdlbmVyYXRlZD0idHJ1ZSIgLz4KKyAgICAgIDxzb3VyY2VGb2xkZXIgdXJsPSJmaWxlOi8vJE1PRFVMRV9ESVIkL2J1aWxkL2dlbmVyYXRlZC9zb3VyY2UvYnVpbGRDb25maWcvYW5kcm9pZFRlc3QvZGVidWciIGlzVGVzdFNvdXJjZT0idHJ1ZSIgZ2VuZXJhdGVkPSJ0cnVlIiAvPgorICAgICAgPHNvdXJjZUZvbGRlciB1cmw9ImZpbGU6Ly8kTU9EVUxFX0RJUiQvYnVpbGQvZ2VuZXJhdGVkL3JlbmRlcnNjcmlwdF9zb3VyY2Vfb3V0cHV0X2Rpci9kZWJ1Z0FuZHJvaWRUZXN0L2NvbXBpbGVEZWJ1Z0FuZHJvaWRUZXN0UmVuZGVyc2NyaXB0L291dCIgaXNUZXN0U291cmNlPSJ0cnVlIiBnZW5lcmF0ZWQ9InRydWUiIC8+CisgICAgICA8c291cmNlRm9sZGVyIHVybD0iZmlsZTovLyRNT0RVTEVfRElSJC9idWlsZC9nZW5lcmF0ZWQvcmVzL3JzL2FuZHJvaWRUZXN0L2RlYnVnIiB0eXBlPSJqYXZhLXRlc3QtcmVzb3VyY2UiIC8+CisgICAgICA8c291cmNlRm9sZGVyIHVybD0iZmlsZTovLyRNT0RVTEVfRElSJC9idWlsZC9nZW5lcmF0ZWQvcmVzL3Jlc1ZhbHVlcy9hbmRyb2lkVGVzdC9kZWJ1ZyIgdHlwZT0iamF2YS10ZXN0LXJlc291cmNlIiAvPgorICAgICAgPHNvdXJjZUZvbGRlciB1cmw9ImZpbGU6Ly8kTU9EVUxFX0RJUiQvYnVpbGQvZ2VuZXJhdGVkL3NvdXJjZS9hcHQvdGVzdC9kZWJ1ZyIgaXNUZXN0U291cmNlPSJ0cnVlIiBnZW5lcmF0ZWQ9InRydWUiIC8+CisgICAgICA8c291cmNlRm9sZGVyIHVybD0iZmlsZTovLyRNT0RVTEVfRElSJC9zcmMvZGVidWcvcmVzIiB0eXBlPSJqYXZhLXJlc291cmNlIiAvPgorICAgICAgPHNvdXJjZUZvbGRlciB1cmw9ImZpbGU6Ly8kTU9EVUxFX0RJUiQvc3JjL2RlYnVnL3Jlc291cmNlcyIgdHlwZT0iamF2YS1yZXNvdXJjZSIgLz4KKyAgICAgIDxzb3VyY2VGb2xkZXIgdXJsPSJmaWxlOi8vJE1PRFVMRV9ESVIkL3NyYy9kZWJ1Zy9hc3NldHMiIHR5cGU9ImphdmEtcmVzb3VyY2UiIC8+CisgICAgICA8c291cmNlRm9sZGVyIHVybD0iZmlsZTovLyRNT0RVTEVfRElSJC9zcmMvZGVidWcvYWlkbCIgaXNUZXN0U291cmNlPSJmYWxzZSIgLz4KKyAgICAgIDxzb3VyY2VGb2xkZXIgdXJsPSJmaWxlOi8vJE1PRFVMRV9ESVIkL3NyYy9kZWJ1Zy9qYXZhIiBpc1Rlc3RTb3VyY2U9ImZhbHNlIiAvPgorICAgICAgPHNvdXJjZUZvbGRlciB1cmw9ImZpbGU6Ly8kTU9EVUxFX0RJUiQvc3JjL2RlYnVnL3JzIiBpc1Rlc3RTb3VyY2U9ImZhbHNlIiAvPgorICAgICAgPHNvdXJjZUZvbGRlciB1cmw9ImZpbGU6Ly8kTU9EVUxFX0RJUiQvc3JjL2RlYnVnL3NoYWRlcnMiIGlzVGVzdFNvdXJjZT0iZmFsc2UiIC8+CisgICAgICA8c291cmNlRm9sZGVyIHVybD0iZmlsZTovLyRNT0RVTEVfRElSJC9zcmMvYW5kcm9pZFRlc3REZWJ1Zy9yZXMiIHR5cGU9ImphdmEtdGVzdC1yZXNvdXJjZSIgLz4KKyAgICAgIDxzb3VyY2VGb2xkZXIgdXJsPSJmaWxlOi8vJE1PRFVMRV9ESVIkL3NyYy9hbmRyb2lkVGVzdERlYnVnL3Jlc291cmNlcyIgdHlwZT0iamF2YS10ZXN0LXJlc291cmNlIiAvPgorICAgICAgPHNvdXJjZUZvbGRlciB1cmw9ImZpbGU6Ly8kTU9EVUxFX0RJUiQvc3JjL2FuZHJvaWRUZXN0RGVidWcvYXNzZXRzIiB0eXBlPSJqYXZhLXRlc3QtcmVzb3VyY2UiIC8+CisgICAgICA8c291cmNlRm9sZGVyIHVybD0iZmlsZTovLyRNT0RVTEVfRElSJC9zcmMvYW5kcm9pZFRlc3REZWJ1Zy9haWRsIiBpc1Rlc3RTb3VyY2U9InRydWUiIC8+CisgICAgICA8c291cmNlRm9sZGVyIHVybD0iZmlsZTovLyRNT0RVTEVfRElSJC9zcmMvYW5kcm9pZFRlc3REZWJ1Zy9qYXZhIiBpc1Rlc3RTb3VyY2U9InRydWUiIC8+CisgICAgICA8c291cmNlRm9sZGVyIHVybD0iZmlsZTovLyRNT0RVTEVfRElSJC9zcmMvYW5kcm9pZFRlc3REZWJ1Zy9ycyIgaXNUZXN0U291cmNlPSJ0cnVlIiAvPgorICAgICAgPHNvdXJjZUZvbGRlciB1cmw9ImZpbGU6Ly8kTU9EVUxFX0RJUiQvc3JjL2FuZHJvaWRUZXN0RGVidWcvc2hhZGVycyIgaXNUZXN0U291cmNlPSJ0cnVlIiAvPgorICAgICAgPHNvdXJjZUZvbGRlciB1cmw9ImZpbGU6Ly8kTU9EVUxFX0RJUiQvc3JjL3Rlc3REZWJ1Zy9yZXMiIHR5cGU9ImphdmEtdGVzdC1yZXNvdXJjZSIgLz4KKyAgICAgIDxzb3VyY2VGb2xkZXIgdXJsPSJmaWxlOi8vJE1PRFVMRV9ESVIkL3NyYy90ZXN0RGVidWcvcmVzb3VyY2VzIiB0eXBlPSJqYXZhLXRlc3QtcmVzb3VyY2UiIC8+CisgICAgICA8c291cmNlRm9sZGVyIHVybD0iZmlsZTovLyRNT0RVTEVfRElSJC9zcmMvdGVzdERlYnVnL2Fzc2V0cyIgdHlwZT0iamF2YS10ZXN0LXJlc291cmNlIiAvPgorICAgICAgPHNvdXJjZUZvbGRlciB1cmw9ImZpbGU6Ly8kTU9EVUxFX0RJUiQvc3JjL3Rlc3REZWJ1Zy9haWRsIiBpc1Rlc3RTb3VyY2U9InRydWUiIC8+CisgICAgICA8c291cmNlRm9sZGVyIHVybD0iZmlsZTovLyRNT0RVTEVfRElSJC9zcmMvdGVzdERlYnVnL2phdmEiIGlzVGVzdFNvdXJjZT0idHJ1ZSIgLz4KKyAgICAgIDxzb3VyY2VGb2xkZXIgdXJsPSJmaWxlOi8vJE1PRFVMRV9ESVIkL3NyYy90ZXN0RGVidWcvcnMiIGlzVGVzdFNvdXJjZT0idHJ1ZSIgLz4KKyAgICAgIDxzb3VyY2VGb2xkZXIgdXJsPSJmaWxlOi8vJE1PRFVMRV9ESVIkL3NyYy90ZXN0RGVidWcvc2hhZGVycyIgaXNUZXN0U291cmNlPSJ0cnVlIiAvPgorICAgICAgPHNvdXJjZUZvbGRlciB1cmw9ImZpbGU6Ly8kTU9EVUxFX0RJUiQvc3JjL21haW4vcmVzIiB0eXBlPSJqYXZhLXJlc291cmNlIiAvPgorICAgICAgPHNvdXJjZUZvbGRlciB1cmw9ImZpbGU6Ly8kTU9EVUxFX0RJUiQvc3JjL21haW4vcmVzb3VyY2VzIiB0eXBlPSJqYXZhLXJlc291cmNlIiAvPgorICAgICAgPHNvdXJjZUZvbGRlciB1cmw9ImZpbGU6Ly8kTU9EVUxFX0RJUiQvc3JjL21haW4vYXNzZXRzIiB0eXBlPSJqYXZhLXJlc291cmNlIiAvPgorICAgICAgPHNvdXJjZUZvbGRlciB1cmw9ImZpbGU6Ly8kTU9EVUxFX0RJUiQvc3JjL21haW4vYWlkbCIgaXNUZXN0U291cmNlPSJmYWxzZSIgLz4KKyAgICAgIDxzb3VyY2VGb2xkZXIgdXJsPSJmaWxlOi8vJE1PRFVMRV9ESVIkL3NyYy9tYWluL2phdmEiIGlzVGVzdFNvdXJjZT0iZmFsc2UiIC8+CisgICAgICA8c291cmNlRm9sZGVyIHVybD0iZmlsZTovLyRNT0RVTEVfRElSJC9zcmMvbWFpbi9ycyIgaXNUZXN0U291cmNlPSJmYWxzZSIgLz4KKyAgICAgIDxzb3VyY2VGb2xkZXIgdXJsPSJmaWxlOi8vJE1PRFVMRV9ESVIkL3NyYy9tYWluL3NoYWRlcnMiIGlzVGVzdFNvdXJjZT0iZmFsc2UiIC8+CisgICAgICA8c291cmNlRm9sZGVyIHVybD0iZmlsZTovLyRNT0RVTEVfRElSJC9zcmMvYW5kcm9pZFRlc3QvcmVzIiB0eXBlPSJqYXZhLXRlc3QtcmVzb3VyY2UiIC8+CisgICAgICA8c291cmNlRm9sZGVyIHVybD0iZmlsZTovLyRNT0RVTEVfRElSJC9zcmMvYW5kcm9pZFRlc3QvcmVzb3VyY2VzIiB0eXBlPSJqYXZhLXRlc3QtcmVzb3VyY2UiIC8+CisgICAgICA8c291cmNlRm9sZGVyIHVybD0iZmlsZTovLyRNT0RVTEVfRElSJC9zcmMvYW5kcm9pZFRlc3QvYXNzZXRzIiB0eXBlPSJqYXZhLXRlc3QtcmVzb3VyY2UiIC8+CisgICAgICA8c291cmNlRm9sZGVyIHVybD0iZmlsZTovLyRNT0RVTEVfRElSJC9zcmMvYW5kcm9pZFRlc3QvYWlkbCIgaXNUZXN0U291cmNlPSJ0cnVlIiAvPgorICAgICAgPHNvdXJjZUZvbGRlciB1cmw9ImZpbGU6Ly8kTU9EVUxFX0RJUiQvc3JjL2FuZHJvaWRUZXN0L2phdmEiIGlzVGVzdFNvdXJjZT0idHJ1ZSIgLz4KKyAgICAgIDxzb3VyY2VGb2xkZXIgdXJsPSJmaWxlOi8vJE1PRFVMRV9ESVIkL3NyYy9hbmRyb2lkVGVzdC9ycyIgaXNUZXN0U291cmNlPSJ0cnVlIiAvPgorICAgICAgPHNvdXJjZUZvbGRlciB1cmw9ImZpbGU6Ly8kTU9EVUxFX0RJUiQvc3JjL2FuZHJvaWRUZXN0L3NoYWRlcnMiIGlzVGVzdFNvdXJjZT0idHJ1ZSIgLz4KKyAgICAgIDxzb3VyY2VGb2xkZXIgdXJsPSJmaWxlOi8vJE1PRFVMRV9ESVIkL3NyYy90ZXN0L3JlcyIgdHlwZT0iamF2YS10ZXN0LXJlc291cmNlIiAvPgorICAgICAgPHNvdXJjZUZvbGRlciB1cmw9ImZpbGU6Ly8kTU9EVUxFX0RJUiQvc3JjL3Rlc3QvcmVzb3VyY2VzIiB0eXBlPSJqYXZhLXRlc3QtcmVzb3VyY2UiIC8+CisgICAgICA8c291cmNlRm9sZGVyIHVybD0iZmlsZTovLyRNT0RVTEVfRElSJC9zcmMvdGVzdC9hc3NldHMiIHR5cGU9ImphdmEtdGVzdC1yZXNvdXJjZSIgLz4KKyAgICAgIDxzb3VyY2VGb2xkZXIgdXJsPSJmaWxlOi8vJE1PRFVMRV9ESVIkL3NyYy90ZXN0L2FpZGwiIGlzVGVzdFNvdXJjZT0idHJ1ZSIgLz4KKyAgICAgIDxzb3VyY2VGb2xkZXIgdXJsPSJmaWxlOi8vJE1PRFVMRV9ESVIkL3NyYy90ZXN0L2phdmEiIGlzVGVzdFNvdXJjZT0idHJ1ZSIgLz4KKyAgICAgIDxzb3VyY2VGb2xkZXIgdXJsPSJmaWxlOi8vJE1PRFVMRV9ESVIkL3NyYy90ZXN0L3JzIiBpc1Rlc3RTb3VyY2U9InRydWUiIC8+CisgICAgICA8c291cmNlRm9sZGVyIHVybD0iZmlsZTovLyRNT0RVTEVfRElSJC9zcmMvdGVzdC9zaGFkZXJzIiBpc1Rlc3RTb3VyY2U9InRydWUiIC8+CisgICAgICA8ZXhjbHVkZUZvbGRlciB1cmw9ImZpbGU6Ly8kTU9EVUxFX0RJUiQvYnVpbGQvb3V0cHV0cyIgLz4KKyAgICAgIDxleGNsdWRlRm9sZGVyIHVybD0iZmlsZTovLyRNT0RVTEVfRElSJC9idWlsZC90bXAiIC8+CisgICAgPC9jb250ZW50PgorICAgIDxvcmRlckVudHJ5IHR5cGU9ImluaGVyaXRlZEpkayIgLz4KKyAgICA8b3JkZXJFbnRyeSB0eXBlPSJzb3VyY2VGb2xkZXIiIGZvclRlc3RzPSJmYWxzZSIgLz4KKyAgICA8b3JkZXJFbnRyeSB0eXBlPSJsaWJyYXJ5IiBuYW1lPSJHcmFkbGU6IGNvbS5zcXVhcmV1cC5va2h0dHAzOm9raHR0cC11cmxjb25uZWN0aW9uOjMuMTIuMUBqYXIiIGxldmVsPSJwcm9qZWN0IiAvPgorICAgIDxvcmRlckVudHJ5IHR5cGU9ImxpYnJhcnkiIG5hbWU9IkdyYWRsZTogY29tLmFuZHJvaWQuc3VwcG9ydDpsb2NhbGJyb2FkY2FzdG1hbmFnZXItMjguMC4wIiBsZXZlbD0icHJvamVjdCIgLz4KKyAgICA8b3JkZXJFbnRyeSB0eXBlPSJsaWJyYXJ5IiBuYW1lPSJHcmFkbGU6IGNvbS5hbmRyb2lkLnN1cHBvcnQ6c3VwcG9ydC12ZWN0b3ItZHJhd2FibGUtMjguMC4wIiBsZXZlbD0icHJvamVjdCIgLz4KKyAgICA8b3JkZXJFbnRyeSB0eXBlPSJsaWJyYXJ5IiBuYW1lPSJHcmFkbGU6IGNvbS5mYWNlYm9vay5mcmVzY286ZnJlc2NvLTEuMTAuMCIgbGV2ZWw9InByb2plY3QiIC8+CisgICAgPG9yZGVyRW50cnkgdHlwZT0ibGlicmFyeSIgbmFtZT0iR3JhZGxlOiBjb20uZmFjZWJvb2suZnJlc2NvOmRyYXdlZS0xLjEwLjAiIGxldmVsPSJwcm9qZWN0IiAvPgorICAgIDxvcmRlckVudHJ5IHR5cGU9ImxpYnJhcnkiIG5hbWU9IkdyYWRsZTogY29tLmFuZHJvaWQuc3VwcG9ydDppbnRlcnBvbGF0b3ItMjguMC4wIiBsZXZlbD0icHJvamVjdCIgLz4KKyAgICA8b3JkZXJFbnRyeSB0eXBlPSJsaWJyYXJ5IiBuYW1lPSJHcmFkbGU6IGNvbS5hbmRyb2lkLnN1cHBvcnQ6c3VwcG9ydC1jb3JlLXV0aWxzLTI4LjAuMCIgbGV2ZWw9InByb2plY3QiIC8+CisgICAgPG9yZGVyRW50cnkgdHlwZT0ibGlicmFyeSIgbmFtZT0iR3JhZGxlOiBjb20uc3F1YXJldXAub2todHRwMzpva2h0dHA6My4xMi4xQGphciIgbGV2ZWw9InByb2plY3QiIC8+CisgICAgPG9yZGVyRW50cnkgdHlwZT0ibGlicmFyeSIgbmFtZT0iR3JhZGxlOiBjb20uYW5kcm9pZC5zdXBwb3J0OmRyYXdlcmxheW91dC0yOC4wLjAiIGxldmVsPSJwcm9qZWN0IiAvPgorICAgIDxvcmRlckVudHJ5IHR5cGU9ImxpYnJhcnkiIG5hbWU9IkdyYWRsZTogY29tLmFuZHJvaWQuc3VwcG9ydDpjb29yZGluYXRvcmxheW91dC0yOC4wLjAiIGxldmVsPSJwcm9qZWN0IiAvPgorICAgIDxvcmRlckVudHJ5IHR5cGU9ImxpYnJhcnkiIG5hbWU9IkdyYWRsZTogY29tLmFuZHJvaWQuc3VwcG9ydDpzd2lwZXJlZnJlc2hsYXlvdXQtMjguMC4wIiBsZXZlbD0icHJvamVjdCIgLz4KKyAgICA8b3JkZXJFbnRyeSB0eXBlPSJsaWJyYXJ5IiBuYW1lPSJHcmFkbGU6IG9yZy5vdzIuYXNtOmFzbTo1LjAuNEBqYXIiIGxldmVsPSJwcm9qZWN0IiAvPgorICAgIDxvcmRlckVudHJ5IHR5cGU9ImxpYnJhcnkiIG5hbWU9IkdyYWRsZTogYW5kcm9pZC5hcmNoLmxpZmVjeWNsZTpsaXZlZGF0YS0xLjEuMSIgbGV2ZWw9InByb2plY3QiIC8+CisgICAgPG9yZGVyRW50cnkgdHlwZT0ibGlicmFyeSIgbmFtZT0iR3JhZGxlOiBqYXZheC5pbmplY3Q6amF2YXguaW5qZWN0OjFAamFyIiBsZXZlbD0icHJvamVjdCIgLz4KKyAgICA8b3JkZXJFbnRyeSB0eXBlPSJsaWJyYXJ5IiBuYW1lPSJHcmFkbGU6IGNvbS5hbmRyb2lkLnN1cHBvcnQ6dmVyc2lvbmVkcGFyY2VsYWJsZS0yOC4wLjAiIGxldmVsPSJwcm9qZWN0IiAvPgorICAgIDxvcmRlckVudHJ5IHR5cGU9ImxpYnJhcnkiIG5hbWU9IkdyYWRsZTogY29tLm5pbWJ1c2RzOm5pbWJ1cy1qb3NlLWp3dDo1LjFAamFyIiBsZXZlbD0icHJvamVjdCIgLz4KKyAgICA8b3JkZXJFbnRyeSB0eXBlPSJsaWJyYXJ5IiBuYW1lPSJHcmFkbGU6IGFuZHJvaWQuYXJjaC5jb3JlOnJ1bnRpbWUtMS4xLjEiIGxldmVsPSJwcm9qZWN0IiAvPgorICAgIDxvcmRlckVudHJ5IHR5cGU9ImxpYnJhcnkiIG5hbWU9IkdyYWRsZTogY29tLmFuZHJvaWQuc3VwcG9ydDpsb2FkZXItMjguMC4wIiBsZXZlbD0icHJvamVjdCIgLz4KKyAgICA8b3JkZXJFbnRyeSB0eXBlPSJsaWJyYXJ5IiBuYW1lPSJHcmFkbGU6IG5ldC5taW5pZGV2OmFjY2Vzc29ycy1zbWFydDoxLjJAamFyIiBsZXZlbD0icHJvamVjdCIgLz4KKyAgICA8b3JkZXJFbnRyeSB0eXBlPSJsaWJyYXJ5IiBuYW1lPSJHcmFkbGU6IGNvbS5nb29nbGUuY29kZS5maW5kYnVnczpqc3IzMDU6My4wLjJAamFyIiBsZXZlbD0icHJvamVjdCIgLz4KKyAgICA8b3JkZXJFbnRyeSB0eXBlPSJsaWJyYXJ5IiBuYW1lPSJHcmFkbGU6IGNvbS5hbmRyb2lkLnN1cHBvcnQ6dmlld3BhZ2VyLTI4LjAuMCIgbGV2ZWw9InByb2plY3QiIC8+CisgICAgPG9yZGVyRW50cnkgdHlwZT0ibGlicmFyeSIgbmFtZT0iR3JhZGxlOiBjb20uYW5kcm9pZC5zdXBwb3J0OnN1cHBvcnQtYW5ub3RhdGlvbnM6MjguMC4wQGphciIgbGV2ZWw9InByb2plY3QiIC8+CisgICAgPG9yZGVyRW50cnkgdHlwZT0ibGlicmFyeSIgbmFtZT0iR3JhZGxlOiBjb20uZmFjZWJvb2suZnJlc2NvOmltYWdlcGlwZWxpbmUtMS4xMC4wIiBsZXZlbD0icHJvamVjdCIgLz4KKyAgICA8b3JkZXJFbnRyeSB0eXBlPSJsaWJyYXJ5IiBuYW1lPSJHcmFkbGU6IGFuZHJvaWQuYXJjaC5saWZlY3ljbGU6cnVudGltZS0xLjEuMSIgbGV2ZWw9InByb2plY3QiIC8+CisgICAgPG9yZGVyRW50cnkgdHlwZT0ibGlicmFyeSIgbmFtZT0iR3JhZGxlOiBjb20uYW5kcm9pZC5zdXBwb3J0OmN1c3RvbXZpZXctMjguMC4wIiBsZXZlbD0icHJvamVjdCIgLz4KKyAgICA8b3JkZXJFbnRyeSB0eXBlPSJsaWJyYXJ5IiBuYW1lPSJHcmFkbGU6IGNvbS5mYWNlYm9vay5mcmVzY286ZmJjb3JlLTEuMTAuMCIgbGV2ZWw9InByb2plY3QiIC8+CisgICAgPG9yZGVyRW50cnkgdHlwZT0ibGlicmFyeSIgbmFtZT0iR3JhZGxlOiBjb20uZmFjZWJvb2suZnJlc2NvOmltYWdlcGlwZWxpbmUtb2todHRwMy0xLjEwLjAiIGxldmVsPSJwcm9qZWN0IiAvPgorICAgIDxvcmRlckVudHJ5IHR5cGU9ImxpYnJhcnkiIG5hbWU9IkdyYWRsZTogY29tLnBhcnNlLmJvbHRzOmJvbHRzLXRhc2tzOjEuNC4wQGphciIgbGV2ZWw9InByb2plY3QiIC8+CisgICAgPG9yZGVyRW50cnkgdHlwZT0ibGlicmFyeSIgbmFtZT0iR3JhZGxlOiBjb20uYW5kcm9pZC5zdXBwb3J0OnN1cHBvcnQtY29yZS11aS0yOC4wLjAiIGxldmVsPSJwcm9qZWN0IiAvPgorICAgIDxvcmRlckVudHJ5IHR5cGU9ImxpYnJhcnkiIG5hbWU9IkdyYWRsZTogY29tLmFuZHJvaWQuc3VwcG9ydDpzbGlkaW5ncGFuZWxheW91dC0yOC4wLjAiIGxldmVsPSJwcm9qZWN0IiAvPgorICAgIDxvcmRlckVudHJ5IHR5cGU9ImxpYnJhcnkiIG5hbWU9IkdyYWRsZTogYW5kcm9pZC5hcmNoLmxpZmVjeWNsZTp2aWV3bW9kZWwtMS4xLjEiIGxldmVsPSJwcm9qZWN0IiAvPgorICAgIDxvcmRlckVudHJ5IHR5cGU9ImxpYnJhcnkiIG5hbWU9IkdyYWRsZTogY29tLmFuZHJvaWQuc3VwcG9ydDpjb2xsZWN0aW9uczoyOC4wLjBAamFyIiBsZXZlbD0icHJvamVjdCIgLz4KKyAgICA8b3JkZXJFbnRyeSB0eXBlPSJsaWJyYXJ5IiBuYW1lPSJHcmFkbGU6IGNvbS5hbmRyb2lkLnN1cHBvcnQ6ZG9jdW1lbnRmaWxlLTI4LjAuMCIgbGV2ZWw9InByb2plY3QiIC8+CisgICAgPG9yZGVyRW50cnkgdHlwZT0ibGlicmFyeSIgbmFtZT0iR3JhZGxlOiBjb20uYW5kcm9pZC5zdXBwb3J0OmN1cnNvcmFkYXB0ZXItMjguMC4wIiBsZXZlbD0icHJvamVjdCIgLz4KKyAgICA8b3JkZXJFbnRyeSB0eXBlPSJsaWJyYXJ5IiBuYW1lPSJHcmFkbGU6IGNvbS5hbmRyb2lkLnN1cHBvcnQ6YXN5bmNsYXlvdXRpbmZsYXRlci0yOC4wLjAiIGxldmVsPSJwcm9qZWN0IiAvPgorICAgIDxvcmRlckVudHJ5IHR5cGU9ImxpYnJhcnkiIG5hbWU9IkdyYWRsZTogbmV0Lm1pbmlkZXY6anNvbi1zbWFydDoyLjNAamFyIiBsZXZlbD0icHJvamVjdCIgLz4KKyAgICA8b3JkZXJFbnRyeSB0eXBlPSJsaWJyYXJ5IiBuYW1lPSJHcmFkbGU6IGFuZHJvaWQuYXJjaC5jb3JlOmNvbW1vbjoxLjEuMUBqYXIiIGxldmVsPSJwcm9qZWN0IiAvPgorICAgIDxvcmRlckVudHJ5IHR5cGU9ImxpYnJhcnkiIG5hbWU9IkdyYWRsZTogY29tLmZhY2Vib29rLnJlYWN0OnJlYWN0LW5hdGl2ZS0wLjU5LjQiIGxldmVsPSJwcm9qZWN0IiAvPgorICAgIDxvcmRlckVudHJ5IHR5cGU9ImxpYnJhcnkiIG5hbWU9IkdyYWRsZTogY29tLmZhY2Vib29rLnNvbG9hZGVyOnNvbG9hZGVyLTAuNi4wIiBsZXZlbD0icHJvamVjdCIgLz4KKyAgICA8b3JkZXJFbnRyeSB0eXBlPSJsaWJyYXJ5IiBuYW1lPSJHcmFkbGU6IGNvbS5mYWNlYm9vay5pbmZlci5hbm5vdGF0aW9uOmluZmVyLWFubm90YXRpb246MC4xMS4yQGphciIgbGV2ZWw9InByb2plY3QiIC8+CisgICAgPG9yZGVyRW50cnkgdHlwZT0ibGlicmFyeSIgbmFtZT0iR3JhZGxlOiBjb20uYW5kcm9pZC5zdXBwb3J0OnByaW50LTI4LjAuMCIgbGV2ZWw9InByb2plY3QiIC8+CisgICAgPG9yZGVyRW50cnkgdHlwZT0ibGlicmFyeSIgbmFtZT0iR3JhZGxlOiBjb20uZ2l0aHViLnN0ZXBoZW5jLmpjaXA6amNpcC1hbm5vdGF0aW9uczoxLjAtMUBqYXIiIGxldmVsPSJwcm9qZWN0IiAvPgorICAgIDxvcmRlckVudHJ5IHR5cGU9ImxpYnJhcnkiIG5hbWU9IkdyYWRsZTogY29tLmFuZHJvaWQuc3VwcG9ydDpzdXBwb3J0LWZyYWdtZW50LTI4LjAuMCIgbGV2ZWw9InByb2plY3QiIC8+CisgICAgPG9yZGVyRW50cnkgdHlwZT0ibGlicmFyeSIgbmFtZT0iR3JhZGxlOiBhbmRyb2lkLmFyY2gubGlmZWN5Y2xlOmNvbW1vbjoxLjEuMUBqYXIiIGxldmVsPSJwcm9qZWN0IiAvPgorICAgIDxvcmRlckVudHJ5IHR5cGU9ImxpYnJhcnkiIG5hbWU9IkdyYWRsZTogYW5kcm9pZC5hcmNoLmxpZmVjeWNsZTpsaXZlZGF0YS1jb3JlLTEuMS4xIiBsZXZlbD0icHJvamVjdCIgLz4KKyAgICA8b3JkZXJFbnRyeSB0eXBlPSJsaWJyYXJ5IiBuYW1lPSJHcmFkbGU6IGNvbS5hbmRyb2lkLnN1cHBvcnQ6c3VwcG9ydC1jb21wYXQtMjguMC4wIiBsZXZlbD0icHJvamVjdCIgLz4KKyAgICA8b3JkZXJFbnRyeSB0eXBlPSJsaWJyYXJ5IiBuYW1lPSJHcmFkbGU6IGNvbS5hbmRyb2lkLnN1cHBvcnQ6YW5pbWF0ZWQtdmVjdG9yLWRyYXdhYmxlLTI4LjAuMCIgbGV2ZWw9InByb2plY3QiIC8+CisgICAgPG9yZGVyRW50cnkgdHlwZT0ibGlicmFyeSIgbmFtZT0iR3JhZGxlOiBjb20uc3F1YXJldXAub2tpbzpva2lvOjEuMTUuMEBqYXIiIGxldmVsPSJwcm9qZWN0IiAvPgorICAgIDxvcmRlckVudHJ5IHR5cGU9ImxpYnJhcnkiIG5hbWU9IkdyYWRsZTogY29tLmFuZHJvaWQuc3VwcG9ydDphcHBjb21wYXQtdjctMjguMC4wIiBsZXZlbD0icHJvamVjdCIgLz4KKyAgICA8b3JkZXJFbnRyeSB0eXBlPSJsaWJyYXJ5IiBuYW1lPSJHcmFkbGU6IGNvbS5mYWNlYm9vay5mcmVzY286aW1hZ2VwaXBlbGluZS1iYXNlLTEuMTAuMCIgbGV2ZWw9InByb2plY3QiIC8+CisgICAgPG9yZGVyRW50cnkgdHlwZT0ibGlicmFyeSIgbmFtZT0iR3JhZGxlOiBhbmRyb2lkLWFuZHJvaWQtMjgiIGxldmVsPSJwcm9qZWN0IiAvPgorICA8L2NvbXBvbmVudD4KKzwvbW9kdWxlPgpcIE5vIG5ld2xpbmUgYXQgZW5kIG9mIGZpbGU=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgfSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJwYXRjaC1wYWNrYWdlIjogIl42LjEuMiIsCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gY2hvaWNlcy5pbmRleE9mKGRlZmF1bHROYW1lKTsK</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICBpZiB0YXJnZXQubmFtZSA9PSAncmVhY3QtbmF0aXZlLWdvb2dsZS1tYXBzJwogICAgICB0YXJnZXQuYnVpbGRfY29uZmlndXJhdGlvbnMuZWFjaCBkbyB8Y29uZmlnfAogICAgICAgIGNvbmZpZy5idWlsZF9zZXR0aW5nc1snQ0xBTkdfRU5BQkxFX01PRFVMRVMnXSA9ICdObycKICAgICAgZW5kCiAgICBlbmQ=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCBkZWZhdWx0TmFtZSA9IGNob2ljZXMuZmluZChkaXIgPT4gZGlyLmluY2x1ZGVzKGRvbWFpbikpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Z2VtICJjb2NvYXBvZHMtZml4LXJlYWN0LW5hdGl2ZSIK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBjaG9pY2VzID0gZnMucmVhZGRpclN5bmMoJ3BhY2thZ2VzJykuZmlsdGVyKGRpciA9PiBkaXIuc3RhcnRzV2l0aCgnbWljcm9zZXJ2aWNlJykpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBVbmNvbW1lbnQgbmV4dCBsaW5lIGZvciBjb2NvYXBvZHMK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBkb21haW4gPSAvKFx3KykuY29udHJvbGxlci50cy8uZXhlYyhyZXNwb25zZS5nYXRld2F5LmNvbnRyb2xsZXJOYW1lKVsxXTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIXJlc3BvbnNlLmdhdGV3YXkgfHwgIXJlc3BvbnNlLmdhdGV3YXkuY29udHJvbGxlck5hbWUpIHJldHVybjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBmaXggdGVzdHMK</text>
+        <text encoding="base64">ICAgICAgZGVmYXVsdDogcmVzcG9uc2UgPT4gewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJhbGxvd0pzIjogZmFsc2UgLyogQWxsb3cgamF2YXNjcmlwdCBmaWxlcyB0byBiZSBjb21waWxlZC4gKi8sCiAgICAic2tpcExpYkNoZWNrIjogdHJ1ZSwK</text>
+        <text encoding="base64">ICAgICJncnBjIjogIl4xLjE5LjAiLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
