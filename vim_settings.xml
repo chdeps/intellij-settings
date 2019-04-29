@@ -151,6 +151,12 @@
       <file name="/GraphQL.result.json" timestamp="1556542435300">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/components/Icon/Icon.tsx" timestamp="1556559963083">
+        <mark key="[" line="4" column="1" />
+        <mark key="]" line="4" column="1" />
+        <mark key="^" line="4" column="1" />
+        <mark key="." line="4" column="1" />
+      </file>
       <file name="$USER_HOME$/Projects/CQRS/blog/src/commands/interfaces/create-article.command.ts" timestamp="1555613009024">
         <mark key="[" line="0" column="0" />
       </file>
@@ -160,9 +166,9 @@
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/lib/api.js" timestamp="1554909375052">
         <mark key="[" line="42" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/package.json" timestamp="1556558257520">
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/package.json" timestamp="1556559601546">
         <mark key="'" line="15" column="20" />
-        <mark key="[" line="30" column="0" />
+        <mark key="[" line="77" column="30" />
         <mark key="]" line="30" column="0" />
         <mark key="^" line="15" column="20" />
         <mark key="." line="30" column="0" />
