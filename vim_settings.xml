@@ -15,7 +15,7 @@
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/pages/Signup/Signup.tsx" timestamp="1555423309092">
         <mark key="[" line="3" column="40" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/components/Input/Input.container.ts" timestamp="1556530077720">
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/components/Input/Input.container.ts" timestamp="1556541335088">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="15" />
         <mark key="." line="6" column="0" />
@@ -31,6 +31,11 @@
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/.gitignore" timestamp="1556260563912">
         <mark key="[" line="2" column="5" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/pages/LoginEmail/LoginEmail.tsx" timestamp="1556541616732">
+        <mark key="[" line="34" column="47" />
+        <mark key="]" line="34" column="47" />
+        <mark key="." line="34" column="47" />
       </file>
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Menu/menu.data.js" timestamp="1554486892704">
         <mark key="[" line="13" column="64" />
@@ -57,6 +62,7 @@
         <mark key="^" line="1" column="5" />
         <mark key="." line="1" column="5" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/components/AuthenticationForm/AuthenticationForm.tsx" timestamp="1556541187192" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/index.ts" timestamp="1556088304512">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -147,6 +153,11 @@
         <mark key="^" line="10" column="9" />
         <mark key="." line="10" column="9" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/node_modules/@bam.tech/react-native-component-text-input/index.js" timestamp="1556541905592">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/services/userService.js" timestamp="1554277961128">
         <mark key="[" line="32" column="32" />
       </file>
@@ -178,11 +189,11 @@
         <mark key="]" line="1" column="49" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/components/Input/Input.tsx" timestamp="1556533495247">
-        <mark key="[" line="11" column="28" />
-        <mark key="]" line="11" column="41" />
-        <mark key="." line="11" column="28" />
-        <mark key="^" line="7" column="12" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/components/Input/Input.tsx" timestamp="1556541556954">
+        <mark key="[" line="0" column="29" />
+        <mark key="]" line="0" column="29" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="0" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/CQRS/blog/src/app.service.ts" timestamp="1555670922938">
         <mark key="[" line="11" column="0" />
@@ -209,7 +220,7 @@
         <mark key="]" line="18" column="51" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556533835953">
+      <file name="/Dummy.txt" timestamp="1556541909649">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -227,7 +238,7 @@
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-algo/business/command/handler/index.ts" timestamp="1556295072561">
         <mark key="[" line="2" column="35" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1556270240616">
+      <file name="/GraphQL.result.json" timestamp="1556542435300">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/CQRS/blog/src/commands/interfaces/create-article.command.ts" timestamp="1555613009024">
@@ -366,13 +377,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgIkB0eXBlc2NyaXB0LWVzbGludC9uby1lbXB0eS1pbnRlcmZhY2UiIDogIm9mZiIK</text>
+        <text encoding="base64">ICAgICBjb25zb2xlLmxvZyhyZXN0KTsK</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>TTheme</text>
+        <text>, RefObject, createRef</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
@@ -381,34 +392,34 @@
         <text encoding="base64">aW1wb3J0IHsgVGhlbWVQcm9wcyBhcyBCYXNpY1RoZW1lUHJvcHMgfSBmcm9tICdzdHlsZWQtY29tcG9uZW50cyc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIkB0eXBlc2NyaXB0LWVzbGludC9uby1lbXB0eS1pbnRlcmZhY2UiIDogIm9mZiIK</text>
+        <text encoding="base64">ICAgICBjb25zb2xlLmxvZyhyZXN0KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgU3R5bGVkUGFwZXJUZXh0SW5wdXQgPSBzdHlsZWQoVGV4dElucHV0KS5hdHRycyh7CiAgdGhlbWU6ICh7IHRoZW1lIH06IElUaGVtZVByb3BzKSA9PiAoewogICAgY29sb3JzOiB7CiAgICAgIHByaW1hcnk6IHRoZW1lLmNvbG9ycy5wcmltYXJ5LmxpZ2h0ZXIsCiAgICB9LAogIH0pLAogIHNlbGVjdGlvbkNvbG9yOiAoeyB0aGVtZSB9OiBJVGhlbWVQcm9wcykgPT4gdGhlbWUuY29sb3JzLnByaW1hcnkubGlnaHRlciwKfSlgCiAgYmFja2dyb3VuZC1jb2xvcjogd2hpdGU7CmA7Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBwcml2YXRlIGlucHV0OiBSZWZPYmplY3Q8VGV4dElucHV0PiA9IGNyZWF0ZVJlZjxUZXh0SW5wdXQ+KCk7CgogIHB1YmxpYyBmb2N1cygpIHsKICAgIGlmICh0aGlzLmlucHV0LmN1cnJlbnQpIHRoaXMuaW5wdXQuY3VycmVudC5mb2N1cygpOwogIH0K</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXhwb3J0IHR5cGUgVFRoZW1lID0gdHlwZW9mIHRoZW1lOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlzTGFzdElucHV0T2ZGb3JtCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgU3R5bGVkUGFwZXJUZXh0SW5wdXQgPSBzdHlsZWQoVGV4dElucHV0KS5hdHRycyh7CiAgdGhlbWU6ICh7IHRoZW1lIH0pID0+ICh7CiAgICBjb2xvcnM6IHsKICAgICAgcHJpbWFyeTogdGhlbWUuY29sb3JzLnByaW1hcnkubGlnaHRlciwKICAgIH0sCiAgfSksCiAgc2VsZWN0aW9uQ29sb3I6ICh7IHRoZW1lIH0pID0+IHRoZW1lLmNvbG9ycy5wcmltYXJ5LmxpZ2h0ZXIsCn0pYAogIGJhY2tncm91bmQtY29sb3I6IHdoaXRlOwpgOwo=</text>
+        <text encoding="base64">ICAgICAgIkB0eXBlc2NyaXB0LWVzbGludC9uby1lbXB0eS1pbnRlcmZhY2UiIDogIm9mZiIK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0IGludGVyZmFjZSBJU3R5bGVkUGFwZXJUZXh0SW5wdXRQcm9wcyB7CiAgaXNMYXN0SW5wdXRPZkZvcm06IGJvb2xlYW47Cn0K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHN0eWxlZCBmcm9tICdzdHlsZWQtY29tcG9uZW50cyc7Cg==</text>
+        <text encoding="base64">ZXhwb3J0IHR5cGUgVFRoZW1lID0gdHlwZW9mIHRoZW1lOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgU3R5bGVkUGFwZXJUZXh0SW5wdXQgPSBzdHlsZWQoVGV4dElucHV0KS5hdHRycyh7CiAgdGhlbWU6ICh7IHRoZW1lIH0pID0+ICh7CiAgICBjb2xvcnM6IHsKICAgICAgcHJpbWFyeTogdGhlbWUuY29sb3JzLnByaW1hcnkubGlnaHRlciwKICAgIH0sCiAgfSksCiAgc2VsZWN0aW9uQ29sb3I6ICh7IHRoZW1lIH0pID0+IHRoZW1lLmNvbG9ycy5wcmltYXJ5LmxpZ2h0ZXIsCn0pYAogIGJhY2tncm91bmQtY29sb3I6IHdoaXRlOwpgOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
