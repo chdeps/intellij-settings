@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/package.json" timestamp="1556292401644">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="17" column="34" />
-        <mark key="." line="16" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/fastlane/version/minor" timestamp="1555408997176">
         <mark key="[" line="0" column="1" />
       </file>
@@ -20,12 +14,7 @@
         <mark key="]" line="6" column="15" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/components/CodePushUpdateButton/CodePushUpdateButton.tsx" timestamp="1555600172349">
-        <mark key="[" line="61" column="29" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
-        <mark key="^" line="50" column="14" />
-      </file>
+      <file name="$USER_HOME$/Projects/YesNYou/vinci-up/src/components/Page.js" timestamp="1556545464537" />
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/typeDefs.gql" timestamp="1554474387927">
         <mark key="[" line="11" column="33" />
       </file>
@@ -49,29 +38,11 @@
         <mark key="." line="0" column="39" />
         <mark key="^" line="0" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-algo/business/command/handler/__tests__/updateAttractiveness.handler.test.ts" timestamp="1556281260173">
-        <mark key="[" line="35" column="19" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-        <mark key="^" line="35" column="18" />
-      </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/libraries/styled-components/styled.app.ts" timestamp="1556533598689">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="66" />
       </file>
-      <file name="$USER_HOME$/Projects/CQRS/blog/src/articles.dto.ts" timestamp="1555601709867">
-        <mark key="[" line="2" column="10" />
-        <mark key="]" line="1" column="5" />
-        <mark key="^" line="1" column="5" />
-        <mark key="." line="1" column="5" />
-      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/components/AuthenticationForm/AuthenticationForm.tsx" timestamp="1556541187192" />
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/index.ts" timestamp="1556088304512">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="2" column="31" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/Gemfile.lock" timestamp="1556209938412">
         <mark key="[" line="217" column="4" />
       </file>
@@ -90,23 +61,11 @@
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/storage-eventstore/eventstore.module.ts" timestamp="1554995432122">
         <mark key="[" line="15" column="58" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/fastlane/Fastfile" timestamp="1556283994913">
-        <mark key="[" line="202" column="275" />
-        <mark key="]" line="202" column="321" />
-        <mark key="." line="202" column="274" />
-        <mark key="^" line="202" column="273" />
-      </file>
       <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-plugin-make/modules/utils/execCommandFromProject.js" timestamp="1554977037117">
         <mark key="[" line="4" column="75" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/.travis.yml" timestamp="1555447471910">
         <mark key="[" line="5" column="17" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/package.json" timestamp="1556292780430">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="16" column="3" />
-        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/SurveyFlow/SurveyFlow.component.js" timestamp="1556030576571">
         <mark key="[" line="40" column="47" />
@@ -117,44 +76,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/android/app/src/main/AndroidManifest.xml" timestamp="1556179149525">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="13" column="4" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/CQRS/blog/src/events/event.entity.ts" timestamp="1555614812028">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="18" column="24" />
-        <mark key="." line="18" column="24" />
-        <mark key="^" line="18" column="24" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/tsconfig.json" timestamp="1555485338007">
-        <mark key="[" line="22" column="3" />
-        <mark key="]" line="22" column="3" />
-        <mark key="." line="22" column="3" />
-        <mark key="^" line="21" column="22" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/fastlane/.env.staging.secret" timestamp="1556014912117">
-        <mark key="[" line="6" column="71" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/CQRS/blog/src/events/create-article.event.ts" timestamp="1555615795132">
-        <mark key="[" line="2" column="23" />
-        <mark key="]" line="2" column="23" />
-        <mark key="^" line="1" column="107" />
-        <mark key="." line="2" column="23" />
-      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/backpack.config.js" timestamp="1556292840385">
         <mark key="[" line="6" column="38" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-generator/generator/query.generator.js" timestamp="1556294981688">
-        <mark key="[" line="134" column="64" />
-        <mark key="]" line="99" column="6" />
-        <mark key="^" line="10" column="9" />
-        <mark key="." line="10" column="9" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/node_modules/@bam.tech/react-native-component-text-input/index.js" timestamp="1556541905592">
         <mark key="[" line="63" column="0" />
@@ -163,12 +86,6 @@
       </file>
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/services/userService.js" timestamp="1554277961128">
         <mark key="[" line="32" column="32" />
-      </file>
-      <file name="$USER_HOME$/Projects/CQRS/blog/src/article.saga.ts" timestamp="1555621416280">
-        <mark key="[" line="18" column="4" />
-        <mark key="]" line="17" column="58" />
-        <mark key="^" line="17" column="58" />
-        <mark key="." line="17" column="58" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/Gemfile" timestamp="1556284108042">
         <mark key="[" line="4" column="0" />
@@ -199,23 +116,12 @@
         <mark key="." line="0" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/validator/passsword.validator.ts" timestamp="1556543040262" />
-      <file name="$USER_HOME$/Projects/CQRS/blog/src/app.service.ts" timestamp="1555670922938">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="43" />
-        <mark key="." line="10" column="16" />
-        <mark key="^" line="10" column="16" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/modules/authentication/sagas.ts" timestamp="1556093104720">
-        <mark key="[" line="8" column="22" />
-        <mark key="]" line="12" column="2" />
-        <mark key="^" line="12" column="2" />
-        <mark key="." line="12" column="2" />
-      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/.eslintrc.js" timestamp="1556533773468">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/YesNYou/vinci-up/src/pages/Login/Login.component.js" timestamp="1556545812365" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/.gitattributes" timestamp="1556118868882">
         <mark key="[" line="0" column="33" />
       </file>
@@ -233,12 +139,6 @@
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-algo/package.json" timestamp="1556271779260">
         <mark key="[" line="7" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/ios/InshAllah.xcodeproj/project.pbxproj" timestamp="1556284176128">
-        <mark key="[" line="1590" column="45" />
-        <mark key="]" line="1584" column="62" />
-        <mark key="." line="1584" column="62" />
-        <mark key="^" line="1584" column="68" />
-      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-algo/business/command/handler/index.ts" timestamp="1556295072561">
         <mark key="[" line="2" column="35" />
       </file>
@@ -253,12 +153,6 @@
       </file>
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/lib/api.js" timestamp="1554909375052">
         <mark key="[" line="42" column="15" />
-      </file>
-      <file name="$USER_HOME$/Projects/CQRS/blog/src/app.controller.ts" timestamp="1555612338384">
-        <mark key="[" line="19" column="47" />
-        <mark key="]" line="19" column="56" />
-        <mark key="." line="19" column="56" />
-        <mark key="^" line="19" column="56" />
       </file>
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Menu/lib.js" timestamp="1554487314048">
         <mark key="[" line="16" column="93" />
