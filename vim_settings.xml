@@ -29,13 +29,6 @@
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/typeDefs.gql" timestamp="1554474387927">
         <mark key="[" line="11" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-algo/tsconfig.json" timestamp="1556271553290">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="1" column="1" />
-      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/.gitignore" timestamp="1556260563912">
         <mark key="[" line="2" column="5" />
       </file>
@@ -54,6 +47,10 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="35" column="18" />
       </file>
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/libraries/styled-components/styled.app.ts" timestamp="1556533598689">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="66" />
+      </file>
       <file name="$USER_HOME$/Projects/CQRS/blog/src/articles.dto.ts" timestamp="1555601709867">
         <mark key="[" line="2" column="10" />
         <mark key="]" line="1" column="5" />
@@ -69,6 +66,7 @@
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/Gemfile.lock" timestamp="1556209938412">
         <mark key="[" line="217" column="4" />
       </file>
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/pages/Landing/components/PageTitle.component.tsx" timestamp="1556533338739" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/registerAccount.handler.ts" timestamp="1555619371350">
         <mark key="[" line="19" column="31" />
       </file>
@@ -104,6 +102,7 @@
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/SurveyFlow/SurveyFlow.component.js" timestamp="1556030576571">
         <mark key="[" line="40" column="47" />
       </file>
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/shared/tsconfig.base.json" timestamp="1556533664684" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/patches/react-native-code-push+5.6.0.patch" timestamp="1556288801424">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -179,11 +178,11 @@
         <mark key="]" line="1" column="49" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/components/Input/Input.tsx" timestamp="1556530290765">
-        <mark key="[" line="6" column="20" />
-        <mark key="]" line="6" column="20" />
-        <mark key="." line="6" column="20" />
-        <mark key="^" line="6" column="28" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/components/Input/Input.tsx" timestamp="1556533495247">
+        <mark key="[" line="11" column="28" />
+        <mark key="]" line="11" column="41" />
+        <mark key="." line="11" column="28" />
+        <mark key="^" line="7" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/CQRS/blog/src/app.service.ts" timestamp="1555670922938">
         <mark key="[" line="11" column="0" />
@@ -197,13 +196,20 @@
         <mark key="^" line="12" column="2" />
         <mark key="." line="12" column="2" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/.eslintrc.js" timestamp="1556533773468">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/.gitattributes" timestamp="1556118868882">
         <mark key="[" line="0" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/.eslintrc.js" timestamp="1555444862816">
-        <mark key="[" line="21" column="6" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/.eslintrc.js" timestamp="1556533789510">
+        <mark key="[" line="18" column="51" />
+        <mark key="]" line="18" column="51" />
+        <mark key="." line="18" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556356714950">
+      <file name="/Dummy.txt" timestamp="1556533835953">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -233,13 +239,6 @@
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/lib/api.js" timestamp="1554909375052">
         <mark key="[" line="42" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/package.json" timestamp="1556289243740">
-        <mark key="'" line="15" column="20" />
-        <mark key="[" line="15" column="20" />
-        <mark key="]" line="53" column="30" />
-        <mark key="^" line="15" column="20" />
-        <mark key="." line="53" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/CQRS/blog/src/app.controller.ts" timestamp="1555612338384">
         <mark key="[" line="19" column="47" />
         <mark key="]" line="19" column="56" />
@@ -255,6 +254,12 @@
       </file>
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Menu/lib.js" timestamp="1554487314048">
         <mark key="[" line="16" column="93" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/lib/styled-components.ts" timestamp="1556533621911">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="66" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="8" column="17" />
       </file>
     </filemarks>
     <jumps>
@@ -360,50 +365,50 @@
       <jump line="15" column="20" filename="$USER_HOME$/Projects/InshAllah/InshAllah/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>: { theme}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgIkB0eXBlc2NyaXB0LWVzbGludC9uby1lbXB0eS1pbnRlcmZhY2UiIDogIm9mZiIK</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>: { theme}</text>
+        <text>TTheme</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHN0eWxlZCBmcm9tICcuLi8uLi9saWIvc3R5bGVkLWNvbXBvbmVudHMnOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgVGhlbWVQcm9wcyBhcyBCYXNpY1RoZW1lUHJvcHMgfSBmcm9tICdzdHlsZWQtY29tcG9uZW50cyc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgU3R5bGVkUGFwZXJUZXh0SW5wdXQgPSBzdHlsZWQoVGV4dElucHV0KS5hdHRycyh7CiAgdGhlbWU6ICh7IHRoZW1lIH0pID0+ICh7CiAgICBjb2xvcnM6IHsKICAgICAgcHJpbWFyeTogdGhlbWUuY29sb3JzLnByaW1hcnkubGlnaHRlciwKICAgIH0sCiAgfSksCiAgc2VsZWN0aW9uQ29sb3I6ICh7IHRoZW1lIH0pID0+IHRoZW1lLmNvbG9ycy5wcmltYXJ5LmxpZ2h0ZXIsCn0pYAogIGJhY2tncm91bmQtY29sb3I6IHdoaXRlOwpgOwo=</text>
+        <text encoding="base64">ICAgICAgIkB0eXBlc2NyaXB0LWVzbGludC9uby1lbXB0eS1pbnRlcmZhY2UiIDogIm9mZiIK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0IGludGVyZmFjZSBJU3R5bGVkUGFwZXJUZXh0SW5wdXRQcm9wcyB7CiAgaXNMYXN0SW5wdXRPZkZvcm06IGJvb2xlYW47Cn0K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHN0eWxlZCBmcm9tICdzdHlsZWQtY29tcG9uZW50cyc7Cg==</text>
+        <text encoding="base64">ZXhwb3J0IHR5cGUgVFRoZW1lID0gdHlwZW9mIHRoZW1lOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgU3R5bGVkUGFwZXJUZXh0SW5wdXQgPSBzdHlsZWQoVGV4dElucHV0KS5hdHRycyh7CiAgdGhlbWU6ICh7IHRoZW1lIH0pID0+ICh7CiAgICBjb2xvcnM6IHsKICAgICAgcHJpbWFyeTogdGhlbWUuY29sb3JzLnByaW1hcnkubGlnaHRlciwKICAgIH0sCiAgfSksCiAgc2VsZWN0aW9uQ29sb3I6ICh7IHRoZW1lIH0pID0+IHRoZW1lLmNvbG9ycy5wcmltYXJ5LmxpZ2h0ZXIsCn0pYAogIGJhY2tncm91bmQtY29sb3I6IHdoaXRlOwpgOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0IGludGVyZmFjZSBJU3R5bGVkUGFwZXJUZXh0SW5wdXRQcm9wcyB7CiAgaXNMYXN0SW5wdXRPZkZvcm06IGJvb2xlYW47Cn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gQHRzLWlnbm9yZQo=</text>
+        <text encoding="base64">ZXhwb3J0IGludGVyZmFjZSBJU3R5bGVkUGFwZXJUZXh0SW5wdXRQcm9wcyB7CiAgaXNMYXN0SW5wdXRPZkZvcm06IGJvb2xlYW47Cn0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU3R5bGVkUGFwZXJUZXh0SW5wdXQgfSBmcm9tICcuL1BhcGVyVGV4dElucHV0JzsK</text>
+        <text encoding="base64">aW1wb3J0IHN0eWxlZCBmcm9tICdzdHlsZWQtY29tcG9uZW50cyc7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvLyBAdHMtaWdub3JlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
