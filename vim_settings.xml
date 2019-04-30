@@ -17,6 +17,7 @@
         <mark key="]" line="74" column="0" />
         <mark key="." line="74" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/navigation/index.tsx" timestamp="1556607660510" />
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/typeDefs.gql" timestamp="1554474387927">
         <mark key="[" line="11" column="33" />
       </file>
@@ -47,6 +48,10 @@
         <mark key="]" line="0" column="39" />
         <mark key="." line="0" column="39" />
         <mark key="^" line="0" column="46" />
+      </file>
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/libraries/styled-components/styled.app.ts" timestamp="1556533598689">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="66" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/components/AuthenticationForm/AuthenticationForm.tsx" timestamp="1556541187192" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/Gemfile.lock" timestamp="1556209938412">
@@ -136,7 +141,7 @@
         <mark key="]" line="18" column="51" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556558410007">
+      <file name="/Dummy.txt" timestamp="1556608200235">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -148,14 +153,14 @@
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-algo/business/command/handler/index.ts" timestamp="1556295072561">
         <mark key="[" line="2" column="35" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1556542435300">
+      <file name="/GraphQL.result.json" timestamp="1556608951051">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/components/Icon/Icon.tsx" timestamp="1556559963083">
-        <mark key="[" line="4" column="1" />
-        <mark key="]" line="4" column="1" />
-        <mark key="^" line="4" column="1" />
-        <mark key="." line="4" column="1" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/components/Icon/Icon.tsx" timestamp="1556609021052">
+        <mark key="[" line="10" column="3" />
+        <mark key="]" line="10" column="14" />
+        <mark key="^" line="2" column="12" />
+        <mark key="." line="10" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/CQRS/blog/src/commands/interfaces/create-article.command.ts" timestamp="1555613009024">
         <mark key="[" line="0" column="0" />
@@ -172,6 +177,10 @@
         <mark key="]" line="30" column="0" />
         <mark key="^" line="15" column="20" />
         <mark key="." line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/WWF/wag-app/src/components/Icon/Icon.js" timestamp="1556608969339">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="3" column="50" />
       </file>
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Menu/lib.js" timestamp="1554487314048">
         <mark key="[" line="16" column="93" />
@@ -286,26 +295,26 @@
       <jump line="15" column="20" filename="$USER_HOME$/Projects/InshAllah/InshAllah/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGhlYWRlck1vZGU6ICdub25lJywK</text>
+      <register name="&quot;" type="4">
+        <text>FontIcon</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>, ScrollView</text>
+        <text>FontIcon</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8L0hpZGVXaXRoS2V5Ym9hcmQ+Cg==</text>
+      <register name="0" type="4">
+        <text>IcoMoonIcon</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGhlYWRlck1vZGU6ICdub25lJywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgbmF2aWdhdGlvbk9wdGlvbnM6IHt9LAo=</text>
+        <text encoding="base64">aW1wb3J0IEZvbnRJY29uIGZyb20gJ3JlYWN0LW5hdGl2ZS12ZWN0b3ItaWNvbnMvRm9udEF3ZXNvbWUnOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -314,22 +323,22 @@
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgTW9kYWxOYXZpZ2F0b3IgPSBjcmVhdGVTdGFja05hdmlnYXRvcih7Cn0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIE1vZGFsTmF2aWdhdG9yLAo=</text>
+        <text encoding="base64">ICAgIGhlYWRlck1vZGU6ICdub25lJywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBbUm91dGVzLlBhc3N3b3JkRm9yZ290dGVuXTogewogICAgc2NyZWVuOiBQYXNzd29yZEZvcmdvdHRlbiwKICB9LAo=</text>
+        <text encoding="base64">ICAgICAgbmF2aWdhdGlvbk9wdGlvbnM6IHt9LAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJyZWFjdC1uYXRpdmUta2V5Ym9hcmQtc3BhY2VyIjogIl4wLjQuMSIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kQ29sb3I6ICd0cmFuc3BhcmVudCcsCg==</text>
+        <text encoding="base64">Y29uc3QgTW9kYWxOYXZpZ2F0b3IgPSBjcmVhdGVTdGFja05hdmlnYXRvcih7Cn0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8L0hpZGVXaXRoS2V5Ym9hcmQ+Cg==</text>
+        <text encoding="base64">ICAgIE1vZGFsTmF2aWdhdG9yLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
