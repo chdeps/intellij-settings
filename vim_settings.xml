@@ -23,6 +23,9 @@
         <mark key="[" line="3" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/components/Input/Input.container.ts" timestamp="1556541335088" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/pages/Authentication/Authentication.tsx" timestamp="1556637543147">
+        <mark key="[" line="71" column="41" />
+      </file>
       <file name="$USER_HOME$/Projects/YesNYou/vinci-up/src/components/Page.js" timestamp="1556545464537" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/navigation/index.ts" timestamp="1556560600569">
         <mark key="[" line="60" column="30" />
@@ -40,13 +43,6 @@
       </file>
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/typeDefs.gql" timestamp="1554474387927">
         <mark key="[" line="11" column="33" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-algo/tsconfig.json" timestamp="1556271553290">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="1" column="1" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/.gitignore" timestamp="1556260563912">
         <mark key="[" line="2" column="5" />
@@ -192,13 +188,6 @@
       </file>
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/lib/api.js" timestamp="1554909375052">
         <mark key="[" line="42" column="15" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/package.json" timestamp="1556559601546">
-        <mark key="'" line="15" column="20" />
-        <mark key="[" line="77" column="30" />
-        <mark key="]" line="30" column="0" />
-        <mark key="^" line="15" column="20" />
-        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/WWF/wag-app/src/components/Icon/Icon.js" timestamp="1556608969339">
         <mark key="[" line="1" column="0" />
