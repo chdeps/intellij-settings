@@ -49,6 +49,7 @@
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/typeDefs.gql" timestamp="1554474387927">
         <mark key="[" line="11" column="33" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/ecosystem.config.js" timestamp="1556791570527" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/.gitignore" timestamp="1556260563912">
         <mark key="[" line="2" column="5" />
       </file>
@@ -65,7 +66,7 @@
         <mark key="[" line="1" column="90" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/dto/authCredentials.dto.ts" timestamp="1556544801760">
-        <mark key="[" line="18" column="14" />
+        <mark key="[" line="22" column="14" />
         <mark key="]" line="0" column="39" />
         <mark key="." line="0" column="39" />
         <mark key="^" line="0" column="46" />
@@ -75,10 +76,6 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
         <mark key="^" line="35" column="18" />
-      </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/libraries/styled-components/styled.app.ts" timestamp="1556533598689">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="66" />
       </file>
       <file name="$USER_HOME$/Projects/CQRS/blog/src/articles.dto.ts" timestamp="1555601709867">
         <mark key="[" line="2" column="10" />
@@ -196,7 +193,7 @@
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/index.ts" timestamp="1554997493383">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1556781626444">
+      <file name="/JavaScript Console" timestamp="1556791589433">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/CQRS/blog/src/app.service.ts" timestamp="1555670922938">
@@ -270,10 +267,6 @@
         <mark key="]" line="19" column="56" />
         <mark key="." line="19" column="56" />
         <mark key="^" line="19" column="56" />
-      </file>
-      <file name="$USER_HOME$/Projects/WWF/wag-app/src/components/Icon/Icon.js" timestamp="1556608969339">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="3" column="50" />
       </file>
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Menu/lib.js" timestamp="1554487314048">
         <mark key="[" line="16" column="93" />
