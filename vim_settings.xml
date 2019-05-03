@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/package.json" timestamp="1556292401644">
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/package.json" timestamp="1556888123492">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="^" line="17" column="34" />
@@ -202,6 +202,7 @@
         <mark key="." line="47" column="0" />
         <mark key="^" line="48" column="2" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/yarn.lock" timestamp="1556888140745" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/android/app/build.gradle" timestamp="1556640351422">
         <mark key="[" line="96" column="72" />
       </file>
