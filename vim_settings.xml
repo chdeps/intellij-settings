@@ -9,12 +9,6 @@
         <mark key="^" line="17" column="34" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/pages/PasswordForgotten/PasswordForgotten.tsx" timestamp="1556628425822">
-        <mark key="[" line="15" column="26" />
-        <mark key="]" line="8" column="25" />
-        <mark key="." line="8" column="25" />
-        <mark key="^" line="8" column="25" />
-      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/query/index.ts" timestamp="1556802799898">
         <mark key="[" line="3" column="0" />
       </file>
@@ -71,10 +65,7 @@
         <mark key="[" line="2" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/pages/LoginEmail/LoginEmail.tsx" timestamp="1556558068705">
-        <mark key="[" line="82" column="57" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-        <mark key="^" line="35" column="24" />
+        <mark key="[" line="79" column="57" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/controller/auth.controller.ts" timestamp="1556899999286">
         <mark key="[" line="67" column="38" />
@@ -131,6 +122,7 @@
         <mark key="." line="202" column="274" />
         <mark key="^" line="202" column="273" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/pages/LoginPasswordChange/LoginPasswordChange.tsx" timestamp="1557151994224" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/query/handler/getUserIdFromEmail.handler.ts" timestamp="1556804117524">
         <mark key="[" line="19" column="53" />
         <mark key="]" line="19" column="53" />
@@ -247,7 +239,7 @@
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/build/main.js" timestamp="1554475963292">
         <mark key="[" line="643" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/service-eventstore/eventstore.service.ts" timestamp="1557136139612">
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/service-eventstore/eventstore.service.ts" timestamp="1557151943758">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
