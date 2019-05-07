@@ -41,8 +41,10 @@
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/typeDefs.gql" timestamp="1554474387927">
         <mark key="[" line="11" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/ecosystem.config.js" timestamp="1557215873337">
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/ecosystem.config.js" timestamp="1557241989951">
         <mark key="[" line="24" column="22" />
+        <mark key="]" line="24" column="22" />
+        <mark key="." line="24" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/.gitignore" timestamp="1556260563912">
         <mark key="[" line="2" column="5" />
@@ -135,7 +137,7 @@
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/.gitattributes" timestamp="1556118868882">
         <mark key="[" line="0" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557215910067">
+      <file name="/Dummy.txt" timestamp="1557242002827">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -168,7 +170,6 @@
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Menu/lib.js" timestamp="1554487314048">
         <mark key="[" line="16" column="93" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/config/auth.js" timestamp="1557210459317" />
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/account/containers/profileAttributesContainerFactory.ts" />
@@ -273,14 +274,14 @@
       <jump line="1" column="17" filename="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/sendResetPasswordEmail.handler.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ewogICJBV1MiOiB7CiAgICAiYWNjZXNzS2V5SWQiOiAiQUtJQVJLTTZQTkZXQ0tMT1k2SlkiLAogICAgInNlY3JldEFjY2Vzc0tleSI6ICI2eXVtZ0x2MVRQVjRhY0tNdCtzamFoVG50aTdrVE0rNGFRWVBCUHFMIiwKICAgICJyZWdpb24iOiAiZXUtd2VzdC0xIgogIH0sCiAgInNlbmRlckVtYWlsIjogInRlc3QuaW5zaGFsbGFoLnRlc3RAZ21haWwuY29tIiwKICAiRmFjZWJvb2siIDogewogICAgImFjY2Vzc1Rva2VuIiA6ICIzODIzNTUyMTkwMzIxMDR8NGdqWHZtLUhyU0hSU2x2VFN3S3F0aklOeUZrIgogIH0KfQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">dHJhbnNjcnlwdCAtYyBhZXMtMjU2LWNiYyAteSAtcCAke1RSQU5TQ1JZUFRfS0VZfSAmJiA=</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>FacebookA</text>
+        <text encoding="base64">dHJhbnNjcnlwdCAtYyBhZXMtMjU2LWNiYyAteSAtcCAke1RSQU5TQ1JZUFRfS0VZfSAmJiA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
