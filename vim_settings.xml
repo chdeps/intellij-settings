@@ -41,7 +41,9 @@
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/typeDefs.gql" timestamp="1554474387927">
         <mark key="[" line="11" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/ecosystem.config.js" timestamp="1557211108664" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/ecosystem.config.js" timestamp="1557215873337">
+        <mark key="[" line="24" column="22" />
+      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/.gitignore" timestamp="1556260563912">
         <mark key="[" line="2" column="5" />
       </file>
@@ -70,6 +72,7 @@
       <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-plugin-make/modules/utils/execCommandFromProject.js" timestamp="1554977037117">
         <mark key="[" line="4" column="75" />
       </file>
+      <file name="$USER_HOME$/Projects/WWF/wag-server/shipitfile.js" timestamp="1557216174201" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/.travis.yml" timestamp="1557157146840">
         <mark key="[" line="3" column="79" />
         <mark key="]" line="3" column="79" />
@@ -93,7 +96,7 @@
         <mark key="." line="22" column="3" />
         <mark key="^" line="21" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/.travis.yml" timestamp="1557208354826">
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/.travis.yml" timestamp="1557211504091">
         <mark key="[" line="4" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/WWF/wag-app/.travis.yml" timestamp="1557156035339" />
@@ -132,7 +135,7 @@
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/.gitattributes" timestamp="1556118868882">
         <mark key="[" line="0" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557208538601">
+      <file name="/Dummy.txt" timestamp="1557215910067">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -144,7 +147,7 @@
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-algo/business/command/handler/index.ts" timestamp="1556295072561">
         <mark key="[" line="2" column="35" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1557209667562">
+      <file name="/GraphQL.result.json" timestamp="1557211666162">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/infrastructure/api/auth.controller.ts" timestamp="1557208437226">
