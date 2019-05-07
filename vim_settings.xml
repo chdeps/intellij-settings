@@ -24,12 +24,6 @@
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/index.ts" timestamp="1556808251190">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/pages/Authentication/Authentication.tsx" timestamp="1557209913756">
-        <mark key="[" line="11" column="21" />
-        <mark key="]" line="33" column="30" />
-        <mark key="." line="33" column="30" />
-        <mark key="^" line="35" column="10" />
-      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/infrastructure/environment/config.json" timestamp="1557210332370">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="10" column="1" />
@@ -70,6 +64,7 @@
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/storage-eventstore/eventstore.module.ts" timestamp="1554995432122">
         <mark key="[" line="15" column="58" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/fastlane/Fastfile" timestamp="1557247493531" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/pages/LoginPasswordChange/LoginPasswordChange.tsx" timestamp="1557151994224" />
       <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-plugin-make/modules/utils/execCommandFromProject.js" timestamp="1554977037117">
         <mark key="[" line="4" column="75" />
