@@ -264,6 +264,7 @@
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/Gemfile.lock" timestamp="1556209938412">
         <mark key="[" line="217" column="4" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/ios/Podfile" timestamp="1557324284784" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/fastlane/.env.staging" timestamp="1557304307946" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/handler/resetPassword.handler.ts" timestamp="1556817818703">
         <mark key="[" line="0" column="9" />
@@ -280,7 +281,7 @@
         <mark key="." line="43" column="13" />
         <mark key="^" line="43" column="13" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/android/app/build.gradle" timestamp="1557304259929">
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/android/app/build.gradle" timestamp="1557324668894">
         <mark key="[" line="96" column="72" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/.travis.yml" timestamp="1557216377060">
