@@ -111,6 +111,11 @@
         <mark key="^" line="2" column="1" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/interface/registerFacebookAccount.command.ts" timestamp="1557346202077">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/tsconfig.json" timestamp="1557155251480">
         <mark key="[" line="22" column="3" />
         <mark key="]" line="22" column="3" />
@@ -402,7 +407,7 @@
         <mark key="^" line="10" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/login.handler.ts" timestamp="1557305754426" />
-      <file name="/Dummy.txt" timestamp="1557342759615">
+      <file name="/Dummy.txt" timestamp="1557346333692">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-algo/business/command/handler/index.ts" timestamp="1556295072561">
@@ -537,8 +542,8 @@
       <jump line="1" column="17" filename="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/sendResetPasswordEmail.handler.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>https://inshallah-staging.cloud.bam.tech/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHsgRmFjZWJvb2tBdXRoQ3JlZGVudGlhbHNEdG8gfSBmcm9tICdAaW5zaGFsbGFoL21pY3Jvc2VydmljZS1hdXRoL2RvbWFpbi9kdG8nOwoK</text>
       </register>
       <register name="d" type="4">
         <text />
@@ -553,34 +558,34 @@
         <text encoding="base64">ICAgICAgICB2YWxpZGF0ZU9uQ2hhbmdlPXtmYWxzZX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zdCBkaXNwbGF5RXJyb3JGb3JtID0gKGZvcm1pa0JhZzogRm9ybWlrUHJvcHM8SVZhbHVlcz4pID0+IHsKICAgIGlmICgKICAgICAgZm9ybWlrQmFnLnRvdWNoZWQgJiYKICAgICAgISFmb3JtaWtCYWcudG91Y2hlZC5lbWFpbCAmJgogICAgICBmb3JtaWtCYWcuZXJyb3JzICYmCiAgICAgICEhZm9ybWlrQmFnLmVycm9ycy5lbWFpbAogICAgKSB7CiAgICAgIHJldHVybiA8RXJyb3JUZXh0IGVycm9yTWVzc2FnZT17STE4bi50KCdTaWdudXBFbWFpbC5pbnZhbGlkX2VtYWlsJyl9IC8+OwogICAgfQogIH07Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgRmFjZWJvb2tBdXRoQ3JlZGVudGlhbHNEdG8gfSBmcm9tICdAaW5zaGFsbGFoL21pY3Jvc2VydmljZS1hdXRoL2RvbWFpbi9kdG8nOwoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCBkaXNwbGF5RXJyb3JGb3JtID0gKGZvcm1pa0JhZzogRm9ybWlrUHJvcHM8SVZhbHVlcz4pID0+IHsKICAgIGlmICgKICAgICAgZm9ybWlrQmFnLnRvdWNoZWQgJiYKICAgICAgISFmb3JtaWtCYWcudG91Y2hlZC5lbWFpbCAmJgogICAgICBmb3JtaWtCYWcuZXJyb3JzICYmCiAgICAgICEhZm9ybWlrQmFnLmVycm9ycy5lbWFpbAogICAgKSB7CiAgICAgIHJldHVybiA8RXJyb3JUZXh0IGVycm9yTWVzc2FnZT17STE4bi50KCdTaWdudXBFbWFpbC5pbnZhbGlkX2VtYWlsJyl9IC8+OwogICAgfQogIH07Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgYnV0dG9uRGlzYWJsZWQgPSB2YWx1ZXMuZW1haWwgPT09ICcnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgYnV0dG9uRGlzYWJsZWQgPSB2YWx1ZXMuZW1haWwgPT09ICcnOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zdCBkaXNwbGF5RXJyb3JGb3JtID0gKGZvcm1pa0JhZzogRm9ybWlrUHJvcHM8SVZhbHVlcz4pID0+IHsKICAgIGlmICgKICAgICAgZm9ybWlrQmFnLnRvdWNoZWQgJiYKICAgICAgISFmb3JtaWtCYWcudG91Y2hlZC5lbWFpbCAmJgogICAgICBmb3JtaWtCYWcuZXJyb3JzICYmCiAgICAgICEhZm9ybWlrQmFnLmVycm9ycy5lbWFpbAogICAgKSB7CiAgICAgIHJldHVybiA8RXJyb3JUZXh0IGVycm9yTWVzc2FnZT17STE4bi50KCdTaWdudXBFbWFpbC5pbnZhbGlkX2VtYWlsJyl9IC8+OwogICAgfQogIH07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUm91dGVzIH0gZnJvbSAnLi4vLi4vbmF2aWdhdGlvbi9yb3V0ZXMnOwo=</text>
+        <text encoding="base64">ICBjb25zdCBkaXNwbGF5RXJyb3JGb3JtID0gKGZvcm1pa0JhZzogRm9ybWlrUHJvcHM8SVZhbHVlcz4pID0+IHsKICAgIGlmICgKICAgICAgZm9ybWlrQmFnLnRvdWNoZWQgJiYKICAgICAgISFmb3JtaWtCYWcudG91Y2hlZC5lbWFpbCAmJgogICAgICBmb3JtaWtCYWcuZXJyb3JzICYmCiAgICAgICEhZm9ybWlrQmFnLmVycm9ycy5lbWFpbAogICAgKSB7CiAgICAgIHJldHVybiA8RXJyb3JUZXh0IGVycm9yTWVzc2FnZT17STE4bi50KCdTaWdudXBFbWFpbC5pbnZhbGlkX2VtYWlsJyl9IC8+OwogICAgfQogIH07Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgUm91dGVzIH0gZnJvbSAnLi4vLi4vbmF2aWdhdGlvbi9yb3V0ZXMnOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgYnV0dG9uRGlzYWJsZWQgPSB2YWx1ZXMuZW1haWwgPT09ICcnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
