@@ -6,6 +6,12 @@
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/query/index.ts" timestamp="1556802799898">
         <mark key="[" line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/environment/index.js" timestamp="1557318125257">
+        <mark key="[" line="2" column="24" />
+        <mark key="]" line="2" column="24" />
+        <mark key="^" line="2" column="24" />
+        <mark key="." line="2" column="24" />
+      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/fastlane/version/minor" timestamp="1555408997176">
         <mark key="[" line="0" column="1" />
       </file>
@@ -36,6 +42,7 @@
         <mark key="[" line="15" column="58" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/fastlane/Fastfile" timestamp="1557247493531" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/infrastructure/services/FacebookAuth.service.ts" timestamp="1557318316075" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/pages/LoginPasswordChange/LoginPasswordChange.tsx" timestamp="1557151994224" />
       <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-plugin-make/modules/utils/execCommandFromProject.js" timestamp="1554977037117">
         <mark key="[" line="4" column="75" />
@@ -162,7 +169,7 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1556810895029">
+      <file name="/JavaScript Console" timestamp="1557318280077">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/login.handler.ts" timestamp="1557305754426" />
@@ -286,13 +293,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">dHJhbnNjcnlwdCAtYyBhZXMtMjU2LWNiYyAteSAtcCAke1RSQU5TQ1JZUFRfS0VZfSAmJiA=</text>
+        <text>inshallah-staging.cloud.bam.tech/</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dHJhbnNjcnlwdCAtYyBhZXMtMjU2LWNiYyAteSAtcCAke1RSQU5TQ1JZUFRfS0VZfSAmJiA=</text>
+        <text>inshallah-staging.cloud.bam.tech/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
