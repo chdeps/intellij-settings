@@ -15,6 +15,12 @@
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/fastlane/version/minor" timestamp="1555408997176">
         <mark key="[" line="0" column="1" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/pages/Authentication/Authentication.tsx" timestamp="1557319055635">
+        <mark key="[" line="36" column="27" />
+        <mark key="]" line="36" column="25" />
+        <mark key="^" line="36" column="25" />
+        <mark key="." line="36" column="25" />
+      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/components/Cross/index.ts" timestamp="1556627270693">
         <mark key="[" line="0" column="0" />
       </file>
@@ -42,7 +48,12 @@
         <mark key="[" line="15" column="58" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/fastlane/Fastfile" timestamp="1557247493531" />
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/infrastructure/services/FacebookAuth.service.ts" timestamp="1557318316075" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/infrastructure/services/FacebookAuth.service.ts" timestamp="1557319720044">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="14" column="7" />
+        <mark key="." line="14" column="7" />
+        <mark key="^" line="14" column="7" />
+      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/pages/LoginPasswordChange/LoginPasswordChange.tsx" timestamp="1557151994224" />
       <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-plugin-make/modules/utils/execCommandFromProject.js" timestamp="1554977037117">
         <mark key="[" line="4" column="75" />
@@ -158,6 +169,12 @@
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/backpack.config.js" timestamp="1556292840385">
         <mark key="[" line="6" column="38" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/handler/loggedIn.handler.ts" timestamp="1557319324231">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="73" />
+        <mark key="." line="12" column="20" />
+        <mark key="^" line="12" column="20" />
+      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/theme/fonts.ts" timestamp="1556628810646">
         <mark key="[" line="12" column="0" />
       </file>
@@ -169,11 +186,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1557318280077">
+      <file name="/JavaScript Console" timestamp="1557319752713">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/login.handler.ts" timestamp="1557305754426" />
-      <file name="/Dummy.txt" timestamp="1557307380826">
+      <file name="/Dummy.txt" timestamp="1557319877977">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -293,46 +310,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>inshallah-staging.cloud.bam.tech/</text>
+        <text>URL</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>inshallah-staging.cloud.bam.tech/</text>
+        <text>URL</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBAQXBpQ3JlYXRlZFJlc3BvbnNlKHsgZGVzY3JpcHRpb246ICdUaGUgYWNjb3VudCBoYXMgYmVlbiBzdWNjZXNzZnVsbHkgY3JlYXRlZC4nIH0pCg==</text>
+        <text encoding="base64">Y29uc3QgbG9nZ2VyID0gbmV3IExvZ2dlcignQGluc2hhbGxhaC9taWNyb3NlcnZpY2UtYXV0aC0+TG9nZ2VkSW5FdmVudCcpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ewogICJBV1MiOiB7CiAgICAiYWNjZXNzS2V5SWQiOiAiQUtJQVJLTTZQTkZXQ0tMT1k2SlkiLAogICAgInNlY3JldEFjY2Vzc0tleSI6ICI2eXVtZ0x2MVRQVjRhY0tNdCtzamFoVG50aTdrVE0rNGFRWVBCUHFMIiwKICAgICJyZWdpb24iOiAiZXUtd2VzdC0xIgogIH0sCiAgInNlbmRlckVtYWlsIjogInRlc3QuaW5zaGFsbGFoLnRlc3RAZ21haWwuY29tIiwKICAiRmFjZWJvb2siIDogewogICAgImFjY2Vzc1Rva2VuIiA6ICIzODIzNTUyMTkwMzIxMDR8NGdqWHZtLUhyU0hSU2x2VFN3S3F0aklOeUZrIgogIH0KfQo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYGh0dHBzOi8vZ3JhcGguZmFjZWJvb2suY29tL2RlYnVnX3Rva2VuP2lucHV0X3Rva2VuPSR7YWNjZXNzVG9rZW59JmFjY2Vzc190b2tlbj0ke3RoaXMuY29uZmlnLmdldCgKICAgICAgICAnYXV0aC5mYWNlYm9va0FjY2Vzc1Rva2VuJywK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAiRmFjZWJvb2tBY2Nlc3NUb2tlbiIgOiAiMzgyMzU1MjE5MDMyMTA0fDRnalh2bS1IclNIUlNsdlRTd0txdGpJTnlGayIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB8Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ewogICJBV1MiOiB7CiAgICAiYWNjZXNzS2V5SWQiOiAiQUtJQVJLTTZQTkZXQ0tMT1k2SlkiLAogICAgInNlY3JldEFjY2Vzc0tleSI6ICI2eXVtZ0x2MVRQVjRhY0tNdCtzamFoVG50aTdrVE0rNGFRWVBCUHFMIiwKICAgICJyZWdpb24iOiAiZXUtd2VzdC0xIgogIH0sCiAgInNlbmRlckVtYWlsIjogInRlc3QuaW5zaGFsbGFoLnRlc3RAZ21haWwuY29tIiwKICAiRmFjZWJvb2siIDogewogICAgImFjY2Vzc1Rva2VuIiA6ICIzODIzNTUyMTkwMzIxMDR8NGdqWHZtLUhyU0hSU2x2VFN3S3F0aklOeUZrIgogIH0KfQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGdycGMgZnJvbSAnZ3JwYyc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygpCg==</text>
+        <text encoding="base64">ICAiRmFjZWJvb2tBY2Nlc3NUb2tlbiIgOiAiMzgyMzU1MjE5MDMyMTA0fDRnalh2bS1IclNIUlNsdlRTd0txdGpJTnlGayIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci4K</text>
+        <text encoding="base64">ICB8Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
