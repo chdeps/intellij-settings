@@ -71,6 +71,7 @@
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/handler/facebookAccountRegistered.handler.ts" timestamp="1557386818893">
         <mark key="[" line="8" column="9" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/auth.module.ts" timestamp="1557411408347" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/query/handler/getUserIdFromEmail.handler.ts" timestamp="1556804117524">
         <mark key="[" line="19" column="53" />
         <mark key="]" line="19" column="53" />
@@ -125,6 +126,7 @@
         <mark key="]" line="24" column="48" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/controller/profile.controller.ts" timestamp="1557411197784" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/pages/SignupEmail/SignupEmail.tsx" timestamp="1557342742870">
         <mark key="[" line="66" column="0" />
         <mark key="]" line="66" column="34" />
@@ -213,7 +215,7 @@
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/lib/call.js" timestamp="1556030755463">
         <mark key="[" line="9" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/module.ts" timestamp="1557410932130" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/module.ts" timestamp="1557411122901" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/query/handler/index.ts" timestamp="1557346573501">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -231,7 +233,7 @@
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/lib/api.js" timestamp="1554909375052">
         <mark key="[" line="42" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/accessControl/authentication/jwt.strategy.ts" timestamp="1557410812353" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/accessControl/authentication/jwt.strategy.ts" timestamp="1557411222392" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/services/validation.service.ts" timestamp="1557409671732" />
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Menu/lib.js" timestamp="1554487314048">
         <mark key="[" line="16" column="93" />
