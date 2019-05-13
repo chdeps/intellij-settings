@@ -24,11 +24,11 @@
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/pages/LoginEmail/LoginEmail.tsx" timestamp="1556558068705">
         <mark key="[" line="79" column="57" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/controller/auth.controller.ts" timestamp="1557742902187">
-        <mark key="[" line="97" column="24" />
-        <mark key="]" line="97" column="24" />
-        <mark key="." line="97" column="24" />
-        <mark key="^" line="96" column="22" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/controller/auth.controller.ts" timestamp="1557743247620">
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="18" />
+        <mark key="." line="99" column="0" />
+        <mark key="^" line="97" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Menu/menu.data.js" timestamp="1554486892704">
         <mark key="[" line="13" column="64" />
@@ -89,7 +89,7 @@
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/lib/api.js" timestamp="1554909375052">
         <mark key="[" line="42" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/accessControl/authentication/jwt.strategy.ts" timestamp="1557742580385">
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/accessControl/authentication/jwt.strategy.ts" timestamp="1557744086150">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
@@ -138,7 +138,7 @@
         <mark key="^" line="19" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/controller/profile.controller.ts" timestamp="1557418595480" />
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/accessControl/acl.module.ts" timestamp="1557742628936">
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/accessControl/acl.module.ts" timestamp="1557743667088">
         <mark key="[" line="9" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/pages/Home/Home.container.ts" timestamp="1557383547184" />
@@ -149,9 +149,9 @@
         <mark key="[" line="15" column="1" />
         <mark key="]" line="39" column="4" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/controller/algo.controller.ts" timestamp="1557742893492">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="34" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/controller/algo.controller.ts" timestamp="1557743239675">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/theme/fonts.ts" timestamp="1556628810646">
         <mark key="[" line="12" column="0" />
@@ -159,7 +159,7 @@
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/build/main.js" timestamp="1554475963292">
         <mark key="[" line="643" column="21" />
       </file>
-      <file name="/JavaScript Console" timestamp="1557743096611">
+      <file name="/JavaScript Console" timestamp="1557743403303">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/sendResetPasswordEmail.handler.ts" timestamp="1557395246161" />
@@ -288,8 +288,8 @@
       <jump line="1" column="17" filename="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/sendResetPasswordEmail.handler.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, ACGuard</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBAQXBpQmVhcmVyQXV0aCgpCg==</text>
       </register>
       <register name="d" type="4">
         <text />
@@ -301,7 +301,7 @@
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBAVXNlR3VhcmRzKEF1dGhHdWFyZCgpLCBBQ0d1YXJkKQo=</text>
+        <text encoding="base64">ICBAQXBpQmVhcmVyQXV0aCgpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBheWxvYWQpOwo=</text>
