@@ -140,10 +140,8 @@
         <mark key="[" line="42" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/accessControl/authentication/jwt.strategy.ts" timestamp="1557827949927">
-        <mark key="[" line="18" column="97" />
-        <mark key="]" line="18" column="113" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="25" column="34" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="27" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/services/validation.service.ts" timestamp="1557741074071" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/handler/sendResetPassword.handler.ts" timestamp="1557383417853">
@@ -241,7 +239,7 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1557829019411">
+      <file name="/JavaScript Console" timestamp="1557830103304">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/sendResetPasswordEmail.handler.ts" timestamp="1557828351720" />
