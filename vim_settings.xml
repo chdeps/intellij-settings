@@ -118,6 +118,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/accessControl/authentication/jwt.service.ts" timestamp="1557929697103">
+        <mark key="[" line="5" column="13" />
+        <mark key="]" line="9" column="1" />
+        <mark key="." line="9" column="1" />
+        <mark key="^" line="9" column="1" />
+      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-generator/template/query/business/query/handler/{{  camelCase ms.queryName }}.handler.ts.template" timestamp="1557756715651">
         <mark key="[" line="13" column="48" />
         <mark key="]" line="7" column="86" />
@@ -270,11 +276,6 @@
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/lib/call.js" timestamp="1556030755463">
         <mark key="[" line="9" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/query/handler/getUserIdFromPwdToken.handler.ts" timestamp="1557754931297">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="26" column="1" />
-      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/components/Icon/index.ts" timestamp="1556627515965">
         <mark key="[" line="0" column="0" />
       </file>
@@ -289,11 +290,6 @@
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/accessControl/authentication/jwt.strategy.ts" timestamp="1557923723076">
         <mark key="[" line="31" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/logout.handler.ts" timestamp="1557841005910">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="37" column="1" />
-      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-generator/generator/command.generator.js" timestamp="1557922742497">
         <mark key="'" line="0" column="4" />
         <mark key="[" line="93" column="75" />
@@ -306,11 +302,6 @@
         <mark key="]" line="4" column="27" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="4" column="9" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/handler/loggedOut.handler.ts" timestamp="1557847869073">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="37" column="1" />
       </file>
       <file name="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Menu/lib.js" timestamp="1554487314048">
         <mark key="[" line="16" column="93" />
@@ -419,14 +410,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/handler/loggedOut.handler.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSnd0U3RyYXRlZ3kgfSBmcm9tICcuLi9hY2Nlc3NDb250cm9sL2F1dGhlbnRpY2F0aW9uL2p3dC5zdHJhdGVneSc7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>ExcludeNullInterceptor</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Strategy</text>
+        <text>ExcludeNullInterceptor</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
@@ -435,34 +426,34 @@
         <text encoding="base64">ICAgIHJlcGVhdGVkIHN0cmluZyByb2xlcyA9IDI7IC8vIFJvbGUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSnd0U3RyYXRlZ3kgfSBmcm9tICcuLi9hY2Nlc3NDb250cm9sL2F1dGhlbnRpY2F0aW9uL2p3dC5zdHJhdGVneSc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSnd0U2VydmljZSB9IGZyb20gJ0BuZXN0anMvand0JzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHJlYWRvbmx5IGp3dFNlcnZpY2UhOiBKd3RTZXJ2aWNlOwo=</text>
+        <text encoding="base64">RXhjZXAK</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMuand0U3RyYXRlZ3kgPSBuZXcgSnd0U2VydmljZSgpOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgSnd0U3RyYXRlZ3kgfSBmcm9tICcuLi9hY2Nlc3NDb250cm9sL2F1dGhlbnRpY2F0aW9uL2p3dC5zdHJhdGVneSc7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJlcGVhdGVkIHN0cmluZyByb2xlcyA9IDI7IC8vIFJvbGUK</text>
+        <text encoding="base64">aW1wb3J0IHsgSnd0U2VydmljZSB9IGZyb20gJ0BuZXN0anMvand0JzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHN0cmluZyBhdXRoVG9rZW4gPSAyOwo=</text>
+        <text encoding="base64">ICBwcml2YXRlIHJlYWRvbmx5IGp3dFNlcnZpY2UhOiBKd3RTZXJ2aWNlOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHN0cmluZyBhdXRoVG9rZW4gPSAyOwo=</text>
+        <text encoding="base64">ICAgIHRoaXMuand0U3RyYXRlZ3kgPSBuZXcgSnd0U2VydmljZSgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlcGVhdGVkIHN0cmluZyByb2xlcyA9IDI7IC8vIFJvbGUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0cmluZyBhdXRoVG9rZW4gPSAyOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
