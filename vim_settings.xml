@@ -9,6 +9,12 @@
         <mark key="^" line="3" column="25" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/accessControl/authentication/jwt.interceptor.ts" timestamp="1558020882765">
+        <mark key="[" line="9" column="28" />
+        <mark key="]" line="9" column="30" />
+        <mark key="." line="9" column="30" />
+        <mark key="^" line="9" column="30" />
+      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/environment/index.js" timestamp="1557996109091">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -25,6 +31,11 @@
         <mark key="]" line="14" column="23" />
         <mark key="." line="14" column="23" />
         <mark key="^" line="32" column="35" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/controller/auth.controller.ts" timestamp="1558020648404">
+        <mark key="[" line="102" column="49" />
+        <mark key="]" line="102" column="49" />
+        <mark key="." line="102" column="49" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-generator/template/event/domain/event/interface/{{ camelCase ms.eventName }}.event.ts.template" timestamp="1557848019937">
         <mark key="[" line="1" column="19" />
@@ -43,9 +54,10 @@
         <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/WWF/wag-app/patches/react-navigation+2.16.0.patch" timestamp="1558010489766" />
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/error/exception.filter.ts" timestamp="1558010208067">
-        <mark key="[" line="0" column="73" />
-        <mark key="]" line="0" column="73" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/patches/@react-navigation+native+3.4.1.patch" timestamp="1558018676372" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/error/exception.filter.ts" timestamp="1558020815442">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="39" />
         <mark key="^" line="0" column="72" />
         <mark key="." line="0" column="73" />
       </file>
@@ -242,50 +254,50 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/handler/loggedOut.handler.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMuX2lzU3RhdGVmdWwoKSAmJiAhcHJvcHMucGVyc2lzdGVuY2VLZXkKICAgICAgICAgICAgPyBDb21wb25lbnQucm91dGVyLmdldFN0YXRlRm9yQWN0aW9uKHRoaXMuX2luaXRpYWxBY3Rpb24pCg==</text>
+      <register name="&quot;" type="4">
+        <text>ctx</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>, Logger</text>
+        <text>ctx</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIExvZ2dlci5kZWJ1ZyhyZXNwb25zZSk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHJlc3BvbnNlID0gY3R4LmdldFJlc3BvbnNlKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMuX2lzU3RhdGVmdWwoKSAmJiAhcHJvcHMucGVyc2lzdGVuY2VLZXkKICAgICAgICAgICAgPyBDb21wb25lbnQucm91dGVyLmdldFN0YXRlRm9yQWN0aW9uKHRoaXMuX2luaXRpYWxBY3Rpb24pCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAnJzsK</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMuX2lzU3RhdGVmdWwoKSAmJiAhcHJvcHMucGVyc2lzdGVuY2VLZXkKICAgICAgICAgICAgPyBDb21wb25lbnQucm91dGVyLmdldFN0YXRlRm9yQWN0aW9uKHRoaXMuX2luaXRpYWxBY3Rpb24pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAnJzsK</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIExvZ2dlci5kZWJ1ZygnUkVTUE9OU0UnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmKGV4KQo=</text>
+        <text encoding="base64">ICAgIExvZ2dlci5kZWJ1ZygnUkVTUE9OU0UnKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHJlcXVlc3QgPSBjdHguZ2V0UmVxdWVzdCgpOwo=</text>
+        <text encoding="base64">ICAgIGlmKGV4KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdGltZXN0YW1wOiBuZXcgRGF0ZSgpLnRvSVNPU3RyaW5nKCksCiAgICAgIHBhdGg6IHJlcXVlc3QudXJsLAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHJlcXVlc3QgPSBjdHguZ2V0UmVxdWVzdCgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgdGltZXN0YW1wOiBuZXcgRGF0ZSgpLnRvSVNPU3RyaW5nKCksCiAgICAgIHBhdGg6IHJlcXVlc3QudXJsLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
