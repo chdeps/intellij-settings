@@ -42,10 +42,8 @@
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/error/exception.filter.ts" timestamp="1558006767733">
-        <mark key="[" line="19" column="34" />
-        <mark key="]" line="19" column="34" />
-        <mark key="." line="19" column="34" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/error/exception.filter.ts" timestamp="1558008494986">
+        <mark key="^" line="1" column="10" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-generator/template/command/business/command/interface/{{ camelCase ms.commandName }}.command.ts.template" timestamp="1557840980011">
         <mark key="[" line="2" column="0" />
@@ -83,6 +81,9 @@
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/error/auth.error.ts" timestamp="1558008443390">
+        <mark key="[" line="1" column="68" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/accessControl/authentication/jwt.service.ts" timestamp="1557931488823">
         <mark key="[" line="10" column="59" />
@@ -232,13 +233,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>unknow</text>
+        <text>CONSTRAINTS</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>unknow</text>
+        <text>CONSTRAINTS</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
@@ -247,34 +248,34 @@
         <text encoding="base64">ICAgIExvZ2dlci5kZWJ1ZyhyZXNwb25zZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmKGV4KQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiAnJzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHJlcXVlc3QgPSBjdHguZ2V0UmVxdWVzdCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdGltZXN0YW1wOiBuZXcgRGF0ZSgpLnRvSVNPU3RyaW5nKCksCiAgICAgIHBhdGg6IHJlcXVlc3QudXJsLAo=</text>
+        <text encoding="base64">ICAgIExvZ2dlci5kZWJ1ZygnUkVTUE9OU0UnKTsK</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGlmKGV4KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHJlcXVlc3QgPSBjdHguZ2V0UmVxdWVzdCgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLi4ucmVzcG9uc2UsCg==</text>
+        <text encoding="base64">ICAgICAgdGltZXN0YW1wOiBuZXcgRGF0ZSgpLnRvSVNPU3RyaW5nKCksCiAgICAgIHBhdGg6IHJlcXVlc3QudXJsLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIExvZ2dlci5kZWJ1ZyhyZXNwb25zZSk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CkluIHRoZSBleGFtcGxlIGFib3ZlIHRoZSBmaWx0ZXIgd2lsbCBjYXRjaCBlYWNoIGV4Y2VwdGlvbiB0aHJvd24sIHJlZ2FyZGxlc3Mgb2YgaXRzIHR5cGUgKGNsYXNzKS4KICBJbmhlCg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLi4ucmVzcG9uc2UsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
