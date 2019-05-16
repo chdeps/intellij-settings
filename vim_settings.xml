@@ -42,8 +42,12 @@
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/error/exception.filter.ts" timestamp="1558008494986">
-        <mark key="^" line="1" column="10" />
+      <file name="$USER_HOME$/Projects/WWF/wag-app/patches/react-navigation+2.16.0.patch" timestamp="1558010489766" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/error/exception.filter.ts" timestamp="1558010208067">
+        <mark key="[" line="0" column="73" />
+        <mark key="]" line="0" column="73" />
+        <mark key="^" line="0" column="72" />
+        <mark key="." line="0" column="73" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-generator/template/command/business/command/interface/{{ camelCase ms.commandName }}.command.ts.template" timestamp="1557840980011">
         <mark key="[" line="2" column="0" />
@@ -62,7 +66,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1557996666115">
+      <file name="/GraphQL.result.json" timestamp="1558010447393">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/auth.module.ts" timestamp="1557931328040">
@@ -233,13 +237,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>CONSTRAINTS</text>
+        <text>, Logger</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>CONSTRAINTS</text>
+        <text>, Logger</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
