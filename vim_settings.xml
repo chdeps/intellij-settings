@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/accessControl/authentication/jwt.interceptor.ts" timestamp="1558086397339">
-        <mark key="[" line="13" column="60" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="22" column="23" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/accessControl/authentication/jwt.interceptor.ts" timestamp="1558087303460">
+        <mark key="[" line="0" column="69" />
+        <mark key="]" line="0" column="69" />
+        <mark key="." line="0" column="69" />
+        <mark key="^" line="0" column="74" />
       </file>
       <file name="/fragment.js" timestamp="1558084428606">
         <mark key="[" line="0" column="0" />
@@ -195,14 +195,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/handler/loggedOut.handler.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQXBwUm9sZXMgfSBmcm9tICdAaW5zaGFsbGFoL21pY3Jvc2VydmljZS1hdXRoL2RvbWFpbi9kdG8vcm9sZXMnOwo=</text>
+      <register name="&quot;" type="4">
+        <text>Inject,</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>rolesToKeep</text>
+        <text>Inject,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
