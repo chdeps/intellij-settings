@@ -3,32 +3,25 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/accessControl/authentication/jwt.interceptor.ts" timestamp="1558089141103">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="0" column="65" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/model/account.model.ts" timestamp="1557916362663">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="39" column="3" />
       </file>
       <file name="/fragment.js" timestamp="1558084428606">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/navigation/index.tsx" timestamp="1558090326764" />
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/controller/auth.controller.ts" timestamp="1558095469632">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="105" column="62" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/navigation/index.tsx" timestamp="1558102553419" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/controller/auth.controller.ts" timestamp="1558104394335">
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="27" />
+        <mark key="." line="102" column="0" />
+        <mark key="^" line="22" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/dto/authCredentials.dto.ts" timestamp="1558023639539">
-        <mark key="[" line="67" column="55" />
-        <mark key="]" line="67" column="55" />
-        <mark key="." line="67" column="55" />
-        <mark key="^" line="67" column="54" />
-      </file>
-      <file name="$USER_HOME$/Projects/WWF/wag-app/patches/react-navigation+2.16.0.patch" timestamp="1558010489766" />
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/patches/@react-navigation+native+3.4.1.patch" timestamp="1558018676372" />
-      <file name="/JavaScript Console" timestamp="1558089552492">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/dto/authCredentials.dto.ts" timestamp="1558103743427">
+        <mark key="[" line="57" column="27" />
+        <mark key="]" line="57" column="27" />
+        <mark key="." line="57" column="27" />
+        <mark key="^" line="65" column="1" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/error/exception.filter.ts" timestamp="1558020815442">
         <mark key="[" line="7" column="0" />
@@ -36,35 +29,8 @@
         <mark key="^" line="0" column="72" />
         <mark key="." line="0" column="73" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/node_modules/@react-navigation/core/package.json" timestamp="1558023889288" />
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/node_modules/react-navigation/src/react-navigation.js" timestamp="1558011083983" />
-      <file name="/Dummy.txt" timestamp="1558088968962">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="/GraphQL.result.json" timestamp="1558010447393">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/infrastructure/api/auth.controller.ts" timestamp="1558095481641">
-        <mark key="[" line="81" column="91" />
-        <mark key="]" line="81" column="91" />
-        <mark key="^" line="81" column="90" />
-        <mark key="." line="81" column="91" />
-      </file>
-      <file name="$USER_HOME$/Projects/WWF/wag-app/yarn.lock" timestamp="1557996957427" />
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-grpc/http.ts" timestamp="1558023377838">
-        <mark key="[" line="11" column="3" />
-        <mark key="]" line="11" column="25" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/modules/signup/sagas.ts" timestamp="1558095647663" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/error/auth.error.ts" timestamp="1558008443390">
         <mark key="[" line="1" column="68" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/node_modules/@react-navigation/native/src/createAppContainer.js" timestamp="1558011128510">
-        <mark key="[" line="97" column="12" />
-        <mark key="]" line="97" column="0" />
-        <mark key="." line="97" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/accessControl/authentication/jwt.helper.ts" timestamp="1558083471095">
         <mark key="[" line="7" column="67" />
@@ -72,29 +38,60 @@
         <mark key="^" line="4" column="27" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/accessControl/authentication/jwt.strategy.ts" timestamp="1558083754754">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/index.ts" timestamp="1558006333570">
         <mark key="[" line="22" column="27" />
         <mark key="]" line="22" column="27" />
         <mark key="^" line="22" column="49" />
         <mark key="." line="22" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/infrastructure/services/emailSender.service.ts" timestamp="1558095740048" />
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/auth.service.ts" timestamp="1558095449368">
-        <mark key="[" line="103" column="83" />
-        <mark key="]" line="103" column="83" />
-        <mark key="." line="103" column="83" />
-        <mark key="^" line="107" column="10" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/auth.service.ts" timestamp="1558103845504">
+        <mark key="[" line="104" column="83" />
+        <mark key="]" line="104" column="83" />
+        <mark key="." line="104" column="83" />
       </file>
-      <file name="$USER_HOME$/Projects/WWF/wag-app/.eslintrc.js" timestamp="1557996925227">
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/accessControl/authentication/jwt.interceptor.ts" timestamp="1558103327280">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="13" column="21" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/WWF/wag-app/patches/react-navigation+2.16.0.patch" timestamp="1558010489766" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/patches/@react-navigation+native+3.4.1.patch" timestamp="1558018676372" />
+      <file name="/JavaScript Console" timestamp="1558104400929">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="9" column="2" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/pages/SignupEmail/SignupEmail.tsx" timestamp="1558095382153" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/node_modules/@react-navigation/core/package.json" timestamp="1558023889288" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/node_modules/react-navigation/src/react-navigation.js" timestamp="1558011083983" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/login.handler.ts" timestamp="1558103866169" />
+      <file name="/Dummy.txt" timestamp="1558104447271">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1558010447393">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/infrastructure/api/auth.controller.ts" timestamp="1558103788123">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/WWF/wag-app/yarn.lock" timestamp="1557996957427" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/node_modules/@react-navigation/native/src/createAppContainer.js" timestamp="1558011128510">
+        <mark key="[" line="97" column="12" />
+        <mark key="]" line="97" column="0" />
+        <mark key="." line="97" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/infrastructure/api/auth.proto" timestamp="1558103604327">
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="38" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/accessControl/authentication/jwt.strategy.ts" timestamp="1558083754754">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/infrastructure/services/emailSender.service.ts" timestamp="1558102387013" />
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/src/pages/MyProfile/ChangeAnnounce/ChangeAnnounce.component.test.tsx" />
@@ -200,51 +197,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHNob3VsZEtlZXBSb2xlcyA9IDsK</text>
+        <text encoding="base64">ICBAVXNlSW50ZXJjZXB0b3JzKEp3dEF1dGgpCg==</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>shouldKeepRoles</text>
+        <text>Refresh</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
       </register>
-      <register name="0" type="4">
-        <text>this.jwtService.sign({ id, roles: roles })</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBAVXNlSW50ZXJjZXB0b3JzKEp3dEF1dGgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHNob3VsZEtlZXBSb2xlcyA9IDsK</text>
+        <text encoding="base64">ICBSZWZyZXNoVG9rZW5SZXNwb25zZSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgYWRkUm9sZXMgfSBmcm9tICcuLi9hY2Nlc3NDb250cm9sL2F1dGhlbnRpY2F0aW9uL2p3dC5oZWxwZXInOwo=</text>
+        <text encoding="base64">ICBSZWZyZXNoVG9rZW5SZXNwb25zZSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLnBpcGUoYWRkUm9sZXMocmVxKSk7Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGNsYXNzIFJlZnJlc2hUb2tlblJlc3BvbnNlIHsKfQoK</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBASXNEZWZpbmVkKCkKICBASXNTdHJpbmcoKQogIHB1YmxpYyByZWFkb25seSBpZCE6IHN0cmluZzsKCiAgQElzRGVmaW5lZCgpCiAgQElzU3RyaW5nKCkKICBwdWJsaWMgcmVhZG9ubHkgcmVmcmVzaFRva2VuITogc3RyaW5nOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgcmVhZG9ubHkgdHlwZTogdHlwZU9mQXV0aCA9IHR5cGVPZkF1dGguc3RhbmRhcmQsCiAgICBAT3B0aW9uYWwoKQogICAgQEluamVjdChKd3RTZXJ2aWNlKQo=</text>
+        <text encoding="base64">ICBAQXBpQmVhcmVyQXV0aCgpCiAgQFVzZUd1YXJkcyhBdXRoR3VhcmQoKSkKICBAVXNlSW50ZXJjZXB0b3JzKEp3dEF1dGgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0IGVudW0gdHlwZU9mQXV0aCB7CiAgc3RhbmRhcmQgPSAnU1RBTkRBUkQnLAogIHJlZnJlc2ggPSAnUkVGUkVTSCcsCn0KCg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgYXV0aFRva2VuID0gdGhpcy5qd3RTZXJ2aWNlLnNpZ24oeyBpZCwgcm9sZXM6IHJvbGVzIH0pOwogICAgICAgIGlmIChjb250ZXh0LmdldEhhbmRsZXIoKS5uYW1lID09PSByZWZyZXNoVG9rZW5IYW5kbGVyKSB7CiAgICAgICAgICBjb25zdCBjdHggPSBjb250ZXh0LnN3aXRjaFRvSHR0cCgpLmdldFJlcXVlc3QoKTsKICAgICAgICAgIGNvbnN0IHJvbGVzVG9LZWVwID0gY3R4LnVzZXIgPyBjdHgudXNlci5yb2xlcyA6IFtdOwogICAgICAgICAgYXV0aFRva2VuID0gdGhpcy5qd3RTZXJ2aWNlLnNpZ24oeyBpZCwgcm9sZXM6IHJvbGVzVG9LZWVwIH0pOwogICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQXBwUm9sZXMgfSBmcm9tICdAaW5zaGFsbGFoL21pY3Jvc2VydmljZS1hdXRoL2RvbWFpbi9kdG8vcm9sZXMnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>else {
-          authToken = this.jwtService.sign({ id, roles: roles });
-        }</text>
+      <register name="8" type="2">
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IHJlZnJlc2hUb2tlbkhhbmRsZXIgPSAncmVmcmVzaCc7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnN0IGF1dGhUb2tlbiA9IAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHNob3VsZEtlZXBSb2xlcyA9IDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
