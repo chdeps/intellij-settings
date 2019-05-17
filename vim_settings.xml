@@ -3,20 +3,20 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/accessControl/authentication/jwt.interceptor.ts" timestamp="1558087303460">
-        <mark key="[" line="0" column="69" />
-        <mark key="]" line="0" column="69" />
-        <mark key="." line="0" column="69" />
-        <mark key="^" line="0" column="74" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/accessControl/authentication/jwt.interceptor.ts" timestamp="1558089141103">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="0" column="65" />
       </file>
       <file name="/fragment.js" timestamp="1558084428606">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/controller/auth.controller.ts" timestamp="1558086140972">
-        <mark key="[" line="104" column="26" />
-        <mark key="]" line="104" column="25" />
-        <mark key="." line="104" column="25" />
-        <mark key="^" line="104" column="25" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/controller/auth.controller.ts" timestamp="1558088893483">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="105" column="62" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/dto/authCredentials.dto.ts" timestamp="1558023639539">
         <mark key="[" line="67" column="55" />
@@ -26,7 +26,7 @@
       </file>
       <file name="$USER_HOME$/Projects/WWF/wag-app/patches/react-navigation+2.16.0.patch" timestamp="1558010489766" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/patches/@react-navigation+native+3.4.1.patch" timestamp="1558018676372" />
-      <file name="/JavaScript Console" timestamp="1558085850457">
+      <file name="/JavaScript Console" timestamp="1558089552492">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/error/exception.filter.ts" timestamp="1558020815442">
@@ -37,7 +37,7 @@
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/node_modules/@react-navigation/core/package.json" timestamp="1558023889288" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/node_modules/react-navigation/src/react-navigation.js" timestamp="1558011083983" />
-      <file name="/Dummy.txt" timestamp="1558084212871">
+      <file name="/Dummy.txt" timestamp="1558088968962">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -195,14 +195,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/handler/loggedOut.handler.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Inject,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHNob3VsZEtlZXBSb2xlcyA9IDsK</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Inject,</text>
+        <text>shouldKeepRoles</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
@@ -211,36 +211,36 @@
         <text>this.jwtService.sign({ id, roles: roles })</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQXBwUm9sZXMgfSBmcm9tICdAaW5zaGFsbGFoL21pY3Jvc2VydmljZS1hdXRoL2RvbWFpbi9kdG8vcm9sZXMnOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHNob3VsZEtlZXBSb2xlcyA9IDsK</text>
       </register>
-      <register name="2" type="4">
-        <text>else {
-          authToken = this.jwtService.sign({ id, roles: roles });
-        }</text>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IHsgYWRkUm9sZXMgfSBmcm9tICcuLi9hY2Nlc3NDb250cm9sL2F1dGhlbnRpY2F0aW9uL2p3dC5oZWxwZXInOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnN0IGF1dGhUb2tlbiA9IAo=</text>
+        <text encoding="base64">ICAgICAgLnBpcGUoYWRkUm9sZXMocmVxKSk7Cg==</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGN0eCA9IGNvbnRleHQuc3dpdGNoVG9IdHRwKCkuZ2V0UmVxdWVzdCgpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgcmVhZG9ubHkgdHlwZTogdHlwZU9mQXV0aCA9IHR5cGVPZkF1dGguc3RhbmRhcmQsCiAgICBAT3B0aW9uYWwoKQogICAgQEluamVjdChKd3RTZXJ2aWNlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBzaWduZWRUb2xlcwo=</text>
+        <text encoding="base64">ZXhwb3J0IGVudW0gdHlwZU9mQXV0aCB7CiAgc3RhbmRhcmQgPSAnU1RBTkRBUkQnLAogIHJlZnJlc2ggPSAnUkVGUkVTSCcsCn0KCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgb3ZlcnJpZGVSb2xlcyA9IGN0eC51c2VyID8gY3R4LnVzZXIucm9sZXMgOiBbXTsKICAgIH0K</text>
+        <text encoding="base64">aW1wb3J0IHsgQXBwUm9sZXMgfSBmcm9tICdAaW5zaGFsbGFoL21pY3Jvc2VydmljZS1hdXRoL2RvbWFpbi9kdG8vcm9sZXMnOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLnR5cGUgPT09IHR5cGVPZkF1dGgucmVmcmVzaCkgewo=</text>
+      <register name="8" type="4">
+        <text>else {
+          authToken = this.jwtService.sign({ id, roles: roles });
+        }</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxldCBvdmVycmlkZVJvbGVzIDogQXBwUm9sZXNbXTsK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnN0IGF1dGhUb2tlbiA9IAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
