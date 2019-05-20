@@ -15,9 +15,6 @@
         <mark key="." line="18" column="37" />
         <mark key="^" line="18" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/model/account.model.ts" timestamp="1558340147263">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/interface/loggedIn.event.ts" timestamp="1558355780793">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -35,6 +32,12 @@
         <mark key="]" line="102" column="27" />
         <mark key="." line="102" column="0" />
         <mark key="^" line="22" column="43" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/__tests__/registerFacebookAccount.handler.test.ts" timestamp="1558361888457">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="18" column="26" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/service-eventstore/eventstore.service.ts" timestamp="1558354517221">
         <mark key="[" line="7" column="0" />
@@ -71,7 +74,7 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="37" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558360077945">
+      <file name="/Dummy.txt" timestamp="1558360858299">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -87,7 +90,7 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/registerFacebookAccount.handler.ts" timestamp="1558360044895">
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/registerFacebookAccount.handler.ts" timestamp="1558361598673">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="43" />
         <mark key="." line="29" column="0" />
@@ -239,7 +242,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygnQ3JlYXRpbmcgbG9naW4gZXZlbnQnKTsK</text>
+        <text encoding="base64">ICAgIHM7Cg==</text>
       </register>
       <register name="d" type="4">
         <text />
@@ -254,36 +257,36 @@
         <text encoding="base64">ZXhwb3J0IGVudW0gU3RyZWFtU3ViVHlwZSB7CiAgQXV0aCA9ICdBdXRoJywKICBTdGF0aXN0aWNzID0gJ1N0YXRpc3RpY3MnLAp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygnQ3JlYXRpbmcgbG9naW4gZXZlbnQnKTsK</text>
+        <text encoding="base64">ICAgIHM7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgbG9nZ2VyLmRlYnVnKCdDcmVhdGluZyBsb2dpbiBldmVudCcpOwo=</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygnQ3JlYXRpbmcgbG9naW4gZXZlbnQnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygnQ3JlYXRpbmcgbG9naW4gZXZlbnQnKTsK</text>
+        <text encoding="base64">ICAgICAgbG9nZ2VyLmRlYnVnKCdDcmVhdGluZyBsb2dpbiBldmVudCcpOwo=</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygnY3JlYXRpbmcgbG9naW4gZXZlbnQnKTsK</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygnQ3JlYXRpbmcgbG9naW4gZXZlbnQnKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgbG9nZ2VyLmRlYnVnKCdjcmVhdGluZyBsb2dpbiBldmVudCcpOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygnY3JlYXRpbmcgbG9naW4gZXZlbnQnKTsK</text>
       </register>
-      <register name="7" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgbG9nZ2VyLmRlYnVnKCdjcmVhdGluZyBsb2dpbiBldmVudCcpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygnY3JlYXRpbmcgbG9naW4gZXZlbnQnKTsK</text>
+      </register>
+      <register name="8" type="4">
         <text>{
   new (...args: any[]): any;
 }</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">dHlwZSBDbGFzcyA9Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dHlwZSBDbGFzcyA9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
