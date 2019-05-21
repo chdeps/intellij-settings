@@ -9,26 +9,21 @@
         <mark key="^" line="13" column="21" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/handler/loggedIn.handler.ts" timestamp="1558343052111">
-        <mark key="[" line="18" column="42" />
-        <mark key="]" line="18" column="37" />
-        <mark key="." line="18" column="37" />
-        <mark key="^" line="18" column="37" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/model/account.model.ts" timestamp="1558444832277">
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/model/account.model.ts" timestamp="1558448063018">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="35" column="14" />
-        <mark key="]" line="35" column="14" />
-        <mark key="." line="35" column="14" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/interface/loggedIn.event.ts" timestamp="1558355780793">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="3" column="48" />
-        <mark key="." line="1" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="5" column="48" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/service-eventstore/entity/event.entity.ts" timestamp="1558333204877">
-        <mark key="[" line="21" column="17" />
+        <mark key="[" line="18" column="17" />
         <mark key="]" line="18" column="18" />
         <mark key="^" line="18" column="18" />
         <mark key="." line="18" column="18" />
@@ -75,13 +70,12 @@
         <mark key="^" line="3" column="11" />
         <mark key="." line="3" column="2" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/login.handler.ts" timestamp="1558444817038">
-        <mark key="[" line="1" column="9" />
-        <mark key="]" line="1" column="9" />
-        <mark key="." line="1" column="9" />
-        <mark key="^" line="5" column="35" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/login.handler.ts" timestamp="1558447949210">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558447191703">
+      <file name="/Dummy.txt" timestamp="1558448072747">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -91,6 +85,11 @@
         <mark key="]" line="30" column="33" />
         <mark key="^" line="14" column="13" />
         <mark key="." line="30" column="23" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/handler/accountRegistred.handler.ts" timestamp="1558448020077">
+        <mark key="[" line="6" column="28" />
+        <mark key="]" line="6" column="28" />
+        <mark key="." line="6" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/__tests__/login.handler.test.ts" timestamp="1558444788972">
         <mark key="[" line="72" column="30" />
@@ -120,6 +119,10 @@
         <mark key="]" line="242" column="0" />
         <mark key="." line="242" column="0" />
         <mark key="^" line="241" column="76" />
+      </file>
+      <file name="/login.handler.ts" timestamp="1558447929342">
+        <mark key="[" line="30" column="49" />
+        <mark key="]" line="30" column="61" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/accessControl/authentication/jwt.helper.ts" timestamp="1558083471095">
         <mark key="[" line="7" column="67" />
@@ -249,72 +252,50 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/InshAllah/InshAllah/node_modules/@react-navigation/native/src/createAppContainer.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, StreamSubType</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHsgRXZlbnQsIFN0cmVhbVN1YlR5cGUgfSBmcm9tICdAaW5zaGFsbGFoL3NlcnZpY2UtZXZlbnRzdG9yZS9tb2RlbC9ldmVudC5tb2RlbCc7CmltcG9ydCB7IEF1dGhIYXNoZWRDcmVkZW50aWFsc0R0byB9IGZyb20gJ0BpbnNoYWxsYWgvbWljcm9zZXJ2aWNlLWF1dGgvZG9tYWluL2R0byc7Cg==</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>, StreamSubType</text>
+        <text>RegisterEmailValidationDto</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
       </register>
       <register name="0" type="4">
-        <text>new Event(
-      {
-        referenceId: this.uuid,
-        type: StreamType.User,
-        subType: StreamSubType.Auth,
-      },
-      {
-        data: { refreshToken },
-        metadata: {},
-        type: 'LoggedIn',
-      },
-    );</text>
+        <text>generateToken</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBFdmVudFN0b3JlREJTZXJ2aWNlLAo=</text>
+        <text encoding="base64">aW1wb3J0IHsgRXZlbnQsIFN0cmVhbVN1YlR5cGUgfSBmcm9tICdAaW5zaGFsbGFoL3NlcnZpY2UtZXZlbnRzdG9yZS9tb2RlbC9ldmVudC5tb2RlbCc7CmltcG9ydCB7IEF1dGhIYXNoZWRDcmVkZW50aWFsc0R0byB9IGZyb20gJ0BpbnNoYWxsYWgvbWljcm9zZXJ2aWNlLWF1dGgvZG9tYWluL2R0byc7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRW50aXR5TWFuYWdlciB9IGZyb20gJ3R5cGVvcm0nOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgQXV0aEhhc2hlZENyZWRlbnRpYWxzRHRvIH0gZnJvbSAnQGluc2hhbGxhaC9taWNyb3NlcnZpY2UtYXV0aC9kb21haW4vZHRvJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CmNsYXNzIE1vY2tFbnRpdHlNYW5hZ2VyIHsKICBwdWJsaWMgZ2V0UmVwb3NpdG9yeSA9ICgpID0+ICgpOwp9Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgU3RyZWFtU3ViVHlwZSB9IGZyb20gJ0BpbnNoYWxsYWgvc2VydmljZS1ldmVudHN0b3JlL2V2ZW50c3RvcmUuc2VydmljZSc7Cg==</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ewogICAgZmluZE9yRmFpbDogKGlkOiBzdHJpbmcpID0+ICh7CiAgICAgIGlkLAogICAgfSksCiAgfQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IHsgRXZlbnQgfSBmcm9tICdAaW5zaGFsbGFoL3NlcnZpY2UtZXZlbnRzdG9yZS9tb2RlbC9ldmVudC5tb2RlbCc7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICBwcm92aWRlCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIExvZ2dlci5lcnJvcignUkVGUkVTSCcsIHJlZnJlc2hUb2tlbik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgVHlwZU9ybU1vZHVsZQoK</text>
+        <text encoding="base64">ICBMb2dnZWRJbkV2ZW50LAogIFNlbmRSZXNldFBhc3N3b3JkRW1haWxFdmVudCwKICBSZXNldFBhc3N3b3JkRXZlbnQsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGFjY291bnRSZXBvID0gdGhpcy5lbnRpdHlNYW5hZ2VyLmdldFJlcG9zaXRvcnkoQWNjb3VudEVudGl0eSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgQXV0aEhhc2hlZENyZWRlbnRpYWxzRHRvIH0gZnJvbSAnQGluc2hhbGxhaC9taWNyb3NlcnZpY2UtYXV0aC9kb21haW4vZHRvJzsK</text>
       </register>
-      <register name="8" type="4">
-        <text>.forRoot({
-          type: 'postgres',
-          name: 'accountConnection',
-          host: process.env.TYPEORM_HOST || 'inshallah-db',
-          username: process.env.TYPEORM_USER || 'inshallah',
-          password: process.env.TYPEORM_PASSWORD || 'password',
-          database: 'auth',
-          entities: [AccountEntity, FacebookAccountEntity, RefreshTokenEntity, ResetPasswordEntity],
-          synchronize: true,
-          logging: true,
-          logger: new TypeormLogger(),
-        }),</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBFdmVudFN0b3JlREJTZXJ2aWNlLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgRW50aXR5TWFuYWdlciB9IGZyb20gJ3R5cGVvcm0nOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
