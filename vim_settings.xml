@@ -45,11 +45,6 @@
         <mark key="^" line="21" column="28" />
         <mark key="." line="21" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/service-eventstore/eventstore.service.ts" timestamp="1558354517221">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/dto/authCredentials.dto.ts" timestamp="1558103743427">
         <mark key="[" line="57" column="27" />
         <mark key="]" line="57" column="27" />
@@ -75,11 +70,11 @@
         <mark key="^" line="3" column="11" />
         <mark key="." line="3" column="2" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/login.handler.ts" timestamp="1558432711377">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="41" />
-        <mark key="." line="35" column="0" />
-        <mark key="^" line="37" column="49" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/login.handler.ts" timestamp="1558443316090">
+        <mark key="[" line="1" column="9" />
+        <mark key="]" line="1" column="9" />
+        <mark key="." line="1" column="9" />
+        <mark key="^" line="5" column="35" />
       </file>
       <file name="/Dummy.txt" timestamp="1558362627335">
         <mark key="[" line="0" column="0" />
@@ -92,10 +87,15 @@
         <mark key="^" line="14" column="13" />
         <mark key="." line="30" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/infrastructure/api/auth.controller.ts" timestamp="1558103788123">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/__tests__/login.handler.test.ts" timestamp="1558443522056">
+        <mark key="[" line="18" column="1" />
+        <mark key="]" line="27" column="1" />
+        <mark key="." line="27" column="1" />
+        <mark key="^" line="27" column="1" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/auth.module.ts" timestamp="1558442367376">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="31" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/registerFacebookAccount.handler.ts" timestamp="1558361598673">
         <mark key="[" line="29" column="0" />
@@ -127,16 +127,6 @@
         <mark key="]" line="22" column="27" />
         <mark key="^" line="22" column="49" />
         <mark key="." line="22" column="27" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/accessControl/authentication/jwt.strategy.ts" timestamp="1558083754754">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/auth.service.ts" timestamp="1558103845504">
-        <mark key="[" line="104" column="83" />
-        <mark key="]" line="104" column="83" />
-        <mark key="." line="104" column="83" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/handler/index.ts" timestamp="1558340222049">
         <mark key="[" line="15" column="0" />
@@ -250,49 +240,60 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBFdmVudFN0b3JlREJTZXJ2aWNlLAo=</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Test'</text>
+        <text>TypeOrmModule,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgaW1wb3J0czogW0NxcnNNb2R1bGUsIEp3dE1vZHVsZS5yZWdpc3Rlcih7IHNlY3JldE9yUHJpdmF0ZUtleTogJ2tleScgfSldLAogICAgICBwcm92aWRlcnM6IFsKICAgICAgICBSZWdpc3RlckZhY2Vib29rQWNjb3VudEhhbmRsZXIsCiAgICAgICAgeyBwcm92aWRlOiBBY2NvdW50QXV0aFNlcnZpY2UsIHVzZUNsYXNzOiBNb2NrQWNjb3VudEF1dGhTZXJ2aWNlIH0sCiAgICAgICAgeyBwcm92aWRlOiBFdmVudFN0b3JlREJTZXJ2aWNlLCB1c2VDbGFzczogTW9ja0V2ZW50U3RvcmVEQlNlcnZpY2UgfSwKICAgICAgXSwK</text>
+        <text encoding="base64">ICAgIFR5cGVPcm1Nb2R1bGUuZm9yUm9vdCh7CiAgICAgIHR5cGU6ICdwb3N0Z3JlcycsCiAgICAgIG5hbWU6ICdhY2NvdW50Q29ubmVjdGlvbicsCiAgICAgIGhvc3Q6IHByb2Nlc3MuZW52LlRZUEVPUk1fSE9TVCB8fCAnaW5zaGFsbGFoLWRiJywKICAgICAgdXNlcm5hbWU6IHByb2Nlc3MuZW52LlRZUEVPUk1fVVNFUiB8fCAnaW5zaGFsbGFoJywKICAgICAgcGFzc3dvcmQ6IHByb2Nlc3MuZW52LlRZUEVPUk1fUEFTU1dPUkQgfHwgJ3Bhc3N3b3JkJywKICAgICAgZGF0YWJhc2U6ICdhdXRoJywKICAgICAgZW50aXRpZXM6IFtBY2NvdW50RW50aXR5LCBGYWNlYm9va0FjY291bnRFbnRpdHksIFJlZnJlc2hUb2tlbkVudGl0eSwgUmVzZXRQYXNzd29yZEVudGl0eV0sCiAgICAgIHN5bmNocm9uaXplOiB0cnVlLAogICAgICBsb2dnaW5nOiB0cnVlLAogICAgICBsb2dnZXI6IG5ldyBUeXBlb3JtTG9nZ2VyKCksCiAgICB9KSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBFdmVudFN0b3JlREJTZXJ2aWNlLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgRW50aXR5TWFuYWdlciB9IGZyb20gJ3R5cGVvcm0nOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmNsYXNzIE1vY2tFbnRpdHlNYW5hZ2VyIHsKICBwdWJsaWMgZ2V0UmVwb3NpdG9yeSA9ICgpID0+ICgpOwp9Cg==</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ewogICAgZmluZE9yRmFpbDogKGlkOiBzdHJpbmcpID0+ICh7CiAgICAgIGlkLAogICAgfSksCiAgfQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2xhc3MgTW9ja0V2ZW50IGV4dGVuZHMgQWdncmVnZ2F0ZXsKICBwdWJsaWMgCn0K</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICBwcm92aWRlCiAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHM7Cg==</text>
+        <text encoding="base64">CiAgICAgICAgVHlwZU9ybU1vZHVsZQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygnQ3JlYXRpbmcgbG9naW4gZXZlbnQnKTsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IGFjY291bnRSZXBvID0gdGhpcy5lbnRpdHlNYW5hZ2VyLmdldFJlcG9zaXRvcnkoQWNjb3VudEVudGl0eSk7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbG9nZ2VyLmRlYnVnKCdDcmVhdGluZyBsb2dpbiBldmVudCcpOwo=</text>
+      <register name="8" type="4">
+        <text>.forRoot({
+          type: 'postgres',
+          name: 'accountConnection',
+          host: process.env.TYPEORM_HOST || 'inshallah-db',
+          username: process.env.TYPEORM_USER || 'inshallah',
+          password: process.env.TYPEORM_PASSWORD || 'password',
+          database: 'auth',
+          entities: [AccountEntity, FacebookAccountEntity, RefreshTokenEntity, ResetPasswordEntity],
+          synchronize: true,
+          logging: true,
+          logger: new TypeormLogger(),
+        }),</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygnQ3JlYXRpbmcgbG9naW4gZXZlbnQnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
