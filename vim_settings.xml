@@ -15,11 +15,11 @@
         <mark key="." line="18" column="37" />
         <mark key="^" line="18" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/model/account.model.ts" timestamp="1558362569359">
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/model/account.model.ts" timestamp="1558444832277">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="29" column="14" />
-        <mark key="]" line="29" column="14" />
-        <mark key="." line="29" column="14" />
+        <mark key="[" line="35" column="14" />
+        <mark key="]" line="35" column="14" />
+        <mark key="." line="35" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/interface/loggedIn.event.ts" timestamp="1558355780793">
         <mark key="[" line="1" column="0" />
@@ -70,28 +70,28 @@
         <mark key="^" line="3" column="11" />
         <mark key="." line="3" column="2" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/login.handler.ts" timestamp="1558443316090">
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/login.handler.ts" timestamp="1558444817038">
         <mark key="[" line="1" column="9" />
         <mark key="]" line="1" column="9" />
         <mark key="." line="1" column="9" />
         <mark key="^" line="5" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558362627335">
+      <file name="/Dummy.txt" timestamp="1558444859606">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/service-eventstore/model/event.model.ts" timestamp="1558362547438">
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/service-eventstore/model/event.model.ts" timestamp="1558444826808">
         <mark key="[" line="30" column="23" />
         <mark key="]" line="30" column="33" />
         <mark key="^" line="14" column="13" />
         <mark key="." line="30" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/__tests__/login.handler.test.ts" timestamp="1558443522056">
-        <mark key="[" line="18" column="1" />
-        <mark key="]" line="27" column="1" />
-        <mark key="." line="27" column="1" />
-        <mark key="^" line="27" column="1" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/__tests__/login.handler.test.ts" timestamp="1558444788972">
+        <mark key="[" line="72" column="30" />
+        <mark key="]" line="72" column="31" />
+        <mark key="^" line="72" column="31" />
+        <mark key="." line="72" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/auth.module.ts" timestamp="1558442367376">
         <mark key="[" line="20" column="0" />
@@ -239,20 +239,31 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/InshAllah/InshAllah/node_modules/@react-navigation/native/src/createAppContainer.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBFdmVudFN0b3JlREJTZXJ2aWNlLAo=</text>
+      <register name="&quot;" type="4">
+        <text>'LoggedIn'</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>TypeOrmModule,</text>
+        <text>'LoggedIn'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIFR5cGVPcm1Nb2R1bGUuZm9yUm9vdCh7CiAgICAgIHR5cGU6ICdwb3N0Z3JlcycsCiAgICAgIG5hbWU6ICdhY2NvdW50Q29ubmVjdGlvbicsCiAgICAgIGhvc3Q6IHByb2Nlc3MuZW52LlRZUEVPUk1fSE9TVCB8fCAnaW5zaGFsbGFoLWRiJywKICAgICAgdXNlcm5hbWU6IHByb2Nlc3MuZW52LlRZUEVPUk1fVVNFUiB8fCAnaW5zaGFsbGFoJywKICAgICAgcGFzc3dvcmQ6IHByb2Nlc3MuZW52LlRZUEVPUk1fUEFTU1dPUkQgfHwgJ3Bhc3N3b3JkJywKICAgICAgZGF0YWJhc2U6ICdhdXRoJywKICAgICAgZW50aXRpZXM6IFtBY2NvdW50RW50aXR5LCBGYWNlYm9va0FjY291bnRFbnRpdHksIFJlZnJlc2hUb2tlbkVudGl0eSwgUmVzZXRQYXNzd29yZEVudGl0eV0sCiAgICAgIHN5bmNocm9uaXplOiB0cnVlLAogICAgICBsb2dnaW5nOiB0cnVlLAogICAgICBsb2dnZXI6IG5ldyBUeXBlb3JtTG9nZ2VyKCksCiAgICB9KSwK</text>
+      <register name="0" type="4">
+        <text>new Event(
+      {
+        referenceId: this.uuid,
+        type: StreamType.User,
+        subType: StreamSubType.Auth,
+      },
+      {
+        data: { refreshToken },
+        metadata: {},
+        type: 'LoggedIn',
+      },
+    );</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBFdmVudFN0b3JlREJTZXJ2aWNlLAo=</text>
