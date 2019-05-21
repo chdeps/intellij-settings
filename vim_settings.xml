@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/handler/loggedIn.handler.ts" timestamp="1558451424555">
+        <mark key="[" line="19" column="4" />
+        <mark key="]" line="19" column="21" />
+        <mark key="^" line="19" column="21" />
+        <mark key="." line="19" column="21" />
+      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/model/account.model.ts" timestamp="1558448063018">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="11" column="0" />
@@ -14,6 +20,15 @@
         <mark key="[" line="6" column="28" />
         <mark key="]" line="6" column="28" />
         <mark key="." line="6" column="28" />
+      </file>
+      <file name="/fragment.js" timestamp="1558084428606">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/pages/Authentication/Authentication.tsx" timestamp="1558450589913">
+        <mark key="[" line="39" column="56" />
+        <mark key="]" line="39" column="55" />
+        <mark key="^" line="39" column="27" />
+        <mark key="." line="39" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/service-eventstore/entity/event.entity.ts" timestamp="1558333204877">
         <mark key="[" line="18" column="17" />
@@ -32,6 +47,9 @@
         <mark key="^" line="21" column="28" />
         <mark key="." line="21" column="28" />
       </file>
+      <file name="/JavaScript Console" timestamp="1558451414003">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-algo/business/command/handler/__tests__/updateAttractiveness.handler.test.ts" timestamp="1558367266374" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/resetPasswordCommand.handler.ts" timestamp="1558360038315">
         <mark key="[" line="31" column="19" />
@@ -45,7 +63,7 @@
         <mark key="^" line="3" column="11" />
         <mark key="." line="3" column="2" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/login.handler.ts" timestamp="1558447949210">
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/login.handler.ts" timestamp="1558451368206">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
@@ -60,6 +78,9 @@
         <mark key="]" line="30" column="33" />
         <mark key="^" line="14" column="13" />
         <mark key="." line="30" column="23" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1558010447393">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/handler/accountRegistred.handler.ts" timestamp="1558448020077">
         <mark key="[" line="6" column="28" />
@@ -90,6 +111,9 @@
         <mark key="]" line="4" column="9" />
         <mark key="^" line="4" column="9" />
         <mark key="." line="4" column="9" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/error/auth.error.ts" timestamp="1558008443390">
+        <mark key="[" line="1" column="68" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/node_modules/@react-navigation/native/src/createAppContainer.js" timestamp="1558345761580">
         <mark key="[" line="239" column="29" />
@@ -218,7 +242,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>getRefreshToken</text>
+        <text>data.accessToken.toString()</text>
       </register>
       <register name="d" type="4">
         <text />
@@ -230,7 +254,7 @@
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
       </register>
       <register name="0" type="4">
-        <text>generateToken</text>
+        <text>data.accessToken.toString()</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IHsgRXZlbnQsIFN0cmVhbVN1YlR5cGUgfSBmcm9tICdAaW5zaGFsbGFoL3NlcnZpY2UtZXZlbnRzdG9yZS9tb2RlbC9ldmVudC5tb2RlbCc7CmltcG9ydCB7IEF1dGhIYXNoZWRDcmVkZW50aWFsc0R0byB9IGZyb20gJ0BpbnNoYWxsYWgvbWljcm9zZXJ2aWNlLWF1dGgvZG9tYWluL2R0byc7Cg==</text>
