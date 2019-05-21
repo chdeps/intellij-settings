@@ -50,7 +50,7 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558448839665">
+      <file name="/Dummy.txt" timestamp="1558449646046">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -72,9 +72,11 @@
         <mark key="^" line="72" column="31" />
         <mark key="." line="17" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/auth.module.ts" timestamp="1558442367376">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="31" column="7" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/auth.module.ts" timestamp="1558449622931">
+        <mark key="[" line="41" column="30" />
+        <mark key="]" line="41" column="50" />
+        <mark key="^" line="41" column="50" />
+        <mark key="." line="41" column="50" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/registerFacebookAccount.handler.ts" timestamp="1558361598673">
         <mark key="[" line="29" column="0" />
