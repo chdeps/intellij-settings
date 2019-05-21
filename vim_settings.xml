@@ -24,11 +24,11 @@
       <file name="/fragment.js" timestamp="1558084428606">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/pages/Authentication/Authentication.tsx" timestamp="1558450589913">
-        <mark key="[" line="39" column="56" />
-        <mark key="]" line="39" column="55" />
-        <mark key="^" line="39" column="27" />
-        <mark key="." line="39" column="28" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/pages/Authentication/Authentication.tsx" timestamp="1558452341804">
+        <mark key="[" line="39" column="27" />
+        <mark key="]" line="36" column="27" />
+        <mark key="^" line="36" column="27" />
+        <mark key="." line="36" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/service-eventstore/entity/event.entity.ts" timestamp="1558333204877">
         <mark key="[" line="18" column="17" />
