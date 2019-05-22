@@ -47,10 +47,9 @@
         <mark key="^" line="21" column="28" />
         <mark key="." line="21" column="28" />
       </file>
-      <file name="/JavaScript Console" timestamp="1558512109583">
+      <file name="/JavaScript Console" timestamp="1558530075476">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-algo/business/command/handler/__tests__/updateAttractiveness.handler.test.ts" timestamp="1558367266374" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/resetPasswordCommand.handler.ts" timestamp="1558360038315">
         <mark key="[" line="31" column="19" />
         <mark key="]" line="31" column="24" />
@@ -67,6 +66,12 @@
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/.gitattributes" timestamp="1558529636798">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="3" column="77" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1558512099992">
         <mark key="[" line="0" column="0" />
@@ -98,7 +103,7 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/auth.module.ts" timestamp="1558449622931">
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/auth.module.ts" timestamp="1558529878107">
         <mark key="[" line="41" column="30" />
         <mark key="]" line="41" column="50" />
         <mark key="^" line="41" column="50" />
@@ -110,7 +115,12 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="31" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/service-eventstore/entity/stream.entity.ts" timestamp="1558326222915" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/.env" timestamp="1558530498931">
+        <mark key="[" line="7" column="18" />
+        <mark key="]" line="7" column="18" />
+        <mark key="." line="7" column="18" />
+        <mark key="^" line="6" column="25" />
+      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/.travis.yml" timestamp="1558346470678">
         <mark key="[" line="4" column="9" />
         <mark key="]" line="4" column="9" />
@@ -140,8 +150,6 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/android/app/build.gradle" timestamp="1558365211258" />
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/fastlane/.env.staging.secret" timestamp="1558422985529" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/domain/event/handler/profileCreated.handler.ts" timestamp="1558447176129">
         <mark key="[" line="4" column="28" />
         <mark key="]" line="4" column="28" />
@@ -251,14 +259,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/InshAllah/InshAllah/node_modules/@react-navigation/native/src/createAppContainer.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>password</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>getRefreshToken</text>
+        <text>password</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>

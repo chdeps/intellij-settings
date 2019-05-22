@@ -6,6 +6,7 @@
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="Gemfile" type="PLAIN_TEXT" />
       <mapping pattern="react-native-maps-performance.s.md" type="PLAIN_TEXT" />
+      <mapping pattern=".staging.pem" type="PLAIN_TEXT" />
       <mapping pattern="androidbuildversion" type="PLAIN_TEXT" />
       <mapping pattern="compatibilityReportContainerFactory.ts" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
