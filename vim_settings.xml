@@ -46,11 +46,11 @@
         <mark key="^" line="14" column="13" />
         <mark key="." line="30" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/__tests__/login.handler.test.ts" timestamp="1558604282265">
-        <mark key="[" line="32" column="26" />
-        <mark key="]" line="32" column="26" />
-        <mark key="^" line="32" column="20" />
-        <mark key="." line="32" column="26" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/__tests__/login.handler.test.ts" timestamp="1558605904176">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="23" column="1" />
+        <mark key="." line="21" column="21" />
+        <mark key="^" line="21" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/auth.module.ts" timestamp="1558602862871">
         <mark key="[" line="50" column="24" />
@@ -102,11 +102,11 @@
         <mark key="." line="14" column="25" />
         <mark key="^" line="14" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/__tests__/registerFacebookAccount.handler.test.ts" timestamp="1558423230601">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="43" column="8" />
-        <mark key="^" line="21" column="28" />
-        <mark key="." line="21" column="28" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/__tests__/registerFacebookAccount.handler.test.ts" timestamp="1558605977308">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="51" column="4" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1558530075476">
         <mark key="[" line="0" column="0" />
@@ -129,7 +129,7 @@
         <mark key="^" line="3" column="77" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558604124514">
+      <file name="/Dummy.txt" timestamp="1558606015788">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -269,50 +269,50 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/InshAllah/InshAllah/node_modules/@react-navigation/native/src/createAppContainer.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>MockModel</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>MockModel</text>
+        <text>Mock</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgcmVhZG9ubHkgZXZlbnRTdG9yZVNlcnZpY2U6IEV2ZW50U3RvcmVEQlNlcnZpY2UsCg==</text>
+        <text encoding="base64">Y2xhc3MgTW9ja0V2ZW50UXVldWUgewogIHB1YmxpYyBkaXNwYXRjaCA9IGplc3QuZm4oKTsKfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICBwcm92aWRlOiBFdmVudFN0b3JlU2VydmljZSwKICAgICAgICAgIHVzZUNsYXNzOiBNb2NrRXZlbnRTdG9yZURCU2VydmljZSwKICAgICAgICB9LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRXZlbnRTdG9yZVNlcnZpY2UgfSBmcm9tICdAaW5zaGFsbGFoL3NlcnZpY2UtZXZlbnRzdG9yZS9ldmVudHN0b3JlLnNlcnZpY2UnOwo=</text>
+        <text encoding="base64">ICBsZXQgZXZlbnRRdWV1ZTogRXZlbnRRdWV1ZTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgcmVhZG9ubHkgZXZlbnRTdG9yZVNlcnZpY2U6IEV2ZW50U3RvcmVTZXJ2aWNlLAo=</text>
+        <text encoding="base64">ICAgIGV2ZW50UXVldWUgPSBtb2R1bGUuZ2V0PEV2ZW50UXVldWU+KEV2ZW50UXVldWUpOwo=</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGV2ZW50ID0gdGhpcy5wdWJsaXNoZXIubWVyZ2VPYmplY3RDb250ZXh0KGF3YWl0IHRoaXMuZXZlbnRTdG9yZVNlcnZpY2Uuc2F2ZUV2ZW50KGxvZ2luRXZlbnQpKTsKICAgIGV2ZW50LmRpc3BhdGNoKGxvZ2luRXZlbnQpOwogICAgZXZlbnQuY29tbWl0KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRXZlbnRTdG9yZVNlcnZpY2UgfSBmcm9tICdAaW5zaGFsbGFoL3NlcnZpY2UtZXZlbnRzdG9yZS9ldmVudHN0b3JlLnNlcnZpY2UnOwo=</text>
+        <text encoding="base64">Y29uc3QgZGlzcGF0Y2hNb2NrID0gamVzdC5mbigpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgcmVhZG9ubHkgZXZlbnRTdG9yZVNlcnZpY2U6IEV2ZW50U3RvcmVTZXJ2aWNlLAo=</text>
+        <text encoding="base64">aW1wb3J0IHsgRXZlbnRTdG9yZVNlcnZpY2UgfSBmcm9tICdAaW5zaGFsbGFoL3NlcnZpY2UtZXZlbnRzdG9yZS9ldmVudHN0b3JlLnNlcnZpY2UnOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgZXZlbnQgPSB0aGlzLnB1Ymxpc2hlci5tZXJnZU9iamVjdENvbnRleHQoYXdhaXQgdGhpcy5ldmVudFN0b3JlU2VydmljZS5zYXZlRXZlbnQobG9naW5FdmVudCkpOwogICAgICBldmVudC5kaXNwYXRjaChsb2dpbkV2ZW50KTsKICAgICAgZXZlbnQuY29tbWl0KCk7Cg==</text>
+        <text encoding="base64">CmNsYXNzIE1vY2tFdmVudFN0b3JlREJTZXJ2aWNlIHsKICBwdWJsaWMgc2F2ZUV2ZW50ID0gKCkgPT4ge307Cn0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRXZlbnRTdG9yZURCU2VydmljZSB9IGZyb20gJ0BpbnNoYWxsYWgvc2VydmljZS1ldmVudHN0b3JlL2V2ZW50c3RvcmUuc2VydmljZSc7Cg==</text>
+        <text encoding="base64">Y29uc3QgTW9ja01vZGVsID0gewogIGRpc3BhdGNoOiBqZXN0LmZuKCksCiAgY29tbWl0OiBqZXN0LmZuKCksCn07Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgcmVhZG9ubHkgcHVibGlzaGVyOiBFdmVudFB1Ymxpc2hlciwK</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICBwcm92aWRlOiBFdmVudFN0b3JlU2VydmljZSwKICAgICAgICAgIHVzZUNsYXNzOiBNb2NrRXZlbnRTdG9yZURCU2VydmljZSwKICAgICAgICB9LAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
