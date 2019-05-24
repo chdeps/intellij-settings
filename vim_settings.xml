@@ -18,9 +18,6 @@
         <mark key="]" line="6" column="28" />
         <mark key="." line="6" column="28" />
       </file>
-      <file name="/fragment.js" timestamp="1558084428606">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/pages/Authentication/Authentication.tsx" timestamp="1558455013790">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
@@ -28,6 +25,12 @@
         <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/ecosystem.config.js" timestamp="1558537918398" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/controller/auth.controller.ts" timestamp="1558685673794">
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="27" />
+        <mark key="." line="102" column="0" />
+        <mark key="^" line="22" column="43" />
+      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-algo/domain/event/handler/attractivenessUpdated.handler.ts" timestamp="1558447154545">
         <mark key="[" line="4" column="28" />
         <mark key="]" line="4" column="28" />
@@ -72,9 +75,6 @@
         <mark key="^" line="4" column="9" />
         <mark key="." line="4" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/error/auth.error.ts" timestamp="1558008443390">
-        <mark key="[" line="1" column="68" />
-      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/index.ts" timestamp="1558540157506">
         <mark key="[" line="22" column="27" />
         <mark key="]" line="22" column="27" />
@@ -99,6 +99,7 @@
         <mark key="^" line="18" column="18" />
         <mark key="." line="18" column="18" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/validateEmail.handler.ts" timestamp="1558685937423" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/service-eventstore/model/queue.model.ts" timestamp="1558603070006">
         <mark key="[" line="6" column="22" />
         <mark key="]" line="14" column="25" />
@@ -112,9 +113,6 @@
         <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/pages/Landing/Login/Form.container.tsx" timestamp="1558619471653" />
-      <file name="/JavaScript Console" timestamp="1558530075476">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/type.ts" timestamp="1558355566899">
         <mark key="[" line="3" column="2" />
         <mark key="]" line="3" column="2" />
@@ -137,9 +135,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="/GraphQL.result.json" timestamp="1558010447393">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/handler/accountRegistred.handler.ts" timestamp="1558448020077">
         <mark key="[" line="6" column="28" />
