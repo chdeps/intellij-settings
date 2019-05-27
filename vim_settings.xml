@@ -10,13 +10,6 @@
         <mark key="^" line="10" column="64" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/package.json" timestamp="1558959590894" />
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/model/account.model.ts" timestamp="1558704304178">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="37" column="41" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/handler/registerPendingEmailValidation.handler.ts" timestamp="1558448705721">
         <mark key="[" line="6" column="28" />
         <mark key="]" line="6" column="28" />
@@ -65,10 +58,10 @@
         <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/auth.module.ts" timestamp="1558976988832">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="83" />
-        <mark key="." line="51" column="3" />
-        <mark key="^" line="51" column="3" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="83" />
+        <mark key="." line="58" column="3" />
+        <mark key="^" line="58" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/.env" timestamp="1558537705493">
         <mark key="[" line="5" column="18" />
@@ -96,12 +89,6 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/interface/registerFacebookAccount.command.ts" timestamp="1558701483055">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="1" column="63" />
-      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/backpack.config.js" timestamp="1558959616651" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/service-eventstore/entity/event.entity.ts" timestamp="1558333204877">
         <mark key="[" line="18" column="17" />
@@ -121,7 +108,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="29" />
       </file>
-      <file name="/JavaScript Console" timestamp="1558978658628">
+      <file name="/JavaScript Console" timestamp="1558985492221">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/type.ts" timestamp="1558355566899">
@@ -153,6 +140,9 @@
         <mark key="[" line="19" column="0" />
         <mark key="]" line="21" column="83" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/business/profile.service.ts" timestamp="1558985518959">
+        <mark key="[" line="12" column="3" />
+      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/infrastructure/api/auth.controller.ts" timestamp="1558972676914">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -160,9 +150,9 @@
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/registerFacebookAccount.handler.ts" timestamp="1558977674943">
         <mark key="[" line="3" column="37" />
-        <mark key="]" line="14" column="51" />
-        <mark key="." line="34" column="30" />
-        <mark key="^" line="34" column="30" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/interface/hasVerifiedEmail.event.ts" timestamp="1558985603841">
+        <mark key="[" line="2" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/infrastructure/api/profile.controller.ts" timestamp="1558976428740" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/node_modules/@react-navigation/native/src/createAppContainer.js" timestamp="1558345761580">
