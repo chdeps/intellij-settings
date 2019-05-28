@@ -52,7 +52,12 @@
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/auth.service.ts" timestamp="1559028820294" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/backpack.config.js" timestamp="1558959616651" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/handler/loggedIn.handler.ts" timestamp="1559028965513" />
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/handler/passwordReset.handler.ts" timestamp="1559030203594" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/handler/passwordReset.handler.ts" timestamp="1559040608297">
+        <mark key="[" line="27" column="10" />
+        <mark key="]" line="27" column="27" />
+        <mark key="." line="27" column="10" />
+        <mark key="^" line="20" column="26" />
+      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/validateEmail.handler.ts" timestamp="1558991982124" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/service-eventstore/model/queue.model.ts" timestamp="1558974918462">
         <mark key="[" line="6" column="22" />
@@ -72,12 +77,13 @@
         <mark key="." line="11" column="13" />
         <mark key="^" line="11" column="12" />
       </file>
-      <file name="/JavaScript Console" timestamp="1559030611080">
+      <file name="/JavaScript Console" timestamp="1559040615428">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/infrastructure/api/auth.client.ts" timestamp="1559025035594" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/infrastructure/persistence/entity/resetPassword.entity.ts" timestamp="1559040344078" />
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-core/modules/api/core/middlewares.ts" timestamp="1559036928526" />
-      <file name="/Dummy.txt" timestamp="1559030949263">
+      <file name="/Dummy.txt" timestamp="1559040616165">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -90,7 +96,7 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/resetPassword.handler.ts" timestamp="1559028876737" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/resetPassword.handler.ts" timestamp="1559040012195" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/interface/hasVerifiedEmail.event.ts" timestamp="1558985603841">
         <mark key="[" line="2" column="20" />
       </file>
@@ -218,19 +224,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>: resetPasswordToken</text>
+        <text>authRepo</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>: resetPasswordToken</text>
+        <text>authRepo</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgcmVhZG9ubHkgZXZlbnRRdWV1ZTogRXZlbnRRdWV1ZSwK</text>
+      <register name="0" type="4">
+        <text>resetPasswordRepo</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGNvbnN0IHJvbGVzID0gW0FwcFJvbGVzLlVTRVJdOwo=</text>
