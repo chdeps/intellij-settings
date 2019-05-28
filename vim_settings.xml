@@ -9,12 +9,13 @@
         <mark key="." line="17" column="41" />
         <mark key="^" line="7" column="64" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/model/account.model.ts" timestamp="1558990293763">
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/package.json" timestamp="1558959590894" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/model/account.model.ts" timestamp="1558992205032">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="0" />
-        <mark key="." line="83" column="0" />
-        <mark key="^" line="97" column="1" />
+        <mark key="[" line="83" column="81" />
+        <mark key="]" line="3" column="33" />
+        <mark key="." line="3" column="33" />
+        <mark key="^" line="3" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/handler/registerPendingEmailValidation.handler.ts" timestamp="1558448705721">
         <mark key="[" line="6" column="28" />
@@ -25,12 +26,6 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/pages/Authentication/Authentication.tsx" timestamp="1558455013790">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="^" line="36" column="11" />
-        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/handler/resetPasswordEmailSent.handler.ts" timestamp="1558988636539">
         <mark key="[" line="18" column="94" />
@@ -49,6 +44,7 @@
         <mark key="]" line="4" column="28" />
         <mark key="." line="4" column="28" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/dto/authCredentials.dto.ts" timestamp="1558992186901" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/resetPasswordCommand.handler.ts" timestamp="1558986341599">
         <mark key="[" line="11" column="26" />
         <mark key="]" line="7" column="0" />
@@ -62,29 +58,16 @@
         <mark key="." line="37" column="43" />
         <mark key="^" line="37" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/__tests__/login.handler.test.ts" timestamp="1558605904176">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="23" column="1" />
-        <mark key="." line="21" column="21" />
-        <mark key="^" line="21" column="21" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/sendEmailValidationEmail.handler.ts" timestamp="1558991013039">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="44" />
-        <mark key="." line="31" column="3" />
-        <mark key="^" line="31" column="3" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/sendEmailValidationEmail.handler.ts" timestamp="1558992259307">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/handler/facebookAccountRegistered.handler.ts" timestamp="1558976395358">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="70" />
         <mark key="^" line="27" column="44" />
         <mark key="." line="29" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/auth.module.ts" timestamp="1558976988832">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="83" />
-        <mark key="." line="58" column="3" />
-        <mark key="^" line="58" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/interface/resetPasswordEmailSent.event.ts" timestamp="1558988330257">
         <mark key="[" line="0" column="0" />
@@ -102,36 +85,14 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="29" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/.travis.yml" timestamp="1558346470678">
-        <mark key="[" line="4" column="9" />
-        <mark key="]" line="4" column="9" />
-        <mark key="^" line="4" column="9" />
-        <mark key="." line="4" column="9" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/index.ts" timestamp="1558540157506">
-        <mark key="[" line="22" column="27" />
-        <mark key="]" line="22" column="27" />
-        <mark key="^" line="22" column="49" />
-        <mark key="." line="22" column="27" />
-      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/handler/index.ts" timestamp="1558991121623">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
         <mark key="^" line="13" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/__tests__/sendEmailValidationEmail.handler.test.ts" timestamp="1558991044430">
-        <mark key="[" line="65" column="85" />
-        <mark key="]" line="65" column="73" />
-        <mark key="." line="65" column="73" />
-        <mark key="^" line="65" column="73" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/service-eventstore/entity/event.entity.ts" timestamp="1558333204877">
-        <mark key="[" line="18" column="17" />
-        <mark key="]" line="18" column="18" />
-        <mark key="^" line="18" column="18" />
-        <mark key="." line="18" column="18" />
-      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/backpack.config.js" timestamp="1558959616651" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/validateEmail.handler.ts" timestamp="1558991982124" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/service-eventstore/model/queue.model.ts" timestamp="1558974918462">
         <mark key="[" line="6" column="22" />
         <mark key="]" line="14" column="25" />
@@ -150,33 +111,15 @@
         <mark key="." line="11" column="13" />
         <mark key="^" line="11" column="12" />
       </file>
-      <file name="/JavaScript Console" timestamp="1558991126777">
+      <file name="/JavaScript Console" timestamp="1558992327268">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/sendResetPasswordEmail.handler.ts" timestamp="1558988190518">
-        <mark key="[" line="20" column="52" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="22" column="2" />
-        <mark key="." line="22" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/type.ts" timestamp="1558355566899">
-        <mark key="[" line="3" column="2" />
-        <mark key="]" line="3" column="2" />
-        <mark key="^" line="3" column="11" />
-        <mark key="." line="3" column="2" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/login.handler.ts" timestamp="1558701348755">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="17" column="60" />
         <mark key="." line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/.gitattributes" timestamp="1558529636798">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="3" column="77" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1558991132480">
+      <file name="/Dummy.txt" timestamp="1558992329269">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -201,18 +144,14 @@
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/interface/hasVerifiedEmail.event.ts" timestamp="1558985603841">
         <mark key="[" line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/handler/validationEmailSent.handler.ts" timestamp="1558990070940">
-        <mark key="[" line="28" column="56" />
-        <mark key="]" line="28" column="27" />
-        <mark key="." line="28" column="27" />
-        <mark key="^" line="28" column="27" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/infrastructure/api/profile.controller.ts" timestamp="1558976428740" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/handler/validationEmailSent.handler.ts" timestamp="1558992278648">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/node_modules/@react-navigation/native/src/createAppContainer.js" timestamp="1558345761580">
-        <mark key="[" line="239" column="29" />
-        <mark key="]" line="242" column="0" />
-        <mark key="." line="242" column="0" />
-        <mark key="^" line="241" column="76" />
-      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/confirmEmailValidationToken.handler.ts" timestamp="1558986020942" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/accessControl/authentication/jwt.strategy.ts" timestamp="1558083754754">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -334,13 +273,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBSZWdpc3RlclBlbmRpbmdFbWFpbFZhbGlkYXRpb25FdmVudFN0b3JlSGFuZGxlciwK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHJvbGVzID0gW0FwcFJvbGVzLlVTRVJdOwo=</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>validationEmailSent</text>
+        <text>, RegisterEmailValidationDto</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
@@ -349,34 +288,34 @@
         <text encoding="base64">ICAgIHByaXZhdGUgcmVhZG9ubHkgZXZlbnRRdWV1ZTogRXZlbnRRdWV1ZSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBSZWdpc3RlclBlbmRpbmdFbWFpbFZhbGlkYXRpb25FdmVudFN0b3JlSGFuZGxlciwK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHJvbGVzID0gW0FwcFJvbGVzLlVTRVJdOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBTZW5kVmFsaWRhdGlvbkVtYWlsQ2FjaGVkRGJIYW5kbGVyLAogIFNlbmRWYWxpZGF0aW9uRW1haWxFdmVudFN0b3JlSGFuZGxlciwK</text>
+        <text encoding="base64">aW1wb3J0IHsgQXBwUm9sZXMgfSBmcm9tICcuLi8uLi9kdG8vcm9sZXMnOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsKICBTZW5kVmFsaWRhdGlvbkVtYWlsRXZlbnRTdG9yZUhhbmRsZXIsCiAgU2VuZFZhbGlkYXRpb25FbWFpbENhY2hlZERiSGFuZGxlciwKfSBmcm9tICcuL3NlbmRWYWxpZGF0aW9uRW1haWwuaGFuZGxlcic7Cg==</text>
+        <text encoding="base64">ICBSZWdpc3RlclBlbmRpbmdFbWFpbFZhbGlkYXRpb25FdmVudFN0b3JlSGFuZGxlciwK</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBSZWdpc3RlclBlbmRpbmdFbWFpbFZhbGlkYXRpb25FdmVudFN0b3JlSGFuZGxlciwK</text>
+        <text encoding="base64">ICBTZW5kVmFsaWRhdGlvbkVtYWlsQ2FjaGVkRGJIYW5kbGVyLAogIFNlbmRWYWxpZGF0aW9uRW1haWxFdmVudFN0b3JlSGFuZGxlciwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICByZWdpc3RlclBlbmRpbmdFbWFpbFZhbGlkYXRpb246IGplc3QuZm4oKSwK</text>
+        <text encoding="base64">aW1wb3J0IHsKICBTZW5kVmFsaWRhdGlvbkVtYWlsRXZlbnRTdG9yZUhhbmRsZXIsCiAgU2VuZFZhbGlkYXRpb25FbWFpbENhY2hlZERiSGFuZGxlciwKfSBmcm9tICcuL3NlbmRWYWxpZGF0aW9uRW1haWwuaGFuZGxlcic7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb21taXQ6IGplc3QuZm4oKSwK</text>
+        <text encoding="base64">ICBSZWdpc3RlclBlbmRpbmdFbWFpbFZhbGlkYXRpb25FdmVudFN0b3JlSGFuZGxlciwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdChtb2NrQWNjb3VudC5yZWdpc3RlclBlbmRpbmdFbWFpbFZhbGlkYXRpb24pLnRvSGF2ZUJlZW5DYWxsZWQoKTsKICAgIGV4cGVjdChtb2NrQWNjb3VudC5jb21taXQpLnRvSGF2ZUJlZW5DYWxsZWQoKTsK</text>
+        <text encoding="base64">ICByZWdpc3RlclBlbmRpbmdFbWFpbFZhbGlkYXRpb246IGplc3QuZm4oKSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcHJpdmF0ZSByZWFkb25seSBldmVudFF1ZXVlOiBFdmVudFF1ZXVlLAo=</text>
+        <text encoding="base64">ICBjb21taXQ6IGplc3QuZm4oKSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcHJpdmF0ZSByZWFkb25seSBlbWFpbFNlbmRlclNlcnZpY2U6IEVtYWlsU2VuZGVyU2VydmljZSwK</text>
+        <text encoding="base64">ICAgIGV4cGVjdChtb2NrQWNjb3VudC5yZWdpc3RlclBlbmRpbmdFbWFpbFZhbGlkYXRpb24pLnRvSGF2ZUJlZW5DYWxsZWQoKTsKICAgIGV4cGVjdChtb2NrQWNjb3VudC5jb21taXQpLnRvSGF2ZUJlZW5DYWxsZWQoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
