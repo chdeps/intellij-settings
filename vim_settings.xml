@@ -23,9 +23,7 @@
         <mark key="." line="27" column="10" />
         <mark key="^" line="20" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/controller/auth.controller.ts" timestamp="1559028536086">
-        <mark key="^" line="22" column="43" />
-      </file>
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/package.json" timestamp="1559052558915" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/service-eventstore/model/queue.model.ts" timestamp="1558974918462">
         <mark key="[" line="6" column="22" />
         <mark key="]" line="14" column="25" />
@@ -49,11 +47,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/UGC/UGC/src/App.js" timestamp="1559046346497" />
-      <file name="$USER_HOME$/Projects/UGC/UGC/src/navigation/index.js" timestamp="1559046446114" />
+      <file name="$USER_HOME$/Projects/UGC/UGC/src/navigation/index.js" timestamp="1559051739904" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/registerAccount.handler.ts" timestamp="1558986263042">
         <mark key="[" line="12" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559050831071">
+      <file name="/Dummy.txt" timestamp="1559052966077">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -66,6 +64,7 @@
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/business/profile.service.ts" timestamp="1558985518959">
         <mark key="[" line="12" column="3" />
       </file>
+      <file name="$USER_HOME$/Projects/UGC/UGC/src/modules/authentication.js" timestamp="1559053396760" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/handler/facebookAccountRegistered.handler.ts" timestamp="1558976395358">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="70" />
@@ -85,6 +84,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/UGC/UGC/src/pages/Login/Login.component.js" timestamp="1559053368284" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/handler/resetPassword.handler.ts" timestamp="1558987594734">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
@@ -97,7 +97,7 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/UGC/UGC/src/services/Api/Api.js" timestamp="1559046541583" />
+      <file name="$USER_HOME$/Projects/UGC/UGC/src/services/Api/Api.js" timestamp="1559053494982" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/infrastructure/api/auth.proto" timestamp="1559030607786">
         <mark key="[" line="22" column="7" />
         <mark key="]" line="22" column="6" />
