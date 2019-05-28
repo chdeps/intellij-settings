@@ -27,11 +27,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/handler/resetPasswordEmailSent.handler.ts" timestamp="1558988636539">
-        <mark key="[" line="18" column="94" />
-        <mark key="]" line="25" column="29" />
-        <mark key="^" line="25" column="29" />
-        <mark key="." line="25" column="29" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/handler/resetPasswordEmailSent.handler.ts" timestamp="1559030505554">
+        <mark key="[" line="25" column="56" />
+        <mark key="]" line="25" column="56" />
+        <mark key="^" line="25" column="75" />
+        <mark key="." line="25" column="56" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/controller/auth.controller.ts" timestamp="1559028536086">
         <mark key="[" line="102" column="0" />
@@ -52,11 +52,6 @@
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/registerAccount.handler.ts" timestamp="1558986263042">
         <mark key="[" line="12" column="27" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/service-eventstore/model/event.model.ts" timestamp="1558989671147">
-        <mark key="]" line="37" column="43" />
-        <mark key="." line="37" column="43" />
-        <mark key="^" line="37" column="43" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/sendEmailValidationEmail.handler.ts" timestamp="1558992259307">
         <mark key="[" line="38" column="0" />
@@ -85,7 +80,7 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="29" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/auth.service.ts" timestamp="1559028728381" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/auth.service.ts" timestamp="1559028820294" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/handler/index.ts" timestamp="1558991121623">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -93,8 +88,8 @@
         <mark key="^" line="13" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/backpack.config.js" timestamp="1558959616651" />
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/handler/loggedIn.handler.ts" timestamp="1559025389043" />
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/handler/passwordReset.handler.ts" timestamp="1559025631755" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/handler/loggedIn.handler.ts" timestamp="1559028965513" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/handler/passwordReset.handler.ts" timestamp="1559030203594" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/validateEmail.handler.ts" timestamp="1558991982124" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/service-eventstore/model/queue.model.ts" timestamp="1558974918462">
         <mark key="[" line="6" column="22" />
@@ -114,7 +109,7 @@
         <mark key="." line="11" column="13" />
         <mark key="^" line="11" column="12" />
       </file>
-      <file name="/JavaScript Console" timestamp="1559025345146">
+      <file name="/JavaScript Console" timestamp="1559030611080">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/infrastructure/api/auth.client.ts" timestamp="1559025035594" />
@@ -123,7 +118,7 @@
         <mark key="]" line="17" column="60" />
         <mark key="." line="2" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559025245624">
+      <file name="/Dummy.txt" timestamp="1559030949263">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -141,7 +136,7 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/resetPassword.handler.ts" timestamp="1559028791740" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/resetPassword.handler.ts" timestamp="1559028876737" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/interface/hasVerifiedEmail.event.ts" timestamp="1558985603841">
         <mark key="[" line="2" column="20" />
       </file>
@@ -152,8 +147,8 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/infrastructure/api/auth.proto" timestamp="1559024999587">
-        <mark key="[" line="24" column="6" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/infrastructure/api/auth.proto" timestamp="1559030607786">
+        <mark key="[" line="22" column="7" />
         <mark key="]" line="24" column="6" />
         <mark key="." line="24" column="6" />
       </file>
@@ -279,13 +274,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ConfirmEmailValidationToken</text>
+        <text>: resetPasswordToken</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>ConfirmEmailValidationToken</text>
+        <text>: resetPasswordToken</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
