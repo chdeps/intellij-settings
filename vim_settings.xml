@@ -9,7 +9,7 @@
         <mark key="." line="17" column="41" />
         <mark key="^" line="7" column="64" />
       </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/components/Recaptcha/captcha-html.ts" timestamp="1559049042684" />
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/components/Recaptcha/captcha-html.ts" timestamp="1559117910825" />
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/pages/Landing/Landing.pages.tsx" timestamp="1559114942701" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/handler/resetPasswordEmailSent.handler.ts" timestamp="1559030505554">
         <mark key="[" line="25" column="56" />
@@ -39,11 +39,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/UGC/UGC/src/pages/Login/Login.component.js" timestamp="1559116111332">
-        <mark key="[" line="216" column="64" />
-        <mark key="]" line="216" column="48" />
-        <mark key="." line="216" column="48" />
-        <mark key="^" line="216" column="48" />
+      <file name="$USER_HOME$/Projects/UGC/UGC/src/pages/Login/Login.component.js" timestamp="1559121459347">
+        <mark key="[" line="234" column="17" />
+        <mark key="]" line="240" column="0" />
+        <mark key="." line="240" column="0" />
+        <mark key="^" line="64" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/handler/resetPassword.handler.ts" timestamp="1558987594734">
         <mark key="[" line="33" column="0" />
@@ -51,7 +51,14 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="29" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/components/Recaptcha/Recaptcha.component.tsx" timestamp="1559048028380" />
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/components/Recaptcha/captcha.js" timestamp="1559118219548" />
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/components/Recaptcha/Recaptcha.component.tsx" timestamp="1559118198338" />
+      <file name="$USER_HOME$/Projects/UGC/UGC/node_modules/react-native-recaptcha-v3/index.js" timestamp="1559121540910">
+        <mark key="[" line="76" column="41" />
+        <mark key="]" line="11" column="30" />
+        <mark key="^" line="11" column="30" />
+        <mark key="." line="11" column="30" />
+      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/handler/passwordReset.handler.ts" timestamp="1559040608297">
         <mark key="[" line="27" column="10" />
         <mark key="]" line="27" column="27" />
@@ -77,12 +84,12 @@
         <mark key="." line="11" column="13" />
         <mark key="^" line="11" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/pages/Landing/Login/Form.container.tsx" timestamp="1559115051396" />
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/pages/Landing/Login/Form.container.tsx" timestamp="1559117718170" />
       <file name="/JavaScript Console" timestamp="1559040615428">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/UGC/UGC/src/navigation/index.js" timestamp="1559051739904" />
-      <file name="/Dummy.txt" timestamp="1559061490859">
+      <file name="/Dummy.txt" timestamp="1559120945130">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -105,7 +112,11 @@
         <mark key="^" line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/UGC/UGC/src/services/Api/Api.js" timestamp="1559057607768" />
-      <file name="$USER_HOME$/Projects/UGC/UGC/node_modules/react-native/local-cli/runIOS/findMatchingSimulator.js" timestamp="1559062188558" />
+      <file name="$USER_HOME$/Projects/UGC/UGC/node_modules/react-native/local-cli/runIOS/findMatchingSimulator.js" timestamp="1559120518439">
+        <mark key="[" line="41" column="17" />
+        <mark key="]" line="41" column="17" />
+        <mark key="." line="41" column="17" />
+      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/infrastructure/api/auth.proto" timestamp="1559030607786">
         <mark key="[" line="22" column="7" />
         <mark key="]" line="22" column="6" />
@@ -221,50 +232,50 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/InshAllah/InshAllah/node_modules/@react-navigation/native/src/createAppContainer.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxSZUNhcHRjaGEgc2l0ZUtleT17fSB1cmw9e30vPgo=</text>
+      <register name="&quot;" type="4">
+        <text>startsWith</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>authRepo</text>
+        <text>startsWith</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxSZUNhcHRjaGEgc2l0ZUtleT17fSB1cmw9e30vPgo=</text>
+      <register name="0" type="4">
+        <text>reCaptchaResponse</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxSZUNhcHRjaGEgc2l0ZUtleT17fSB1cmw9e30vPgo=</text>
+        <text encoding="base64">ICAgICAgICAgIDwvVmlldz4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHJvbGVzID0gW0FwcFJvbGVzLlVTRVJdOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxWaWV3IHN0eWxlPXtzdHlsZXMucmVDYXB0Y2hhfT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQXBwUm9sZXMgfSBmcm9tICcuLi8uLi9kdG8vcm9sZXMnOwo=</text>
+        <text encoding="base64">ICAgIHBvaW50ZXJFdmVudHM6ICdhdXRvJywK</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBSZWdpc3RlclBlbmRpbmdFbWFpbFZhbGlkYXRpb25FdmVudFN0b3JlSGFuZGxlciwK</text>
+        <text encoding="base64">ICByZUNhcHRjaGE6IHsKICAgIHBvaW50ZXJFdmVudHM6ICdhdXRvJywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBTZW5kVmFsaWRhdGlvbkVtYWlsQ2FjaGVkRGJIYW5kbGVyLAogIFNlbmRWYWxpZGF0aW9uRW1haWxFdmVudFN0b3JlSGFuZGxlciwK</text>
+        <text encoding="base64">ICByZUNhcHRjaGE6IHsKICAgIHBvaW50ZXJFdmVudHM6ICdhdXRvJywKICB9LAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsKICBTZW5kVmFsaWRhdGlvbkVtYWlsRXZlbnRTdG9yZUhhbmRsZXIsCiAgU2VuZFZhbGlkYXRpb25FbWFpbENhY2hlZERiSGFuZGxlciwKfSBmcm9tICcuL3NlbmRWYWxpZGF0aW9uRW1haWwuaGFuZGxlcic7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC8qIFRPRE86IENhbGwgL2F1dGgvcmVjYXB0Y2hhIHRvIGdldCBzaXRlS2V5IGFuZCBkb21haW4gdXJsICovCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBSZWdpc3RlclBlbmRpbmdFbWFpbFZhbGlkYXRpb25FdmVudFN0b3JlSGFuZGxlciwK</text>
+        <text encoding="base64">ICAgICAgICAgIDxSZUNhcHRjaGEgc2l0ZUtleT17fSB1cmw9e30vPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICByZWdpc3RlclBlbmRpbmdFbWFpbFZhbGlkYXRpb246IGplc3QuZm4oKSwK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHJvbGVzID0gW0FwcFJvbGVzLlVTRVJdOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb21taXQ6IGplc3QuZm4oKSwK</text>
+        <text encoding="base64">aW1wb3J0IHsgQXBwUm9sZXMgfSBmcm9tICcuLi8uLi9kdG8vcm9sZXMnOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
