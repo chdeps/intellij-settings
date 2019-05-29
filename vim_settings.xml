@@ -5,27 +5,18 @@
     <filemarks>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/components/Recaptcha/captcha-html.ts" timestamp="1559122620565" />
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/pages/Landing/Landing.pages.tsx" timestamp="1559114942701" />
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/pages/Authentication/Authentication.tsx" timestamp="1559145155352" />
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/pages/ProfileCapture/UploadPicture/UploadPicture.component.tsx" timestamp="1559141047605" />
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-core/modules/configurations/selectors.ts" timestamp="1559114961037" />
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/pages/routes.ts" timestamp="1559140352450" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/pages/Signup/ConfirmEmail/ConfirmEmail.tsx" timestamp="1559146286015" />
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/pages/UploadPhotoGallery/UploadPhotoGallery.component.tsx" timestamp="1559140598941" />
       <file name="$USER_HOME$/Projects/UGC/UGC/src/App.js" timestamp="1559046346497" />
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-core/services/utils.ts" timestamp="1559142397322" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/pages/AuthLoading/AuthLoading.tsx" timestamp="1559136707459" />
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/sendEmailValidationEmail.handler.ts" timestamp="1558992259307">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/UGC/UGC/src/modules/authentication.js" timestamp="1559053396760" />
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/fastlane/.env.staging" timestamp="1559145182993" />
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/interface/resetPasswordEmailSent.event.ts" timestamp="1558988330257">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/UGC/UGC/src/pages/Login/Login.component.js" timestamp="1559125929792">
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/fastlane/.env.staging" timestamp="1559145918316" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/modules/signup/sagas.ts" timestamp="1559146352823" />
+      <file name="$USER_HOME$/Projects/UGC/UGC/src/pages/Login/Login.component.js" timestamp="1559146453999">
         <mark key="[" line="234" column="17" />
         <mark key="]" line="153" column="46" />
         <mark key="." line="153" column="46" />
@@ -34,6 +25,7 @@
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/modules/picture/containers/postPictureByUriContainerFactory.ts" timestamp="1559140684353" />
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/components/Recaptcha/captcha.js" timestamp="1559118219548" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/pages/AuthLoading/AuthLoading.container.ts" timestamp="1559136715471" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/pages/Signup/ConfirmEmail/ConfirmEmail.container.ts" timestamp="1559146278322" />
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/components/Recaptcha/Recaptcha.component.tsx" timestamp="1559118198338" />
       <file name="$USER_HOME$/Projects/UGC/UGC/node_modules/react-native-recaptcha-v3/index.js" timestamp="1559125923067">
         <mark key="[" line="78" column="0" />
@@ -46,27 +38,12 @@
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/components/Inputs/PicturePicker/PicturePicker.component.tsx" timestamp="1559141194169" />
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/components/Inputs/FacebookUploadButton/FacebookUploadButton.container.ts" timestamp="1559140000908" />
       <file name="$USER_HOME$/Projects/UGC/UGC/src/navigation/index.js" timestamp="1559051739904" />
-      <file name="/Dummy.txt" timestamp="1559120945130">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/components/Inputs/FacebookUploadButton/FacebookUploadButton.component.tsx" timestamp="1559140022230" />
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/infrastructure/api/auth.controller.ts" timestamp="1559025228634">
-        <mark key="[" line="69" column="17" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/UGC/UGC/src/services/Api/Api.js" timestamp="1559057607768" />
       <file name="$USER_HOME$/Projects/UGC/UGC/node_modules/react-native/local-cli/runIOS/findMatchingSimulator.js" timestamp="1559120518439">
         <mark key="[" line="41" column="17" />
         <mark key="]" line="41" column="17" />
         <mark key="." line="41" column="17" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/infrastructure/api/auth.proto" timestamp="1559030607786">
-        <mark key="[" line="22" column="7" />
-        <mark key="]" line="22" column="6" />
-        <mark key="." line="22" column="6" />
       </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-core/modules/pictures/saga.ts" timestamp="1559140886191" />
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/services/ImagePickerService.ts" timestamp="1559139509905" />
