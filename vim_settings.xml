@@ -5,7 +5,7 @@
     <filemarks>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/components/Recaptcha/captcha-html.ts" timestamp="1559122620565" />
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/pages/Landing/Landing.pages.tsx" timestamp="1559114942701" />
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/pages/Authentication/Authentication.tsx" timestamp="1559139954635" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/pages/Authentication/Authentication.tsx" timestamp="1559145155352" />
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/pages/ProfileCapture/UploadPicture/UploadPicture.component.tsx" timestamp="1559141047605" />
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-core/modules/configurations/selectors.ts" timestamp="1559114961037" />
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/pages/routes.ts" timestamp="1559140352450" />
@@ -19,6 +19,7 @@
         <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/UGC/UGC/src/modules/authentication.js" timestamp="1559053396760" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/fastlane/.env.staging" timestamp="1559145182993" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/interface/resetPasswordEmailSent.event.ts" timestamp="1558988330257">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
