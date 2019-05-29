@@ -29,11 +29,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/UGC/UGC/src/pages/Login/Login.component.js" timestamp="1559149077275">
-        <mark key="[" line="236" column="0" />
-        <mark key="]" line="103" column="0" />
-        <mark key="." line="103" column="0" />
-        <mark key="^" line="109" column="1" />
+      <file name="$USER_HOME$/Projects/UGC/UGC/src/pages/Login/Login.component.js" timestamp="1559150166243">
+        <mark key="[" line="172" column="15" />
+        <mark key="]" line="172" column="15" />
+        <mark key="." line="172" column="15" />
+        <mark key="^" line="172" column="9" />
       </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/modules/picture/containers/postPictureByUriContainerFactory.ts" timestamp="1559140684353" />
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/components/Recaptcha/captcha.js" timestamp="1559118219548" />
@@ -195,14 +195,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/InshAllah/InshAllah/node_modules/@react-navigation/native/src/createAppContainer.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAKICBnZXRDYXB0Y2hhUmVzcG9uc2UgPSBhc3luYyAoKSA9PiB7CiAgICBpZiAoIXRoaXMuY2FwdGNoYVJlZi5jdXJyZW50KSByZXR1cm47CiAgICB0aGlzLnNldFN0YXRlKHsgY2FwdGNoYURpc3BsYXllZDogdHJ1ZSB9KTsKICAgIGNvbnN0IGNhcHRjaGFSZXNwb25zZSA9IGF3YWl0IHRoaXMuY2FwdGNoYVJlZi5jdXJyZW50LmNoZWNrQ2FwdGNoYSgpOwogICAgdGhpcy5zZXRTdGF0ZSh7IGNhcHRjaGFEaXNwbGF5ZWQ6IGZhbHNlIH0pOwogICAgcmV0dXJuIGNhcHRjaGFSZXNwb25zZTsKICB9OwoK</text>
+      <register name="&quot;" type="4">
+        <text>captchaRef.current.checkCaptcha</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHJpdmF0ZSA=</text>
+        <text>captchaRef.current.checkCaptcha</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
@@ -211,34 +211,34 @@
         <text encoding="base64">ICBwcml2YXRlIGdldENhcHRjaGFSZXNwb25zZSA9IGFzeW5jICgpID0+IHsKICAgIGlmICghdGhpcy5jYXB0Y2hhUmVmLmN1cnJlbnQpIHJldHVybjsKICAgIHRoaXMuc2V0U3RhdGUoeyBjYXB0Y2hhRGlzcGxheWVkOiB0cnVlIH0pOwogICAgY29uc3QgY2FwdGNoYVJlc3BvbnNlID0gYXdhaXQgdGhpcy5jYXB0Y2hhUmVmLmN1cnJlbnQuY2hlY2tDYXB0Y2hhKCk7CiAgICB0aGlzLnNldFN0YXRlKHsgY2FwdGNoYURpc3BsYXllZDogZmFsc2UgfSk7CiAgICByZXR1cm4gY2FwdGNoYVJlc3BvbnNlOwogIH07Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAKICBnZXRDYXB0Y2hhUmVzcG9uc2UgPSBhc3luYyAoKSA9PiB7CiAgICBpZiAoIXRoaXMuY2FwdGNoYVJlZi5jdXJyZW50KSByZXR1cm47CiAgICB0aGlzLnNldFN0YXRlKHsgY2FwdGNoYURpc3BsYXllZDogdHJ1ZSB9KTsKICAgIGNvbnN0IGNhcHRjaGFSZXNwb25zZSA9IGF3YWl0IHRoaXMuY2FwdGNoYVJlZi5jdXJyZW50LmNoZWNrQ2FwdGNoYSgpOwogICAgdGhpcy5zZXRTdGF0ZSh7IGNhcHRjaGFEaXNwbGF5ZWQ6IGZhbHNlIH0pOwogICAgcmV0dXJuIGNhcHRjaGFSZXNwb25zZTsKICB9OwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjYXB0Y2hhUmVmOiBSZWZPYmplY3Q8UmVjYXB0Y2hhPiA9IFJlYWN0LmNyZWF0ZVJlZigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmICghdGhpcy5zdGF0ZS5yZUNhcHRjaGFSZXNwb25zZSkgcmV0dXJuOwo=</text>
+        <text encoding="base64">ICAKICBnZXRDYXB0Y2hhUmVzcG9uc2UgPSBhc3luYyAoKSA9PiB7CiAgICBpZiAoIXRoaXMuY2FwdGNoYVJlZi5jdXJyZW50KSByZXR1cm47CiAgICB0aGlzLnNldFN0YXRlKHsgY2FwdGNoYURpc3BsYXllZDogdHJ1ZSB9KTsKICAgIGNvbnN0IGNhcHRjaGFSZXNwb25zZSA9IGF3YWl0IHRoaXMuY2FwdGNoYVJlZi5jdXJyZW50LmNoZWNrQ2FwdGNoYSgpOwogICAgdGhpcy5zZXRTdGF0ZSh7IGNhcHRjaGFEaXNwbGF5ZWQ6IGZhbHNlIH0pOwogICAgcmV0dXJuIGNhcHRjaGFSZXNwb25zZTsKICB9OwoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBvblJlQ2FwdGNoYUV4ZWN1dGVkID0gKHJlQ2FwdGNoYVJlc3BvbnNlOiBhbnkpID0+IHsKICAgIGNvbnNvbGUubG9nKCdFWEVDVVRFRCcsIHJlQ2FwdGNoYVJlc3BvbnNlKTsKICAgIHRoaXMuc2V0U3RhdGUoewogICAgICByZUNhcHRjaGFSZXNwb25zZSwKICAgIH0pOwogIH07Cg==</text>
+        <text encoding="base64">ICBjYXB0Y2hhUmVmOiBSZWZPYmplY3Q8UmVjYXB0Y2hhPiA9IFJlYWN0LmNyZWF0ZVJlZigpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBvbkV4ZWN1dGU9e3RoaXMub25SZUNhcHRjaGFFeGVjdXRlZH0K</text>
+        <text encoding="base64">ICAgIGlmICghdGhpcy5zdGF0ZS5yZUNhcHRjaGFSZXNwb25zZSkgcmV0dXJuOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBvblJlYWR5PXsoKSA9PiB7CiAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygncmVhZHknKTsKICAgICAgICAgICAgICB9fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICByZUNhcHRjaGFUeXBlPXsxfQo=</text>
+        <text encoding="base64">ICBvblJlQ2FwdGNoYUV4ZWN1dGVkID0gKHJlQ2FwdGNoYVJlc3BvbnNlOiBhbnkpID0+IHsKICAgIGNvbnNvbGUubG9nKCdFWEVDVVRFRCcsIHJlQ2FwdGNoYVJlc3BvbnNlKTsKICAgIHRoaXMuc2V0U3RhdGUoewogICAgICByZUNhcHRjaGFSZXNwb25zZSwKICAgIH0pOwogIH07Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
