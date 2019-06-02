@@ -35,13 +35,16 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/UGC/UGC/src/pages/Login/Login.component.js" timestamp="1559469870139">
+      <file name="$USER_HOME$/Projects/UGC/UGC/src/pages/Login/Login.component.js" timestamp="1559470563378">
         <mark key="[" line="250" column="18" />
         <mark key="]" line="250" column="18" />
         <mark key="." line="250" column="18" />
         <mark key="^" line="250" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/modules/picture/containers/postPictureByUriContainerFactory.ts" timestamp="1559140684353" />
+      <file name="$USER_HOME$/Projects/UGC/UGC/src/components/ReCaptcha/patchPostMessageJsCode.js" timestamp="1559470977896">
+        <mark key="[" line="10" column="9" />
+      </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/components/Recaptcha/captcha.js" timestamp="1559118219548" />
       <file name="$USER_HOME$/Projects/UGC/UGC/src/components/ReCaptcha/index.js" timestamp="1559148623006">
         <mark key="[" line="0" column="0" />
@@ -59,10 +62,10 @@
         <mark key="[" line="75" column="0" />
         <mark key="]" line="75" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/UGC/UGC/src/components/ReCaptcha/Recaptcha.component.js" timestamp="1559469801414">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
+      <file name="$USER_HOME$/Projects/UGC/UGC/src/components/ReCaptcha/Recaptcha.component.js" timestamp="1559471307468">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1559040615428">
         <mark key="[" line="0" column="0" />
@@ -71,7 +74,7 @@
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/components/Inputs/PicturePicker/PicturePicker.component.tsx" timestamp="1559141194169" />
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/components/Inputs/FacebookUploadButton/FacebookUploadButton.container.ts" timestamp="1559140000908" />
       <file name="$USER_HOME$/Projects/UGC/UGC/src/navigation/index.js" timestamp="1559051739904" />
-      <file name="/Dummy.txt" timestamp="1559162451080">
+      <file name="/Dummy.txt" timestamp="1559471314656">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -212,13 +215,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGEpOwo=</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>config.env.locale</text>
+        <text encoding="base64">OiAoKSA9PiB2b2lkIHwgdW5kZWZpbmVk</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
@@ -227,34 +230,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICBsYW5nPXtjb25maWcuZW52LmxvY2FsZX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGEpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdSRU5ERVInKTsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ1BPU1QnLCBtZXNzYWdlKTsKICAgICAgY29uc29sZS5sb2coJ1ZJRVcnLCB3ZWJ2aWV3KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdIRVJFJywgd2Vidmlldyk7Cg==</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxWaWV3CiAgICAgICAgICAgIHN0eWxlPXtzdHlsZXMucmVDYXB0Y2hhfQogICAgICAgICAgICBwb2ludGVyRXZlbnRzPXt0aGlzLnN0YXRlLmNhcHRjaGFEaXNwbGF5ZWQgPyAnYXV0bycgOiAnbm9uZSd9CiAgICAgICAgICA+CiAgICAgICAgICAgIDxSZWNhcHRjaGEKICAgICAgICAgICAgICByZWY9e3RoaXMuY2FwdGNoYVJlZn0KICAgICAgICAgICAgICBzaXRlS2V5PSI2TGRsaUE0VUFBQUFBQk56Q2ZpbkxEMjdiQzREUE5VOVQzOFJLYkFvIgogICAgICAgICAgICAgIGRvbWFpbj0idWdjLmZyLyIKICAgICAgICAgICAgICBvbkxvYWRFbmQ9eygpID0+IG51bGx9CiAgICAgICAgICAgIC8+CiAgICAgICAgICA8L1ZpZXc+Cg==</text>
+        <text encoding="base64">CmludGVyZmFjZSBJUHJvcHMgewp9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGEpOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzaXRlS2V5OiBzdHJpbmc7CiAgZG9tYWluOiBzdHJpbmc7CiAgbGFuZzogc3RyaW5nOwogIG9uTG9hZEVuZDogKCkgPT4gdm9pZDsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW50ZXJmYWNlIElNZXNzYWdlIHsKICB0eXBlOiBzdHJpbmc7Cn0KCmludGVyZmFjZSBJUmVuZGVyTWVzc2FnZSBleHRlbmRzIElNZXNzYWdlIHsKICBwYXJhbXM6IHsKICAgIHNpdGVLZXk6IHN0cmluZywKICAgIGxhbmc/OiBzdHJpbmcsCiAgfTsKfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAKICBnZXRDYXB0Y2hhUmVzcG9uc2UgPSBhc3luYyAoKSA9PiB7CiAgICBpZiAoIXRoaXMuY2FwdGNoYVJlZi5jdXJyZW50KSByZXR1cm47CiAgICB0aGlzLnNldFN0YXRlKHsgY2FwdGNoYURpc3BsYXllZDogdHJ1ZSB9KTsKICAgIGNvbnN0IGNhcHRjaGFSZXNwb25zZSA9IGF3YWl0IHRoaXMuY2FwdGNoYVJlZi5jdXJyZW50LmNoZWNrQ2FwdGNoYSgpOwogICAgdGhpcy5zZXRTdGF0ZSh7IGNhcHRjaGFEaXNwbGF5ZWQ6IGZhbHNlIH0pOwogICAgcmV0dXJuIGNhcHRjaGFSZXNwb25zZTsKICB9OwoK</text>
+        <text encoding="base64">ICAgIDwvc2NyaXB0Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
