@@ -7,6 +7,11 @@
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/pages/Landing/Landing.pages.tsx" timestamp="1559114942701" />
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/pages/ProfileCapture/UploadPicture/UploadPicture.component.tsx" timestamp="1559141047605" />
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-core/modules/configurations/selectors.ts" timestamp="1559114961037" />
+      <file name="$USER_HOME$/Projects/UGC/UGC/src/components/ReCaptcha/captcha-html.ts" timestamp="1559470254684">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/pages/routes.ts" timestamp="1559140352450" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/pages/Signup/ConfirmEmail/ConfirmEmail.tsx" timestamp="1559146286015" />
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/pages/UploadPhotoGallery/UploadPhotoGallery.component.tsx" timestamp="1559140598941" />
@@ -24,16 +29,17 @@
       <file name="$USER_HOME$/Projects/UGC/UGC/src/modules/authentication.js" timestamp="1559053396760" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/fastlane/.env.staging" timestamp="1559145918316" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/modules/signup/sagas.ts" timestamp="1559146352823" />
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-core/env.ts" timestamp="1559469930787" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/interface/resetPasswordEmailSent.event.ts" timestamp="1558988330257">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/UGC/UGC/src/pages/Login/Login.component.js" timestamp="1559162447588">
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
-        <mark key="^" line="72" column="3" />
+      <file name="$USER_HOME$/Projects/UGC/UGC/src/pages/Login/Login.component.js" timestamp="1559469870139">
+        <mark key="[" line="250" column="18" />
+        <mark key="]" line="250" column="18" />
+        <mark key="." line="250" column="18" />
+        <mark key="^" line="250" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/modules/picture/containers/postPictureByUriContainerFactory.ts" timestamp="1559140684353" />
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/components/Recaptcha/captcha.js" timestamp="1559118219548" />
@@ -49,14 +55,14 @@
         <mark key="." line="78" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/package.json" timestamp="1559052558915" />
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/pages/Landing/Login/Form.container.tsx" timestamp="1559149246858">
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="120" column="4" />
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/pages/Landing/Login/Form.container.tsx" timestamp="1559469865223">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/UGC/UGC/src/components/ReCaptcha/Recaptcha.component.js" timestamp="1559162151854">
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="22" />
-        <mark key="." line="87" column="0" />
+      <file name="$USER_HOME$/Projects/UGC/UGC/src/components/ReCaptcha/Recaptcha.component.js" timestamp="1559469801414">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1559040615428">
         <mark key="[" line="0" column="0" />
@@ -82,6 +88,7 @@
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/interface/hasVerifiedEmail.event.ts" timestamp="1558985603841">
         <mark key="[" line="2" column="20" />
       </file>
+      <file name="$USER_HOME$/Projects/UGC/UGC/src/components/ReCaptcha/captcha.js" timestamp="1559469772189" />
       <file name="$USER_HOME$/Projects/UGC/UGC/package.json" timestamp="1559148831520">
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="0" />
@@ -205,49 +212,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">ICAgIDwvc2NyaXB0Pgo=</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>https://</text>
+        <text>config.env.locale</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGdldENhcHRjaGFSZXNwb25zZSA9IGFzeW5jICgpID0+IHsKICAgIGlmICghdGhpcy5jYXB0Y2hhUmVmLmN1cnJlbnQpIHJldHVybjsKICAgIHRoaXMuc2V0U3RhdGUoeyBjYXB0Y2hhRGlzcGxheWVkOiB0cnVlIH0pOwogICAgY29uc3QgY2FwdGNoYVJlc3BvbnNlID0gYXdhaXQgdGhpcy5jYXB0Y2hhUmVmLmN1cnJlbnQuY2hlY2tDYXB0Y2hhKCk7CiAgICB0aGlzLnNldFN0YXRlKHsgY2FwdGNoYURpc3BsYXllZDogZmFsc2UgfSk7CiAgICByZXR1cm4gY2FwdGNoYVJlc3BvbnNlOwogIH07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBsYW5nPXtjb25maWcuZW52LmxvY2FsZX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">ICAgIDwvc2NyaXB0Pgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxWaWV3CiAgICAgICAgICAgIHN0eWxlPXtzdHlsZXMucmVDYXB0Y2hhfQogICAgICAgICAgICBwb2ludGVyRXZlbnRzPXt0aGlzLnN0YXRlLmNhcHRjaGFEaXNwbGF5ZWQgPyAnYXV0bycgOiAnbm9uZSd9CiAgICAgICAgICA+CiAgICAgICAgICAgIDxSZWNhcHRjaGEKICAgICAgICAgICAgICByZWY9e3RoaXMuY2FwdGNoYVJlZn0KICAgICAgICAgICAgICBzaXRlS2V5PSI2TGRsaUE0VUFBQUFBQk56Q2ZpbkxEMjdiQzREUE5VOVQzOFJLYkFvIgogICAgICAgICAgICAgIGRvbWFpbj0idWdjLmZyLyIKICAgICAgICAgICAgICBvbkxvYWRFbmQ9eygpID0+IG51bGx9CiAgICAgICAgICAgIC8+CiAgICAgICAgICA8L1ZpZXc+Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdSRU5ERVInKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGEpOwo=</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxWaWV3CiAgICAgICAgICAgIHN0eWxlPXtzdHlsZXMucmVDYXB0Y2hhfQogICAgICAgICAgICBwb2ludGVyRXZlbnRzPXt0aGlzLnN0YXRlLmNhcHRjaGFEaXNwbGF5ZWQgPyAnYXV0bycgOiAnbm9uZSd9CiAgICAgICAgICA+CiAgICAgICAgICAgIDxSZWNhcHRjaGEKICAgICAgICAgICAgICByZWY9e3RoaXMuY2FwdGNoYVJlZn0KICAgICAgICAgICAgICBzaXRlS2V5PSI2TGRsaUE0VUFBQUFBQk56Q2ZpbkxEMjdiQzREUE5VOVQzOFJLYkFvIgogICAgICAgICAgICAgIGRvbWFpbj0idWdjLmZyLyIKICAgICAgICAgICAgICBvbkxvYWRFbmQ9eygpID0+IG51bGx9CiAgICAgICAgICAgIC8+CiAgICAgICAgICA8L1ZpZXc+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGEpOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAKICBnZXRDYXB0Y2hhUmVzcG9uc2UgPSBhc3luYyAoKSA9PiB7CiAgICBpZiAoIXRoaXMuY2FwdGNoYVJlZi5jdXJyZW50KSByZXR1cm47CiAgICB0aGlzLnNldFN0YXRlKHsgY2FwdGNoYURpc3BsYXllZDogdHJ1ZSB9KTsKICAgIGNvbnN0IGNhcHRjaGFSZXNwb25zZSA9IGF3YWl0IHRoaXMuY2FwdGNoYVJlZi5jdXJyZW50LmNoZWNrQ2FwdGNoYSgpOwogICAgdGhpcy5zZXRTdGF0ZSh7IGNhcHRjaGFEaXNwbGF5ZWQ6IGZhbHNlIH0pOwogICAgcmV0dXJuIGNhcHRjaGFSZXNwb25zZTsKICB9OwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjYXB0Y2hhUmVmOiBSZWZPYmplY3Q8UmVjYXB0Y2hhPiA9IFJlYWN0LmNyZWF0ZVJlZigpOwo=</text>
+        <text encoding="base64">ICAKICBnZXRDYXB0Y2hhUmVzcG9uc2UgPSBhc3luYyAoKSA9PiB7CiAgICBpZiAoIXRoaXMuY2FwdGNoYVJlZi5jdXJyZW50KSByZXR1cm47CiAgICB0aGlzLnNldFN0YXRlKHsgY2FwdGNoYURpc3BsYXllZDogdHJ1ZSB9KTsKICAgIGNvbnN0IGNhcHRjaGFSZXNwb25zZSA9IGF3YWl0IHRoaXMuY2FwdGNoYVJlZi5jdXJyZW50LmNoZWNrQ2FwdGNoYSgpOwogICAgdGhpcy5zZXRTdGF0ZSh7IGNhcHRjaGFEaXNwbGF5ZWQ6IGZhbHNlIH0pOwogICAgcmV0dXJuIGNhcHRjaGFSZXNwb25zZTsKICB9OwoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
