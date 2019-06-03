@@ -14,7 +14,9 @@
         <mark key="]" line="78" column="0" />
         <mark key="." line="78" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/WWF/wag-server/package.json" timestamp="1559580649583" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/entrypoint.sh" timestamp="1559558378132" />
+      <file name="$USER_HOME$/Projects/WWF/wag-server/devops/docker-compose.staging.yml" timestamp="1559580578437" />
       <file name="$USER_HOME$/Projects/UGC/UGC/src/components/ReCaptcha/captcha-html.ts" timestamp="1559470254684">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -65,6 +67,7 @@
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/interface/hasVerifiedEmail.event.ts" timestamp="1558985603841">
         <mark key="[" line="2" column="20" />
       </file>
+      <file name="$USER_HOME$/Projects/WWF/wag-server/devops/staging/server/Dockerfile" timestamp="1559580635872" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/interface/resetPasswordEmailSent.event.ts" timestamp="1558988330257">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
