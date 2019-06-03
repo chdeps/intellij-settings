@@ -6,7 +6,7 @@
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/registerAccount.handler.ts" timestamp="1558986263042">
         <mark key="[" line="12" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559547147905">
+      <file name="/Dummy.txt" timestamp="1559550852798">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -24,6 +24,7 @@
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/business/profile.service.ts" timestamp="1558985518959">
         <mark key="[" line="12" column="3" />
       </file>
+      <file name="$USER_HOME$/Projects/UGC/UGC/.babelrc" timestamp="1559550929505" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/infrastructure/api/auth.controller.ts" timestamp="1559025228634">
         <mark key="[" line="69" column="17" />
         <mark key="]" line="14" column="0" />
