@@ -82,11 +82,11 @@
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/Dockerfile" timestamp="1559638752239">
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="5" column="19" />
-        <mark key="." line="5" column="19" />
-        <mark key="^" line="5" column="19" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/Dockerfile" timestamp="1559639681712">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="8" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/WWF/wag-app/Dockerfile" timestamp="1559580371551" />
       <file name="$USER_HOME$/Projects/UGC/UGC/src/components/ReCaptcha/patchPostMessageJsCode.js" timestamp="1559470977896">
@@ -216,8 +216,8 @@
       <jump line="7" column="23" filename="$USER_HOME$/Projects/InshAllah/InshAllah-Server/backpack.config.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>alpine</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">UlVOIG5wbSByZWJ1aWxkIGdycGMK</text>
       </register>
       <register name="d" type="4">
         <text />
@@ -232,34 +232,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICBsYW5nPXtjb25maWcuZW52LmxvY2FsZX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UlVOIG5wbSByZWJ1aWxkIGdycGMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UlVOIGFwayBhZGQgLS1uby1jYWNoZSAtLXZpcnR1YWwgLmd5cCBweXRob24gbWFrZSBnKysK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">UlVOIHlhcm4gaW5zdGFsbCBhcmdvbjIK</text>
+        <text encoding="base64">UlVOIGFwayBhZGQgLS1uby1jYWNoZSAtLXZpcnR1YWwgLmd5cCBweXRob24gbWFrZSBnKysK</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UlVOIHlhcm4gaW5zdGFsbCBhcmdvbjIK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">UlVOIG5wbSBpbnN0YWxsIFsgeW91ciBucG0gZGVwZW5kZW5jaWVzIGhlcmUgXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Q09QWSBwYWNrYWdlLmpzb24geWFybi5sb2NrIC91c3Ivc3JjL2FwcC8K</text>
+        <text encoding="base64">UlVOIG5wbSBpbnN0YWxsIFsgeW91ciBucG0gZGVwZW5kZW5jaWVzIGhlcmUgXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">UlVOIGFwayBhZGQgLS1uby1jYWNoZSAtLXZpcnR1YWwgLmd5cCBweXRob24gbWFrZSBnKysK</text>
+        <text encoding="base64">Q09QWSBwYWNrYWdlLmpzb24geWFybi5sb2NrIC91c3Ivc3JjL2FwcC8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyMgSW5zdGFsbCBidWlsZCB0b29sY2hhaW4sIGluc3RhbGwgbm9kZSBkZXBzIGFuZCBjb21waWxlIG5hdGl2ZSBhZGQtb25zCg==</text>
+        <text encoding="base64">UlVOIGFwayBhZGQgLS1uby1jYWNoZSAtLXZpcnR1YWwgLmd5cCBweXRob24gbWFrZSBnKysK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
