@@ -82,10 +82,10 @@
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/Dockerfile" timestamp="1559639681712">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/Dockerfile" timestamp="1559641685738">
+        <mark key="[" line="8" column="9" />
+        <mark key="]" line="8" column="9" />
+        <mark key="." line="8" column="9" />
         <mark key="^" line="8" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/WWF/wag-app/Dockerfile" timestamp="1559580371551" />
@@ -216,14 +216,14 @@
       <jump line="7" column="23" filename="$USER_HOME$/Projects/InshAllah/InshAllah-Server/backpack.config.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">UlVOIG5wbSByZWJ1aWxkIGdycGMK</text>
+      <register name="&quot;" type="4">
+        <text>--force</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>alpine</text>
+        <text>--force</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
