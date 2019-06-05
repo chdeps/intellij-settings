@@ -3,11 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/backpack.config.js" timestamp="1559557656574">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/package.json" timestamp="1559731087156">
+        <mark key="[" line="29" column="16" />
+        <mark key="]" line="29" column="16" />
+        <mark key="." line="29" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/lib/mailer.js" timestamp="1559723035677">
         <mark key="[" line="23" column="0" />
@@ -22,29 +21,14 @@
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/components/DashboardComponents/FeedbackItem/FeedbackItem.js" timestamp="1559723049192">
         <mark key="[" line="79" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/UGC/UGC/src/components/ReCaptcha/Recaptcha.component.js" timestamp="1559564015396">
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="0" />
-        <mark key="." line="75" column="0" />
-      </file>
       <file name="/JavaScript Console" timestamp="1559040615428">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/docker-compose.yml" timestamp="1559580137628">
-        <mark key="[" line="11" column="8" />
-        <mark key="]" line="11" column="8" />
-        <mark key="." line="11" column="8" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/registerAccount.handler.ts" timestamp="1558986263042">
         <mark key="[" line="12" column="27" />
       </file>
       <file name="/Dummy.txt" timestamp="1559723168267">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/sendEmailValidationEmail.handler.ts" timestamp="1559552084184">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/business/profile.service.ts" timestamp="1558985518959">
         <mark key="[" line="12" column="3" />
@@ -55,22 +39,15 @@
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/interface/hasVerifiedEmail.event.ts" timestamp="1558985603841">
         <mark key="[" line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/UGC/UGC/src/pages/Login/Login.component.js" timestamp="1559562967556">
-        <mark key="[" line="250" column="18" />
-        <mark key="]" line="250" column="18" />
-        <mark key="." line="250" column="18" />
-        <mark key="^" line="250" column="25" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/Dockerfile" timestamp="1559656630966">
-        <mark key="[" line="10" column="13" />
-        <mark key="]" line="10" column="13" />
-        <mark key="." line="10" column="13" />
-        <mark key="^" line="9" column="21" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/Dockerfile" timestamp="1559735886273">
+        <mark key="[" line="9" column="7" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/UGC/UGC/src/components/ReCaptcha/patchPostMessageJsCode.js" timestamp="1559470977896">
         <mark key="[" line="10" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/.dockerignore" timestamp="1559575661752">
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/.dockerignore" timestamp="1559736026785">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="6" />
         <mark key="^" line="3" column="6" />
@@ -184,13 +161,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CmNvbnN0IHNlbmRDNENFcnJvck1haWwgPSBhc3luYyBjb250ZW50ID0+IHsKICBjb25zdCBhY3RpdmVBZG1pbnMgPSBhd2FpdCBEYXNoYm9hcmRVc2VyUmVwb3NpdG9yeS5maW5kQWN0aXZlQWRtaW5zKCk7CiAgY29uc3QgcmVjaXBpZW50cyA9IGFjdGl2ZUFkbWlucy5tYXAodXNlciA9PiB1c2VyLmVtYWlsKTsKICBjb25zdCBtc2cgPSB7CiAgICB0bzogcmVjaXBpZW50cywKICAgIGZyb206IE1BSUxfU0VOREVSLAogICAgc3ViamVjdDogJ1tDdXN0b21lciBTYXRpc2ZhY3Rpb25dIEEgc3luYyBlcnJvciBvY2N1cmVkIHdpdGggQzRDJywKICAgIHRleHQ6IGNvbnRlbnQsCiAgfTsKICByZXR1cm4gc2dNYWlsLnNlbmQobXNnKTsKfTsK</text>
+        <text encoding="base64">UlVOIHlhcm4K</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>/usr/src/app</text>
+        <text>npm install</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
@@ -199,34 +176,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICBsYW5nPXtjb25maWcuZW52LmxvY2FsZX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CmNvbnN0IHNlbmRDNENFcnJvck1haWwgPSBhc3luYyBjb250ZW50ID0+IHsKICBjb25zdCBhY3RpdmVBZG1pbnMgPSBhd2FpdCBEYXNoYm9hcmRVc2VyUmVwb3NpdG9yeS5maW5kQWN0aXZlQWRtaW5zKCk7CiAgY29uc3QgcmVjaXBpZW50cyA9IGFjdGl2ZUFkbWlucy5tYXAodXNlciA9PiB1c2VyLmVtYWlsKTsKICBjb25zdCBtc2cgPSB7CiAgICB0bzogcmVjaXBpZW50cywKICAgIGZyb206IE1BSUxfU0VOREVSLAogICAgc3ViamVjdDogJ1tDdXN0b21lciBTYXRpc2ZhY3Rpb25dIEEgc3luYyBlcnJvciBvY2N1cmVkIHdpdGggQzRDJywKICAgIHRleHQ6IGNvbnRlbnQsCiAgfTsKICByZXR1cm4gc2dNYWlsLnNlbmQobXNnKTsKfTsK</text>
+        <text encoding="base64">UlVOIHlhcm4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBzZW5kQzRDRXJyb3JNYWlsLAo=</text>
+        <text encoding="base64">UlVOIG5wbSByZWJ1aWxkIGdycGMgLS11cGRhdGUtYmluYXJ5Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgbWFpbGVyID0gcmVxdWlyZSgnLi4vbGliL21haWxlcicpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9Cgo=</text>
+        <text encoding="base64">UlVOIGFwdC1nZXQgdXBkYXRlICYmIFwKICAgIGFwdC1nZXQgaW5zdGFsbCBuZXRjYXQtb3BlbmJzZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zdCBlcnJvck1haWxDb250ZW50ID0gYEFuIGVycm9yIG9jY3VyZWQgYmV0d2VlbiBkYXNoYm9hcmQgYW5kIEM0QyB3aGVuIHBlcmZvcm1pbmcgZm9sbG93aW5nIGFjdGlvbiA6ICR7ZXJyb3JDb250ZXh0fSBmcm9tIEM0Qy4gRXJyb3I6ICR7YzRjRXJyb3JNZXNzYWdlfWA7Cg==</text>
+        <text encoding="base64">CmNvbnN0IHNlbmRDNENFcnJvck1haWwgPSBhc3luYyBjb250ZW50ID0+IHsKICBjb25zdCBhY3RpdmVBZG1pbnMgPSBhd2FpdCBEYXNoYm9hcmRVc2VyUmVwb3NpdG9yeS5maW5kQWN0aXZlQWRtaW5zKCk7CiAgY29uc3QgcmVjaXBpZW50cyA9IGFjdGl2ZUFkbWlucy5tYXAodXNlciA9PiB1c2VyLmVtYWlsKTsKICBjb25zdCBtc2cgPSB7CiAgICB0bzogcmVjaXBpZW50cywKICAgIGZyb206IE1BSUxfU0VOREVSLAogICAgc3ViamVjdDogJ1tDdXN0b21lciBTYXRpc2ZhY3Rpb25dIEEgc3luYyBlcnJvciBvY2N1cmVkIHdpdGggQzRDJywKICAgIHRleHQ6IGNvbnRlbnQsCiAgfTsKICByZXR1cm4gc2dNYWlsLnNlbmQobXNnKTsKfTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBtYWlsZXIuc2VuZEM0Q0Vycm9yTWFpbChlcnJvck1haWxDb250ZW50KTsK</text>
+        <text encoding="base64">ICBzZW5kQzRDRXJyb3JNYWlsLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgbWFpbGVyID0gcmVxdWlyZSgnLi4vbGliL21haWxlcicpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">UlVOIGFwayBhZGQgLS1uby1jYWNoZSAtLXZpcnR1YWwgLmd5cCBweXRob24gbWFrZSBnKysK</text>
+        <text encoding="base64">ICB9Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">UlVOIG5wbSByZWJ1aWxkIGdycGMK</text>
+        <text encoding="base64">ICBjb25zdCBlcnJvck1haWxDb250ZW50ID0gYEFuIGVycm9yIG9jY3VyZWQgYmV0d2VlbiBkYXNoYm9hcmQgYW5kIEM0QyB3aGVuIHBlcmZvcm1pbmcgZm9sbG93aW5nIGFjdGlvbiA6ICR7ZXJyb3JDb250ZXh0fSBmcm9tIEM0Qy4gRXJyb3I6ICR7YzRjRXJyb3JNZXNzYWdlfWA7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
