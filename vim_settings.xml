@@ -24,6 +24,12 @@
       <file name="/JavaScript Console" timestamp="1559040615428">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/docker-compose.yml" timestamp="1559737339067">
+        <mark key="[" line="11" column="29" />
+        <mark key="]" line="11" column="29" />
+        <mark key="." line="11" column="29" />
+        <mark key="^" line="11" column="11" />
+      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/registerAccount.handler.ts" timestamp="1558986263042">
         <mark key="[" line="12" column="27" />
       </file>
@@ -160,14 +166,14 @@
       <jump line="7" column="23" filename="$USER_HOME$/Projects/InshAllah/InshAllah-Server/backpack.config.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">UlVOIHlhcm4K</text>
+      <register name="&quot;" type="4">
+        <text>:delegated</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>npm install</text>
+        <text>:delegated</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
