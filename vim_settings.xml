@@ -9,24 +9,27 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/lib/mailer.js" timestamp="1559662190334" />
-      <file name="$USER_HOME$/Projects/WWF/wag-server/package.json" timestamp="1559580649583" />
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/entrypoint.sh" timestamp="1559558378132" />
-      <file name="$USER_HOME$/Projects/WWF/wag-server/devops/docker-compose.staging.yml" timestamp="1559580578437" />
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/services/c4cConnexionErrorService.js" timestamp="1559662167545" />
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/repositories/FeedbackRepository.js" timestamp="1559662045607" />
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/index.js" timestamp="1559661907554" />
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/components/DashboardComponents/FeedbackItem/FeedbackItem.js" timestamp="1559662088246" />
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/lib/mailer.js" timestamp="1559723035677">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/services/c4cConnexionErrorService.js" timestamp="1559723018083">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/components/DashboardComponents/FeedbackItem/FeedbackItem.js" timestamp="1559723049192">
+        <mark key="[" line="79" column="32" />
+      </file>
       <file name="$USER_HOME$/Projects/UGC/UGC/src/components/ReCaptcha/Recaptcha.component.js" timestamp="1559564015396">
         <mark key="[" line="75" column="0" />
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/pages/InfoProfile/components/Country/Country.tsx" timestamp="1559634699868" />
       <file name="/JavaScript Console" timestamp="1559040615428">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/node_modules/@types/react-native/index.d.ts" timestamp="1559634645969" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/docker-compose.yml" timestamp="1559580137628">
         <mark key="[" line="11" column="8" />
         <mark key="]" line="11" column="8" />
@@ -35,7 +38,9 @@
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/registerAccount.handler.ts" timestamp="1558986263042">
         <mark key="[" line="12" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/components/DashboardComponents/FeedbackList/FeedbackList.component.js" timestamp="1559661637712" />
+      <file name="/Dummy.txt" timestamp="1559723168267">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/sendEmailValidationEmail.handler.ts" timestamp="1559552084184">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
@@ -44,14 +49,12 @@
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/business/profile.service.ts" timestamp="1558985518959">
         <mark key="[" line="12" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/UGC/UGC/.babelrc" timestamp="1559551676102" />
       <file name="/GraphQL.result.json" timestamp="1559580413711">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/interface/hasVerifiedEmail.event.ts" timestamp="1558985603841">
         <mark key="[" line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/WWF/wag-server/devops/staging/server/Dockerfile" timestamp="1559580635872" />
       <file name="$USER_HOME$/Projects/UGC/UGC/src/pages/Login/Login.component.js" timestamp="1559562967556">
         <mark key="[" line="250" column="18" />
         <mark key="]" line="250" column="18" />
@@ -64,20 +67,15 @@
         <mark key="." line="10" column="13" />
         <mark key="^" line="9" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/WWF/wag-app/Dockerfile" timestamp="1559580371551" />
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/services/dashboardUserService.js" timestamp="1559661859384" />
       <file name="$USER_HOME$/Projects/UGC/UGC/src/components/ReCaptcha/patchPostMessageJsCode.js" timestamp="1559470977896">
         <mark key="[" line="10" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/lib/api.js" timestamp="1559661697879" />
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/android/app/src/main/AndroidManifest.xml" timestamp="1559577824090" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/.dockerignore" timestamp="1559575661752">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="6" />
         <mark key="^" line="3" column="6" />
         <mark key="." line="3" column="6" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/yarn.lock" timestamp="1559642498987" />
       <file name="$USER_HOME$/Projects/UGC/UGC/src/components/ReCaptcha/index.js" timestamp="1559148623006">
         <mark key="[" line="0" column="0" />
       </file>
@@ -185,8 +183,8 @@
       <jump line="7" column="23" filename="$USER_HOME$/Projects/InshAllah/InshAllah-Server/backpack.config.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/usr/src/app</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CmNvbnN0IHNlbmRDNENFcnJvck1haWwgPSBhc3luYyBjb250ZW50ID0+IHsKICBjb25zdCBhY3RpdmVBZG1pbnMgPSBhd2FpdCBEYXNoYm9hcmRVc2VyUmVwb3NpdG9yeS5maW5kQWN0aXZlQWRtaW5zKCk7CiAgY29uc3QgcmVjaXBpZW50cyA9IGFjdGl2ZUFkbWlucy5tYXAodXNlciA9PiB1c2VyLmVtYWlsKTsKICBjb25zdCBtc2cgPSB7CiAgICB0bzogcmVjaXBpZW50cywKICAgIGZyb206IE1BSUxfU0VOREVSLAogICAgc3ViamVjdDogJ1tDdXN0b21lciBTYXRpc2ZhY3Rpb25dIEEgc3luYyBlcnJvciBvY2N1cmVkIHdpdGggQzRDJywKICAgIHRleHQ6IGNvbnRlbnQsCiAgfTsKICByZXR1cm4gc2dNYWlsLnNlbmQobXNnKTsKfTsK</text>
       </register>
       <register name="d" type="4">
         <text />
@@ -201,34 +199,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICBsYW5nPXtjb25maWcuZW52LmxvY2FsZX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmNvbnN0IHNlbmRDNENFcnJvck1haWwgPSBhc3luYyBjb250ZW50ID0+IHsKICBjb25zdCBhY3RpdmVBZG1pbnMgPSBhd2FpdCBEYXNoYm9hcmRVc2VyUmVwb3NpdG9yeS5maW5kQWN0aXZlQWRtaW5zKCk7CiAgY29uc3QgcmVjaXBpZW50cyA9IGFjdGl2ZUFkbWlucy5tYXAodXNlciA9PiB1c2VyLmVtYWlsKTsKICBjb25zdCBtc2cgPSB7CiAgICB0bzogcmVjaXBpZW50cywKICAgIGZyb206IE1BSUxfU0VOREVSLAogICAgc3ViamVjdDogJ1tDdXN0b21lciBTYXRpc2ZhY3Rpb25dIEEgc3luYyBlcnJvciBvY2N1cmVkIHdpdGggQzRDJywKICAgIHRleHQ6IGNvbnRlbnQsCiAgfTsKICByZXR1cm4gc2dNYWlsLnNlbmQobXNnKTsKfTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UlVOIGFwayBhZGQgLS1uby1jYWNoZSAtLXZpcnR1YWwgLmd5cCBweXRob24gbWFrZSBnKysK</text>
+        <text encoding="base64">ICBzZW5kQzRDRXJyb3JNYWlsLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">UlVOIG5wbSByZWJ1aWxkIGdycGMK</text>
+        <text encoding="base64">Y29uc3QgbWFpbGVyID0gcmVxdWlyZSgnLi4vbGliL21haWxlcicpOwo=</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">UlVOIGFwayBhZGQgLS1uby1jYWNoZSAtLXZpcnR1YWwgLmd5cCBweXRob24gbWFrZSBnKysK</text>
+        <text encoding="base64">ICBjb25zdCBlcnJvck1haWxDb250ZW50ID0gYEFuIGVycm9yIG9jY3VyZWQgYmV0d2VlbiBkYXNoYm9hcmQgYW5kIEM0QyB3aGVuIHBlcmZvcm1pbmcgZm9sbG93aW5nIGFjdGlvbiA6ICR7ZXJyb3JDb250ZXh0fSBmcm9tIEM0Qy4gRXJyb3I6ICR7YzRjRXJyb3JNZXNzYWdlfWA7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">UlVOIHlhcm4gaW5zdGFsbCBhcmdvbjIK</text>
+        <text encoding="base64">ICBtYWlsZXIuc2VuZEM0Q0Vycm9yTWFpbChlcnJvck1haWxDb250ZW50KTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UlVOIGFwayBhZGQgLS1uby1jYWNoZSAtLXZpcnR1YWwgLmd5cCBweXRob24gbWFrZSBnKysK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">UlVOIG5wbSBpbnN0YWxsIFsgeW91ciBucG0gZGVwZW5kZW5jaWVzIGhlcmUgXQo=</text>
+        <text encoding="base64">UlVOIG5wbSByZWJ1aWxkIGdycGMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
