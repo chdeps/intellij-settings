@@ -72,11 +72,11 @@
         <mark key="." line="17" column="3" />
         <mark key="^" line="17" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/Docker/Docker/docker-compose.yml" timestamp="1559770500413">
-        <mark key="[" line="6" column="0" />
+      <file name="$USER_HOME$/Projects/Docker/Docker/docker-compose.yml" timestamp="1559808002060">
+        <mark key="[" line="7" column="23" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
-        <mark key="^" line="9" column="16" />
+        <mark key="^" line="10" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/UGC/UGC/src/components/ReCaptcha/patchPostMessageJsCode.js" timestamp="1559470977896">
         <mark key="[" line="10" column="9" />
