@@ -9,19 +9,11 @@
         <mark key="." line="27" column="30" />
         <mark key="^" line="27" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/navigation/index.tsx" timestamp="1559830830061" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/entrypoint.sh" timestamp="1559817788739" />
       <file name="$USER_HOME$/Projects/WWF/wag-server/devops/docker-compose.staging.yml" timestamp="1559813203664" />
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/services/c4cConnexionErrorService.js" timestamp="1559723018083">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/Docker/Docker/package.json" timestamp="1559769501930">
-        <mark key="[" line="12" column="22" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/pages/InfoProfile/Swipper.tsx" timestamp="1559832757617" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/pages/InfoProfile/components/Question/service.ts" timestamp="1559832997314" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/components/Page/Page.tsx" timestamp="1559832030956" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/docker-compose.yml" timestamp="1559817357091">
         <mark key="[" line="8" column="24" />
         <mark key="]" line="2" column="0" />
@@ -35,23 +27,12 @@
         <mark key="^" line="3" column="39" />
         <mark key="." line="5" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/registerAccount.handler.ts" timestamp="1558986263042">
-        <mark key="[" line="12" column="27" />
-      </file>
-      <file name="$USER_HOME$/Projects/UGC/UGC/src/components/ReCaptcha/patchPostMessageJsCode.js" timestamp="1559470977896">
-        <mark key="[" line="10" column="9" />
-      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/components/Button/Button.tsx" timestamp="1559832155532" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/theme/index.ts" timestamp="1559831461440" />
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/pages/ProfileCapture/ProfileCapture.pages.tsx" timestamp="1559744660619" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/config/infoProfileQuestions.json" timestamp="1559832819434" />
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/pages/UploadPhotoGallery/PictureWrapper.component.tsx" timestamp="1559813629125">
         <mark key="[" line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/UGC/UGC/src/components/ReCaptcha/index.js" timestamp="1559148623006">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/lib/mailer.js" timestamp="1559723035677">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Docker/Docker/Dockerfile" timestamp="1559817198453">
         <mark key="[" line="6" column="0" />
@@ -59,26 +40,9 @@
         <mark key="." line="0" column="11" />
         <mark key="^" line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/components/DashboardComponents/FeedbackItem/FeedbackItem.js" timestamp="1559723049192">
-        <mark key="[" line="79" column="32" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1559040615428">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1559743738863">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/pages/InfoProfile/components/Religion/Religion.tsx" timestamp="1559832729114" />
       <file name="$USER_HOME$/Projects/WWF/wag-server/devops/docker-compose.local.yml" timestamp="1559813342250" />
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/business/profile.service.ts" timestamp="1558985518959">
-        <mark key="[" line="12" column="3" />
-      </file>
-      <file name="/GraphQL.result.json" timestamp="1559813198326">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/components/Pictures/Picture/Picture.component.tsx" timestamp="1559813644408" />
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/interface/hasVerifiedEmail.event.ts" timestamp="1558985603841">
-        <mark key="[" line="2" column="20" />
-      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/Dockerfile" timestamp="1559822416227">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="10" column="0" />
@@ -90,9 +54,6 @@
         <mark key="]" line="7" column="9" />
         <mark key="." line="7" column="9" />
         <mark key="^" line="3" column="5" />
-      </file>
-      <file name="$USER_HOME$/Projects/Docker/Docker/.dockerignore" timestamp="1559809456084">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/WWF/wag-server/devops/local/server/Dockerfile" timestamp="1559816883514" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/.dockerignore" timestamp="1559736026785">
