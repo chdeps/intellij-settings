@@ -19,6 +19,7 @@
         <mark key="]" line="3" column="20" />
         <mark key="." line="3" column="20" />
       </file>
+      <file name="$USER_HOME$/Projects/WWF/wag-server/devops/docker-compose.staging.yml" timestamp="1559813203664" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/services/c4cConnexionErrorService.js" timestamp="1559723018083">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -57,12 +58,14 @@
       <file name="/Dummy.txt" timestamp="1559743738863">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/WWF/wag-server/devops/docker-compose.local.yml" timestamp="1559813342250" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/business/profile.service.ts" timestamp="1558985518959">
         <mark key="[" line="12" column="3" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1559813141165">
+      <file name="/GraphQL.result.json" timestamp="1559813198326">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/components/Pictures/Picture/Picture.component.tsx" timestamp="1559813644408" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/interface/hasVerifiedEmail.event.ts" timestamp="1558985603841">
         <mark key="[" line="2" column="20" />
       </file>
@@ -92,7 +95,7 @@
       </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/pages/ProfileCapture/ProfileCapture.pages.tsx" timestamp="1559744660619" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-grpc/grpc.ts" timestamp="1559769456157" />
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/pages/UploadPhotoGallery/PictureWrapper.component.tsx" timestamp="1559810421762">
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/pages/UploadPhotoGallery/PictureWrapper.component.tsx" timestamp="1559813629125">
         <mark key="[" line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-core/modules/pictures/saga.ts" timestamp="1559803614466" />
