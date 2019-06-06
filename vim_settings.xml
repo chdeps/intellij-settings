@@ -9,6 +9,7 @@
         <mark key="." line="27" column="30" />
         <mark key="^" line="27" column="30" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/entrypoint.sh" timestamp="1559817788739" />
       <file name="$USER_HOME$/Projects/WWF/wag-server/devops/docker-compose.staging.yml" timestamp="1559813203664" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/services/c4cConnexionErrorService.js" timestamp="1559723018083">
         <mark key="[" line="0" column="0" />
@@ -81,11 +82,11 @@
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/interface/hasVerifiedEmail.event.ts" timestamp="1558985603841">
         <mark key="[" line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/Dockerfile" timestamp="1559817203363">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="5" column="29" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/Dockerfile" timestamp="1559822416227">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="8" column="29" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Docker/Docker/docker-compose.yml" timestamp="1559816921057">
         <mark key="[" line="7" column="9" />
