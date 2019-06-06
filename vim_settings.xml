@@ -28,12 +28,10 @@
         <mark key="." line="5" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/components/Button/Button.tsx" timestamp="1559832155532" />
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-core/services/utils.ts" timestamp="1559837831133" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/theme/index.ts" timestamp="1559831461440" />
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/pages/ProfileCapture/ProfileCapture.pages.tsx" timestamp="1559744660619" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/config/infoProfileQuestions.json" timestamp="1559832819434" />
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/pages/UploadPhotoGallery/PictureWrapper.component.tsx" timestamp="1559813629125">
-        <mark key="[" line="18" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/Docker/Docker/Dockerfile" timestamp="1559817198453">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="34" />
@@ -41,6 +39,10 @@
         <mark key="^" line="0" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/pages/InfoProfile/components/Religion/Religion.tsx" timestamp="1559832729114" />
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/modules/facebook/saga.ts" timestamp="1559747751987">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="20" column="2" />
+      </file>
       <file name="$USER_HOME$/Projects/WWF/wag-server/devops/docker-compose.local.yml" timestamp="1559813342250" />
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/components/Pictures/Picture/Picture.component.tsx" timestamp="1559813644408" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/Dockerfile" timestamp="1559822416227">
@@ -63,7 +65,10 @@
         <mark key="." line="3" column="6" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-grpc/grpc.ts" timestamp="1559769456157" />
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-core/modules/pictures/saga.ts" timestamp="1559803614466" />
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-core/modules/pictures/saga.ts" timestamp="1559837849507">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="57" />
+      </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/components/Pictures/ProfilePicture/ProfilePicture.component.tsx" timestamp="1559816246425">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -174,7 +179,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dm9sdW1lczoKICBub2RlX21vZHVsZXM6Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHJlcyA9IHlpZWxkIGNwcyh0b0RhdGFVcmwsIGFjdGlvbi5wYXlsb2FkLnVyaSk7Cg==</text>
       </register>
       <register name="d" type="4">
         <text />
@@ -186,7 +191,7 @@
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">UlVOIHlhcm4gaW5zdGFsbCAtLWZyb3plbi1sb2NrZmlsZQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHJlcyA9IHlpZWxkIGNwcyh0b0RhdGFVcmwsIGFjdGlvbi5wYXlsb2FkLnVyaSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">dm9sdW1lczoKICBub2RlX21vZHVsZXM6Cg==</text>
