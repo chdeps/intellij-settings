@@ -14,7 +14,7 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Docker/Docker/Dockerfile" timestamp="1559770173884">
+      <file name="$USER_HOME$/Projects/Docker/Docker/Dockerfile" timestamp="1559813019176">
         <mark key="[" line="3" column="20" />
         <mark key="]" line="3" column="20" />
         <mark key="." line="3" column="20" />
@@ -60,7 +60,7 @@
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/business/profile.service.ts" timestamp="1558985518959">
         <mark key="[" line="12" column="3" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1559580413711">
+      <file name="/GraphQL.result.json" timestamp="1559813141165">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/interface/hasVerifiedEmail.event.ts" timestamp="1558985603841">
