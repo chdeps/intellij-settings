@@ -9,43 +9,24 @@
         <mark key="." line="27" column="30" />
         <mark key="^" line="27" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/lib/mailer.js" timestamp="1559723035677">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/Docker/Docker/Dockerfile" timestamp="1559813019176">
-        <mark key="[" line="3" column="20" />
-        <mark key="]" line="3" column="20" />
-        <mark key="." line="3" column="20" />
-      </file>
       <file name="$USER_HOME$/Projects/WWF/wag-server/devops/docker-compose.staging.yml" timestamp="1559813203664" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/services/c4cConnexionErrorService.js" timestamp="1559723018083">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/components/DashboardComponents/FeedbackItem/FeedbackItem.js" timestamp="1559723049192">
-        <mark key="[" line="79" column="32" />
-      </file>
       <file name="$USER_HOME$/Projects/Docker/Docker/package.json" timestamp="1559769501930">
         <mark key="[" line="12" column="22" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1559040615428">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/docker-compose.yml" timestamp="1559817357091">
+        <mark key="[" line="8" column="24" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="9" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/docker-compose.yml" timestamp="1559737339067">
-        <mark key="[" line="11" column="29" />
-        <mark key="]" line="11" column="29" />
-        <mark key="." line="11" column="29" />
-        <mark key="^" line="11" column="11" />
-      </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/modules/facebook/saga.ts" timestamp="1559747751987">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="20" column="2" />
-      </file>
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/pages/UploadPhotoGallery/UploadPhotoGallery.component.tsx" timestamp="1559815938815" />
       <file name="$USER_HOME$/Projects/Docker/Docker/index.js" timestamp="1559769731249">
         <mark key="[" line="5" column="24" />
         <mark key="]" line="5" column="24" />
@@ -54,6 +35,37 @@
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/registerAccount.handler.ts" timestamp="1558986263042">
         <mark key="[" line="12" column="27" />
+      </file>
+      <file name="$USER_HOME$/Projects/UGC/UGC/src/components/ReCaptcha/patchPostMessageJsCode.js" timestamp="1559470977896">
+        <mark key="[" line="10" column="9" />
+      </file>
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/pages/ProfileCapture/ProfileCapture.pages.tsx" timestamp="1559744660619" />
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/pages/UploadPhotoGallery/PictureWrapper.component.tsx" timestamp="1559813629125">
+        <mark key="[" line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/UGC/UGC/src/components/ReCaptcha/index.js" timestamp="1559148623006">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/lib/mailer.js" timestamp="1559723035677">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/Docker/Docker/Dockerfile" timestamp="1559817198453">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="34" />
+        <mark key="." line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+      </file>
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/components/DashboardComponents/FeedbackItem/FeedbackItem.js" timestamp="1559723049192">
+        <mark key="[" line="79" column="32" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1559040615428">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/modules/facebook/saga.ts" timestamp="1559747751987">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="20" column="2" />
       </file>
       <file name="/Dummy.txt" timestamp="1559743738863">
         <mark key="[" line="0" column="0" />
@@ -69,43 +81,34 @@
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/interface/hasVerifiedEmail.event.ts" timestamp="1558985603841">
         <mark key="[" line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/Dockerfile" timestamp="1559767865875">
-        <mark key="[" line="17" column="4" />
-        <mark key="]" line="17" column="3" />
-        <mark key="." line="17" column="3" />
-        <mark key="^" line="17" column="3" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/Dockerfile" timestamp="1559817203363">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="5" column="29" />
+        <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Docker/Docker/docker-compose.yml" timestamp="1559809919780">
-        <mark key="[" line="5" column="12" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Projects/Docker/Docker/docker-compose.yml" timestamp="1559816921057">
+        <mark key="[" line="7" column="9" />
+        <mark key="]" line="7" column="9" />
+        <mark key="." line="7" column="9" />
         <mark key="^" line="3" column="5" />
-      </file>
-      <file name="$USER_HOME$/Projects/UGC/UGC/src/components/ReCaptcha/patchPostMessageJsCode.js" timestamp="1559470977896">
-        <mark key="[" line="10" column="9" />
       </file>
       <file name="$USER_HOME$/Projects/Docker/Docker/.dockerignore" timestamp="1559809456084">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/WWF/wag-server/devops/local/server/Dockerfile" timestamp="1559816883514" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/.dockerignore" timestamp="1559736026785">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="6" />
         <mark key="^" line="3" column="6" />
         <mark key="." line="3" column="6" />
       </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/pages/ProfileCapture/ProfileCapture.pages.tsx" timestamp="1559744660619" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-grpc/grpc.ts" timestamp="1559769456157" />
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/pages/UploadPhotoGallery/PictureWrapper.component.tsx" timestamp="1559813629125">
-        <mark key="[" line="18" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-core/modules/pictures/saga.ts" timestamp="1559803614466" />
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/components/Pictures/ProfilePicture/ProfilePicture.component.tsx" timestamp="1559810341204">
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/components/Pictures/ProfilePicture/ProfilePicture.component.tsx" timestamp="1559816246425">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="117" column="65" />
-      </file>
-      <file name="$USER_HOME$/Projects/UGC/UGC/src/components/ReCaptcha/index.js" timestamp="1559148623006">
-        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -212,49 +215,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRUJVVFRPTl9BQ1RJT05fSUNPTlMgfSBmcm9tICdhZmZpbnktY29yZS9oZWxwZXJzL3BpY3R1cmUvcGljdHVyZS5oZWxwZXInOwppbXBvcnQgc3R5bGVkLCB7CiAgSVRoZW1lUHJvcHMsCiAgd2l0aFRoZW1lLAp9IGZyb20gJ0FmZmlueS9zcmMvbGlicmFyaWVzL3N0eWxlZC1jb21wb25lbnRzJzsKaW1wb3J0IHsgU3ZnIH0gZnJvbSAnQWZmaW55L3NyYy91aS9TdmcnOwppbXBvcnQgUmVhY3QsIHsgQ29tcG9uZW50IH0gZnJvbSAncmVhY3QnOwppbXBvcnQgeyBMYXlvdXRDaGFuZ2VFdmVudCB9IGZyb20gJ3JlYWN0LW5hdGl2ZSc7CmltcG9ydCB7IFBpY3R1cmUgfSBmcm9tICcuLi9QaWN0dXJlL1BpY3R1cmUuY29tcG9uZW50JzsKCmludGVyZmFjZSBJUHJvcHMgZXh0ZW5kcyBJVGhlbWVQcm9wcyB7CiAgaXNTbWFsbD86IGJvb2xlYW47CiAgaW1hZ2VVcmk6IHN0cmluZzsKICBzdGF0dXM/OiBzdHJpbmc7CiAgYnV0dG9uVHlwZT86IEVCVVRUT05fQUNUSU9OX0lDT05TOwogIGlzVHJhbnNwYXJlbnQ/OiBib29sZWFuOwogIG9uQnV0dG9uUHJlc3M/OiAoKSA9PiB2b2lkOwogIG9uUHJlc3M/OiAoKSA9PiB2b2lkOwp9CgppbnRlcmZhY2UgSVN0YXRlIHsKICBoZWlnaHQ6IG51bWJlcjsKfQoKY29uc3QgQlVUVE9OX0NPTlRBSU5FUl9TSVpFID0gMzI7CgpleHBvcnQgY2xhc3MgUHJvZmlsZVBpY3R1cmVXaXRoVGhlbWUgZXh0ZW5kcyBDb21wb25lbnQ8SVByb3BzLCBJU3RhdGU+IHsKICBwdWJsaWMgc3RhdGljIGRlZmF1bHRQcm9wcyA9IHsKICAgIGlzU21hbGw6IGZhbHNlLAogICAgaXNUcmFuc3BhcmVudDogZmFsc2UsCiAgfTsKICBwdWJsaWMgc3RhdGU6IElTdGF0ZSA9IHsgaGVpZ2h0OiAwIH07CgogIHB1YmxpYyByZW5kZXIoKSB7CiAgICBjb25zdCB7CiAgICAgIG9uQnV0dG9uUHJlc3MsCiAgICAgIG9uUHJlc3MsCiAgICAgIGJ1dHRvblR5cGUsCiAgICAgIGltYWdlVXJpLAogICAgICBpc1NtYWxsLAogICAgICBpc1RyYW5zcGFyZW50LAogICAgICBzdGF0dXMsCiAgICAgIHRoZW1lLAogICAgfSA9IHRoaXMucHJvcHM7CiAgICByZXR1cm4gKAogICAgICA8Q29udGFpbmVyIGlzU21hbGw9eyEhaXNTbWFsbH0gb25QcmVzcz17b25QcmVzc30gZGlzYWJsZWQ9eyFvblByZXNzfT4KICAgICAgICA8U3R5bGVkSW1hZ2UKICAgICAgICAgIHVyaT17aW1hZ2VVcml9CiAgICAgICAgICByZXNpemVNb2RlPSJjb3ZlciIKICAgICAgICAgIGhlaWdodD17dGhpcy5zdGF0ZS5oZWlnaHR9CiAgICAgICAgICBpc1RyYW5zcGFyZW50PXshIWlzVHJhbnNwYXJlbnR9CiAgICAgICAgICBvbkxheW91dD17dGhpcy5vbkxheW91dH0KICAgICAgICAvPgogICAgICAgIHtzdGF0dXMgPyA8Q2FwdGlvbiBpc1NtYWxsPXshIWlzU21hbGx9PntzdGF0dXN9PC9DYXB0aW9uPiA6IG51bGx9CiAgICAgICAge2J1dHRvblR5cGUgPyAoCiAgICAgICAgICA8QnV0dG9uQ29udGFpbmVyIG9uUHJlc3M9e29uQnV0dG9uUHJlc3N9PgogICAgICAgICAgICA8U3ZnIHR5cGU9e2J1dHRvblR5cGV9IGNvbG9yPXt0aGVtZS5jb2xvcnMubWFuZHl9IC8+CiAgICAgICAgICA8L0J1dHRvbkNvbnRhaW5lcj4KICAgICAgICApIDogbnVsbH0KICAgICAgPC9Db250YWluZXI+CiAgICApOwogIH0KCiAgcHJpdmF0ZSBvbkxheW91dCA9IChldmVudDogTGF5b3V0Q2hhbmdlRXZlbnQpID0+IHsKICAgIGNvbnN0IHsgd2lkdGggfSA9IGV2ZW50Lm5hdGl2ZUV2ZW50LmxheW91dDsKICAgIHRoaXMuc2V0U3RhdGUoeyBoZWlnaHQ6IHdpZHRoIH0pOwogIH07Cn0KCmNvbnN0IENvbnRhaW5lciA9IHN0eWxlZC5Ub3VjaGFibGVPcGFjaXR5PHsKICBpc1NtYWxsOiBib29sZWFuOwp9PmAKICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjsKICB3aWR0aDogJHsoeyBpc1NtYWxsIH0pID0+IChpc1NtYWxsID8gNDcgOiAxMDApfSU7CiAgbWFyZ2luLWJvdHRvbTogJHsoeyB0aGVtZSwgaXNTbWFsbCB9KSA9PgogICAgaXNTbWFsbCA/IHRoZW1lLnNwYWNpbmcubWVkaXVtIDogMH07CmA7Cgpjb25zdCBCdXR0b25Db250YWluZXIgPSBzdHlsZWQuVG91Y2hhYmxlT3BhY2l0eWAKICBib3JkZXItcmFkaXVzOiAke0JVVFRPTl9DT05UQUlORVJfU0laRSAvIDJ9cHg7CiAgYmFja2dyb3VuZC1jb2xvcjogJHsoeyB0aGVtZSB9KSA9PiB0aGVtZS5jb2xvcnMud2hpdGV9OwogICR7KHsgdGhlbWUgfSkgPT4gdGhlbWUuc2hhZG93cy5zaGFkb3dOYXRpdmV9OwogIHBvc2l0aW9uOiBhYnNvbHV0ZTsKICB0b3A6IC0keyh7IHRoZW1lIH0pID0+IHRoZW1lLnNwYWNpbmcuc21hbGx9OwogIHJpZ2h0OiAtJHsoeyB0aGVtZSB9KSA9PiB0aGVtZS5zcGFjaW5nLnNtYWxsfTsKICBoZWlnaHQ6ICR7QlVUVE9OX0NPTlRBSU5FUl9TSVpFfXB4OwogIHdpZHRoOiAke0JVVFRPTl9DT05UQUlORVJfU0laRX1weDsKICBhbGlnbi1pdGVtczogY2VudGVyOwogIGp1c3RpZnktY29udGVudDogY2VudGVyOwpgOwoKY29uc3QgQ2FwdGlvbiA9IHN0eWxlZC5UZXh0PHsKICBpc1NtYWxsOiBib29sZWFuOwp9PmAKICBwb3NpdGlvbjogYWJzb2x1dGU7CiAgYm90dG9tOiAkeyh7IHRoZW1lLCBpc1NtYWxsIH0pID0+CiAgICBpc1NtYWxsID8gdGhlbWUuc3BhY2luZy5zbWFsbCA6IHRoZW1lLnNwYWNpbmcubWVkaXVtfTsKICBsZWZ0OiAwcHg7CiAgcmlnaHQ6IDBweDsKICBjb2xvcjogJHsoeyB0aGVtZSB9KSA9PiB0aGVtZS5jb2xvcnMud2hpdGV9OwogIGZvbnQtZmFtaWx5OiAkeyh7IHRoZW1lIH0pID0+IHRoZW1lLmZvbnRzLnByaW1hcnkuc2VtaV9ib2xkfTsKICBmb250LXNpemU6ICR7KHsgdGhlbWUsIGlzU21hbGwgfSkgPT4KICAgIGlzU21hbGwgPyB0aGVtZS5mb250U2l6ZXMuc21hbGxUZXh0IDogdGhlbWUuZm9udFNpemVzLnN0YW5kYXJkVGl0bGV9OwogIGxpbmUtaGVpZ2h0OiAkeyh7IHRoZW1lLCBpc1NtYWxsIH0pID0+CiAgICBpc1NtYWxsID8gdGhlbWUuZm9udFNpemVzLnNtYWxsVGl0bGUgOiB0aGVtZS5mb250U2l6ZXMuYmlnVGl0bGV9OwogIHRleHQtYWxpZ246IGNlbnRlcjsKYDsKCmNvbnN0IFN0eWxlZEltYWdlID0gc3R5bGVkKFBpY3R1cmUpPHsKICBoZWlnaHQ6IG51bWJlcjsKICBpc1RyYW5zcGFyZW50OiBib29sZWFuOwp9PmAKICBoZWlnaHQ6ICR7KHsgaGVpZ2h0IH0pID0+IGhlaWdodH1weDsKICBib3JkZXItcmFkaXVzOiA4cHg7CiAgb3BhY2l0eTogJHsoeyBpc1RyYW5zcGFyZW50IH0pID0+IChpc1RyYW5zcGFyZW50ID8gMC41IDogMSl9OwpgOwoKZXhwb3J0IGNvbnN0IFByb2ZpbGVQaWN0dXJlID0gd2l0aFRoZW1lKFByb2ZpbGVQaWN0dXJlV2l0aFRoZW1lKTsK</text>
+        <text encoding="base64">dm9sdW1lczoKICBub2RlX21vZHVsZXM6Cg==</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>UNKNOWN_ER</text>
+        <text>carbon-alpine</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRUJVVFRPTl9BQ1RJT05fSUNPTlMgfSBmcm9tICdhZmZpbnktY29yZS9oZWxwZXJzL3BpY3R1cmUvcGljdHVyZS5oZWxwZXInOwppbXBvcnQgc3R5bGVkLCB7CiAgSVRoZW1lUHJvcHMsCiAgd2l0aFRoZW1lLAp9IGZyb20gJ0FmZmlueS9zcmMvbGlicmFyaWVzL3N0eWxlZC1jb21wb25lbnRzJzsKaW1wb3J0IHsgU3ZnIH0gZnJvbSAnQWZmaW55L3NyYy91aS9TdmcnOwppbXBvcnQgUmVhY3QsIHsgQ29tcG9uZW50IH0gZnJvbSAncmVhY3QnOwppbXBvcnQgeyBMYXlvdXRDaGFuZ2VFdmVudCB9IGZyb20gJ3JlYWN0LW5hdGl2ZSc7CmltcG9ydCB7IFBpY3R1cmUgfSBmcm9tICcuLi9QaWN0dXJlL1BpY3R1cmUuY29tcG9uZW50JzsKCmludGVyZmFjZSBJUHJvcHMgZXh0ZW5kcyBJVGhlbWVQcm9wcyB7CiAgaXNTbWFsbD86IGJvb2xlYW47CiAgaW1hZ2VVcmk6IHN0cmluZzsKICBzdGF0dXM/OiBzdHJpbmc7CiAgYnV0dG9uVHlwZT86IEVCVVRUT05fQUNUSU9OX0lDT05TOwogIGlzVHJhbnNwYXJlbnQ/OiBib29sZWFuOwogIG9uQnV0dG9uUHJlc3M/OiAoKSA9PiB2b2lkOwogIG9uUHJlc3M/OiAoKSA9PiB2b2lkOwp9CgppbnRlcmZhY2UgSVN0YXRlIHsKICBoZWlnaHQ6IG51bWJlcjsKfQoKY29uc3QgQlVUVE9OX0NPTlRBSU5FUl9TSVpFID0gMzI7CgpleHBvcnQgY2xhc3MgUHJvZmlsZVBpY3R1cmVXaXRoVGhlbWUgZXh0ZW5kcyBDb21wb25lbnQ8SVByb3BzLCBJU3RhdGU+IHsKICBwdWJsaWMgc3RhdGljIGRlZmF1bHRQcm9wcyA9IHsKICAgIGlzU21hbGw6IGZhbHNlLAogICAgaXNUcmFuc3BhcmVudDogZmFsc2UsCiAgfTsKICBwdWJsaWMgc3RhdGU6IElTdGF0ZSA9IHsgaGVpZ2h0OiAwIH07CgogIHB1YmxpYyByZW5kZXIoKSB7CiAgICBjb25zdCB7CiAgICAgIG9uQnV0dG9uUHJlc3MsCiAgICAgIG9uUHJlc3MsCiAgICAgIGJ1dHRvblR5cGUsCiAgICAgIGltYWdlVXJpLAogICAgICBpc1NtYWxsLAogICAgICBpc1RyYW5zcGFyZW50LAogICAgICBzdGF0dXMsCiAgICAgIHRoZW1lLAogICAgfSA9IHRoaXMucHJvcHM7CiAgICByZXR1cm4gKAogICAgICA8Q29udGFpbmVyIGlzU21hbGw9eyEhaXNTbWFsbH0gb25QcmVzcz17b25QcmVzc30gZGlzYWJsZWQ9eyFvblByZXNzfT4KICAgICAgICA8U3R5bGVkSW1hZ2UKICAgICAgICAgIHVyaT17aW1hZ2VVcml9CiAgICAgICAgICByZXNpemVNb2RlPSJjb3ZlciIKICAgICAgICAgIGhlaWdodD17dGhpcy5zdGF0ZS5oZWlnaHR9CiAgICAgICAgICBpc1RyYW5zcGFyZW50PXshIWlzVHJhbnNwYXJlbnR9CiAgICAgICAgICBvbkxheW91dD17dGhpcy5vbkxheW91dH0KICAgICAgICAvPgogICAgICAgIHtzdGF0dXMgPyA8Q2FwdGlvbiBpc1NtYWxsPXshIWlzU21hbGx9PntzdGF0dXN9PC9DYXB0aW9uPiA6IG51bGx9CiAgICAgICAge2J1dHRvblR5cGUgPyAoCiAgICAgICAgICA8QnV0dG9uQ29udGFpbmVyIG9uUHJlc3M9e29uQnV0dG9uUHJlc3N9PgogICAgICAgICAgICA8U3ZnIHR5cGU9e2J1dHRvblR5cGV9IGNvbG9yPXt0aGVtZS5jb2xvcnMubWFuZHl9IC8+CiAgICAgICAgICA8L0J1dHRvbkNvbnRhaW5lcj4KICAgICAgICApIDogbnVsbH0KICAgICAgPC9Db250YWluZXI+CiAgICApOwogIH0KCiAgcHJpdmF0ZSBvbkxheW91dCA9IChldmVudDogTGF5b3V0Q2hhbmdlRXZlbnQpID0+IHsKICAgIGNvbnN0IHsgd2lkdGggfSA9IGV2ZW50Lm5hdGl2ZUV2ZW50LmxheW91dDsKICAgIHRoaXMuc2V0U3RhdGUoeyBoZWlnaHQ6IHdpZHRoIH0pOwogIH07Cn0KCmNvbnN0IENvbnRhaW5lciA9IHN0eWxlZC5Ub3VjaGFibGVPcGFjaXR5PHsKICBpc1NtYWxsOiBib29sZWFuOwp9PmAKICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjsKICB3aWR0aDogJHsoeyBpc1NtYWxsIH0pID0+IChpc1NtYWxsID8gNDcgOiAxMDApfSU7CiAgbWFyZ2luLWJvdHRvbTogJHsoeyB0aGVtZSwgaXNTbWFsbCB9KSA9PgogICAgaXNTbWFsbCA/IHRoZW1lLnNwYWNpbmcubWVkaXVtIDogMH07CmA7Cgpjb25zdCBCdXR0b25Db250YWluZXIgPSBzdHlsZWQuVG91Y2hhYmxlT3BhY2l0eWAKICBib3JkZXItcmFkaXVzOiAke0JVVFRPTl9DT05UQUlORVJfU0laRSAvIDJ9cHg7CiAgYmFja2dyb3VuZC1jb2xvcjogJHsoeyB0aGVtZSB9KSA9PiB0aGVtZS5jb2xvcnMud2hpdGV9OwogICR7KHsgdGhlbWUgfSkgPT4gdGhlbWUuc2hhZG93cy5zaGFkb3dOYXRpdmV9OwogIHBvc2l0aW9uOiBhYnNvbHV0ZTsKICB0b3A6IC0keyh7IHRoZW1lIH0pID0+IHRoZW1lLnNwYWNpbmcuc21hbGx9OwogIHJpZ2h0OiAtJHsoeyB0aGVtZSB9KSA9PiB0aGVtZS5zcGFjaW5nLnNtYWxsfTsKICBoZWlnaHQ6ICR7QlVUVE9OX0NPTlRBSU5FUl9TSVpFfXB4OwogIHdpZHRoOiAke0JVVFRPTl9DT05UQUlORVJfU0laRX1weDsKICBhbGlnbi1pdGVtczogY2VudGVyOwogIGp1c3RpZnktY29udGVudDogY2VudGVyOwpgOwoKY29uc3QgQ2FwdGlvbiA9IHN0eWxlZC5UZXh0PHsKICBpc1NtYWxsOiBib29sZWFuOwp9PmAKICBwb3NpdGlvbjogYWJzb2x1dGU7CiAgYm90dG9tOiAkeyh7IHRoZW1lLCBpc1NtYWxsIH0pID0+CiAgICBpc1NtYWxsID8gdGhlbWUuc3BhY2luZy5zbWFsbCA6IHRoZW1lLnNwYWNpbmcubWVkaXVtfTsKICBsZWZ0OiAwcHg7CiAgcmlnaHQ6IDBweDsKICBjb2xvcjogJHsoeyB0aGVtZSB9KSA9PiB0aGVtZS5jb2xvcnMud2hpdGV9OwogIGZvbnQtZmFtaWx5OiAkeyh7IHRoZW1lIH0pID0+IHRoZW1lLmZvbnRzLnByaW1hcnkuc2VtaV9ib2xkfTsKICBmb250LXNpemU6ICR7KHsgdGhlbWUsIGlzU21hbGwgfSkgPT4KICAgIGlzU21hbGwgPyB0aGVtZS5mb250U2l6ZXMuc21hbGxUZXh0IDogdGhlbWUuZm9udFNpemVzLnN0YW5kYXJkVGl0bGV9OwogIGxpbmUtaGVpZ2h0OiAkeyh7IHRoZW1lLCBpc1NtYWxsIH0pID0+CiAgICBpc1NtYWxsID8gdGhlbWUuZm9udFNpemVzLnNtYWxsVGl0bGUgOiB0aGVtZS5mb250U2l6ZXMuYmlnVGl0bGV9OwogIHRleHQtYWxpZ246IGNlbnRlcjsKYDsKCmNvbnN0IFN0eWxlZEltYWdlID0gc3R5bGVkKFBpY3R1cmUpPHsKICBoZWlnaHQ6IG51bWJlcjsKICBpc1RyYW5zcGFyZW50OiBib29sZWFuOwp9PmAKICBoZWlnaHQ6ICR7KHsgaGVpZ2h0IH0pID0+IGhlaWdodH1weDsKICBib3JkZXItcmFkaXVzOiA4cHg7CiAgb3BhY2l0eTogJHsoeyBpc1RyYW5zcGFyZW50IH0pID0+IChpc1RyYW5zcGFyZW50ID8gMC41IDogMSl9OwpgOwoKZXhwb3J0IGNvbnN0IFByb2ZpbGVQaWN0dXJlID0gd2l0aFRoZW1lKFByb2ZpbGVQaWN0dXJlV2l0aFRoZW1lKTsK</text>
+        <text encoding="base64">UlVOIHlhcm4gaW5zdGFsbCAtLWZyb3plbi1sb2NrZmlsZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZvbHVtZXM6CiAgICAgIC0gL3Vzci9zcmMvYXBwL25vZGVfbW9kdWxlcwo=</text>
+        <text encoding="base64">dm9sdW1lczoKICBub2RlX21vZHVsZXM6Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICAgIC0gLjovdXNyL3NyYy9hcHA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">UlVOIG5wbSByZWJ1aWxkIGdycGMgLS11cGRhdGUtYmluYXJ5Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZvbHVtZXM6CiAgICAgIC0gLi86L3Vzci9zcmMvYXBwCg==</text>
+        <text encoding="base64">UlVOIHlhcm4K</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">CgpFTlYgUEFUSCAvdXNyL3NyYy9ub2RlX21vZHVsZXMvLmJpbjokUEFUSA==</text>
+        <text encoding="base64">ClJVTiBhcHQtZ2V0IHVwZGF0ZSAmJiBcCiAgICBhcHQtZ2V0IGluc3RhbGwgbmV0Y2F0LW9wZW5ic2Q=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLSAvdXNyL3NyYy9hcHAvbm9kZV9tb2R1bGVzCg==</text>
+        <text encoding="base64">ICAgIHZvbHVtZXM6CiAgICAgIC0gL3Vzci9zcmMvYXBwL25vZGVfbW9kdWxlcwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGltYWdlOiBzZXJ2aWNlX2FwaQo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICAgIC0gLjovdXNyL3NyYy9hcHA=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJncnBjIiA6Cg==</text>
+        <text encoding="base64">ICAgIHZvbHVtZXM6CiAgICAgIC0gLi86L3Vzci9zcmMvYXBwCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">CgpFTlYgUEFUSCAvdXNyL3NyYy9ub2RlX21vZHVsZXMvLmJpbjokUEFUSA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgLSAvdXNyL3NyYy9hcHAvbm9kZV9tb2R1bGVzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
