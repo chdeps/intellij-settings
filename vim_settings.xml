@@ -43,7 +43,7 @@
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/registerAccount.handler.ts" timestamp="1558986263042">
         <mark key="[" line="12" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/infrastructure/persistence/entity/account.entity.ts" timestamp="1559912942101" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/infrastructure/persistence/entity/account.entity.ts" timestamp="1559917385834" />
       <file name="$USER_HOME$/Projects/UGC/UGC/src/pages/Login/Login.component.js" timestamp="1559844230514" />
       <file name="$USER_HOME$/Projects/UGC/UGC/src/components/ReCaptcha/patchPostMessageJsCode.js" timestamp="1559470977896">
         <mark key="[" line="10" column="9" />
@@ -87,7 +87,8 @@
         <mark key="]" line="20" column="2" />
       </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/components/Inputs/PicturePicker/PicturePicker.component.tsx" timestamp="1559909802858" />
-      <file name="/Dummy.txt" timestamp="1559896555423">
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/modules/authentication/sagas.ts" timestamp="1559917936186" />
+      <file name="/Dummy.txt" timestamp="1559917942310">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/WWF/wag-server/devops/docker-compose.local.yml" timestamp="1559813342250" />
@@ -128,10 +129,10 @@
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="57" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/pages/Shortcuts/Shortcuts.tsx" timestamp="1559895629786">
-        <mark key="[" line="33" column="40" />
-        <mark key="]" line="33" column="40" />
-        <mark key="." line="33" column="40" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/pages/Shortcuts/Shortcuts.tsx" timestamp="1559917799495">
+        <mark key="[" line="23" column="46" />
+        <mark key="]" line="23" column="46" />
+        <mark key="." line="23" column="22" />
         <mark key="^" line="33" column="55" />
       </file>
     </filemarks>
@@ -239,7 +240,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>from,</text>
+        <text>size={ButtonSize.Medium}</text>
       </register>
       <register name="d" type="4">
         <text />
@@ -250,8 +251,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW50ZXJmYWNlIElQcm9wcyBleHRlbmRzIE5hdmlnYXRpb25TY3JlZW5Qcm9wcyB7CiAgbG9nb3V0VXNlcjogKCkgPT4gdm9pZDsKfQoK</text>
+      <register name="0" type="4">
+        <text>size={ButtonSize.Medium}</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBsb2dvdXRVc2VyOiAoKSA9PiB2b2lkOwo=</text>
