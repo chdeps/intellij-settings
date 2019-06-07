@@ -20,16 +20,15 @@
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/pages/InfoProfile/Swipper.tsx" timestamp="1559832757617" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/pages/InfoProfile/components/Question/service.ts" timestamp="1559832997314" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/components/Page/Page.tsx" timestamp="1559832030956" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/controller/auth.controller.ts" timestamp="1559896549894">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
+      </file>
       <file name="$USER_HOME$/Projects/Docker/Docker/package.json" timestamp="1559769501930">
         <mark key="[" line="12" column="22" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/docker-compose.yml" timestamp="1559817357091">
-        <mark key="[" line="8" column="24" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="9" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/pages/UploadPhotoGallery/UploadPhotoGallery.component.tsx" timestamp="1559815938815" />
       <file name="$USER_HOME$/Projects/Docker/Docker/index.js" timestamp="1559769731249">
@@ -84,7 +83,7 @@
         <mark key="[" line="17" column="0" />
         <mark key="]" line="20" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559895683718">
+      <file name="/Dummy.txt" timestamp="1559896555423">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/WWF/wag-server/devops/docker-compose.local.yml" timestamp="1559813342250" />
@@ -99,12 +98,6 @@
         <mark key="[" line="2" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/UGC/UGC/src/components/ReCaptcha/captcha.js" timestamp="1559844523749" />
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/Dockerfile" timestamp="1559822416227">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="8" column="29" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/Docker/Docker/docker-compose.yml" timestamp="1559816921057">
         <mark key="[" line="7" column="9" />
         <mark key="]" line="7" column="9" />
@@ -241,13 +234,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{ route: string }</text>
+        <text>from,</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>{ route: string }</text>
+        <text>from,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
