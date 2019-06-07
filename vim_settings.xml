@@ -11,9 +11,19 @@
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/entrypoint.sh" timestamp="1559817788739" />
       <file name="$USER_HOME$/Projects/WWF/wag-server/devops/docker-compose.staging.yml" timestamp="1559813203664" />
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/services/c4cConnexionErrorService.js" timestamp="1559723018083">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/pages/InfoProfile/Swipper.tsx" timestamp="1559832757617" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/pages/InfoProfile/components/Question/service.ts" timestamp="1559832997314" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/components/Page/Page.tsx" timestamp="1559832030956" />
+      <file name="$USER_HOME$/Projects/Docker/Docker/package.json" timestamp="1559769501930">
+        <mark key="[" line="12" column="22" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/docker-compose.yml" timestamp="1559817357091">
         <mark key="[" line="8" column="24" />
         <mark key="]" line="2" column="0" />
@@ -29,14 +39,25 @@
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/components/Button/Button.tsx" timestamp="1559832155532" />
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-core/services/utils.ts" timestamp="1559837831133" />
+      <file name="$USER_HOME$/Projects/UGC/UGC/src/pages/Login/Login.component.js" timestamp="1559844230514" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/theme/index.ts" timestamp="1559831461440" />
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/pages/ProfileCapture/ProfileCapture.pages.tsx" timestamp="1559744660619" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/config/infoProfileQuestions.json" timestamp="1559832819434" />
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/lib/mailer.js" timestamp="1559723035677">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/Docker/Docker/Dockerfile" timestamp="1559817198453">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="34" />
         <mark key="." line="0" column="11" />
         <mark key="^" line="0" column="11" />
+      </file>
+      <file name="$USER_HOME$/Projects/UGC/UGC/src/components/ReCaptcha/Recaptcha.component.js" timestamp="1559844273742">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/pages/InfoProfile/components/Religion/Religion.tsx" timestamp="1559832729114" />
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/modules/facebook/saga.ts" timestamp="1559747751987">
@@ -45,6 +66,7 @@
       </file>
       <file name="$USER_HOME$/Projects/WWF/wag-server/devops/docker-compose.local.yml" timestamp="1559813342250" />
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/components/Pictures/Picture/Picture.component.tsx" timestamp="1559813644408" />
+      <file name="$USER_HOME$/Projects/UGC/UGC/src/components/ReCaptcha/captcha.js" timestamp="1559844523749" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/Dockerfile" timestamp="1559822416227">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="10" column="0" />
@@ -68,11 +90,6 @@
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-core/modules/pictures/saga.ts" timestamp="1559837849507">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="57" />
-      </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/components/Pictures/ProfilePicture/ProfilePicture.component.tsx" timestamp="1559816246425">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="117" column="65" />
       </file>
     </filemarks>
     <jumps>
