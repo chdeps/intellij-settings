@@ -17,6 +17,7 @@
         <mark key="^" line="14" column="51" />
         <mark key="." line="14" column="9" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/dto/authCredentials.dto.ts" timestamp="1560269542298" />
       <file name="$USER_HOME$/Projects/NestJsMicroservices/nestjs-microservice-architecture/services/graphqlapi/src/catalog/catalog.module.ts" timestamp="1560259168796" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/registerAccount.handler.ts" timestamp="1558986263042">
         <mark key="[" line="12" column="27" />
@@ -69,6 +70,7 @@
       <file name="/Dummy.txt" timestamp="1560255000746">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/business/command/handler/createProfile.handler.ts" timestamp="1560269932829" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/business/profile.service.ts" timestamp="1558985518959">
         <mark key="[" line="12" column="3" />
       </file>
@@ -83,6 +85,7 @@
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="67" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/infrastructure/api/profile.controller.ts" timestamp="1560269326977" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/module.ts" timestamp="1560260777047">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
