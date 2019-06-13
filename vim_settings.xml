@@ -28,6 +28,7 @@
         <mark key="^" line="3" column="39" />
         <mark key="." line="5" column="24" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/node_modules/@nestjs/typeorm/dist/interfaces/typeorm-options.interface.d.ts" timestamp="1560440299457" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/registerAccount.handler.ts" timestamp="1558986263042">
         <mark key="[" line="12" column="27" />
       </file>
@@ -36,11 +37,11 @@
         <mark key="]" line="64" column="0" />
         <mark key="." line="64" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/auth.module.ts" timestamp="1560439217030">
-        <mark key="[" line="28" column="25" />
-        <mark key="]" line="19" column="21" />
-        <mark key="." line="19" column="21" />
-        <mark key="^" line="52" column="77" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/auth.module.ts" timestamp="1560440563217">
+        <mark key="[" line="31" column="39" />
+        <mark key="]" line="31" column="39" />
+        <mark key="." line="31" column="39" />
+        <mark key="^" line="31" column="38" />
       </file>
       <file name="$USER_HOME$/Projects/NestJsMicroservices/nestjs-microservice-architecture/services/catalog/src/app.module.ts" timestamp="1560260148586" />
       <file name="$USER_HOME$/Projects/UGC/UGC/src/components/ReCaptcha/patchPostMessageJsCode.js" timestamp="1559470977896">
@@ -100,7 +101,7 @@
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/infrastructure/api/auth.client.ts" timestamp="1560255084771" />
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/components/Inputs/FormInput/FormInput.component.tsx" timestamp="1560428947080" />
       <file name="$USER_HOME$/Projects/NestJsMicroservices/nestjs-microservice-architecture/services/catalog/nodemon.json" timestamp="1560328615255" />
-      <file name="/Dummy.txt" timestamp="1560424481611">
+      <file name="/Dummy.txt" timestamp="1560440434204">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/infrastructure/services/facebook.service.ts" timestamp="1560437935526" />
@@ -279,13 +280,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, ConfigService</text>
+        <text>secret</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>, ConfigService</text>
+        <text>secret</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
@@ -294,34 +295,34 @@
         <text encoding="base64">aW1wb3J0IHsgQ3Fyc01vZHVsZSB9IGZyb20gJ0BuZXN0anMvY3Fycyc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIENvbmZpZ01vZHVsZS5sb2FkKHBhdGgucmVzb2x2ZShDb25maWdTZXJ2aWNlLnJvb3QoKSwgJ2NvbmZpZycsICcqKi8hKCouZCkue3RzLGpzfScpLCB7IHBhdGg6IHByb2Nlc3MuY3dkKCkgfSksCg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ0VOVicsIHByb2Nlc3MuZW52LlRZUEVPUk1fSE9TVCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnWU9MTycsIHByb2Nlc3MuZW52LlRZUEVPUk1fSE9TVCk7CiAgICAgICAgY29uZmlnU2VydmljZS5nZXQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ0VOVicsIHByb2Nlc3MuZW52KTsK</text>
+        <text encoding="base64">ICAgICAgICAgIG5hbWU6ICdhY2NvdW50Q29ubmVjdGlvbicsCg==</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEV2ZW50c3RvcmVNb2R1bGUsCg==</text>
+        <text encoding="base64">ICAgIFR5cGVPcm1Nb2R1bGUuZm9yRmVhdHVyZShbQWNjb3VudEVudGl0eV0sICdhY2NvdW50Q29ubmVjdGlvbicpLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBBY2NvdW50RW50aXR5LAo=</text>
+        <text encoding="base64">ICAgIENvbmZpZ01vZHVsZS5sb2FkKHBhdGgucmVzb2x2ZShDb25maWdTZXJ2aWNlLnJvb3QoKSwgJ2NvbmZpZycsICcqKi8hKCouZCkue3RzLGpzfScpLCB7IHBhdGg6IHByb2Nlc3MuY3dkKCkgfSksCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRXZlbnRTdG9yZVNlcnZpY2UgfSBmcm9tICdAaW5zaGFsbGFoL3NlcnZpY2UtZXZlbnRzdG9yZS9ldmVudHN0b3JlLnNlcnZpY2UnOwo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ0VOVicsIHByb2Nlc3MuZW52KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRXZlbnRRdWV1ZSB9IGZyb20gJ0BpbnNoYWxsYWgvc2VydmljZS1ldmVudHN0b3JlL21vZGVsL3F1ZXVlLm1vZGVsJzsK</text>
+        <text encoding="base64">ICAgIEV2ZW50c3RvcmVNb2R1bGUsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBBY2NvdW50RW50aXR5LAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
