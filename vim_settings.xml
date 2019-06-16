@@ -80,7 +80,7 @@
         <mark key="." line="23" column="66" />
         <mark key="^" line="23" column="66" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/nodemon.json" timestamp="1560442431436">
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/nodemon.json" timestamp="1560720522368">
         <mark key="[" line="1" column="14" />
         <mark key="]" line="3" column="14" />
         <mark key="." line="3" column="14" />
@@ -156,11 +156,11 @@
         <mark key="]" line="0" column="24" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/Dockerfile" timestamp="1560719765745">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/Dockerfile" timestamp="1560720612397">
+        <mark key="[" line="22" column="13" />
+        <mark key="]" line="22" column="13" />
         <mark key="^" line="20" column="0" />
-        <mark key="." line="21" column="0" />
+        <mark key="." line="22" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/business/command/interface/createProfile.command.ts" timestamp="1560696514262">
         <mark key="[" line="0" column="65" />
@@ -495,14 +495,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/InshAllah/InshAllah-Server/tsconfig.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">V09SS0RJUiAvc2VydmVyCg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;--register tsconfig-paths/register</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">InRpbmkiLCA=</text>
+        <text>&quot;--register tsconfig-paths/register</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
