@@ -210,10 +210,11 @@
         <mark key="." line="2" column="70" />
         <mark key="^" line="2" column="70" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/backpack.config.js" timestamp="1560778516351">
-        <mark key="[" line="18" column="32" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/backpack.config.js" timestamp="1560780460191">
+        <mark key="[" line="25" column="19" />
+        <mark key="]" line="25" column="19" />
+        <mark key="." line="25" column="19" />
+        <mark key="^" line="12" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/service-eventstore/events/auth/index.ts" timestamp="1560693859528">
         <mark key="[" line="7" column="15" />
@@ -525,14 +526,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/InshAllah/InshAllah-Server/tsconfig.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJwYXRocyI6IHsKICAgICAgInBhY2thZ2VzLyoiIDogWyIuLi8qIl0KICAgIH0sCg==</text>
+      <register name="&quot;" type="4">
+        <text>plugins</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>tsc</text>
+        <text>plugins</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
