@@ -79,6 +79,10 @@
         <mark key="." line="3" column="68" />
         <mark key="^" line="3" column="68" />
       </file>
+      <file name="$USER_HOME$/Projects/NestJsMicroservices/nestjs-microservice-architecture/services/catalog/package.json" timestamp="1560527502805">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="27" />
+      </file>
       <file name="$USER_HOME$/Projects/NestJsMicroservices/nestjs-microservice-architecture/services/catalog/nodemon-debug.json" timestamp="1560328659574" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/index.ts" timestamp="1560695421695">
         <mark key="[" line="23" column="82" />
@@ -115,6 +119,10 @@
         <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/setupTests.ts" timestamp="1560342742206" />
+      <file name="$USER_HOME$/Projects/NestJsMicroservices/nestjs-microservice-architecture/services/catalog/src/main.ts" timestamp="1560328696862">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="26" />
+      </file>
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/index.js" timestamp="1560240794813">
         <mark key="[" line="297" column="0" />
         <mark key="]" line="297" column="0" />
@@ -304,6 +312,10 @@
         <mark key="." line="4" column="50" />
         <mark key="^" line="3" column="24" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/auth.error.ts" timestamp="1560684438383">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="12" column="4" />
+      </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/pages/Landing/Birthdate/BirthdateForm.component.tsx" timestamp="1560347406752" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/interface/registerAccount.command.ts" timestamp="1560696634219">
         <mark key="[" line="0" column="54" />
@@ -370,6 +382,10 @@
       <file name="$USER_HOME$/Projects/NestJsMicroservices/nestjs-microservice-architecture/services/catalog/tsconfig.json" timestamp="1560684840954" />
       <file name="$USER_HOME$/Projects/NestJsMicroservices/nestjs-microservice-architecture/services/graphqlapi/src/main.ts" timestamp="1560260556185" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/service-eventstore/eventstore.service.ts" timestamp="1560423825415" />
+      <file name="$USER_HOME$/Projects/NestJsMicroservices/nestjs-microservice-architecture/docker-compose.yml" timestamp="1560787666461">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="15" column="20" />
+      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/config/database.js" timestamp="1560498389301">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
