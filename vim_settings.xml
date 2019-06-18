@@ -185,6 +185,12 @@
         <mark key="." line="4" column="50" />
         <mark key="^" line="3" column="24" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/Dockerfile" timestamp="1560870580933">
+        <mark key="[" line="19" column="25" />
+        <mark key="]" line="19" column="25" />
+        <mark key="." line="19" column="25" />
+        <mark key="^" line="10" column="24" />
+      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/nodemon-debug.json" timestamp="1560860640829">
         <mark key="[" line="4" column="52" />
         <mark key="]" line="4" column="52" />
@@ -609,20 +615,20 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/InshAllah/InshAllah-Server/tsconfig.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAiZGVwZW5kZW5jaWVzIjogewogICAgIkBncnBjL3Byb3RvLWxvYWRlciI6ICJeMC41LjAiLAogICAgIkBuZXN0anMvY29tbW9uIjogIl42LjAuNSIsCiAgICAiQG5lc3Rqcy9jb3JlIjogIl42LjAuNSIsCiAgICAiQG5lc3Rqcy9jcXJzIjogIl42LjAuMCIsCiAgICAiQG5lc3Rqcy9taWNyb3NlcnZpY2VzIjogIl42LjAuNSIsCiAgICAiQG5lc3Rqcy9wbGF0Zm9ybS1leHByZXNzIjogIl42LjEuMCIsCiAgICAiQG5lc3Rqcy9zd2FnZ2VyIjogIl4zLjAuMiIsCiAgICAiQG5lc3Rqcy90eXBlb3JtIjogIl42LjAuMCIsCiAgICAiYXJnb24yIjogIl4wLjIxLjAiLAogICAgImF3cy1zZGsiOiAiXjIuNDQ5LjAiLAogICAgImJhc2U2NHVybCI6ICJeMy4wLjEiLAogICAgImNsYXNzLXRyYW5zZm9ybWVyIjogIl4wLjIuMCIsCiAgICAiY2xhc3MtdmFsaWRhdG9yIjogIl4wLjkuMSIsCiAgICAibHV4b24iOiAiXjEuMTUuMCIsCiAgICAibm9kZS1mZXRjaCI6ICJeMi41LjAiLAogICAgInV1aWQiOiAiXjMuMy4yIiwKICAgICJ6eGN2Ym4iOiAiXjQuNC4yIiwKICAgICJ0cy1ub2RlIjogIl44LjAuMyIsCiAgICAidHNjb25maWctcGF0aHMiOiAiXjMuNS4wIiwKICAgICJub2RlbW9uIjogIl4xLjE4LjMiLAogICAgImVzNi1zaGltIjogIl4wLjM1LjUiLAogICAgImdycGMiOiAiXjEuMTkuMCIsCiAgICAibG9kYXNoIjogIl40LjE3LjExIiwKICAgICJuZXN0anMtY29uZmlnIjogIl4xLjMuMjEiLAogICAgInBhdGNoLXBhY2thZ2UiOiAiXjYuMS4yIiwKICAgICJwZyI6ICJeNy45LjAiLAogICAgInJlZmxlY3QtbWV0YWRhdGEiOiAiXjAuMS4xMyIsCiAgICAicnhqcyI6ICJeNi40LjAiLAogICAgInR5cGVvcm0iOiAiXjAuMi4xNiIKICB9LAogICJkZXZEZXBlbmRlbmNpZXMiOiB7CiAgICAiQG5lc3Rqcy90ZXN0aW5nIjogIl42LjEuMSIsCiAgICAiQHR5cGVzL2x1eG9uIjogIl4xLjEzLjAiLAogICAgIkB0eXBlcy96eGN2Ym4iOiAiXjQuNC4wIiwKICAgICJAdHlwZXMvbm9kZS1mZXRjaCI6ICJeMi4zLjMiLAogICAgIkB0eXBlcy91dWlkIjogIl4zLjQuNCIsCiAgICAiQHR5cGVzL2RvdGVudiI6ICJeNi4xLjEiLAogICAgIkB0eXBlcy9qZXN0IjogIl4yNC4wLjExIiwKICAgICJAdHlwZXMvbG9kYXNoIjogIl40LjE0LjEyMyIsCiAgICAiQHR5cGVzL3ZhbGlkYXRvciI6ICJeMTAuMTEuMCIsCiAgICAiQHR5cGVzY3JpcHQtZXNsaW50L2VzbGludC1wbHVnaW4iOiAiXjEuNi4wIiwKICAgICJAdHlwZXNjcmlwdC1lc2xpbnQvcGFyc2VyIjogIl4xLjYuMCIsCiAgICAiYXdlc29tZS10eXBlc2NyaXB0LWxvYWRlciI6ICJeNS4yLjEiLAogICAgImJhY2twYWNrLWNvcmUiOiAiXjAuOC4zIiwKICAgICJjb3B5LXdlYnBhY2stcGx1Z2luIjogIl41LjAuMiIsCiAgICAiZXNsaW50IjogIl41LjE2LjAiLAogICAgImVzbGludC1jb25maWctcHJldHRpZXIiOiAiXjQuMS4wIiwKICAgICJlc2xpbnQtcGx1Z2luLXByZXR0aWVyIjogIl4zLjAuMSIsCiAgICAiamVzdCI6ICJeMjQuNy4xIiwKICAgICJwcmV0dGllciI6ICJeMS4xNi40IiwKICAgICJ0cy1qZXN0IjogIl4yNC4wLjIiLAogICAgInR5cGVzY3JpcHQiOiAiXjMuNC4xIiwKICAgICJ3ZWJwYWNrIjogIl40LjI5LjYiCiAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>microservice-algo</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>auth</text>
+        <text>microservice-algo</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAiZGVwZW5kZW5jaWVzIjogewogICAgIkBncnBjL3Byb3RvLWxvYWRlciI6ICJeMC41LjAiLAogICAgIkBuZXN0anMvY29tbW9uIjogIl42LjAuNSIsCiAgICAiQG5lc3Rqcy9jb3JlIjogIl42LjAuNSIsCiAgICAiQG5lc3Rqcy9jcXJzIjogIl42LjAuMCIsCiAgICAiQG5lc3Rqcy9taWNyb3NlcnZpY2VzIjogIl42LjAuNSIsCiAgICAiQG5lc3Rqcy9wbGF0Zm9ybS1leHByZXNzIjogIl42LjEuMCIsCiAgICAiQG5lc3Rqcy9zd2FnZ2VyIjogIl4zLjAuMiIsCiAgICAiQG5lc3Rqcy90eXBlb3JtIjogIl42LjAuMCIsCiAgICAiYXJnb24yIjogIl4wLjIxLjAiLAogICAgImF3cy1zZGsiOiAiXjIuNDQ5LjAiLAogICAgImJhc2U2NHVybCI6ICJeMy4wLjEiLAogICAgImNsYXNzLXRyYW5zZm9ybWVyIjogIl4wLjIuMCIsCiAgICAiY2xhc3MtdmFsaWRhdG9yIjogIl4wLjkuMSIsCiAgICAibHV4b24iOiAiXjEuMTUuMCIsCiAgICAibm9kZS1mZXRjaCI6ICJeMi41LjAiLAogICAgInV1aWQiOiAiXjMuMy4yIiwKICAgICJ6eGN2Ym4iOiAiXjQuNC4yIiwKICAgICJ0cy1ub2RlIjogIl44LjAuMyIsCiAgICAidHNjb25maWctcGF0aHMiOiAiXjMuNS4wIiwKICAgICJub2RlbW9uIjogIl4xLjE4LjMiLAogICAgImVzNi1zaGltIjogIl4wLjM1LjUiLAogICAgImdycGMiOiAiXjEuMTkuMCIsCiAgICAibG9kYXNoIjogIl40LjE3LjExIiwKICAgICJuZXN0anMtY29uZmlnIjogIl4xLjMuMjEiLAogICAgInBhdGNoLXBhY2thZ2UiOiAiXjYuMS4yIiwKICAgICJwZyI6ICJeNy45LjAiLAogICAgInJlZmxlY3QtbWV0YWRhdGEiOiAiXjAuMS4xMyIsCiAgICAicnhqcyI6ICJeNi40LjAiLAogICAgInR5cGVvcm0iOiAiXjAuMi4xNiIKICB9LAogICJkZXZEZXBlbmRlbmNpZXMiOiB7CiAgICAiQG5lc3Rqcy90ZXN0aW5nIjogIl42LjEuMSIsCiAgICAiQHR5cGVzL2x1eG9uIjogIl4xLjEzLjAiLAogICAgIkB0eXBlcy96eGN2Ym4iOiAiXjQuNC4wIiwKICAgICJAdHlwZXMvbm9kZS1mZXRjaCI6ICJeMi4zLjMiLAogICAgIkB0eXBlcy91dWlkIjogIl4zLjQuNCIsCiAgICAiQHR5cGVzL2RvdGVudiI6ICJeNi4xLjEiLAogICAgIkB0eXBlcy9qZXN0IjogIl4yNC4wLjExIiwKICAgICJAdHlwZXMvbG9kYXNoIjogIl40LjE0LjEyMyIsCiAgICAiQHR5cGVzL3ZhbGlkYXRvciI6ICJeMTAuMTEuMCIsCiAgICAiQHR5cGVzY3JpcHQtZXNsaW50L2VzbGludC1wbHVnaW4iOiAiXjEuNi4wIiwKICAgICJAdHlwZXNjcmlwdC1lc2xpbnQvcGFyc2VyIjogIl4xLjYuMCIsCiAgICAiYXdlc29tZS10eXBlc2NyaXB0LWxvYWRlciI6ICJeNS4yLjEiLAogICAgImJhY2twYWNrLWNvcmUiOiAiXjAuOC4zIiwKICAgICJjb3B5LXdlYnBhY2stcGx1Z2luIjogIl41LjAuMiIsCiAgICAiZXNsaW50IjogIl41LjE2LjAiLAogICAgImVzbGludC1jb25maWctcHJldHRpZXIiOiAiXjQuMS4wIiwKICAgICJlc2xpbnQtcGx1Z2luLXByZXR0aWVyIjogIl4zLjAuMSIsCiAgICAiamVzdCI6ICJeMjQuNy4xIiwKICAgICJwcmV0dGllciI6ICJeMS4xNi40IiwKICAgICJ0cy1qZXN0IjogIl4yNC4wLjIiLAogICAgInR5cGVzY3JpcHQiOiAiXjMuNC4xIiwKICAgICJ3ZWJwYWNrIjogIl40LjI5LjYiCiAgfQo=</text>
+      <register name="0" type="4">
+        <text>api-gateway</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBtaWNyb3NlcnZpY2UtYXV0aDoKICAgIGltYWdlOiBtaWNyb3NlcnZpY2VzLWF1dGgKICAgIGNvbnRhaW5lcl9uYW1lOiBtaWNyb3NlcnZpY2UtYXV0aAogICAgYnVpbGQ6CiAgICAgIGNvbnRleHQ6IC4KICAgICAgZG9ja2VyZmlsZTogcGFja2FnZXMvbWljcm9zZXJ2aWNlLWF1dGgvRG9ja2VyZmlsZQogICAgcG9ydHM6CiAgICAgIC0gJzUwNTAxOjUwNTAxJwogIG1pY3Jvc2VydmljZS1wcm9maWxlOgogICAgaW1hZ2U6IG1pY3Jvc2VydmljZXMtcHJvZmlsZQogICAgY29udGFpbmVyX25hbWU6IG1pY3Jvc2VydmljZS1wcm9maWxlCiAgICBidWlsZDoKICAgICAgY29udGV4dDogLgogICAgICBkb2NrZXJmaWxlOiBwYWNrYWdlcy9taWNyb3NlcnZpY2UtcHJvZmlsZS9Eb2NrZXJmaWxlCiAgICBwb3J0czoKICAgICAgLSAnNTA1MDM6NTA1MDMnCg==</text>
