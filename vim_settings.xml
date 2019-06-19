@@ -191,11 +191,11 @@
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/registerAccount.handler.ts" timestamp="1558986263042">
         <mark key="[" line="12" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-algo/.env.staging" timestamp="1560936431530">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="8" column="39" />
-        <mark key="." line="8" column="38" />
-        <mark key="^" line="8" column="38" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-algo/.env.staging" timestamp="1560940322660">
+        <mark key="[" line="6" column="14" />
+        <mark key="]" line="6" column="13" />
+        <mark key="." line="6" column="13" />
+        <mark key="^" line="6" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/query/handler/getUserAndRolesFromJwt.handler.ts" timestamp="1560696811052">
         <mark key="[" line="8" column="39" />
@@ -279,7 +279,7 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560936514306">
+      <file name="/Dummy.txt" timestamp="1560940411487">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -371,10 +371,10 @@
         <mark key="." line="5" column="66" />
         <mark key="^" line="8" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/.env.staging" timestamp="1560936438264">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="8" column="39" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/.env.staging" timestamp="1560940336783">
+        <mark key="[" line="6" column="14" />
+        <mark key="]" line="6" column="14" />
+        <mark key="." line="6" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-algo/infrastructure/api/algo.controller.ts" timestamp="1560696873062">
         <mark key="[" line="3" column="35" />
@@ -473,10 +473,10 @@
         <mark key="]" line="0" column="35" />
         <mark key="." line="0" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/.env.staging" timestamp="1560936443105">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="8" column="39" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/.env.staging" timestamp="1560940348399">
+        <mark key="[" line="6" column="14" />
+        <mark key="]" line="6" column="14" />
+        <mark key="." line="6" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-core/modules/matches/saga.ts" timestamp="1560517185023" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/navigation/index.tsx" timestamp="1560436726300" />
@@ -690,13 +690,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>profile</text>
+        <text>staging.cxzdov0kin7k.eu-west-1.rds.amazonaws.com</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>profile</text>
+        <text>staging.cxzdov0kin7k.eu-west-1.rds.amazonaws.com</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
