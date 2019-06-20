@@ -255,7 +255,7 @@
         <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/service-eventstore/eventstore.service.ts" timestamp="1560423825415" />
-      <file name="/Dummy.txt" timestamp="1561043607804">
+      <file name="/Dummy.txt" timestamp="1561044794194">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -301,11 +301,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-grpc/infrastructure/profile/dto/profileStatus.dto.ts" timestamp="1560859981987" />
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/docker-compose.yml" timestamp="1561043591633">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="^" line="44" column="15" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/docker-compose.yml" timestamp="1561044789384">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="12" column="16" />
+        <mark key="^" line="48" column="13" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/domain/dto/profile.dto.ts" timestamp="1560518873907" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/service-eventstore/events/algo/index.ts" timestamp="1560693967542">
@@ -611,8 +611,8 @@
       <jump line="13" column="0" filename="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/tsconfig.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Add backpack deps to api gateway</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIG5ldHdvcmtzOgogICAgICAtIGJhY2stZW5kCg==</text>
       </register>
       <register name="d" type="4">
         <text />
@@ -624,7 +624,7 @@
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJiYWNrcGFjay1jb3JlIjogIl4wLjguMyIsCiAgICAiY29weS13ZWJwYWNrLXBsdWdpbiI6ICJeNS4wLjIiLAo=</text>
+        <text encoding="base64">ICAgIG5ldHdvcmtzOgogICAgICAtIGJhY2stZW5kCg==</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">Cm5ldHdvcmtzOgogIDoge30=</text>
