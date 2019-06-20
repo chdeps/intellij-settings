@@ -192,11 +192,11 @@
         <mark key="." line="4" column="50" />
         <mark key="^" line="3" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/Dockerfile" timestamp="1560873246222">
-        <mark key="[" line="17" column="17" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="18" column="0" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/Dockerfile" timestamp="1561017065461">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="20" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/nodemon-debug.json" timestamp="1560860640829">
         <mark key="[" line="4" column="52" />
@@ -237,11 +237,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/Dockerfile" timestamp="1560866276131">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="58" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="14" column="13" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/Dockerfile" timestamp="1561017052953">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="20" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="15" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/validateEmail.handler.ts" timestamp="1560696410714">
         <mark key="[" line="11" column="53" />
@@ -461,11 +461,11 @@
         <mark key="]" line="0" column="52" />
         <mark key="." line="0" column="52" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/Dockerfile" timestamp="1560866260946">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="58" />
-        <mark key="." line="15" column="54" />
-        <mark key="^" line="15" column="54" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/Dockerfile" timestamp="1561017055800">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="20" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="16" column="54" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/controller/algo.controller.ts" timestamp="1560695626131">
         <mark key="[" line="14" column="70" />
@@ -526,11 +526,11 @@
         <mark key="^" line="14" column="33" />
         <mark key="." line="4" column="80" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-algo/Dockerfile" timestamp="1560866282225">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="58" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="14" column="11" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-algo/Dockerfile" timestamp="1561017038780">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="20" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/main.ts" timestamp="1560956766728">
         <mark key="[" line="6" column="26" />
@@ -648,7 +648,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICc8cm9vdERpcj4vcGFja2FnZXMvbWljcm9zZXJ2aWNlLWF1dGgnLAogICAgJzxyb290RGlyPi9wYWNrYWdlcy9taWNyb3NlcnZpY2UtcHJvZmlsZScsCiAgICAnPHJvb3REaXI+L3BhY2thZ2VzL21pY3Jvc2VydmljZS1hbGdvJywK</text>
+        <text encoding="base64">Q09QWSB0c2NvbmZpZy5qc29uIC4K</text>
       </register>
       <register name="d" type="4">
         <text />
@@ -660,7 +660,7 @@
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJwYXRocyI6IHsKICAgICAgInBhY2thZ2VzLyoiIDogWyIuLi8qIl0KICAgIH0K</text>
+        <text encoding="base64">Q09QWSB0c2NvbmZpZy5qc29uIC4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICc8cm9vdERpcj4vcGFja2FnZXMvbWljcm9zZXJ2aWNlLWF1dGgnLAogICAgJzxyb290RGlyPi9wYWNrYWdlcy9taWNyb3NlcnZpY2UtcHJvZmlsZScsCiAgICAnPHJvb3REaXI+L3BhY2thZ2VzL21pY3Jvc2VydmljZS1hbGdvJywK</text>
