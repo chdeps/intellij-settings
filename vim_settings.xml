@@ -29,12 +29,6 @@
         <mark key="]" line="38" column="7" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-algo/tsconfig.json" timestamp="1560974636284">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="12" column="1" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/controller/auth.controller.ts" timestamp="1561033862898" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-algo/domain/event/handler/attractivenessUpdated.handler.ts" timestamp="1560694115156">
         <mark key="[" line="2" column="74" />
@@ -125,6 +119,7 @@
         <mark key="]" line="5" column="53" />
         <mark key="." line="5" column="53" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/node_modules/@nestjs/common/interfaces/microservices/microservice-configuration.interface.d.ts" timestamp="1561035604112" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-grpc/infrastructure/algo/index.ts" timestamp="1560695248593">
         <mark key="[" line="0" column="0" />
       </file>
@@ -448,12 +443,6 @@
         <mark key="]" line="14" column="70" />
         <mark key="." line="14" column="70" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/tsconfig.json" timestamp="1560975936126">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="15" column="18" />
-        <mark key="]" line="18" column="5" />
-        <mark key="." line="16" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-grpc/infrastructure/auth/dto/index.ts" timestamp="1560696167661">
         <mark key="[" line="2" column="0" />
       </file>
@@ -461,12 +450,6 @@
       <file name="$USER_HOME$/Projects/NestJsMicroservices/nestjs-microservice-architecture/services/graphqlapi/src/main.ts" timestamp="1560260556185" />
       <file name="/JavaScript Console" timestamp="1560956711277">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/tsconfig.json" timestamp="1560974651087">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="12" column="1" />
-        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/infrastructure/services/facebook.service.ts" timestamp="1560437935526" />
       <file name="$USER_HOME$/Projects/WWF/wag-server/devops/docker-compose.local.yml" timestamp="1560798231613" />
