@@ -264,7 +264,7 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561017300165">
+      <file name="/Dummy.txt" timestamp="1561025735242">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -300,6 +300,12 @@
         <mark key="[" line="12" column="30" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/environment/index.js" timestamp="1561025687092">
+        <mark key="[" line="2" column="24" />
+        <mark key="]" line="2" column="24" />
+        <mark key="^" line="2" column="20" />
+        <mark key="." line="2" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/types.ts" timestamp="1560696660976">
         <mark key="[" line="1" column="39" />
@@ -647,14 +653,14 @@
       <jump line="13" column="0" filename="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/tsconfig.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Q09QWSB0c2NvbmZpZy5qc29uIC4K</text>
+      <register name="&quot;" type="4">
+        <text>inshallah-staging.cloud.bam.tech</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>/src</text>
+        <text>inshallah-staging.cloud.bam.tech</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
