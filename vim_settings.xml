@@ -29,6 +29,9 @@
         <mark key="]" line="38" column="7" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/ecosystem.config.js" timestamp="1561096340164">
+        <mark key="[" line="10" column="22" />
+      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/controller/auth.controller.ts" timestamp="1561033862898" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-algo/domain/event/handler/attractivenessUpdated.handler.ts" timestamp="1560694115156">
         <mark key="[" line="2" column="74" />
@@ -65,6 +68,9 @@
         <mark key="." line="3" column="68" />
         <mark key="^" line="3" column="68" />
       </file>
+      <file name="$USER_HOME$/Projects/UGC/UGC/src/components/ReCaptcha/patchPostMessageJsCode.js" timestamp="1559470977896">
+        <mark key="[" line="10" column="9" />
+      </file>
       <file name="$USER_HOME$/Projects/NestJsMicroservices/nestjs-microservice-architecture/services/catalog/nodemon-debug.json" timestamp="1560328659574" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/__tests__/validateEmail.handler.test.ts" timestamp="1560975459361">
         <mark key="[" line="9" column="44" />
@@ -90,6 +96,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/.gitattributes" timestamp="1560936005398">
+        <mark key="[" line="1" column="29" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1560796088877">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/module.ts" timestamp="1560873994335">
         <mark key="[" line="9" column="21" />
         <mark key="]" line="9" column="21" />
@@ -111,6 +123,12 @@
         <mark key="." line="5" column="53" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/node_modules/@nestjs/common/interfaces/microservices/microservice-configuration.interface.d.ts" timestamp="1561035604112" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-grpc/infrastructure/algo/index.ts" timestamp="1560695248593">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/Docker/Docker/.dockerignore" timestamp="1559809456084">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/services/validation.service.ts" timestamp="1560695507308">
         <mark key="[" line="2" column="82" />
         <mark key="]" line="2" column="66" />
@@ -144,17 +162,20 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/.env.staging" timestamp="1561032793109">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="2" column="30" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/.env.staging" timestamp="1561095852573">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="4" column="47" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/registerAccount.handler.ts" timestamp="1558986263042">
+        <mark key="[" line="12" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-grpc/infrastructure/profile/dto/profile.dto.ts" timestamp="1560974380507" />
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-algo/.env.staging" timestamp="1561048573885">
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-algo/.env.staging" timestamp="1561095861345">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="11" />
-        <mark key="." line="1" column="10" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
         <mark key="^" line="1" column="10" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/query/handler/getUserAndRolesFromJwt.handler.ts" timestamp="1560696811052">
@@ -184,6 +205,9 @@
         <mark key="[" line="4" column="52" />
         <mark key="]" line="4" column="52" />
         <mark key="." line="4" column="52" />
+      </file>
+      <file name="$USER_HOME$/Projects/UGC/UGC/src/components/ReCaptcha/index.js" timestamp="1559148623006">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/controller/profile.controller.ts" timestamp="1561017619120">
         <mark key="[" line="1" column="56" />
@@ -226,11 +250,14 @@
         <mark key="." line="11" column="53" />
         <mark key="^" line="11" column="51" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-grpc/infrastructure/profile/profile.client.ts" timestamp="1561049131625">
-        <mark key="[" line="21" column="68" />
-        <mark key="]" line="21" column="88" />
-        <mark key="." line="21" column="61" />
-        <mark key="^" line="21" column="61" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-grpc/infrastructure/profile/profile.client.ts" timestamp="1561096674772">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="24" column="22" />
+        <mark key="." line="24" column="22" />
+        <mark key="^" line="24" column="22" />
+      </file>
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/index.js" timestamp="1561026188306">
+        <mark key="[" line="246" column="73" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/service-eventstore/model/queue.model.ts" timestamp="1560691612795" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/jest.config.js" timestamp="1560976670093">
@@ -239,7 +266,7 @@
         <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/service-eventstore/eventstore.service.ts" timestamp="1560423825415" />
-      <file name="/Dummy.txt" timestamp="1561049225105">
+      <file name="/Dummy.txt" timestamp="1561095896766">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -284,6 +311,9 @@
         <mark key="]" line="5" column="63" />
         <mark key="." line="5" column="63" />
         <mark key="^" line="1" column="18" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-grpc/infrastructure/auth/index.ts" timestamp="1560695260099">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-grpc/infrastructure/profile/dto/profileStatus.dto.ts" timestamp="1560859981987" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/docker-compose.yml" timestamp="1561044789384">
@@ -368,6 +398,9 @@
         <mark key="." line="4" column="66" />
         <mark key="^" line="4" column="66" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-grpc/infrastructure/profile/index.ts" timestamp="1560695275235">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/domain/event/handler/basicProfileCreated.handler.ts" timestamp="1560694254518">
         <mark key="[" line="2" column="77" />
         <mark key="]" line="2" column="70" />
@@ -444,8 +477,14 @@
         <mark key="]" line="14" column="70" />
         <mark key="." line="14" column="70" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-grpc/infrastructure/auth/dto/index.ts" timestamp="1560696167661">
+        <mark key="[" line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/NestJsMicroservices/nestjs-microservice-architecture/services/catalog/tsconfig.json" timestamp="1560684840954" />
       <file name="$USER_HOME$/Projects/NestJsMicroservices/nestjs-microservice-architecture/services/graphqlapi/src/main.ts" timestamp="1560260556185" />
+      <file name="/JavaScript Console" timestamp="1560956711277">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/infrastructure/services/facebook.service.ts" timestamp="1560437935526" />
       <file name="$USER_HOME$/Projects/WWF/wag-server/devops/docker-compose.local.yml" timestamp="1560798231613" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/backpack.config.js" timestamp="1560872227447">
@@ -457,6 +496,9 @@
         <mark key="[" line="4" column="31" />
         <mark key="]" line="4" column="31" />
         <mark key="." line="4" column="31" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/interface/hasVerifiedEmail.event.ts" timestamp="1558985603841">
+        <mark key="[" line="2" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/nodemon.json" timestamp="1560860648151">
         <mark key="[" line="4" column="48" />
@@ -595,50 +637,50 @@
       <jump line="13" column="0" filename="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/tsconfig.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>profile</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyBFbnZpcm9ubWVudAo=</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>profile</text>
+        <text>env</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHVybDogcHJvY2Vzcy5lbnYuRU5WID09PSAnc3RhZ2luZycgPyAnbWljcm9zZXJ2aWNlLXByb2ZpbGU6NTA1MDEnIDogJzAuMC4wLjA6NTA1MDEnLAo=</text>
+        <text encoding="base64">IyBlbnZpcm9ubWVudAplbnY9c3RhZ2luZwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHVybDogJ2xvY2FsaG9zdDo1MDUwMicsCg==</text>
+        <text encoding="base64">IyBFbnZpcm9ubWVudAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHVybDogJ2xvY2FsaG9zdDo1MDUwMycsCg==</text>
+        <text encoding="base64">IyBlbnZpcm9ubWVudAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBIb3N0CkhPU1Q9bWljcm9zZXJ2aWNlLXByb2ZpbGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBIb3N0CkhPU1Q9bWljcm9zZXJ2aWNlLWF1dGgK</text>
+        <text encoding="base64">ICAgIHVybDogJ2xvY2FsaG9zdDo1MDUwMicsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHVybDogJ2xvY2FsaG9zdDo1MDUwMycsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBIb3N0CkhPU1Q9bWljcm9zZXJ2aWNlLXByb2ZpbGUK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">Cm5ldHdvcmtzOgogIDoge30=</text>
+      <register name="7" type="2">
+        <text encoding="base64">IyBIb3N0CkhPU1Q9bWljcm9zZXJ2aWNlLWF1dGgK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICc8cm9vdERpcj4vcGFja2FnZXMvbWljcm9zZXJ2aWNlLWF1dGgnLAogICAgJzxyb290RGlyPi9wYWNrYWdlcy9taWNyb3NlcnZpY2UtcHJvZmlsZScsCiAgICAnPHJvb3REaXI+L3BhY2thZ2VzL21pY3Jvc2VydmljZS1hbGdvJywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
