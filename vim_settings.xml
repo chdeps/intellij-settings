@@ -265,6 +265,7 @@
         <mark key="." line="1" column="56" />
         <mark key="^" line="1" column="59" />
       </file>
+      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-web/package.json" timestamp="1561132372576" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-grpc/infrastructure/auth/auth.proto" timestamp="1560861636504">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -488,7 +489,7 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="6" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/ops/local/Dockerfile" timestamp="1561128774251">
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/ops/local/Dockerfile" timestamp="1561129811193">
         <mark key="[" line="16" column="7" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
