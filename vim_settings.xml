@@ -221,6 +221,12 @@
         <mark key="." line="6" column="21" />
         <mark key="^" line="6" column="21" />
       </file>
+      <file name="$USER_HOME$/Projects/Workspace/Workspace/packages/ms-one/Dockerfile" timestamp="1561206787974">
+        <mark key="[" line="4" column="21" />
+        <mark key="]" line="2" column="11" />
+        <mark key="^" line="2" column="11" />
+        <mark key="." line="2" column="11" />
+      </file>
       <file name="$USER_HOME$/Projects/Docker/Docker/index.js" timestamp="1559769731249">
         <mark key="[" line="5" column="24" />
         <mark key="]" line="5" column="24" />
@@ -407,6 +413,12 @@
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-grpc/infrastructure/profile/dto/profileStatus.dto.ts" timestamp="1560859981987" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/domain/dto/profile.dto.ts" timestamp="1560518873907" />
+      <file name="$USER_HOME$/Projects/Workspace/Workspace/docker-compose.yml" timestamp="1561206729698">
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="4" column="11" />
+        <mark key="^" line="8" column="3" />
+        <mark key="." line="4" column="11" />
+      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/service-eventstore/events/algo/index.ts" timestamp="1560693967542">
         <mark key="[" line="0" column="15" />
         <mark key="]" line="0" column="15" />
@@ -784,13 +796,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>logger</text>
+        <text>packages/ms-one</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>logger</text>
+        <text>packages/ms-one</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
