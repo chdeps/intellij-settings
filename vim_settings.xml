@@ -204,6 +204,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/package.json" timestamp="1561382491931">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/infrastructure/persistence/entity/profile.entity.ts" timestamp="1560975185054">
         <mark key="[" line="8" column="19" />
         <mark key="]" line="8" column="19" />
@@ -484,16 +489,15 @@
         <mark key="." line="5" column="70" />
         <mark key="^" line="5" column="64" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/package.json" timestamp="1561291628138">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="8" column="13" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/package.json" timestamp="1561382479609">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-algo/package.json" timestamp="1561361466436">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="30" column="31" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-algo/package.json" timestamp="1561382456129">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-algo/algo.module.ts" timestamp="1560867483644">
         <mark key="[" line="36" column="38" />
@@ -841,7 +845,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Q09QWSB0c2NvbmZpZy5qc29uIC4K</text>
+        <text encoding="base64">ICAic2NyaXB0cyI6IHsKICAgICJzdGFydDpkZXYiOiAibm9kZW1vbiIKICB9LAo=</text>
       </register>
       <register name="d" type="4">
         <text />
@@ -856,34 +860,34 @@
         <text encoding="base64">Q09QWSB0c2NvbmZpZy5qc29uIC4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG5ldHdvcmtzOgogICAgICAtIGJhY2stZW5kCg==</text>
+        <text encoding="base64">ICAic2NyaXB0cyI6IHsKICAgICJzdGFydDpkZXYiOiAibm9kZW1vbiIKICB9LAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAic2NyaXB0cyI6IHsKICAgICJzdGFydDpkZXYiOiAibm9kZW1vbiIKICB9LAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ClZPTFVNRSBbICIvdXNyL2xvY2FsL3NoYXJlLy5jYWNoZS95YXJuL3Y0IiBdCg==</text>
+        <text encoding="base64">ICAic2NyaXB0cyI6IHsKICAgICJzdGFydDpkZXYiOiAibm9kZW1vbiIsCiAgfSwK</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">V09SS0RJUiAvc2VydmVyL3BhY2thZ2VzL21pY3Jvc2VydmljZS1hbGdvCg==</text>
+        <text encoding="base64">ICAgIG5ldHdvcmtzOgogICAgICAtIGJhY2stZW5kCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">RVhQT1NFIDUwNTAyCg==</text>
+        <text encoding="base64">ClZPTFVNRSBbICIvdXNyL2xvY2FsL3NoYXJlLy5jYWNoZS95YXJuL3Y0IiBdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">V09SS0RJUiAvc2VydmVyL3BhY2thZ2VzL21pY3Jvc2VydmljZS1hbGdvCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">RVhQT1NFIDUwNTAxCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Q01EIFsibm9kZW1vbiIsICIuL2J1aWxkL21haW4iXQo=</text>
+        <text encoding="base64">RVhQT1NFIDUwNTAyCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
