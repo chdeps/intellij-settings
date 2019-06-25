@@ -24,7 +24,6 @@
         <mark key="]" line="1" column="34" />
         <mark key="." line="1" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/services/feedbackAnswerService.js" timestamp="1560240107972" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/business/command/handler/__tests__/migrateProfile.handler.test.ts" timestamp="1561443063194">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -48,7 +47,6 @@
         <mark key="." line="11" column="16" />
         <mark key="^" line="11" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/controller/auth.controller.ts" timestamp="1561033862898" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-algo/domain/event/handler/attractivenessUpdated.handler.ts" timestamp="1560694115156">
         <mark key="[" line="2" column="74" />
         <mark key="]" line="2" column="70" />
@@ -65,7 +63,6 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/src/business/command/handler/sendEmailValidationEmail.handler.ts" timestamp="1560612441878" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/infrastructure/api/auth.error.ts" timestamp="1560850395019">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="41" column="6" />
@@ -82,7 +79,6 @@
         <mark key="." line="4" column="76" />
         <mark key="^" line="4" column="76" />
       </file>
-      <file name="$USER_HOME$/Projects/grpc-docker-envoy/packages/private-hero/src/grpc.client.ts" timestamp="1561125449341" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/package.json" timestamp="1561451001183">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="5" column="29" />
@@ -95,7 +91,6 @@
         <mark key="." line="3" column="68" />
         <mark key="^" line="3" column="68" />
       </file>
-      <file name="$USER_HOME$/Projects/NestJsMicroservices/nestjs-microservice-architecture/services/catalog/nodemon-debug.json" timestamp="1560328659574" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-algo/ops/local/Dockerfile" timestamp="1561408285584">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -117,14 +112,12 @@
         <mark key="]" line="9" column="44" />
         <mark key="." line="9" column="44" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/database/docker-postgresql-multiple-databases.sh" timestamp="1560796993050" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/docker-compose.local.yml" timestamp="1561444745533">
         <mark key="[" line="71" column="34" />
         <mark key="]" line="71" column="34" />
         <mark key="." line="71" column="34" />
         <mark key="^" line="71" column="53" />
       </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/setupTests.ts" timestamp="1560342742206" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-grpc/infrastructure/auth/dto/authCredentials.dto.ts" timestamp="1561440433457">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -140,7 +133,6 @@
         <mark key="]" line="33" column="65" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/components/Inputs/FormInput/FormInput.component.tsx" timestamp="1560428947080" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/domain/event/handler/profileInitialized.handler.ts" timestamp="1561441340217">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -196,7 +188,6 @@
         <mark key="]" line="5" column="53" />
         <mark key="." line="5" column="53" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/node_modules/@nestjs/common/interfaces/microservices/microservice-configuration.interface.d.ts" timestamp="1561035604112" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/services/validation.service.ts" timestamp="1560695507308">
         <mark key="[" line="2" column="82" />
         <mark key="]" line="2" column="66" />
@@ -219,8 +210,6 @@
         <mark key="." line="8" column="23" />
         <mark key="^" line="8" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/NestJsMicroservices/nestjs-microservice-architecture/services/graphqlapi/package.json" timestamp="1560264511381" />
-      <file name="/ecosystem.config.js" timestamp="1560932760945" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-algo/.env" timestamp="1561407617252">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="18" column="0" />
@@ -330,7 +319,6 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-web/package.json" timestamp="1561132372576" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-grpc/infrastructure/auth/auth.proto" timestamp="1561442436796">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
@@ -375,20 +363,17 @@
         <mark key="." line="11" column="53" />
         <mark key="^" line="11" column="51" />
       </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/repositories/FeedbackRepository.js" timestamp="1561394535000" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-grpc/infrastructure/profile/profile.client.ts" timestamp="1561442236767">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="65" />
         <mark key="." line="4" column="0" />
         <mark key="^" line="16" column="71" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/service-eventstore/model/queue.model.ts" timestamp="1560691612795" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/jest.config.js" timestamp="1560976670093">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/service-eventstore/eventstore.service.ts" timestamp="1560423825415" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/business/command/handler/__tests__/initializeProfile.handler.test.ts" timestamp="1561440650763">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -399,7 +384,7 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561468318500">
+      <file name="/Dummy.txt" timestamp="1561474002084">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -409,14 +394,12 @@
         <mark key="]" line="17" column="17" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-grpc/http.ts" timestamp="1560256147341" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-grpc/infrastructure/auth/dto/resetPassword.dto.ts" timestamp="1560850610797">
         <mark key="[" line="20" column="18" />
         <mark key="]" line="20" column="18" />
         <mark key="." line="20" column="18" />
         <mark key="^" line="17" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/lib/c4c.js" timestamp="1561456912262" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/service-eventstore/events/profile/index.ts" timestamp="1561441663275">
         <mark key="[" line="0" column="41" />
         <mark key="]" line="0" column="41" />
@@ -451,7 +434,6 @@
         <mark key="^" line="27" column="21" />
         <mark key="." line="27" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/pages/PasswordForgotten/PasswordForgotten.tsx" timestamp="1560436701215" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/environment/index.js" timestamp="1561098383294">
         <mark key="[" line="2" column="61" />
         <mark key="]" line="2" column="61" />
@@ -463,7 +445,6 @@
         <mark key="]" line="1" column="39" />
         <mark key="." line="1" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/App.js" timestamp="1561458544177" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/ops/staging/Dockerfile" timestamp="1561355937107">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="44" />
@@ -481,8 +462,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-grpc/infrastructure/profile/dto/profileStatus.dto.ts" timestamp="1560859981987" />
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/domain/dto/profile.dto.ts" timestamp="1560518873907" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/environment/env.local.config" timestamp="1561407585574">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -511,7 +490,6 @@
         <mark key="." line="13" column="28" />
         <mark key="^" line="13" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/node_modules/@nestjs/swagger/dist/decorators/api-model-property.decorator.d.ts" timestamp="1560518908364" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/nodemon.json" timestamp="1561292191621">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="6" column="1" />
@@ -523,7 +501,6 @@
         <mark key="]" line="6" column="1" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/NestJsMicroservices/nestjs-microservice-architecture/services/graphqlapi/src/catalog/catalog-item/catalog-item-client.service.ts" timestamp="1560259216818" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/main.ts" timestamp="1560864192822">
         <mark key="[" line="5" column="66" />
         <mark key="]" line="5" column="66" />
@@ -551,27 +528,22 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/WWF/wag-server/devops/staging/database/env.config" timestamp="1560797109135" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/handler/emailVerified.handler.ts" timestamp="1560694187899">
         <mark key="[" line="5" column="70" />
         <mark key="]" line="5" column="70" />
         <mark key="." line="5" column="70" />
         <mark key="^" line="5" column="64" />
       </file>
-      <file name="$USER_HOME$/Projects/NestJsMicroservices/nestjs-microservice-architecture/services/graphqlapi/src/app.module.ts" timestamp="1560259147645" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/package.json" timestamp="1561451054210">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="4" column="29" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/pages/PrivacyPolicy/PrivacyPolicy.component.js" timestamp="1561458607039" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/controllers/UserController.js" timestamp="1561454005057">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/modules/authentication/sagas.ts" timestamp="1560505787426" />
-      <file name="$USER_HOME$/Projects/NestJsMicroservices/nestjs-microservice-architecture/services/catalog/nodemon.json" timestamp="1560328615255" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-algo/package.json" timestamp="1561451025887">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="4" column="29" />
@@ -598,10 +570,6 @@
         <mark key="]" line="0" column="23" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/ui/createStoryFromDocs.tsx" timestamp="1560345386426" />
-      <file name="$USER_HOME$/Projects/WWF/wag-server/devops/staging/server/Dockerfile" timestamp="1561118837993" />
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/pages/Home/Home.tsx" timestamp="1561045510027" />
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/lib/api.js" timestamp="1561394465623" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/accessControl/authentication/jwt.strategy.ts" timestamp="1560696803688">
         <mark key="[" line="4" column="36" />
         <mark key="]" line="4" column="66" />
@@ -647,15 +615,11 @@
         <mark key="]" line="2" column="34" />
         <mark key="." line="2" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-core/modules/matches/saga.ts" timestamp="1560517185023" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/nodemon.json" timestamp="1561292241355">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="6" column="1" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/navigation/index.tsx" timestamp="1561038571109" />
-      <file name="$USER_HOME$/Projects/grpc-docker-envoy/package.json" timestamp="1561124053856" />
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/pages/Landing/Birthdate/Birthdate.component.tsx" timestamp="1560354083331" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-grpc/infrastructure/profile/profile.error.ts" timestamp="1561443436409">
         <mark key="[" line="0" column="7" />
         <mark key="]" line="0" column="7" />
@@ -666,16 +630,13 @@
         <mark key="]" line="10" column="37" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/NestJsMicroservices/nestjs-microservice-architecture/services/graphqlapi/src/catalog/catalog.module.ts" timestamp="1560259168796" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/business/query/interface/getProfiles.query.ts" timestamp="1561440562499">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/node_modules/@nestjs/typeorm/dist/interfaces/typeorm-options.interface.d.ts" timestamp="1560440299457" />
-      <file name="$USER_HOME$/Projects/grpc-docker-envoy/Makefile" timestamp="1561124118475" />
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/environment/env.staging.config" timestamp="1561293000609">
-        <mark key="[" line="1" column="0" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/environment/env.staging.config" timestamp="1561474030022">
+        <mark key="[" line="2" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
@@ -715,20 +676,16 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/NestJsMicroservices/nestjs-microservice-architecture/services/catalog/src/app.module.ts" timestamp="1560260148586" />
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/SurveyFlow/SurveyFlow.component.js" timestamp="1561458335461" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/infrastructure/index.ts" timestamp="1560695465238">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/appsettings.json" timestamp="1561457462508" />
       <file name="$USER_HOME$/Projects/grpc-docker-envoy/docker-compose.yml" timestamp="1561125702222">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-app/src/pages/Landing/Birthdate/BirthdateForm.component.tsx" timestamp="1560347406752" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/auth.service.ts" timestamp="1561440371787">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="17" />
@@ -767,7 +724,6 @@
         <mark key="]" line="6" column="36" />
         <mark key="." line="6" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/NestJsMicroservices/nestjs-microservice-architecture/services/catalog/tsconfig.json" timestamp="1560684840954" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-grpc/infrastructure/auth/auth.error.ts" timestamp="1560850680887">
         <mark key="[" line="12" column="4" />
         <mark key="]" line="1" column="0" />
@@ -784,15 +740,12 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/NestJsMicroservices/nestjs-microservice-architecture/services/graphqlapi/src/main.ts" timestamp="1560260556185" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-algo/ops/staging/Dockerfile" timestamp="1561293192861">
         <mark key="[" line="9" column="5" />
         <mark key="]" line="9" column="5" />
         <mark key="." line="9" column="5" />
         <mark key="^" line="7" column="4" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/infrastructure/services/facebook.service.ts" timestamp="1560437935526" />
-      <file name="$USER_HOME$/Projects/WWF/wag-server/devops/docker-compose.local.yml" timestamp="1561407242928" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/backpack.config.js" timestamp="1560872227447">
         <mark key="[" line="6" column="28" />
         <mark key="]" line="6" column="28" />
@@ -826,10 +779,10 @@
         <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/database/env.config" timestamp="1561453467161">
-        <mark key="[" line="2" column="18" />
-        <mark key="]" line="2" column="18" />
-        <mark key="." line="2" column="18" />
-        <mark key="^" line="2" column="18" />
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="0" column="18" />
+        <mark key="." line="0" column="18" />
+        <mark key="^" line="0" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/main.ts" timestamp="1560956766728">
         <mark key="[" line="6" column="26" />
@@ -837,7 +790,6 @@
         <mark key="." line="2" column="35" />
         <mark key="^" line="8" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/infrastructure/services/emailSender.service.ts" timestamp="1560329474063" />
     </filemarks>
     <jumps>
       <jump line="145" column="21" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-web/config/webpack.config.dev.js" />
