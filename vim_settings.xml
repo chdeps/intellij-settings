@@ -389,7 +389,7 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="15" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561377968410">
+      <file name="/Dummy.txt" timestamp="1561409425111">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -786,12 +786,6 @@
         <mark key="]" line="6" column="5" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/infrastructure/api/profile.controller.ts" timestamp="1561017600226">
-        <mark key="[" line="4" column="80" />
-        <mark key="]" line="4" column="128" />
-        <mark key="^" line="14" column="33" />
-        <mark key="." line="4" column="80" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/infrastructure/api/auth.proto" timestamp="1560851110614">
         <mark key="[" line="64" column="0" />
