@@ -147,10 +147,10 @@
         <mark key="." line="3" column="68" />
         <mark key="^" line="3" column="68" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-interaction/interaction.module.ts" timestamp="1561552948023">
-        <mark key="[" line="0" column="16" />
-        <mark key="]" line="0" column="16" />
-        <mark key="." line="0" column="16" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-interaction/interaction.module.ts" timestamp="1561553953547">
+        <mark key="[" line="37" column="102" />
+        <mark key="]" line="37" column="102" />
+        <mark key="." line="37" column="102" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-algo/ops/local/Dockerfile" timestamp="1561408285584">
         <mark key="[" line="23" column="0" />
@@ -958,14 +958,14 @@
       <jump line="0" column="12" filename="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/environment/env.local.config" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgR2V0VXNlckF0dHJhY3RpdmVuZXNzSGFuZGxlciB9IGZyb20gJy4vZ2V0VXNlckF0dHJhY3RpdmVuZXNzLmhhbmRsZXInOwoK</text>
+      <register name="&quot;" type="4">
+        <text>EventStoreService</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>GetUserAttractivenessHandler</text>
+        <text>EventStoreService</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
