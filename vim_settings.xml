@@ -295,10 +295,10 @@
         <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-algo/package.json" timestamp="1561545564340">
-        <mark key="[" line="18" column="51" />
-        <mark key="]" line="18" column="43" />
-        <mark key="." line="18" column="43" />
-        <mark key="^" line="17" column="25" />
+        <mark key="[" line="14" column="51" />
+        <mark key="]" line="14" column="43" />
+        <mark key="." line="14" column="43" />
+        <mark key="^" line="13" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/business/command/interface/completeProfile.command.ts" timestamp="1561442801561">
         <mark key="[" line="0" column="34" />
