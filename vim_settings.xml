@@ -135,9 +135,9 @@
         <mark key="." line="2" column="34" />
         <mark key="^" line="5" column="81" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/docker-compose.local.yml" timestamp="1561623498640">
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/docker-compose.local.yml" timestamp="1561652855181">
         <mark key="i" line="23" column="13" />
-        <mark key="[" line="94" column="47" />
+        <mark key="[" line="80" column="24" />
         <mark key="]" line="94" column="47" />
         <mark key="." line="94" column="47" />
         <mark key="^" line="95" column="37" />
@@ -284,10 +284,10 @@
         <mark key="]" line="9" column="21" />
         <mark key="." line="9" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/Dockerfile" timestamp="1561637170489">
-        <mark key="[" line="14" column="72" />
-        <mark key="]" line="14" column="72" />
-        <mark key="." line="14" column="72" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/Dockerfile" timestamp="1561652957663">
+        <mark key="[" line="23" column="9" />
+        <mark key="]" line="23" column="9" />
+        <mark key="." line="23" column="9" />
         <mark key="^" line="14" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/business/command/interface/createProfile.command.ts" timestamp="1560696514262">
@@ -749,13 +749,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Hugo</text>
+        <text>install --frozen-lockfile</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Hugo</text>
+        <text>install --frozen-lockfile</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
