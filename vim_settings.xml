@@ -218,7 +218,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/.gitattributes" timestamp="1561621875949">
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/.gitattributes" timestamp="1561626351235">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -415,10 +415,10 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/environment/env.staging.config" timestamp="1561474030022">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/environment/env.staging.config" timestamp="1561625889223">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="47" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/service-eventstore/model/event.model.ts" timestamp="1561440519631">
         <mark key="[" line="12" column="9" />
@@ -430,10 +430,8 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/.env" timestamp="1561407587758">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="47" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/.env" timestamp="1561625887419">
+        <mark key="]" line="0" column="47" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/sendEmailValidationEmail.handler.ts" timestamp="1560859417976">
         <mark key="[" line="13" column="0" />
@@ -590,7 +588,7 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561623741000">
+      <file name="/Dummy.txt" timestamp="1561626593084">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -636,8 +634,8 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/database/env.config" timestamp="1561623408381">
-        <mark key="[" line="0" column="63" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/database/env.config" timestamp="1561626159524">
+        <mark key="[" line="0" column="51" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-grpc/infrastructure/interaction/interaction.client.ts" timestamp="1561555846382">
         <mark key="[" line="0" column="37" />
@@ -754,8 +752,8 @@
       <jump line="0" column="12" filename="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/environment/env.local.config" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>packages</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">U1dBR0dFUl9TQ0hFTUU9aHR0cApBVVRIX1NFQ1JFVD1HWnBzZk1VM0ZReWdiTEdqTGJybnV0dmhwZVhkV3FyNHdjdwo=</text>
       </register>
       <register name="d" type="4">
         <text />
@@ -767,37 +765,37 @@
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBhcHAuY29ubmVjdE1pY3Jvc2VydmljZShpbnRlcmFjdGlvbkNsaWVudE9wdGlvbnMpOwo=</text>
+        <text encoding="base64">U1dBR0dFUl9TQ0hFTUU9aHR0cApBVVRIX1NFQ1JFVD1HWnBzZk1VM0ZReWdiTEdqTGJybnV0dmhwZVhkV3FyNHdjdwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiMgRmFjZWJvb2sKQUNDRVNTX1RPS0VOPTM1NzU5NTk0MTUyNzUyNXxWY3Z5Q25EQ21kMURaZ1BreGtoVE04MEdWWTQKCiMgQXBwIGFuZCBVbml2ZXJzYWwgTGluawpCQVNFX1VOSVZFUlNBTF9MSU5LPWh0dHBzOi8vaW5zaGFsbGFoLXN0YWdpbmcuY2xvdWQuYmFtLnRlY2gvCg==</text>
+        <text encoding="base64">LmVudiAgZmlsdGVyPWNyeXB0IGRpZmY9Y3J5cHQKZW52LnN0YWdpbmcuY29uZmlnIGZpbHRlcj1jcnlwdCBkaWZmPWNyeXB0CmVudi5jb25maWcgZmlsdGVyPWNyeXB0IGRpZmY9Y3J5cHQKcGFja2FnZXMvbWljcm9zZXJ2aWNlLWF1dGgvaW5mcmFzdHJ1Y3R1cmUvY29uZmlnLmpzb24gZmlsdGVyPWNyeXB0IGRpZmY9Y3J5cHQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBBdXRoIHNlY3JldApBVVRIX1NFQ1JFVD1HWnBzZk1VM0ZReWdiTEdqTGJybnV0dmhwZVhkV3FyNHdjdwoK</text>
+        <text encoding="base64">CiMgRmFjZWJvb2sKQUNDRVNTX1RPS0VOPTM1NzU5NTk0MTUyNzUyNXxWY3Z5Q25EQ21kMURaZ1BreGtoVE04MEdWWTQKCiMgQXBwIGFuZCBVbml2ZXJzYWwgTGluawpCQVNFX1VOSVZFUlNBTF9MSU5LPWh0dHBzOi8vaW5zaGFsbGFoLXN0YWdpbmcuY2xvdWQuYmFtLnRlY2gvCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiMgRmFjZWJvb2sKQUNDRVNTX1RPS0VOPTM1NzU5NTk0MTUyNzUyNXxWY3Z5Q25EQ21kMURaZ1BreGtoVE04MEdWWTQKCiMgQXBwIGFuZCBVbml2ZXJzYWwgTGluawpCQVNFX1VOSVZFUlNBTF9MSU5LPWh0dHBzOi8vaW5zaGFsbGFoLXN0YWdpbmcuY2xvdWQuYmFtLnRlY2gvCg==</text>
+        <text encoding="base64">IyBBdXRoIHNlY3JldApBVVRIX1NFQ1JFVD1HWnBzZk1VM0ZReWdiTEdqTGJybnV0dmhwZVhkV3FyNHdjdwoK</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBBdXRoIHNlY3JldApBVVRIX1NFQ1JFVD1HWnBzZk1VM0ZReWdiTEdqTGJybnV0dmhwZVhkV3FyNHdjdwoK</text>
+        <text encoding="base64">CiMgRmFjZWJvb2sKQUNDRVNTX1RPS0VOPTM1NzU5NTk0MTUyNzUyNXxWY3Z5Q25EQ21kMURaZ1BreGtoVE04MEdWWTQKCiMgQXBwIGFuZCBVbml2ZXJzYWwgTGluawpCQVNFX1VOSVZFUlNBTF9MSU5LPWh0dHBzOi8vaW5zaGFsbGFoLXN0YWdpbmcuY2xvdWQuYmFtLnRlY2gvCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgaW50ZXJhY3Rpb25DbGllbnRPcHRpb25zIH0gZnJvbSAnQGluc2hhbGxhaC91dGlscy1ncnBjL2luZnJhc3RydWN0dXJlL2ludGVyYWN0aW9uJzsK</text>
+        <text encoding="base64">IyBBdXRoIHNlY3JldApBVVRIX1NFQ1JFVD1HWnBzZk1VM0ZReWdiTEdqTGJybnV0dmhwZVhkV3FyNHdjdwoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgR3JwY01ldGhvZCB9IGZyb20gJ0BuZXN0anMvbWljcm9zZXJ2aWNlcyc7CmltcG9ydCB7IExpa2VVc2VyRHRvIH0gZnJvbSAnQGluc2hhbGxhaC91dGlscy1ncnBjL2luZnJhc3RydWN0dXJlL2ludGVyYWN0aW9uL2R0by9saWtlVXNlci5kdG8nOwppbXBvcnQgeyBPYnNlcnZhYmxlLCBmcm9tIH0gZnJvbSAncnhqcyc7CmltcG9ydCB7IEdycGNBbnN3ZXIgfSBmcm9tICdAaW5zaGFsbGFoL3V0aWxzLWdycGMvdHlwZXMnOwppbXBvcnQgeyBDb21tYW5kQnVzIH0gZnJvbSAnQG5lc3Rqcy9jcXJzJzsKaW1wb3J0IHsgZm9ybWF0TWVzc2FnZSB9IGZyb20gJ0BpbnNoYWxsYWgvdXRpbHMtZ3JwYy9ncnBjJzsK</text>
+        <text encoding="base64">aW1wb3J0IHsgaW50ZXJhY3Rpb25DbGllbnRPcHRpb25zIH0gZnJvbSAnQGluc2hhbGxhaC91dGlscy1ncnBjL2luZnJhc3RydWN0dXJlL2ludGVyYWN0aW9uJzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwdWJsaWMgY29uc3RydWN0b3IocHJpdmF0ZSByZWFkb25seSBjb21tYW5kQnVzOiBDb21tYW5kQnVzKSB7fQo=</text>
+        <text encoding="base64">aW1wb3J0IHsgR3JwY01ldGhvZCB9IGZyb20gJ0BuZXN0anMvbWljcm9zZXJ2aWNlcyc7CmltcG9ydCB7IExpa2VVc2VyRHRvIH0gZnJvbSAnQGluc2hhbGxhaC91dGlscy1ncnBjL2luZnJhc3RydWN0dXJlL2ludGVyYWN0aW9uL2R0by9saWtlVXNlci5kdG8nOwppbXBvcnQgeyBPYnNlcnZhYmxlLCBmcm9tIH0gZnJvbSAncnhqcyc7CmltcG9ydCB7IEdycGNBbnN3ZXIgfSBmcm9tICdAaW5zaGFsbGFoL3V0aWxzLWdycGMvdHlwZXMnOwppbXBvcnQgeyBDb21tYW5kQnVzIH0gZnJvbSAnQG5lc3Rqcy9jcXJzJzsKaW1wb3J0IHsgZm9ybWF0TWVzc2FnZSB9IGZyb20gJ0BpbnNoYWxsYWgvdXRpbHMtZ3JwYy9ncnBjJzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBAR3JwY01ldGhvZCgnQ29tbWFuZCcpCiAgcHVibGljIGxpa2VVc2VyKGxpa2VVc2VyRHRvOiBMaWtlVXNlckR0byk6IE9ic2VydmFibGU8R3JwY0Fuc3dlcjx7fT4+IHsKICAgIHJldHVybiBmcm9tKHRoaXMuY29tbWFuZEJ1cy5leGVjdXRlKG5ldyBMaWtlVXNlckNvbW1hbmQobGlrZVVzZXJEdG8pKSkucGlwZShmb3JtYXRNZXNzYWdlKTsKICB9Cg==</text>
+        <text encoding="base64">ICBwdWJsaWMgY29uc3RydWN0b3IocHJpdmF0ZSByZWFkb25seSBjb21tYW5kQnVzOiBDb21tYW5kQnVzKSB7fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTGlrZVVzZXJDb21tYW5kIH0gZnJvbSAnLi4vLi4vYnVzaW5lc3MvY29tbWFuZCc7Cg==</text>
+        <text encoding="base64">ICBAR3JwY01ldGhvZCgnQ29tbWFuZCcpCiAgcHVibGljIGxpa2VVc2VyKGxpa2VVc2VyRHRvOiBMaWtlVXNlckR0byk6IE9ic2VydmFibGU8R3JwY0Fuc3dlcjx7fT4+IHsKICAgIHJldHVybiBmcm9tKHRoaXMuY29tbWFuZEJ1cy5leGVjdXRlKG5ldyBMaWtlVXNlckNvbW1hbmQobGlrZVVzZXJEdG8pKSkucGlwZShmb3JtYXRNZXNzYWdlKTsKICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
