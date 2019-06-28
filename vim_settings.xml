@@ -75,9 +75,9 @@
         <mark key="^" line="9" column="19" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/docker-compose.local.yml" timestamp="1561737229134">
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/docker-compose.local.yml" timestamp="1561740319736">
         <mark key="i" line="25" column="13" />
-        <mark key="[" line="115" column="0" />
+        <mark key="[" line="16" column="6" />
         <mark key="]" line="116" column="13" />
         <mark key="." line="115" column="0" />
       </file>
@@ -454,8 +454,8 @@
         <mark key="." line="2" column="70" />
         <mark key="^" line="2" column="70" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/backpack.config.js" timestamp="1560782747575">
-        <mark key="[" line="25" column="51" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/backpack.config.js" timestamp="1561740419553">
+        <mark key="[" line="6" column="28" />
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
         <mark key="^" line="20" column="3" />
@@ -513,6 +513,11 @@
         <mark key="]" line="19" column="44" />
         <mark key="." line="21" column="0" />
         <mark key="^" line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/auth.module.ts" timestamp="1561740199612">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="16" />
+        <mark key="." line="0" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-photo/Dockerfile" timestamp="1561733889231">
         <mark key="'" line="0" column="0" />
@@ -714,14 +719,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/Dockerfile" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHN0ZGluX29wZW46IHRydWUKICAgIHR0eTogdHJ1ZQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IExvZ2dlcg==</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>interaction</text>
+        <text encoding="base64">IExvZ2dlcg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
