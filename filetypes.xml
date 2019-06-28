@@ -11,6 +11,7 @@
       <mapping pattern="androidbuildversion" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="compatibilityReportContainerFactory.ts" type="PLAIN_TEXT" />
+      <mapping pattern="UploadPhotoCommand.ts" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="iosbuildversion" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
