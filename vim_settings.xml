@@ -201,10 +201,11 @@
         <mark key="." line="4" column="50" />
         <mark key="^" line="3" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/Dockerfile" timestamp="1561720962575">
-        <mark key="[" line="27" column="24" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/Dockerfile" timestamp="1561729829266">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="37" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-interaction/domain/event/handler/index.ts" timestamp="1561553068330">
         <mark key="[" line="0" column="17" />
@@ -569,6 +570,12 @@
         <mark key="^" line="42" column="17" />
         <mark key="." line="42" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-algo/Dockerfile" timestamp="1561729872674">
+        <mark key="[" line="36" column="24" />
+        <mark key="]" line="36" column="24" />
+        <mark key="." line="36" column="5" />
+        <mark key="^" line="35" column="24" />
+      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/database/env.config" timestamp="1561636638178" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-grpc/infrastructure/interaction/interaction.client.ts" timestamp="1561555846382">
         <mark key="[" line="0" column="37" />
@@ -686,65 +693,50 @@
       <jump line="0" column="12" filename="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/environment/env.local.config" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>--from=dependencies</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>With</text>
+        <text>-alpine</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
       </register>
       <register name="0" type="4">
-        <text>FROM node:11-alpine</text>
+        <text>--from=dependencies</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZpbmRNb2NrLm1vY2tSZXNldCgpOwo=</text>
+        <text encoding="base64">Q09QWSAtLWZyb209ZGVwZW5kZW5jaWVzIC4vbm9kZV9tb2R1bGVzIC4vbm9kZV9tb2R1bGVzCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>{
-      uuid: {
-        _multipleParameters: false,
-        _type: 'not',
-        _useParameter: true,
-        _value: uuid,
-      },
-    }</text>
+      <register name="3" type="2">
+        <text encoding="base64">CkNPUFkgcGFja2FnZS5qc29uIC4KQ09QWSB0c2NvbmZpZy5qc29uIC4KCg==</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Vk9MVU1FIFsgIi91c3IvbG9jYWwvc2hhcmUvLmNhY2hlL3lhcm4vdjQiIF0K</text>
+        <text encoding="base64">Q09QWSAtLWZyb209ZGVwZW5kZW5jaWVzIC4vbm9kZV9tb2R1bGVzIC4vbm9kZV9tb2R1bGVzCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTG9nZ2VyIH0gZnJvbSAnQG5lc3Rqcy9jb21tb24nOwo=</text>
+        <text encoding="base64">UlVOIHlhcm4gaW5zdGFsbCAtLWZyb3plbi1sb2NrZmlsZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBMb2dnZXIuZGVidWcocHJvZmlsZXNMaXN0KTsKCiAgICByZXR1cm4gcHJvZmlsZXNMaXN0Owo=</text>
+        <text encoding="base64">Vk9MVU1FIFsgIi91c3IvbG9jYWwvc2hhcmUvLmNhY2hlL3lhcm4vdjQiIF0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIExvZ2dlci5kZWJ1ZygnSGVlbG8nKQo=</text>
+        <text encoding="base64">Q09QWSB5YXJuLmxvY2sgLgo=</text>
       </register>
-      <register name="9" type="4">
-        <text>COPY package.json .
-COPY yarn.lock .
-COPY tsconfig.json .
-
-COPY packages/api-gateway ./packages/api-gateway
-COPY packages/utils-logger ./packages/utils-logger
-COPY packages/utils-grpc ./packages/utils-grpc
-COPY packages/utils-typescript ./packages/utils-typescript
-COPY patches ./patches</text>
+      <register name="9" type="2">
+        <text encoding="base64">Q09QWSBwYXRjaGVzIC4vcGF0Y2hlcwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
