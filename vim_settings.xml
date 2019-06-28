@@ -87,10 +87,10 @@
         <mark key="]" line="1" column="34" />
         <mark key="." line="1" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-interaction/package.json" timestamp="1561650830413">
-        <mark key="[" line="5" column="13" />
-        <mark key="]" line="5" column="13" />
-        <mark key="." line="5" column="13" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-interaction/package.json" timestamp="1561709154318">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/package.json" timestamp="1561551163127">
         <mark key="[" line="18" column="38" />
@@ -129,11 +129,11 @@
         <mark key="]" line="9" column="44" />
         <mark key="." line="9" column="44" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-photo/main.ts" timestamp="1561653234546">
-        <mark key="[" line="2" column="34" />
-        <mark key="]" line="2" column="34" />
-        <mark key="." line="2" column="34" />
-        <mark key="^" line="5" column="81" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-photo/main.ts" timestamp="1561708583137">
+        <mark key="[" line="4" column="20" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="4" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/docker-compose.local.yml" timestamp="1561653441887">
         <mark key="i" line="23" column="13" />
@@ -252,10 +252,10 @@
         <mark key="." line="33" column="21" />
         <mark key="^" line="24" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-photo/package.json" timestamp="1561623573250">
-        <mark key="[" line="10" column="51" />
-        <mark key="]" line="5" column="13" />
-        <mark key="." line="5" column="13" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-photo/package.json" timestamp="1561709159615">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
         <mark key="^" line="3" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/business/query/interface/getProfileStatus.query.ts" timestamp="1561440586316">
@@ -748,14 +748,14 @@
       <jump line="0" column="12" filename="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/environment/env.local.config" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>install --frozen-lockfile</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAibWFpbiI6ICJpbmRleC50cyIsCg==</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>install --frozen-lockfile</text>
+        <text encoding="base64">YXN5bmMg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
@@ -764,34 +764,34 @@
         <text encoding="base64">Q09QWSAuL3BhY2thZ2VzL21pY3Jvc2VydmljZS1pbnRlcmFjdGlvbi9wYWNrYWdlLmpzb24gLi9wYWNrYWdlcy9taWNyb3NlcnZpY2UtaW50ZXJhY3Rpb24vcGFja2FnZS5qc29uCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAibWFpbiI6ICJpbmRleC50cyIsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LmVudiAgZmlsdGVyPWNyeXB0IGRpZmY9Y3J5cHQKZW52LnN0YWdpbmcuY29uZmlnIGZpbHRlcj1jcnlwdCBkaWZmPWNyeXB0CmVudi5jb25maWcgZmlsdGVyPWNyeXB0IGRpZmY9Y3J5cHQKcGFja2FnZXMvbWljcm9zZXJ2aWNlLWF1dGgvaW5mcmFzdHJ1Y3R1cmUvY29uZmlnLmpzb24gZmlsdGVyPWNyeXB0IGRpZmY9Y3J5cHQK</text>
+        <text encoding="base64">ICAibWFpbiI6ICJpbmRleC50cyIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LmVudiAgZmlsdGVyPWNyeXB0IGRpZmY9Y3J5cHQKZW52LnN0YWdpbmcuY29uZmlnIGZpbHRlcj1jcnlwdCBkaWZmPWNyeXB0CmVudi5jb25maWcgZmlsdGVyPWNyeXB0IGRpZmY9Y3J5cHQKcGFja2FnZXMvbWljcm9zZXJ2aWNlLWF1dGgvaW5mcmFzdHJ1Y3R1cmUvY29uZmlnLmpzb24gZmlsdGVyPWNyeXB0IGRpZmY9Y3J5cHQK</text>
+        <text encoding="base64">aW1wb3J0IHsgTmVzdEZhY3RvcnkgfSBmcm9tICdAbmVzdGpzL2NvcmUnOwppbXBvcnQgeyBQaG90b01vZHVsZSB9IGZyb20gJy4vcGhvdG8ubW9kdWxlJzsKaW1wb3J0IHsgcGhvdG9DbGllbnRPcHRpb25zIH0gZnJvbSAnQGluc2hhbGxhaC91dGlscy1ncnBjL2luZnJhc3RydWN0dXJlL3Bob3RvJzsKCg==</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiMgRmFjZWJvb2sKQUNDRVNTX1RPS0VOPTM1NzU5NTk0MTUyNzUyNXxWY3Z5Q25EQ21kMURaZ1BreGtoVE04MEdWWTQKCiMgQXBwIGFuZCBVbml2ZXJzYWwgTGluawpCQVNFX1VOSVZFUlNBTF9MSU5LPWh0dHBzOi8vaW5zaGFsbGFoLXN0YWdpbmcuY2xvdWQuYmFtLnRlY2gvCg==</text>
+        <text encoding="base64">ICBjb25zdCBhcHAgPSBhd2FpdCBOZXN0RmFjdG9yeS5jcmVhdGVNaWNyb3NlcnZpY2UoUGhvdG9Nb2R1bGUsIHBob3RvQ2xpZW50T3B0aW9ucyk7CiAgYXdhaXQgYXBwLmxpc3RlbkFzeW5jKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBBdXRoIHNlY3JldApBVVRIX1NFQ1JFVD1HWnBzZk1VM0ZReWdiTEdqTGJybnV0dmhwZVhkV3FyNHdjdwoK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiMgRmFjZWJvb2sKQUNDRVNTX1RPS0VOPTM1NzU5NTk0MTUyNzUyNXxWY3Z5Q25EQ21kMURaZ1BreGtoVE04MEdWWTQKCiMgQXBwIGFuZCBVbml2ZXJzYWwgTGluawpCQVNFX1VOSVZFUlNBTF9MSU5LPWh0dHBzOi8vaW5zaGFsbGFoLXN0YWdpbmcuY2xvdWQuYmFtLnRlY2gvCg==</text>
+        <text encoding="base64">LmVudiAgZmlsdGVyPWNyeXB0IGRpZmY9Y3J5cHQKZW52LnN0YWdpbmcuY29uZmlnIGZpbHRlcj1jcnlwdCBkaWZmPWNyeXB0CmVudi5jb25maWcgZmlsdGVyPWNyeXB0IGRpZmY9Y3J5cHQKcGFja2FnZXMvbWljcm9zZXJ2aWNlLWF1dGgvaW5mcmFzdHJ1Y3R1cmUvY29uZmlnLmpzb24gZmlsdGVyPWNyeXB0IGRpZmY9Y3J5cHQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBBdXRoIHNlY3JldApBVVRIX1NFQ1JFVD1HWnBzZk1VM0ZReWdiTEdqTGJybnV0dmhwZVhkV3FyNHdjdwoK</text>
+        <text encoding="base64">LmVudiAgZmlsdGVyPWNyeXB0IGRpZmY9Y3J5cHQKZW52LnN0YWdpbmcuY29uZmlnIGZpbHRlcj1jcnlwdCBkaWZmPWNyeXB0CmVudi5jb25maWcgZmlsdGVyPWNyeXB0IGRpZmY9Y3J5cHQKcGFja2FnZXMvbWljcm9zZXJ2aWNlLWF1dGgvaW5mcmFzdHJ1Y3R1cmUvY29uZmlnLmpzb24gZmlsdGVyPWNyeXB0IGRpZmY9Y3J5cHQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgaW50ZXJhY3Rpb25DbGllbnRPcHRpb25zIH0gZnJvbSAnQGluc2hhbGxhaC91dGlscy1ncnBjL2luZnJhc3RydWN0dXJlL2ludGVyYWN0aW9uJzsK</text>
+        <text encoding="base64">CiMgRmFjZWJvb2sKQUNDRVNTX1RPS0VOPTM1NzU5NTk0MTUyNzUyNXxWY3Z5Q25EQ21kMURaZ1BreGtoVE04MEdWWTQKCiMgQXBwIGFuZCBVbml2ZXJzYWwgTGluawpCQVNFX1VOSVZFUlNBTF9MSU5LPWh0dHBzOi8vaW5zaGFsbGFoLXN0YWdpbmcuY2xvdWQuYmFtLnRlY2gvCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgR3JwY01ldGhvZCB9IGZyb20gJ0BuZXN0anMvbWljcm9zZXJ2aWNlcyc7CmltcG9ydCB7IExpa2VVc2VyRHRvIH0gZnJvbSAnQGluc2hhbGxhaC91dGlscy1ncnBjL2luZnJhc3RydWN0dXJlL2ludGVyYWN0aW9uL2R0by9saWtlVXNlci5kdG8nOwppbXBvcnQgeyBPYnNlcnZhYmxlLCBmcm9tIH0gZnJvbSAncnhqcyc7CmltcG9ydCB7IEdycGNBbnN3ZXIgfSBmcm9tICdAaW5zaGFsbGFoL3V0aWxzLWdycGMvdHlwZXMnOwppbXBvcnQgeyBDb21tYW5kQnVzIH0gZnJvbSAnQG5lc3Rqcy9jcXJzJzsKaW1wb3J0IHsgZm9ybWF0TWVzc2FnZSB9IGZyb20gJ0BpbnNoYWxsYWgvdXRpbHMtZ3JwYy9ncnBjJzsK</text>
+        <text encoding="base64">IyBBdXRoIHNlY3JldApBVVRIX1NFQ1JFVD1HWnBzZk1VM0ZReWdiTEdqTGJybnV0dmhwZVhkV3FyNHdjdwoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
