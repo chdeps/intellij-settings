@@ -151,12 +151,11 @@
         <mark key="." line="5" column="66" />
         <mark key="^" line="8" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/docker-compose.local.yml" timestamp="1561970925999">
-        <mark key="i" line="26" column="13" />
-        <mark key="[" line="107" column="25" />
-        <mark key="]" line="107" column="25" />
-        <mark key="." line="107" column="25" />
-        <mark key="^" line="88" column="44" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/docker-compose.local.yml" timestamp="1561977364138">
+        <mark key="[" line="138" column="0" />
+        <mark key="]" line="139" column="33" />
+        <mark key="." line="138" column="0" />
+        <mark key="^" line="31" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/.env.staging" timestamp="1561715150546">
         <mark key="[" line="20" column="20" />
@@ -528,7 +527,7 @@
         <mark key="." line="9" column="5" />
         <mark key="^" line="7" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561737417837">
+      <file name="/Dummy.txt" timestamp="1561977217806">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
@@ -715,8 +714,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/Dockerfile" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>microservice-photo</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGVudmlyb25tZW50OgogICAgICAtIENPTVBPU0VfSFRUUF9USU1FT1VUPTgwMDAK</text>
       </register>
       <register name="d" type="4">
         <text />
@@ -728,7 +727,7 @@
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLSAvc2VydmVyL3BhY2thZ2VzL21pY3Jvc2VydmljZS1waG90by9ub2RlX21vZHVsZXMK</text>
+        <text encoding="base64">ICAgIGVudmlyb25tZW50OgogICAgICAtIENPTVBPU0VfSFRUUF9USU1FT1VUPTgwMDAK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHN0ZGluX29wZW46IHRydWUKICAgIHR0eTogdHJ1ZQo=</text>
