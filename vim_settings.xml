@@ -57,8 +57,8 @@
         <mark key="." line="2" column="70" />
         <mark key="^" line="2" column="70" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/docker-compose.yml" timestamp="1561714515299">
-        <mark key="[" line="58" column="43" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/docker-compose.yml" timestamp="1561982318738">
+        <mark key="[" line="4" column="24" />
         <mark key="]" line="52" column="19" />
         <mark key="^" line="52" column="19" />
         <mark key="." line="52" column="19" />
@@ -151,11 +151,11 @@
         <mark key="." line="5" column="66" />
         <mark key="^" line="8" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/docker-compose.local.yml" timestamp="1561979259582">
-        <mark key="[" line="121" column="0" />
-        <mark key="]" line="121" column="0" />
-        <mark key="^" line="29" column="32" />
-        <mark key="." line="121" column="0" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/docker-compose.local.yml" timestamp="1561983483049">
+        <mark key="[" line="29" column="51" />
+        <mark key="]" line="121" column="79" />
+        <mark key="^" line="18" column="72" />
+        <mark key="." line="121" column="69" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/.env.staging" timestamp="1561715150546">
         <mark key="[" line="20" column="20" />
@@ -714,8 +714,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/Dockerfile" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHN0ZGluX29wZW46IHRydWUKICAgIHR0eTogdHJ1ZQo=</text>
+      <register name="&quot;" type="4">
+        <text>:delegated</text>
       </register>
       <register name="d" type="4">
         <text />
@@ -726,8 +726,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGVudmlyb25tZW50OgogICAgICAtIENPTVBPU0VfSFRUUF9USU1FT1VUPTgwMDAK</text>
+      <register name="0" type="4">
+        <text>:delegated</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHN0ZGluX29wZW46IHRydWUKICAgIHR0eTogdHJ1ZQo=</text>
