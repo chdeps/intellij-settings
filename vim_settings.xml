@@ -321,10 +321,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-photo/business/command/handler/uploadPhoto.handler.ts" timestamp="1562069555768">
-        <mark key="[" line="2" column="46" />
-        <mark key="]" line="9" column="3" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-photo/business/command/handler/uploadPhoto.handler.ts" timestamp="1562076810574">
+        <mark key="[" line="25" column="12" />
+        <mark key="]" line="25" column="12" />
+        <mark key="." line="25" column="12" />
+        <mark key="^" line="9" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/package.json" timestamp="1561529472050">
         <mark key="[" line="14" column="35" />
@@ -455,6 +456,7 @@
         <mark key="^" line="0" column="17" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/node_modules/aws-sdk/clients/s3.d.ts" timestamp="1562076091730" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/Dockerfile" timestamp="1561733921367">
         <mark key="[" line="46" column="38" />
         <mark key="]" line="46" column="38" />
@@ -729,14 +731,14 @@
       <jump line="0" column="23" filename="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/infrastructure/services/accountAuth.service.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJhd3Mtc2RrIjogIl4yLjQ0OS4wIiwK</text>
+      <register name="&quot;" type="4">
+        <text>putObject</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>public constructor(private readonly config: ConfigService) {</text>
+        <text>putObject</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
@@ -745,7 +747,7 @@
         <text encoding="base64">ICBwdWJsaWMgY29uc3RydWN0b3IocHJpdmF0ZSByZWFkb25seSBjb25maWc6IENvbmZpZ1NlcnZpY2UpIHsKICAgIEFXUy5jb25maWcudXBkYXRlKHRoaXMuY29uZmlnLmdldCgnYXV0aC5hd3NDcmVkZW50aWFscycpKTsKICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJhd3Mtc2RrIjogIl4yLjQ0OS4wIiwK</text>
+        <text encoding="base64">ICAgIEFXUy5jb25maWcudXBkYXRlKCk7Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICJhd3Mtc2RrIjogIl4yLjQ0OS4wIiwK</text>
@@ -757,22 +759,22 @@
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwdWJsaWMgY29uc3RydWN0b3IocHVibGljIGNvbmZpZzogQ29uZmlnU2VydmljZSkgewogICAgCiAgfQo=</text>
+        <text encoding="base64">ICAgICJhd3Mtc2RrIjogIl4yLjQ0OS4wIiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzZW5kZXJFbWFpbDogcHJvY2Vzcy5lbnYuQVdTX1NFTkRFUl9FTUFJTCwK</text>
+        <text encoding="base64">ICBwdWJsaWMgY29uc3RydWN0b3IocHVibGljIGNvbmZpZzogQ29uZmlnU2VydmljZSkgewogICAgCiAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBzZWNyZXQ6IHByb2Nlc3MuZW52LkFVVEhfU0VDUkVULAogIGZhY2Vib29rQWNjZXNzVG9rZW46IHByb2Nlc3MuZW52LkFDQ0VTU19UT0tFTiwKICBiYXNlVW5pdmVyc2FsTGluazogcHJvY2Vzcy5lbnYuQkFTRV9VTklWRVJTQUxfTElOSywK</text>
+        <text encoding="base64">ICBzZW5kZXJFbWFpbDogcHJvY2Vzcy5lbnYuQVdTX1NFTkRFUl9FTUFJTCwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzZWNyZXQ6IHByb2Nlc3MuZW52LkFVVEhfU0VDUkVULAogIGZhY2Vib29rQWNjZXNzVG9rZW46IHByb2Nlc3MuZW52LkFDQ0VTU19UT0tFTiwKICBiYXNlVW5pdmVyc2FsTGluazogcHJvY2Vzcy5lbnYuQkFTRV9VTklWRVJTQUxfTElOSywK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QVdTX1NFTkRFUl9FTUFJTD10ZXN0Lmluc2hhbGxhaC50ZXN0QGdtYWlsLmNvbQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
