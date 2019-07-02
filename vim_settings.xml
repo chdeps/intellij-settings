@@ -303,10 +303,9 @@
         <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-photo/business/command/handler/uploadPhoto.handler.ts" timestamp="1562059435166">
-        <mark key="[" line="9" column="26" />
-        <mark key="]" line="12" column="2" />
-        <mark key="." line="12" column="2" />
-        <mark key="^" line="12" column="2" />
+        <mark key="]" line="9" column="2" />
+        <mark key="." line="9" column="2" />
+        <mark key="^" line="9" column="2" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/package.json" timestamp="1561529472050">
         <mark key="[" line="14" column="35" />
@@ -509,19 +508,14 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="16" column="71" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/controller/photo.controller.ts" timestamp="1562059038599">
-        <mark key="[" line="7" column="39" />
-        <mark key="]" line="7" column="39" />
-        <mark key="." line="7" column="39" />
-        <mark key="^" line="11" column="7" />
-      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/controller/photo.controller.ts" timestamp="1562059038599" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/ops/local/Dockerfile" timestamp="1561407971471">
         <mark key="[" line="9" column="20" />
         <mark key="]" line="11" column="0" />
         <mark key="^" line="9" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1562059303737">
+      <file name="/JavaScript Console" timestamp="1562062948127">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-interaction/infrastructure/api/interaction.controller.ts" timestamp="1561713392441">
@@ -535,8 +529,10 @@
         <mark key="." line="9" column="5" />
         <mark key="^" line="7" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562059620926">
+      <file name="/Dummy.txt" timestamp="1562062920432">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-grpc/infrastructure/interaction/algo.client.ts" timestamp="1561552787272">
         <mark key="[" line="2" column="0" />
@@ -722,14 +718,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/Dockerfile" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Q2FjaGluZyB2b2x1bWVzLCByZXN0YXJ0IGFsd2F5cwo=</text>
+      <register name="&quot;" type="4">
+        <text>Caching volumes, restart always</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>, UseGuards, Req</text>
+        <text>Caching volumes, restart always</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
