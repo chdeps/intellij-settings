@@ -150,10 +150,11 @@
         <mark key="." line="5" column="66" />
         <mark key="^" line="8" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/docker-compose.local.yml" timestamp="1561991509123">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/docker-compose.local.yml" timestamp="1562057817513">
+        <mark key="[" line="128" column="25" />
+        <mark key="]" line="128" column="25" />
+        <mark key="." line="128" column="25" />
+        <mark key="^" line="106" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/.env.staging" timestamp="1561715150546">
         <mark key="[" line="20" column="20" />
@@ -544,6 +545,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/backpack.config.js" timestamp="1562058286323" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-grpc/infrastructure/auth/dto/resetPassword.dto.ts" timestamp="1560850610797">
         <mark key="[" line="20" column="18" />
         <mark key="]" line="20" column="18" />
@@ -723,19 +725,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>test</text>
+        <text>microservice-photo</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text>microservice-photo</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJlc3RhcnQ6IGFsd2F5cwo=</text>
+        <text encoding="base64">ICAgICAgLSAvc2VydmVyL3BhY2thZ2VzL21pY3Jvc2VydmljZS1waG90by9idWlsZAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBAVXNlR3VhcmRzKEF1dGhHdWFyZCgpKQogIEBBcGlCZWFyZXJBdXRoKCkK</text>
