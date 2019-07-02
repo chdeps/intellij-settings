@@ -461,6 +461,7 @@
         <mark key="." line="46" column="38" />
         <mark key="^" line="40" column="93" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/accessControl/acl.module.ts" timestamp="1562070990617" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/handler/loggedIn.handler.ts" timestamp="1560694051296">
         <mark key="[" line="5" column="66" />
         <mark key="]" line="5" column="71" />
