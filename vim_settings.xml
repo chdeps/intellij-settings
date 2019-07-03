@@ -24,6 +24,7 @@
         <mark key="." line="9" column="15" />
         <mark key="^" line="7" column="33" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/pages/Connected/Home/Home.tsx" timestamp="1562164318107" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/.env.staging" timestamp="1562141885388">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="26" column="46" />
@@ -115,6 +116,12 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/backpack.config.js" timestamp="1562058286323" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/infrastructure/api/profile.controller.ts" timestamp="1562164345840">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="^" line="42" column="17" />
+        <mark key="." line="42" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/infrastructure/services/emailSender.service.ts" timestamp="1562140277203">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="62" />
