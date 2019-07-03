@@ -17,6 +17,7 @@
         <mark key="." line="8" column="37" />
         <mark key="^" line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/public/.well-known/assetlinks.json" timestamp="1562145951601" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-interaction/package.json" timestamp="1562069537859">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -109,8 +110,10 @@
       <file name="/fragment.js" timestamp="1562079666318">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/AWS3/AWS3/README.md" timestamp="1562143733095">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Projects/AWS3/AWS3/README.md" timestamp="1562145452638">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/package.json" timestamp="1562069519333">
         <mark key="[" line="25" column="0" />
@@ -177,7 +180,10 @@
         <mark key="]" line="14" column="24" />
         <mark key="." line="1" column="53" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562085341126">
+      <file name="$USER_HOME$/Projects/AWS3/AWS3/.gitignore" timestamp="1562145109515">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1562145515174">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -305,7 +311,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>data:image/png;base64,</text>
+        <text encoding="base64">CuKaoO+4jyBHZXR0aW5nIGFuIGFjY2VzcyBkZW5pZWQgZXJyb3IgZm9yIG5vdw==</text>
       </register>
       <register name="d" type="4">
         <text />
@@ -319,39 +325,39 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnN0IGJhc2U2NERhdGFCdWZmZXIgPSBuZXcgQnVmZmVyKGJhc2U2NERhdGEsICdiYXNlNjQnKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ0JJTE9VVEUnKTsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">CuKaoO+4jyBHZXR0aW5nIGFuIGFjY2VzcyBkZW5pZWQgZXJyb3IgZm9yIG5vdw==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHMzOiBTMzsK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ0JJTE9VVEUnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMuczMgPSBuZXcgQVdTLlMzKCk7Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHMzOiBTMzsK</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgIHRoaXMuczMgPSBuZXcgQVdTLlMzKCk7Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHRoaXMuczMgPSBuZXcgQVdTLlMzKCk7Cg==</text>
+      </register>
+      <register name="7" type="4">
         <text>{
       region: config.get('auth.awsCredentials.region'),
       accessKeyId: config.get('auth.awsCredentials.accessKeyId'),
       secretAccessKey: config.get('auth.awsCredentials.secretAccessKey'),
     }</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIExvZ2dlci5kZWJ1Zyhjb25maWcuZ2V0KCdhdXRoLmF3c0NyZWRlbnRpYWxzLnJlZ2lvbicpKTsKICAgIExvZ2dlci5kZWJ1Zyhjb25maWcuZ2V0KCdhdXRoLmF3c0NyZWRlbnRpYWxzLmFjY2Vzc0tleUlkJykpOwogICAgTG9nZ2VyLmRlYnVnKGNvbmZpZy5nZXQoJ2F1dGguYXdzQ3JlZGVudGlhbHMuc2VjcmV0QWNjZXNzS2V5JykpOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBAVXNlR3VhcmRzKEF1dGhHdWFyZCgpKQogIEBBcGlCZWFyZXJBdXRoKCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
