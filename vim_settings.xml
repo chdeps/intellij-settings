@@ -24,6 +24,10 @@
       <file name="/a.dummy" timestamp="1562169457524">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/service-eventstore/events/interaction/likeUser.event.ts" timestamp="1562231673588">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="1" />
+      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/ops/staging/Dockerfile" timestamp="1561355937107">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="44" />
@@ -35,6 +39,12 @@
         <mark key="]" line="5" column="63" />
         <mark key="." line="5" column="63" />
         <mark key="^" line="1" column="18" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-photo/domain/model/photo.model.ts" timestamp="1562232118668">
+        <mark key="[" line="8" column="50" />
+        <mark key="]" line="8" column="50" />
+        <mark key="^" line="7" column="82" />
+        <mark key="." line="8" column="50" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/profile.module.ts" timestamp="1561528404307">
         <mark key="[" line="17" column="33" />
@@ -96,6 +106,9 @@
         <mark key="^" line="2" column="10" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/public/.well-known/assetlinks.json" timestamp="1562146025758" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/service-eventstore/events/photo/index.ts" timestamp="1562231689503">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-interaction/package.json" timestamp="1562069537859">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -198,6 +211,21 @@
         <mark key="^" line="3" column="21" />
         <mark key="." line="3" column="21" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-interaction/domain/model/interaction.model.ts" timestamp="1562231955027">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="18" column="1" />
+        <mark key="^" line="3" column="53" />
+        <mark key="." line="3" column="53" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/infrastructure/config.json" timestamp="1562063833621">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="7" column="1" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-interaction/business/command/handler/likeUser.handler.ts" timestamp="1562231812521">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="80" />
+      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-photo/algo.module.ts" timestamp="1561712323376">
         <mark key="[" line="0" column="15" />
         <mark key="]" line="0" column="15" />
@@ -278,6 +306,12 @@
         <mark key="." line="23" column="9" />
         <mark key="^" line="14" column="33" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/service-eventstore/events/photo/originalPhotoUploaded.event.ts" timestamp="1562232181754">
+        <mark key="[" line="2" column="14" />
+        <mark key="]" line="4" column="1" />
+        <mark key="." line="4" column="1" />
+        <mark key="^" line="4" column="1" />
+      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-interaction/business/command/handler/index.ts" timestamp="1561555245000">
         <mark key="[" line="0" column="17" />
         <mark key="]" line="0" column="0" />
@@ -316,6 +350,9 @@
         <mark key="." line="2" column="70" />
         <mark key="^" line="2" column="70" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-photo/domain/model/index.ts" timestamp="1562231960874">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/backpack.config.js" timestamp="1561740419553">
         <mark key="[" line="6" column="28" />
         <mark key="]" line="26" column="0" />
@@ -339,12 +376,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-photo/business/command/handler/uploadPhoto.handler.ts" timestamp="1562221026925">
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-photo/business/command/handler/uploadPhoto.handler.ts" timestamp="1562231838722">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="13" column="61" />
-        <mark key="]" line="13" column="61" />
-        <mark key="." line="13" column="61" />
-        <mark key="^" line="6" column="33" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="8" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/package.json" timestamp="1561529472050">
         <mark key="[" line="14" column="35" />
@@ -425,7 +462,9 @@
         <mark key="]" line="1" column="47" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/service-eventstore/model/event.model.ts" timestamp="1562081677227" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/service-eventstore/model/event.model.ts" timestamp="1562232103164">
+        <mark key="[" line="47" column="30" />
+      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/ops/staging/Dockerfile" timestamp="1561293316321">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="44" />
@@ -669,8 +708,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="0" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/types/react-native-adjust/index.d.ts" />
-      <jump line="44" column="0" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/types/react-native-adjust/index.d.ts" />
       <jump line="48" column="0" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/types/react-native-adjust/index.d.ts" />
       <jump line="52" column="0" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/types/react-native-adjust/index.d.ts" />
       <jump line="56" column="0" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/types/react-native-adjust/index.d.ts" />
@@ -769,52 +806,54 @@
       <jump line="10" column="22" filename="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-photo/business/command/handler/uploadPhoto.handler.ts" />
       <jump line="12" column="41" filename="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-photo/business/command/handler/uploadPhoto.handler.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-photo/business/command/handler/uploadPhoto.handler.ts" />
+      <jump line="0" column="20" filename="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-interaction/domain/model/interaction.model.ts" />
+      <jump line="1" column="0" filename="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-interaction/domain/model/interaction.model.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>request.user.id</text>
+        <text>DismissUser</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>request.user.id</text>
+        <text>DismissUser</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
       </register>
-      <register name="0" type="4">
-        <text>const [_, mimeType, base64Data]</text>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0IHsgRXZlbnQsIEV2ZW50VHlwZSwgU3RyZWFtU3ViVHlwZSwgU3RyZWFtVHlwZSB9IGZyb20gJ0BpbnNoYWxsYWgvc2VydmljZS1ldmVudHN0b3JlL21vZGVsL2V2ZW50Lm1vZGVsJzsKCmV4cG9ydCBjbGFzcyBJbnRlcmFjdGlvbiB7CiAgcHVibGljIGNvbnN0cnVjdG9yKHByaXZhdGUgcmVhZG9ubHkgdXVpZDogc3RyaW5nKSB7fQoKICBwdWJsaWMgbGlrZSh0YXJnZXRVdWlkOiBzdHJpbmcpIHsKICAgIHJldHVybiBuZXcgRXZlbnQoCiAgICAgIHsgcmVmZXJlbmNlSWQ6IHRoaXMudXVpZCwgdHlwZTogU3RyZWFtVHlwZS5Vc2VyLCBzdWJUeXBlOiBTdHJlYW1TdWJUeXBlLkludGVyYWN0aW9uIH0sCiAgICAgIHsgZGF0YTogeyB0YXJnZXRVdWlkIH0sIG1ldGFkYXRhOiB7fSwgdHlwZTogRXZlbnRUeXBlLkxpa2VVc2VyIH0sCiAgICApOwogIH0KCiAgcHVibGljIGRpc21pc3ModGFyZ2V0VXVpZDogc3RyaW5nKSB7CiAgICByZXR1cm4gbmV3IEV2ZW50KAogICAgICB7IHJlZmVyZW5jZUlkOiB0aGlzLnV1aWQsIHR5cGU6IFN0cmVhbVR5cGUuVXNlciwgc3ViVHlwZTogU3RyZWFtU3ViVHlwZS5JbnRlcmFjdGlvbiB9LAogICAgICB7IGRhdGE6IHsgdGFyZ2V0VXVpZCB9LCBtZXRhZGF0YToge30sIHR5cGU6IEV2ZW50VHlwZS5EaXNtaXNzVXNlciB9LAogICAgKTsKICB9Cn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBAVXNlR3VhcmRzKEF1dGhHdWFyZCgpKQogIEBBcGlCZWFyZXJBdXRoKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGJhc2U2NERhdGFCdWZmZXIgPSA7Cg==</text>
+        <text encoding="base64">ICBwdWJsaWMgbGlrZSh0YXJnZXRVdWlkOiBzdHJpbmcpIHsKICAgIHJldHVybiBuZXcgRXZlbnQoCiAgICAgIHsgcmVmZXJlbmNlSWQ6IHRoaXMudXVpZCwgdHlwZTogU3RyZWFtVHlwZS5Vc2VyLCBzdWJUeXBlOiBTdHJlYW1TdWJUeXBlLkludGVyYWN0aW9uIH0sCiAgICAgIHsgZGF0YTogeyB0YXJnZXRVdWlkIH0sIG1ldGFkYXRhOiB7fSwgdHlwZTogRXZlbnRUeXBlLkxpa2VVc2VyIH0sCiAgICApOwogIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGZ1bGxQYXRoID0gCg==</text>
+        <text encoding="base64">ICBqOwo=</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0Cg==</text>
+        <text encoding="base64">ICAgIHN1cGVyKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgQWdncmVnYXRlUm9vdCB9IGZyb20gJ0BuZXN0anMvY3Fycyc7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnVuY3Rpb24qCg==</text>
+        <text encoding="base64">aW1wb3J0IHtJbnRlcmFjdGlvbn0gZnJvbSAicGFja2FnZXMvbWljcm9zZXJ2aWNlLWludGVyYWN0aW9uL2RvbWFpbi9tb2RlbCI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGJhc2U2NERhdGEgPSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGNvbnRlbnRFbmNvZGluZyA9ICdiYXNlNjQnOwo=</text>
+        <text encoding="base64">ICBAVXNlR3VhcmRzKEF1dGhHdWFyZCgpKQogIEBBcGlCZWFyZXJBdXRoKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGJhc2U2NERhdGFCdWZmZXIgPSA7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
