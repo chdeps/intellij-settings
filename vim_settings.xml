@@ -3,10 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/fragment.js" timestamp="1562079666318">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1562235287774">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-grpc/infrastructure/profile/dto/completeProfile.dto.ts" timestamp="1562243475503" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/service-eventstore/events/interaction/likeUser.event.ts" timestamp="1562231673588">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="1" />
@@ -16,6 +18,11 @@
         <mark key="]" line="8" column="27" />
         <mark key="^" line="11" column="37" />
         <mark key="." line="8" column="27" />
+      </file>
+      <file name="$USER_HOME$/Projects/AWS3/AWS3/README.md" timestamp="1562145452638">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-photo/config/auth.js" timestamp="1562169643580">
         <mark key="[" line="5" column="4" />
@@ -31,91 +38,15 @@
         <mark key="." line="8" column="37" />
         <mark key="^" line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/infrastructure/persistence/entity/profile.entity.ts" timestamp="1562244951957">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="35" column="49" />
+      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/business/query/handler/getProfiles.handler.ts" timestamp="1562242947793">
         <mark key="[" line="5" column="19" />
         <mark key="]" line="5" column="19" />
         <mark key="." line="5" column="19" />
         <mark key="^" line="21" column="61" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/public/.well-known/assetlinks.json" timestamp="1562146025758" />
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/service-eventstore/events/photo/index.ts" timestamp="1562231689503">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/config/auth.js" timestamp="1562140502537">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="10" column="2" />
-        <mark key="." line="9" column="15" />
-        <mark key="^" line="7" column="33" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/pages/Connected/Home/Home.tsx" timestamp="1562251522577" />
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/api/infoProfile/index.ts" timestamp="1562243751133" />
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/.env.staging" timestamp="1562141885388">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="26" column="46" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/node_modules/aws-sdk/lib/s3/managed_upload.d.ts" timestamp="1562235426962" />
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-grpc/exception.ts" timestamp="1562181014928" />
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/infrastructure/config.json" timestamp="1562063833621">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="7" column="1" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-interaction/business/command/handler/likeUser.handler.ts" timestamp="1562231812521">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="80" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-grpc/infrastructure/auth/dto/authCredentials.dto.ts" timestamp="1562079183440" />
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/public/.well-known/apple-app-site-association" timestamp="1562146017273" />
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-photo/infrastructure/persistence/entity/photo.entity.ts" timestamp="1562234935165">
-        <mark key="[" line="6" column="26" />
-        <mark key="]" line="0" column="16" />
-        <mark key="." line="0" column="16" />
-        <mark key="^" line="0" column="16" />
-      </file>
-      <file name="/GraphQL.result.json" timestamp="1561966864521">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-photo/.env" timestamp="1562169575386">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="28" />
-        <mark key="." line="14" column="28" />
-        <mark key="^" line="14" column="28" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/service-eventstore/events/photo/originalPhotoUploaded.event.ts" timestamp="1562232181754">
-        <mark key="[" line="2" column="14" />
-        <mark key="]" line="4" column="1" />
-        <mark key="." line="4" column="1" />
-        <mark key="^" line="4" column="1" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/node_modules/aws-sdk/lib/config.d.ts" timestamp="1562083258528" />
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-grpc/infrastructure/photo/photo.proto" timestamp="1562079719102" />
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-photo/.env.staging" timestamp="1562169579349">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="29" />
-        <mark key="^" line="6" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-photo/business/command/handler/uploadBase64Photo.handler.ts" timestamp="1562236723030">
-        <mark key="[" line="21" column="16" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="36" column="10" />
-        <mark key="." line="31" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-photo/domain/model/index.ts" timestamp="1562231960874">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/fragment.js" timestamp="1562079666318">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/AWS3/AWS3/README.md" timestamp="1562145452638">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/infrastructure/persistence/entity/profile.entity.ts" timestamp="1562244951957">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="35" column="49" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/.env" timestamp="1562141019645">
         <mark key="[" line="20" column="0" />
@@ -129,14 +60,21 @@
         <mark key="." line="13" column="31" />
         <mark key="^" line="13" column="36" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/service-eventstore/events/photo/index.ts" timestamp="1562231689503">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/config/auth.js" timestamp="1562140502537">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="10" column="2" />
+        <mark key="." line="9" column="15" />
+        <mark key="^" line="7" column="33" />
+      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/service-eventstore/model/event.model.ts" timestamp="1562233150134">
         <mark key="[" line="18" column="32" />
         <mark key="]" line="18" column="32" />
         <mark key="^" line="18" column="31" />
         <mark key="." line="18" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/pages/Connected/Home/components/HomeProfile/HomeProfile.tsx" timestamp="1562242627134" />
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/infrastructure/persistence/entity/account.entity.ts" timestamp="1561985788724" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-photo/business/command/interface/UploadPhotoCommand.ts" timestamp="1561712901155">
         <mark key="[" line="0" column="0" />
       </file>
@@ -144,26 +82,42 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="16" column="1" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/index.ts" timestamp="1562314050577" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-photo/domain/event/handler/index.ts" timestamp="1562233534225">
         <mark key="[" line="0" column="49" />
         <mark key="]" line="0" column="49" />
         <mark key="^" line="0" column="40" />
         <mark key="." line="0" column="49" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/node_modules/aws-sdk/clients/s3.d.ts" timestamp="1562141713593" />
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/accessControl/acl.module.ts" timestamp="1562070990617" />
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/service-eventstore/entity/event.entity.ts" timestamp="1562081656725" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/.env.staging" timestamp="1562141885388">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="26" column="46" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/handler/accountMigrated.handler.ts" timestamp="1562236345052">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="14" column="60" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-interaction/infrastructure/persistence/entity/interaction.entity.ts" timestamp="1562248768999" />
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/migrateAuth.handler.ts" timestamp="1562181066499" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/infrastructure/config.json" timestamp="1562063833621">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="7" column="1" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-interaction/business/command/handler/likeUser.handler.ts" timestamp="1562231812521">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="80" />
+      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/controller/photo.controller.ts" timestamp="1562221420041">
         <mark key="[" line="35" column="49" />
         <mark key="]" line="35" column="49" />
         <mark key="." line="35" column="49" />
         <mark key="^" line="35" column="20" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-photo/infrastructure/persistence/entity/photo.entity.ts" timestamp="1562234935165">
+        <mark key="[" line="6" column="26" />
+        <mark key="]" line="0" column="16" />
+        <mark key="." line="0" column="16" />
+        <mark key="^" line="0" column="16" />
       </file>
       <file name="/JavaScript Console" timestamp="1562236643133">
         <mark key="[" line="0" column="0" />
@@ -194,12 +148,20 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/backpack.config.js" timestamp="1562058286323" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-photo/infrastructure/persistence/entity/userPhoto.entity.ts" timestamp="1562234432961">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="11" column="29" />
         <mark key="." line="11" column="1" />
         <mark key="^" line="11" column="1" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1561966864521">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-photo/.env" timestamp="1562169575386">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="28" />
+        <mark key="." line="14" column="28" />
+        <mark key="^" line="14" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/infrastructure/api/profile.controller.ts" timestamp="1562164345840">
         <mark key="[" line="42" column="0" />
@@ -207,11 +169,32 @@
         <mark key="^" line="42" column="17" />
         <mark key="." line="42" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/service-eventstore/events/photo/originalPhotoUploaded.event.ts" timestamp="1562232181754">
+        <mark key="[" line="2" column="14" />
+        <mark key="]" line="4" column="1" />
+        <mark key="." line="4" column="1" />
+        <mark key="^" line="4" column="1" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-photo/.env.staging" timestamp="1562169579349">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="29" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-photo/business/command/handler/uploadBase64Photo.handler.ts" timestamp="1562236723030">
+        <mark key="[" line="21" column="16" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="36" column="10" />
+        <mark key="." line="31" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/infrastructure/services/emailSender.service.ts" timestamp="1562140277203">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="62" />
         <mark key="." line="6" column="1" />
         <mark key="^" line="6" column="1" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-photo/domain/model/index.ts" timestamp="1562231960874">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-photo/infrastructure/services/photo.service.ts" timestamp="1562236751593">
         <mark key="[" line="37" column="29" />
