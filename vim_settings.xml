@@ -19,6 +19,8 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="1" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-grpc/infrastructure/auth/dto/roles.ts" timestamp="1562574875218" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/accessControl/acl.roles.ts" timestamp="1562574927394" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/handler/accountMigrated.handler.ts" timestamp="1562236345052">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="14" column="60" />
@@ -84,11 +86,12 @@
         <mark key="." line="5" column="19" />
         <mark key="^" line="21" column="61" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/infrastructure/persistence/entity/roles.entity.ts" timestamp="1562575036884" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/infrastructure/persistence/entity/resetPassword.entity.ts" timestamp="1562234812595">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="5" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/.env" timestamp="1562141019645">
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/.env" timestamp="1562576017297">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="25" column="46" />
         <mark key="^" line="25" column="16" />
@@ -144,7 +147,7 @@
       <file name="/GraphQL.result.json" timestamp="1561966864521">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-grpc/infrastructure/profile/dto/profile.dto.ts" timestamp="1562573025752" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-grpc/infrastructure/profile/dto/profile.dto.ts" timestamp="1562574782237" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-photo/business/command/interface/UploadPhotoCommand.ts" timestamp="1561712901155">
         <mark key="[" line="0" column="0" />
       </file>
