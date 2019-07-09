@@ -4,10 +4,8 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/package.json" timestamp="1562657457595">
-        <mark key="[" line="17" column="29" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
-        <mark key="^" line="30" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/service-eventstore/events/interaction/likeUser.event.ts" timestamp="1562231673588">
         <mark key="[" line="0" column="0" />
@@ -51,9 +49,9 @@
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/auth.module.ts" timestamp="1562659057554" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-algo/.env.staging" timestamp="1562604210770" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/package.json" timestamp="1562603505419">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="34" />
-        <mark key="." line="58" column="0" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="34" />
+        <mark key="." line="68" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/infrastructure/persistence/entity/emailValidationToken.entity.ts" timestamp="1562233816763">
         <mark key="[" line="0" column="0" />
@@ -70,10 +68,10 @@
         <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/service-eventstore/package.json" timestamp="1562598783835">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="21" column="32" />
-        <mark key="." line="22" column="0" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="28" column="32" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/accessControl/acl.roles.ts" timestamp="1562574927394" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/handler/accountMigrated.handler.ts" timestamp="1562236345052">
@@ -94,7 +92,9 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="80" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/service-eventstore/model/queue.model.ts" timestamp="1562664339226" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-grpc/infrastructure/auth/dto/authCredentials.dto.ts" timestamp="1562573022260" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/service-eventstore/eventstore.service.ts" timestamp="1562663893572" />
       <file name="/JavaScript Console" timestamp="1562236643133">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
@@ -125,9 +125,9 @@
         <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-grpc/package.json" timestamp="1562603605850">
-        <mark key="[" line="23" column="24" />
-        <mark key="]" line="18" column="29" />
-        <mark key="." line="18" column="0" />
+        <mark key="[" line="30" column="24" />
+        <mark key="]" line="25" column="29" />
+        <mark key="." line="25" column="0" />
         <mark key="^" line="9" column="24" />
       </file>
     </filemarks>
