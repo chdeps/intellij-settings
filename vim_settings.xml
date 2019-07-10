@@ -53,6 +53,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="16" column="1" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/controller/profile.controller.ts" timestamp="1562766206913">
+        <mark key="[" line="124" column="44" />
+        <mark key="]" line="124" column="44" />
+        <mark key="." line="124" column="44" />
+        <mark key="^" line="124" column="31" />
+      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/service-eventstore/package.json" timestamp="1562598783835">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -92,8 +98,11 @@
       <file name="/GraphQL.result.json" timestamp="1562667857274">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-grpc/infrastructure/profile/dto/photoUrl.dto.ts" timestamp="1562763699892">
-        <mark key="[" line="10" column="11" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-grpc/infrastructure/profile/dto/photoUrl.dto.ts" timestamp="1562766200524">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="29" column="14" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="28" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-photo/domain/model/index.ts" timestamp="1562231960874">
         <mark key="[" line="0" column="0" />
@@ -209,51 +218,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Add typeorm dependency to utils logger</text>
+        <text>TestDto</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Add typeorm dependency to utils logger</text>
+        <text>TestDto</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0eXBlb3JtXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJ0eXBlb3JtIjogIl4wLjIuMTgiLAo=</text>
+        <text encoding="base64">ICBAQXBpTW9kZWxQcm9wZXJ0eSgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJub2hvaXN0IiA6IFsiKiovdHlwZW9ybSIsICIqKi90eXBlb3JtLyoqIl0K</text>
+        <text encoding="base64">ICBASXNEZWZpbmVkKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJub2hvaXN0IiA6IFsiKiovdHlwZW9ybSIsICIqKi90eXBlb3JtLyoqIl0K</text>
+        <text encoding="base64">ICBACg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBASXNOdW1iZXIoKQo=</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJAbmVzdGpzL2NvbW1vbiI6ICJeNi4wLjUiCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiB0aGlzLnByb2ZpbGVDb21tYW5kLmFkZFBob3RvVXJsKHsgdXVpZDogcmVxdWVzdC51c2VyLmlkLCAuLi5kdG8gfSkucGlwZShmb3JtYXRSZXNwb25zZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJsb2Rhc2giOiAiXjQuMTcuMTEiLAogICAgIkBuZXN0anMvY29tbW9uIjogIl42LjAuNSIK</text>
+        <text encoding="base64">QEFwaUJlYXJlckF1dGgoKQo=</text>
       </register>
-      <register name="6" type="4">
-        <text>[
-    &quot;packages/**&quot;
-  ]</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAvLyBTd2FnZ2VyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAiZGVwZW5kZW5jaWVzIjogewogIH0sCg==</text>
+        <text encoding="base64">ICBAQXBpQ3JlYXRlZFJlc3BvbnNlKHsgZGVzY3JpcHRpb246ICdUaGUgcHJvZmlsZSBoYXMgYmVlbiBjb21wbGV0ZWQnIH0pCiAgQEFwaUJhZFJlcXVlc3RSZXNwb25zZSh7IGRlc2NyaXB0aW9uOiAnVGhlIGZvcm1hdCBvZiB0aGUgYm9keSBpcyBpbmNvcnJlY3QnIH0pCiAgQEFwaVVuYXV0aG9yaXplZFJlc3BvbnNlKHsgZGVzY3JpcHRpb246ICdZb3UgYXJlIG5vdCBsb2dnZWQuJyB9KQogIEBBcGlGb3JiaWRkZW5SZXNwb25zZSh7IGRlc2NyaXB0aW9uOiAnWW91IGFyZSBub3QgYXV0aG9yaXplZCB0byBwZXJmb3JtIHRoaXMgYWN0aW9uLicgfSkKICBAVXNlR3VhcmRzKEF1dGhHdWFyZCgpKQogIEBBcGlCZWFyZXJBdXRoKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJwYXRjaC1wYWNrYWdlIjogIl42LjEuMiIK</text>
+        <text encoding="base64">ICAgICJub2hvaXN0IiA6IFsiKiovdHlwZW9ybSIsICIqKi90eXBlb3JtLyoqIl0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBuZXN0anMvY29tbW9uQF42LjAuMAo=</text>
+        <text encoding="base64">ICAgICJub2hvaXN0IiA6IFsiKiovdHlwZW9ybSIsICIqKi90eXBlb3JtLyoqIl0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
