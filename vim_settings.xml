@@ -48,7 +48,7 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="16" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/.env.staging" timestamp="1562746601774" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/.env.staging" timestamp="1562746957809" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/handler/accountMigrated.handler.ts" timestamp="1562236345052">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="14" column="60" />
