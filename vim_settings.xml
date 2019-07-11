@@ -36,6 +36,7 @@
         <mark key="^" line="25" column="16" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/infrastructure/persistence/entity/account.entity.ts" timestamp="1562829543064" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-logger/typeorm.logger.ts" timestamp="1562745744823" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/infrastructure/persistence/entity/emailValidationToken.entity.ts" timestamp="1562233816763">
         <mark key="[" line="0" column="0" />
