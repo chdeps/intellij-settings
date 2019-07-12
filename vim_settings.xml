@@ -31,11 +31,10 @@
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/api/interaction/index.ts" timestamp="1562855206455" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/repositories/CustomerRepository.js" timestamp="1562774408406" />
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/.env" timestamp="1562941137215">
-        <mark key="[" line="6" column="8" />
-        <mark key="]" line="6" column="8" />
-        <mark key="^" line="5" column="27" />
-        <mark key="." line="6" column="8" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/.env" timestamp="1562943235561">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/service-eventstore/events/photo/index.ts" timestamp="1562231689503">
         <mark key="[" line="0" column="0" />
@@ -70,10 +69,11 @@
         <mark key="^" line="125" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/pages/InfoProfile/Photo/Photo.tsx" timestamp="1562829780155" />
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/.env.staging" timestamp="1562942246712">
-        <mark key="[" line="5" column="8" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/.env.staging" timestamp="1562943227772">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="13" column="61" />
+        <mark key="." line="13" column="58" />
+        <mark key="^" line="13" column="58" />
       </file>
       <file name="$USER_HOME$/Projects/WWF/wag-server/package.json" timestamp="1562915572174" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/node_modules/typeorm/connection/BaseConnectionOptions.d.ts" timestamp="1562936131769" />
@@ -82,7 +82,7 @@
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/index.js" timestamp="1562770506681" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/index.js" timestamp="1562773283519" />
       <file name="$USER_HOME$/Projects/WWF/wag-server/database/migrations/20180425102401_add_user_act_table.js" timestamp="1562915382167" />
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/config/database.js" timestamp="1562941077398">
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/config/database.js" timestamp="1562942919662">
         <mark key="[" line="9" column="48" />
         <mark key="]" line="11" column="2" />
         <mark key="^" line="11" column="2" />
@@ -92,7 +92,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/modules/infoProfile/sagas.ts" timestamp="1562830063800" />
-      <file name="/Dummy.txt" timestamp="1562769874532">
+      <file name="/Dummy.txt" timestamp="1562943377723">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -221,28 +221,28 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ALTER TABLE &quot;account&quot; RENAME COLUMN &quot;name&quot; TO &quot;title&quot;</text>
+        <text>Attempt to deal with nested validators in DTO</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>ALTER TABLE &quot;account&quot; RENAME COLUMN &quot;name&quot; TO &quot;title&quot;</text>
+        <text>Attempt to deal with nested validators in DTO</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0eXBlb3JtXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>ALTER TABLE &quot;account&quot; ADD COLUMN &quot;test&quot; text</text>
+      <register name="0" type="2">
+        <text encoding="base64">VFlQRU9STV9FTlRJVElFUz1pbmZyYXN0cnVjdHVyZS9wZXJzaXN0ZW5jZS9lbnRpdHkvKi50cwpUWVBFT1JNX01JR1JBVElPTlM9aW5mcmFzdHJ1Y3R1cmUvcGVyc2lzdGVuY2UvbWlncmF0aW9ucy8qLnRzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">VFlQRU9STV9DT05ORUNUSU9OPWFjY291bnRDb25uZWN0aW9uCg==</text>
+        <text encoding="base64">VFlQRU9STV9FTlRJVElFUz1pbmZyYXN0cnVjdHVyZS9wZXJzaXN0ZW5jZS9lbnRpdHkvLip0cwpUWVBFT1JNX01JR1JBVElPTlM9aW5mcmFzdHJ1Y3R1cmUvcGVyc2lzdGVuY2UvbWlncmF0aW9ucy8uKnRzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">VFlQRU9STV9TWU5DSFJPTklaRT10cnVlCg==</text>
+        <text encoding="base64">VFlQRU9STV9FTlRJVElFUz1pbmZyYXN0cnVjdHVyZS9wZXJzaXN0ZW5jZS9lbnRpdHkvKi50cwpUWVBFT1JNX01JR1JBVElPTlM9aW5mcmFzdHJ1Y3R1cmUvcGVyc2lzdGVuY2UvbWlncmF0aW9ucwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">VFlQRU9STV9TWU5DSFJPTklaRT10cnVlCg==</text>
+        <text encoding="base64">VFlQRU9STV9DT05ORUNUSU9OPWFjY291bnRDb25uZWN0aW9uCg==</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
@@ -251,19 +251,19 @@
         <text encoding="base64">VFlQRU9STV9TWU5DSFJPTklaRT10cnVlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">VFlQRU9STV9DT05ORUNUSU9OPXBvc3RncmVzCg==</text>
+        <text encoding="base64">VFlQRU9STV9TWU5DSFJPTklaRT10cnVlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">VFlQRU9STV9EQVRBQkFTRT1hdXRoCg==</text>
+        <text encoding="base64">VFlQRU9STV9TWU5DSFJPTklaRT10cnVlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">VFlQRU9STV9FTlRJVElFUz1pbmZyYXN0cnVjdHVyZS9wZXJzaXN0ZW5jZS9lbnRpdHkvKi50cwo=</text>
+        <text encoding="base64">VFlQRU9STV9DT05ORUNUSU9OPXBvc3RncmVzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">VFlQRU9STV9NQVhfUVVFUllfRVhFQ1VUSU9OX1RJTUU9NTAwCg==</text>
+        <text encoding="base64">VFlQRU9STV9EQVRBQkFTRT1hdXRoCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">VFlQRU9STV9DT05ORUNUSU9OPXBvc3RncmVzCg==</text>
+        <text encoding="base64">VFlQRU9STV9FTlRJVElFUz1pbmZyYXN0cnVjdHVyZS9wZXJzaXN0ZW5jZS9lbnRpdHkvKi50cwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
