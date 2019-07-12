@@ -116,10 +116,16 @@
         <mark key="^" line="28" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/components/KeyboardAvoidingView/KeyboardAvoidingView.tsx" timestamp="1562852741561" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/tsconfig.json" timestamp="1562953942860">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="10" column="17" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-photo/domain/model/index.ts" timestamp="1562231960874">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/backpack.config.js" timestamp="1562952921964">
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/backpack.config.js" timestamp="1562953936992">
         <mark key="[" line="6" column="31" />
         <mark key="]" line="6" column="31" />
         <mark key="." line="6" column="31" />
@@ -230,8 +236,8 @@
       <jump line="31" column="35" filename="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-grpc/infrastructure/profile/dto/photoUrl.dto.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, './infrastructure/persistence/migrations/*.ts'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAiaW5jbHVkZSI6IFsKICAgICIuL2luZnJhc3RydWN0dXJlL3BlcnNpc3RlbmNlL21pZ3JhdGlvbnMvKi50cyIKICBdLAo=</text>
       </register>
       <register name="d" type="4">
         <text />
@@ -246,19 +252,19 @@
         <text encoding="base64">VFlQRU9STV9FTlRJVElFUz1pbmZyYXN0cnVjdHVyZS9wZXJzaXN0ZW5jZS9lbnRpdHkvKi50cwpUWVBFT1JNX01JR1JBVElPTlM9aW5mcmFzdHJ1Y3R1cmUvcGVyc2lzdGVuY2UvbWlncmF0aW9ucy8qLnRzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">VFlQRU9STV9FTlRJVElFUz1pbmZyYXN0cnVjdHVyZS9wZXJzaXN0ZW5jZS9lbnRpdHkvLip0cwpUWVBFT1JNX01JR1JBVElPTlM9aW5mcmFzdHJ1Y3R1cmUvcGVyc2lzdGVuY2UvbWlncmF0aW9ucy8uKnRzCg==</text>
+        <text encoding="base64">ICAiaW5jbHVkZSI6IFsKICAgICIuL2luZnJhc3RydWN0dXJlL3BlcnNpc3RlbmNlL21pZ3JhdGlvbnMvKi50cyIKICBdLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">VFlQRU9STV9FTlRJVElFUz1pbmZyYXN0cnVjdHVyZS9wZXJzaXN0ZW5jZS9lbnRpdHkvKi50cwpUWVBFT1JNX01JR1JBVElPTlM9aW5mcmFzdHJ1Y3R1cmUvcGVyc2lzdGVuY2UvbWlncmF0aW9ucwo=</text>
+        <text encoding="base64">VFlQRU9STV9FTlRJVElFUz1pbmZyYXN0cnVjdHVyZS9wZXJzaXN0ZW5jZS9lbnRpdHkvLip0cwpUWVBFT1JNX01JR1JBVElPTlM9aW5mcmFzdHJ1Y3R1cmUvcGVyc2lzdGVuY2UvbWlncmF0aW9ucy8uKnRzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">VFlQRU9STV9DT05ORUNUSU9OPWFjY291bnRDb25uZWN0aW9uCg==</text>
+        <text encoding="base64">VFlQRU9STV9FTlRJVElFUz1pbmZyYXN0cnVjdHVyZS9wZXJzaXN0ZW5jZS9lbnRpdHkvKi50cwpUWVBFT1JNX01JR1JBVElPTlM9aW5mcmFzdHJ1Y3R1cmUvcGVyc2lzdGVuY2UvbWlncmF0aW9ucwo=</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">VFlQRU9STV9TWU5DSFJPTklaRT10cnVlCg==</text>
+        <text encoding="base64">VFlQRU9STV9DT05ORUNUSU9OPWFjY291bnRDb25uZWN0aW9uCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">VFlQRU9STV9TWU5DSFJPTklaRT10cnVlCg==</text>
@@ -267,13 +273,13 @@
         <text encoding="base64">VFlQRU9STV9TWU5DSFJPTklaRT10cnVlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">VFlQRU9STV9DT05ORUNUSU9OPXBvc3RncmVzCg==</text>
+        <text encoding="base64">VFlQRU9STV9TWU5DSFJPTklaRT10cnVlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">VFlQRU9STV9EQVRBQkFTRT1hdXRoCg==</text>
+        <text encoding="base64">VFlQRU9STV9DT05ORUNUSU9OPXBvc3RncmVzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">VFlQRU9STV9FTlRJVElFUz1pbmZyYXN0cnVjdHVyZS9wZXJzaXN0ZW5jZS9lbnRpdHkvKi50cwo=</text>
+        <text encoding="base64">VFlQRU9STV9EQVRBQkFTRT1hdXRoCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
