@@ -40,7 +40,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/pages/Connected/Home/Home.tsx" timestamp="1562855261352" />
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/auth.module.ts" timestamp="1562938313718">
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/auth.module.ts" timestamp="1562944673628">
         <mark key="[" line="48" column="38" />
         <mark key="]" line="49" column="56" />
         <mark key="." line="49" column="56" />
@@ -82,6 +82,10 @@
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/index.js" timestamp="1562770506681" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/index.js" timestamp="1562773283519" />
       <file name="$USER_HOME$/Projects/WWF/wag-server/database/migrations/20180425102401_add_user_act_table.js" timestamp="1562915382167" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/package.json" timestamp="1562951853434">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="29" />
+      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/config/database.js" timestamp="1562942919662">
         <mark key="[" line="9" column="48" />
         <mark key="]" line="11" column="2" />
@@ -114,6 +118,12 @@
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/components/KeyboardAvoidingView/KeyboardAvoidingView.tsx" timestamp="1562852741561" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-photo/domain/model/index.ts" timestamp="1562231960874">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/backpack.config.js" timestamp="1562952921964">
+        <mark key="[" line="6" column="31" />
+        <mark key="]" line="6" column="31" />
+        <mark key="." line="6" column="31" />
+        <mark key="^" line="6" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/node_modules/@nestjs/common/pipes/validation.pipe.d.ts" timestamp="1562767473797" />
     </filemarks>
@@ -221,13 +231,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Attempt to deal with nested validators in DTO</text>
+        <text>, './infrastructure/persistence/migrations/*.ts'</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Attempt to deal with nested validators in DTO</text>
+        <text>, './infrastructure/persistence/migrations/*.ts'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0eXBlb3JtXD4=</text>
