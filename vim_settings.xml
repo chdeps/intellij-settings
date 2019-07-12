@@ -31,10 +31,22 @@
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/api/interaction/index.ts" timestamp="1562855206455" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/repositories/CustomerRepository.js" timestamp="1562774408406" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/.env" timestamp="1562934696531">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="24" column="16" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/service-eventstore/events/photo/index.ts" timestamp="1562231689503">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/pages/Connected/Home/Home.tsx" timestamp="1562855261352" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/auth.module.ts" timestamp="1562935131269">
+        <mark key="[" line="47" column="40" />
+        <mark key="]" line="47" column="40" />
+        <mark key="." line="47" column="40" />
+        <mark key="^" line="46" column="54" />
+      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/pages/Connected/Home/components/HomeProfile/HomeProfile.tsx" timestamp="1562858848009" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/infrastructure/persistence/entity/account.entity.ts" timestamp="1562829543064" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-photo/business/command/interface/UploadPhotoCommand.ts" timestamp="1561712901155">
@@ -52,13 +64,24 @@
         <mark key="^" line="125" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/pages/InfoProfile/Photo/Photo.tsx" timestamp="1562829780155" />
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/.env.staging" timestamp="1562915765199" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/.env.staging" timestamp="1562934625192">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="55" />
+        <mark key="^" line="8" column="18" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/WWF/wag-server/package.json" timestamp="1562915572174" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-logger/nest.logger.ts" timestamp="1562745688074" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/node_modules/@nestjs/common/interfaces/external/class-transform-options.interface.d.ts" timestamp="1562767491145" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/index.js" timestamp="1562770506681" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/index.js" timestamp="1562773283519" />
       <file name="$USER_HOME$/Projects/WWF/wag-server/database/migrations/20180425102401_add_user_act_table.js" timestamp="1562915382167" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/config/database.js" timestamp="1562934629358">
+        <mark key="[" line="8" column="15" />
+        <mark key="]" line="8" column="15" />
+        <mark key="^" line="7" column="37" />
+        <mark key="." line="8" column="15" />
+      </file>
       <file name="$USER_HOME$/Projects/AWS3/AWS3/.gitignore" timestamp="1562145109515">
         <mark key="[" line="0" column="0" />
       </file>
@@ -187,49 +210,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBAVHJhbnNmb3JtUGxhaW5Ub0NsYXNzKE5lc3RUZXN0RHRvKQo=</text>
+        <text encoding="base64">VFlQRU9STV9DT05ORUNUSU9OPXBvc3RncmVzCg==</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IFRyYW5zZm9ybSwg</text>
+        <text>synchronize</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0eXBlb3JtXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBAQXBpTW9kZWxQcm9wZXJ0eSgpCg==</text>
+      <register name="0" type="4">
+        <text>config.get('database.synchronize')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBAVHJhbnNmb3JtUGxhaW5Ub0NsYXNzKE5lc3RUZXN0RHRvKQo=</text>
+        <text encoding="base64">VFlQRU9STV9DT05ORUNUSU9OPXBvc3RncmVzCg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgQFZhbGlkYXRlTmVzdGVkKCk=</text>
+      <register name="2" type="2">
+        <text encoding="base64">VFlQRU9STV9EQVRBQkFTRT1hdXRoCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBASXNEZWZpbmVkKCkK</text>
+        <text encoding="base64">VFlQRU9STV9FTlRJVElFUz1pbmZyYXN0cnVjdHVyZS9wZXJzaXN0ZW5jZS9lbnRpdHkvKi50cwo=</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBACg==</text>
+        <text encoding="base64">VFlQRU9STV9NQVhfUVVFUllfRVhFQ1VUSU9OX1RJTUU9NTAwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBASXNOdW1iZXIoKQo=</text>
+        <text encoding="base64">VFlQRU9STV9DT05ORUNUSU9OPXBvc3RncmVzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0aGlzLnByb2ZpbGVDb21tYW5kLmFkZFBob3RvVXJsKHsgdXVpZDogcmVxdWVzdC51c2VyLmlkLCAuLi5kdG8gfSkucGlwZShmb3JtYXRSZXNwb25zZSk7Cg==</text>
+        <text encoding="base64">VFlQRU9STV9FTlRJVElFUz1pbmZyYXN0cnVjdHVyZS9wZXJzaXN0ZW5jZS9lbnRpdHkvKi50cwpUWVBFT1JNX0NPTk5FQ1RJT049cG9zdGdyZXMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QEFwaUJlYXJlckF1dGgoKQo=</text>
+        <text encoding="base64">VFlQRU9STV9EQVRBQkFTRT1hdXRoCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvLyBTd2FnZ2VyCg==</text>
+        <text encoding="base64">VFlQRU9STV9NQVhfUVVFUllfRVhFQ1VUSU9OX1RJTUU9NTAwCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBAQXBpQ3JlYXRlZFJlc3BvbnNlKHsgZGVzY3JpcHRpb246ICdUaGUgcHJvZmlsZSBoYXMgYmVlbiBjb21wbGV0ZWQnIH0pCiAgQEFwaUJhZFJlcXVlc3RSZXNwb25zZSh7IGRlc2NyaXB0aW9uOiAnVGhlIGZvcm1hdCBvZiB0aGUgYm9keSBpcyBpbmNvcnJlY3QnIH0pCiAgQEFwaVVuYXV0aG9yaXplZFJlc3BvbnNlKHsgZGVzY3JpcHRpb246ICdZb3UgYXJlIG5vdCBsb2dnZWQuJyB9KQogIEBBcGlGb3JiaWRkZW5SZXNwb25zZSh7IGRlc2NyaXB0aW9uOiAnWW91IGFyZSBub3QgYXV0aG9yaXplZCB0byBwZXJmb3JtIHRoaXMgYWN0aW9uLicgfSkKICBAVXNlR3VhcmRzKEF1dGhHdWFyZCgpKQogIEBBcGlCZWFyZXJBdXRoKCkK</text>
+        <text encoding="base64">ICBAVHJhbnNmb3JtUGxhaW5Ub0NsYXNzKE5lc3RUZXN0RHRvKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
