@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/package.json" timestamp="1562916290517">
+        <mark key="[" line="30" column="32" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="33" column="0" />
+      </file>
       <file name="/fragment.js" timestamp="1562079666318">
         <mark key="[" line="0" column="0" />
       </file>
@@ -10,6 +16,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/modules/infoProfile/reducer.ts" timestamp="1562830120118" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-logger/package.json" timestamp="1562745782288">
+        <mark key="[" line="17" column="25" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="12" column="25" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/lib/auth.js" timestamp="1562773776205" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/pages/InfoProfile/components/PhotoActionSheet/PhotoActionSheet.tsx" timestamp="1562829841281" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/lib/SSO/index.js" timestamp="1562773713789" />
@@ -33,8 +45,14 @@
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/services/hooks/useDispatchCallback.ts" timestamp="1562855512185" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/index.ts" timestamp="1562767001766" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/DashboardApp.js" timestamp="1562773050971" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/controller/profile.controller.ts" timestamp="1562766888507">
+        <mark key="[" line="125" column="44" />
+        <mark key="]" line="125" column="44" />
+        <mark key="." line="125" column="44" />
+        <mark key="^" line="125" column="31" />
+      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/pages/InfoProfile/Photo/Photo.tsx" timestamp="1562829780155" />
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/.env.staging" timestamp="1562863717669" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/.env.staging" timestamp="1562915765199" />
       <file name="$USER_HOME$/Projects/WWF/wag-server/package.json" timestamp="1562915572174" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-logger/nest.logger.ts" timestamp="1562745688074" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/node_modules/@nestjs/common/interfaces/external/class-transform-options.interface.d.ts" timestamp="1562767491145" />
@@ -53,6 +71,12 @@
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/lib/c4c.js" timestamp="1562774797633" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/modules/infoProfile/types.ts" timestamp="1562830139106" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/lib/call.js" timestamp="1562773073558" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-grpc/infrastructure/profile/dto/photoUrl.dto.ts" timestamp="1562769859469">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="28" column="18" />
+      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/components/KeyboardAvoidingView/KeyboardAvoidingView.tsx" timestamp="1562852741561" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-photo/domain/model/index.ts" timestamp="1562231960874">
         <mark key="[" line="0" column="0" />
