@@ -57,6 +57,12 @@
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/services/hooks/useDispatchCallback.ts" timestamp="1562855512185" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/index.ts" timestamp="1562767001766" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/DashboardApp.js" timestamp="1562773050971" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/infrastructure/persistence/migrations/1562941223351-Test.ts" timestamp="1562941842658">
+        <mark key="[" line="8" column="73" />
+        <mark key="]" line="8" column="73" />
+        <mark key="^" line="4" column="72" />
+        <mark key="." line="8" column="29" />
+      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/controller/profile.controller.ts" timestamp="1562766888507">
         <mark key="[" line="125" column="44" />
         <mark key="]" line="125" column="44" />
@@ -64,7 +70,7 @@
         <mark key="^" line="125" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/pages/InfoProfile/Photo/Photo.tsx" timestamp="1562829780155" />
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/.env.staging" timestamp="1562941047714">
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/.env.staging" timestamp="1562942246712">
         <mark key="[" line="5" column="8" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
@@ -215,19 +221,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>DOCKER</text>
+        <text>ALTER TABLE &quot;account&quot; RENAME COLUMN &quot;name&quot; TO &quot;title&quot;</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>DOCKER</text>
+        <text>ALTER TABLE &quot;account&quot; RENAME COLUMN &quot;name&quot; TO &quot;title&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0eXBlb3JtXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">VFlQRU9STV9ET0NLRVJfSE9TVD1kYXRhYmFzZQo=</text>
+      <register name="0" type="4">
+        <text>ALTER TABLE &quot;account&quot; ADD COLUMN &quot;test&quot; text</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">VFlQRU9STV9DT05ORUNUSU9OPWFjY291bnRDb25uZWN0aW9uCg==</text>
