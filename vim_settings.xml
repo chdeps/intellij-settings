@@ -64,8 +64,9 @@
         <mark key="." line="13" column="37" />
         <mark key="^" line="13" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/package.json" timestamp="1563178241615">
-        <mark key="[" line="40" column="0" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/Dockerfile" timestamp="1563180603859" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/package.json" timestamp="1563179204819">
+        <mark key="[" line="12" column="18" />
         <mark key="]" line="40" column="33" />
         <mark key="." line="40" column="0" />
         <mark key="^" line="39" column="22" />
