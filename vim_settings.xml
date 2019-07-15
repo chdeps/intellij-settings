@@ -28,11 +28,11 @@
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-photo/business/command/interface/uploadBase64Photo.command.ts" timestamp="1562235215579">
         <mark key="[" line="3" column="63" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/.env" timestamp="1563177983172">
-        <mark key="[" line="14" column="37" />
-        <mark key="]" line="14" column="37" />
-        <mark key="." line="14" column="37" />
-        <mark key="^" line="14" column="34" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/.env" timestamp="1563182220828">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="9" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/service-eventstore/events/photo/index.ts" timestamp="1562231689503">
         <mark key="[" line="0" column="0" />
@@ -58,24 +58,28 @@
         <mark key="." line="125" column="44" />
         <mark key="^" line="125" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/.env.staging" timestamp="1563177988973">
-        <mark key="[" line="13" column="37" />
-        <mark key="]" line="13" column="37" />
-        <mark key="." line="13" column="37" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/.env.staging" timestamp="1563182229264">
+        <mark key="[" line="5" column="8" />
+        <mark key="]" line="5" column="8" />
+        <mark key="." line="5" column="8" />
         <mark key="^" line="13" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/Dockerfile" timestamp="1563180603859" />
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/package.json" timestamp="1563179204819">
-        <mark key="[" line="12" column="18" />
-        <mark key="]" line="40" column="33" />
-        <mark key="." line="40" column="0" />
-        <mark key="^" line="39" column="22" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/Dockerfile" timestamp="1563181834513">
+        <mark key="[" line="46" column="9" />
+        <mark key="]" line="46" column="9" />
+        <mark key="." line="46" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/config/database.js" timestamp="1562942919662">
-        <mark key="[" line="9" column="48" />
-        <mark key="]" line="11" column="2" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/package.json" timestamp="1563182334380">
+        <mark key="[" line="13" column="74" />
+        <mark key="]" line="15" column="3" />
+        <mark key="." line="15" column="3" />
+        <mark key="^" line="15" column="3" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/config/database.js" timestamp="1563182238801">
+        <mark key="[" line="2" column="27" />
+        <mark key="]" line="2" column="27" />
         <mark key="^" line="11" column="2" />
-        <mark key="." line="11" column="2" />
+        <mark key="." line="2" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/AWS3/AWS3/.gitignore" timestamp="1562145109515">
         <mark key="[" line="0" column="0" />
@@ -214,13 +218,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>react-native</text>
+        <text>_DOCKER</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>react-native</text>
+        <text>_DOCKER</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0eXBlb3JtXD4=</text>
@@ -229,34 +233,34 @@
         <text encoding="base64">ICAgICJyZWZsZWN0LW1ldGFkYXRhIjogIl4wLjEuMTMiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJ0eXBlb3JtIjogIi4vbm9kZV9tb2R1bGVzL3R5cGVvcm0vY2xpLmpzIiwK</text>
+        <text encoding="base64">VFlQRU9STV9ET0NLRVJfSE9TVD1kYXRhYmFzZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">VFlQRU9STV9NSUdSQVRJT05TPSoqL21pZ3JhdGlvbnMvKi50cwo=</text>
+        <text encoding="base64">ICAgICJ0eXBlb3JtIjogIi4vbm9kZV9tb2R1bGVzL3R5cGVvcm0vY2xpLmpzIiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">VFlQRU9STV9NSUdSQVRJT05TPWluZnJhc3RydWN0dXJlL3BlcnNpc3RlbmNlL21pZ3JhdGlvbnMvKnsudHMsLmpzfQo=</text>
+        <text encoding="base64">VFlQRU9STV9NSUdSQVRJT05TPSoqL21pZ3JhdGlvbnMvKi50cwo=</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">VFlQRU9STV9NSUdSQVRJT05TPWluZnJhc3RydWN0dXJlL3BlcnNpc3RlbmNlL21pZ3JhdGlvbnMvKi50cwo=</text>
+        <text encoding="base64">VFlQRU9STV9NSUdSQVRJT05TPWluZnJhc3RydWN0dXJlL3BlcnNpc3RlbmNlL21pZ3JhdGlvbnMvKnsudHMsLmpzfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAiaW5jbHVkZSI6IFsKICAgICIuL2luZnJhc3RydWN0dXJlL3BlcnNpc3RlbmNlL21pZ3JhdGlvbnMvKi50cyIKICBdLAo=</text>
+        <text encoding="base64">VFlQRU9STV9NSUdSQVRJT05TPWluZnJhc3RydWN0dXJlL3BlcnNpc3RlbmNlL21pZ3JhdGlvbnMvKi50cwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">VFlQRU9STV9FTlRJVElFUz1pbmZyYXN0cnVjdHVyZS9wZXJzaXN0ZW5jZS9lbnRpdHkvLip0cwpUWVBFT1JNX01JR1JBVElPTlM9aW5mcmFzdHJ1Y3R1cmUvcGVyc2lzdGVuY2UvbWlncmF0aW9ucy8uKnRzCg==</text>
+        <text encoding="base64">ICAiaW5jbHVkZSI6IFsKICAgICIuL2luZnJhc3RydWN0dXJlL3BlcnNpc3RlbmNlL21pZ3JhdGlvbnMvKi50cyIKICBdLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">VFlQRU9STV9FTlRJVElFUz1pbmZyYXN0cnVjdHVyZS9wZXJzaXN0ZW5jZS9lbnRpdHkvKi50cwpUWVBFT1JNX01JR1JBVElPTlM9aW5mcmFzdHJ1Y3R1cmUvcGVyc2lzdGVuY2UvbWlncmF0aW9ucwo=</text>
+        <text encoding="base64">VFlQRU9STV9FTlRJVElFUz1pbmZyYXN0cnVjdHVyZS9wZXJzaXN0ZW5jZS9lbnRpdHkvLip0cwpUWVBFT1JNX01JR1JBVElPTlM9aW5mcmFzdHJ1Y3R1cmUvcGVyc2lzdGVuY2UvbWlncmF0aW9ucy8uKnRzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">VFlQRU9STV9DT05ORUNUSU9OPWFjY291bnRDb25uZWN0aW9uCg==</text>
+        <text encoding="base64">VFlQRU9STV9FTlRJVElFUz1pbmZyYXN0cnVjdHVyZS9wZXJzaXN0ZW5jZS9lbnRpdHkvKi50cwpUWVBFT1JNX01JR1JBVElPTlM9aW5mcmFzdHJ1Y3R1cmUvcGVyc2lzdGVuY2UvbWlncmF0aW9ucwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">VFlQRU9STV9TWU5DSFJPTklaRT10cnVlCg==</text>
+        <text encoding="base64">VFlQRU9STV9DT05ORUNUSU9OPWFjY291bnRDb25uZWN0aW9uCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
