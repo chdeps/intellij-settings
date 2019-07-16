@@ -110,12 +110,7 @@
         <mark key="." line="17" column="7" />
       </file>
       <file name="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es2015.promise.d.ts" timestamp="1563268585674" />
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-generator/generator/event.generator.js" timestamp="1563305727379">
-        <mark key="[" line="45" column="62" />
-        <mark key="]" line="51" column="46" />
-        <mark key="." line="51" column="46" />
-        <mark key="^" line="51" column="46" />
-      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-generator/generator/event.generator.js" timestamp="1563307931320" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/service-eventstore/model/event.model.ts" timestamp="1563269403691">
         <mark key="[" line="103" column="56" />
         <mark key="]" line="108" column="0" />
@@ -190,10 +185,10 @@
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563298248364">
+      <file name="/Dummy.txt" timestamp="1563308056348">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="17" />
-        <mark key="." line="0" column="17" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-generator/generator/api-gateway.generator.js" timestamp="1563200490909">
         <mark key="[" line="12" column="64" />
@@ -317,13 +312,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>domain/event/handler</text>
+        <text>Working command generator</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>domain/event/handler</text>
+        <text>Working command generator</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0eXBlb3JtXD4=</text>
