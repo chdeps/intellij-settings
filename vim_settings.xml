@@ -14,13 +14,7 @@
         <mark key="." line="31" column="35" />
         <mark key="^" line="31" column="26" />
       </file>
-      <file name="/fragment.js" timestamp="1562079666318">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/handler/helloed.handler.ts" timestamp="1563353028147" />
-      <file name="/a.dummy" timestamp="1562235287774">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-generator/template/command/business/command/handler/{{  camelCase ms.commandName }}.handler.ts.template" timestamp="1563304665015">
         <mark key="[" line="17" column="7" />
         <mark key="]" line="17" column="7" />
@@ -33,23 +27,18 @@
         <mark key="." line="37" column="41" />
         <mark key="^" line="37" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-photo/business/command/interface/uploadBase64Photo.command.ts" timestamp="1562235215579">
-        <mark key="[" line="3" column="63" />
-      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/domain/event/handler/photoUrlAdded.handler.ts" timestamp="1563354282216">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="35" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-generator/generator/event.generator.js" timestamp="1563356533914">
-        <mark key="[" line="118" column="17" />
-        <mark key="]" line="122" column="0" />
-        <mark key="." line="122" column="0" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-generator/generator/event.generator.js" timestamp="1563365549725">
+        <mark key="[" line="125" column="16" />
+        <mark key="]" line="125" column="16" />
+        <mark key="." line="125" column="16" />
+        <mark key="^" line="123" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/service-eventstore/events/photo/index.ts" timestamp="1562231689503">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/service-eventstore/model/event.model.ts" timestamp="1563356381853">
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/service-eventstore/model/event.model.ts" timestamp="1563365447875">
         <mark key="[" line="103" column="56" />
         <mark key="]" line="108" column="0" />
         <mark key="." line="108" column="0" />
@@ -64,12 +53,6 @@
         <mark key="[" line="46" column="0" />
         <mark key="]" line="47" column="50" />
         <mark key="." line="0" column="15" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-photo/business/command/interface/UploadPhotoCommand.ts" timestamp="1561712901155">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/service-eventstore/events/shared/index.ts" timestamp="1563268648383">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-interaction/interaction.module.ts" timestamp="1563192858758">
         <mark key="[" line="34" column="0" />
@@ -93,9 +76,9 @@
         <mark key="." line="93" column="0" />
         <mark key="^" line="23" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/service-eventstore/events/auth/accountMigrated.event.ts" timestamp="1563269281044">
-        <mark key="[" line="3" column="34" />
-        <mark key="]" line="3" column="59" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/service-eventstore/events/auth/accountMigrated.event.ts" timestamp="1563357574235">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="72" />
         <mark key="^" line="6" column="2" />
         <mark key="." line="6" column="2" />
       </file>
@@ -121,6 +104,7 @@
         <mark key="." line="7" column="36" />
         <mark key="^" line="23" column="29" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-algo/domain/event/handler/helloed.handler.ts" timestamp="1563357459002" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/service-eventstore/events/shared/promisifiable.event.ts" timestamp="1563270179460">
         <mark key="[" line="1" column="24" />
         <mark key="]" line="2" column="8" />
@@ -139,6 +123,11 @@
         <mark key="]" line="9" column="17" />
         <mark key="." line="9" column="17" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-generator/template/event/service-eventstore/events/{{ ms.shortname }}/{{ camelCase ms.eventName }}.event.ts.template" timestamp="1563357583417">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/config/database.js" timestamp="1563192850832">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -150,14 +139,11 @@
         <mark key="^" line="10" column="2" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/AWS3/AWS3/.gitignore" timestamp="1562145109515">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/login.handler.ts" timestamp="1563304581992">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563353102021">
+      <file name="/Dummy.txt" timestamp="1563358806124">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -168,16 +154,10 @@
         <mark key="." line="12" column="63" />
         <mark key="^" line="12" column="63" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-algo/package.json" timestamp="1563188006502">
-        <mark key="[" line="9" column="20" />
-      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-algo/algo.module.ts" timestamp="1563187794187">
         <mark key="[" line="33" column="19" />
         <mark key="]" line="33" column="19" />
         <mark key="." line="33" column="19" />
-      </file>
-      <file name="/GraphQL.result.json" timestamp="1562915364984">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-interaction/config/database.js" timestamp="1563192840635">
         <mark key="[" line="1" column="0" />
@@ -202,9 +182,6 @@
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
         <mark key="^" line="31" column="27" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-photo/domain/model/index.ts" timestamp="1562231960874">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/backpack.config.js" timestamp="1563177948944">
         <mark key="[" line="25" column="96" />
@@ -321,29 +298,29 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/domain/event/handler/photoUrlAdded.handler.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+      <register name="&quot;" type="4">
+        <text>Events</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGluIEV2ZW50U3RvcmU=</text>
+        <text>Events</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0eXBlb3JtXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcHVibGljIGNvbnN0cnVjdG9yKAogICAgICBASW5qZWN0UmVwb3NpdG9yeShQaG90b0VudGl0eSkKICAgICAgcHJpdmF0ZSByZWFkb25seSBwaG90b1JlcG9zaXRvcnk6IFJlcG9zaXRvcnk8UGhvdG9FbnRpdHk+LAogICAgICAgICkge30K</text>
+        <text encoding="base64">ICAgIHsKICAgICAgdHlwZTogJ2FwcGVuZCcsCiAgICAgIHBhdGg6ICdwYWNrYWdlcy9zZXJ2aWNlLWV2ZW50c3RvcmUvbW9kZWwvZXZlbnQubW9kZWwudHMnLAogICAgICBwYXR0ZXJuOiAvRXZlbnRzW159XSovLAogICAgICBzZXBhcmF0b3I6ICcnLAogICAgICB0ZW1wbGF0ZTogJyAge3sgbXMuZXZlbnROYW1lIH19IDoge3sgbXMuZXZlbnROYW1lIH19RXZlbnRcbicsCiAgICB9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8gOiBIYW5kbGUgbW9kZWwvZXZlbnQvcXVldWUKICAgIC8qCg==</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8gOiBIYW5kbGUgbW9kZWwvZXZlbnQvcXVldWUKICAgIC8qCg==</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
@@ -355,16 +332,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBFdmVudHNIYW5kbGVyKFBob3RvVXJsQWRkZWRFdmVudCkKICAgIGV4cG9ydCBjbGFzcyBQaG90b1VybEFkZGVkRXZlbnRIYW5kbGVyIGltcGxlbWVudHMgSUV2ZW50SGFuZGxlcjxQaG90b1VybEFkZGVkRXZlbnQ+IHsKICAgICAgcHVibGljIGNvbnN0cnVjdG9yKAogICAgICBASW5qZWN0UmVwb3NpdG9yeShQaG90b0VudGl0eSkKICAgICAgcHJpdmF0ZSByZWFkb25seSBwaG90b1JlcG9zaXRvcnk6IFJlcG9zaXRvcnk8UGhvdG9FbnRpdHk+LAogICAgICAgICkge30KCiAgICAgICAgcHVibGljIGFzeW5jIGhhbmRsZShldmVudDogUGhvdG9VcmxBZGRlZEV2ZW50KTogUHJvbWlzZTx2b2lkPiB7CiAgICAgICAgICBsb2dnZXIuZGVidWcoJ1NhdmluZyBwaG90b1VybEFkZGVkRXZlbnQnICsgZXZlbnQuZXZlbnQuZXZlbnRFbnRpdHkuZGF0YSk7CgogICAgICAgICAgY29uc3QgewogICAgICAgICAgc3RyZWFtRW50aXR5OiB7IHJlZmVyZW5jZTogdXVpZCB9LAogICAgICAgICAgZXZlbnRFbnRpdHk6IHsKICAgICAgICAgIGRhdGE6IHsgcGhvdG9VcmwsIHBob3RvSW5kZXggfSwKICAgICAgICAgIH0sCiAgICAgICAgICB9ID0gZXZlbnQuZXZlbnQ7CgogICAgICAgICAgdGhpcy5waG90b1JlcG9zaXRvcnkuc2F2ZSh7CiAgICAgICAgICB1c2VySWQ6IHV1aWQsCiAgICAgICAgICBjbGVhclVybDogcGhvdG9VcmwsCiAgICAgICAgICBpbmRleDogcGhvdG9JbmRleCwKICAgICAgICAgIG9yZGVyZWRBdDogbmV3IERhdGUoKSwKICAgICAgICAgIH0pOwoKICAgICAgICAgIGxvZ2dlci5kZWJ1ZygnU2F2ZWQgcGhvdG9VcmxBZGRlZEV2ZW50Jyk7CiAgICAgICAgICB9CiAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBARXZlbnRzSGFuZGxlcih7eyBtcy5ldmVudE5hbWUgfX1FdmVudCkKICBleHBvcnQgY2xhc3Mge3sgbXMuZXZlbnROYW1lIH19Q2FjaGVkRGJIYW5kbGVyIGltcGxlbWVudHMgSUV2ZW50SGFuZGxlcjx7eyBtcy5ldmVudE5hbWUgfX1FdmVudD4gewogICAgcHVibGljIGNvbnN0cnVjdG9yKAogICAgQEluamVjdEVudGl0eU1hbmFnZXIoJ2FjY291bnRDb25uZWN0aW9uJykKICAgIHByaXZhdGUgcmVhZG9ubHkgZW50aXR5TWFuYWdlcjogRW50aXR5TWFuYWdlciwKICAgICkge30KCiAgICBwdWJsaWMgaGFuZGxlKGV2ZW50OiB7eyBtcy5ldmVudE5hbWUgfX1FdmVudCk6IHZvaWQgewogICAgICAvLyBTYXZlIGV2ZW50IGluIHRoZSBjYWNoZWQgREIKICAgIH0KICAgIH0K</text>
+        <text encoding="base64">ICAgIEBFdmVudHNIYW5kbGVyKFBob3RvVXJsQWRkZWRFdmVudCkKICAgIGV4cG9ydCBjbGFzcyBQaG90b1VybEFkZGVkRXZlbnRIYW5kbGVyIGltcGxlbWVudHMgSUV2ZW50SGFuZGxlcjxQaG90b1VybEFkZGVkRXZlbnQ+IHsKICAgICAgcHVibGljIGNvbnN0cnVjdG9yKAogICAgICBASW5qZWN0UmVwb3NpdG9yeShQaG90b0VudGl0eSkKICAgICAgcHJpdmF0ZSByZWFkb25seSBwaG90b1JlcG9zaXRvcnk6IFJlcG9zaXRvcnk8UGhvdG9FbnRpdHk+LAogICAgICAgICkge30KCiAgICAgICAgcHVibGljIGFzeW5jIGhhbmRsZShldmVudDogUGhvdG9VcmxBZGRlZEV2ZW50KTogUHJvbWlzZTx2b2lkPiB7CiAgICAgICAgICBsb2dnZXIuZGVidWcoJ1NhdmluZyBwaG90b1VybEFkZGVkRXZlbnQnICsgZXZlbnQuZXZlbnQuZXZlbnRFbnRpdHkuZGF0YSk7CgogICAgICAgICAgY29uc3QgewogICAgICAgICAgc3RyZWFtRW50aXR5OiB7IHJlZmVyZW5jZTogdXVpZCB9LAogICAgICAgICAgZXZlbnRFbnRpdHk6IHsKICAgICAgICAgIGRhdGE6IHsgcGhvdG9VcmwsIHBob3RvSW5kZXggfSwKICAgICAgICAgIH0sCiAgICAgICAgICB9ID0gZXZlbnQuZXZlbnQ7CgogICAgICAgICAgdGhpcy5waG90b1JlcG9zaXRvcnkuc2F2ZSh7CiAgICAgICAgICB1c2VySWQ6IHV1aWQsCiAgICAgICAgICBjbGVhclVybDogcGhvdG9VcmwsCiAgICAgICAgICBpbmRleDogcGhvdG9JbmRleCwKICAgICAgICAgIG9yZGVyZWRBdDogbmV3IERhdGUoKSwKICAgICAgICAgIH0pOwoKICAgICAgICAgIGxvZ2dlci5kZWJ1ZygnU2F2ZWQgcGhvdG9VcmxBZGRlZEV2ZW50Jyk7CiAgICAgICAgICB9CiAgICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBASW5qZWN0UmVwb3NpdG9yeShQaG90b0VudGl0eSkKICBwcml2YXRlIHJlYWRvbmx5IHBob3RvUmVwb3NpdG9yeTogUmVwb3NpdG9yeTxQaG90b0VudGl0eT4sCg==</text>
+        <text encoding="base64">ICBARXZlbnRzSGFuZGxlcih7eyBtcy5ldmVudE5hbWUgfX1FdmVudCkKICBleHBvcnQgY2xhc3Mge3sgbXMuZXZlbnROYW1lIH19Q2FjaGVkRGJIYW5kbGVyIGltcGxlbWVudHMgSUV2ZW50SGFuZGxlcjx7eyBtcy5ldmVudE5hbWUgfX1FdmVudD4gewogICAgcHVibGljIGNvbnN0cnVjdG9yKAogICAgQEluamVjdEVudGl0eU1hbmFnZXIoJ2FjY291bnRDb25uZWN0aW9uJykKICAgIHByaXZhdGUgcmVhZG9ubHkgZW50aXR5TWFuYWdlcjogRW50aXR5TWFuYWdlciwKICAgICkge30KCiAgICBwdWJsaWMgaGFuZGxlKGV2ZW50OiB7eyBtcy5ldmVudE5hbWUgfX1FdmVudCk6IHZvaWQgewogICAgICAvLyBTYXZlIGV2ZW50IGluIHRoZSBjYWNoZWQgREIKICAgIH0KICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwdWJsaWMgY29uc3RydWN0b3IocHJpdmF0ZSByZWFkb25seSBldmVudFN0b3JlREJTZXJ2aWNlOiBFdmVudFN0b3JlREJTZXJ2aWNlKSB7fQo=</text>
+        <text encoding="base64">ICBASW5qZWN0UmVwb3NpdG9yeShQaG90b0VudGl0eSkKICBwcml2YXRlIHJlYWRvbmx5IHBob3RvUmVwb3NpdG9yeTogUmVwb3NpdG9yeTxQaG90b0VudGl0eT4sCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
