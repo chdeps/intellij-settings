@@ -8,26 +8,8 @@
         <mark key="]" line="7" column="34" />
         <mark key="." line="7" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/package.json" timestamp="1563178559890">
-        <mark key="[" line="31" column="35" />
-        <mark key="]" line="31" column="35" />
-        <mark key="." line="31" column="35" />
-        <mark key="^" line="31" column="26" />
-      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/domain/model/profile.model.ts" timestamp="1563370953268" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/handler/helloed.handler.ts" timestamp="1563353028147" />
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-generator/template/command/business/command/handler/{{  camelCase ms.commandName }}.handler.ts.template" timestamp="1563304665015">
-        <mark key="[" line="17" column="7" />
-        <mark key="]" line="17" column="7" />
-        <mark key="^" line="11" column="3" />
-        <mark key="." line="17" column="7" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/profile.module.ts" timestamp="1563192884707">
-        <mark key="[" line="37" column="41" />
-        <mark key="]" line="37" column="41" />
-        <mark key="." line="37" column="41" />
-        <mark key="^" line="37" column="19" />
-      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/domain/event/handler/photoUrlAdded.handler.ts" timestamp="1563354282216">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -43,12 +25,6 @@
         <mark key="[" line="103" column="56" />
         <mark key="]" line="108" column="0" />
         <mark key="." line="108" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/service-eventstore/events/shared/promisifyable.event.ts" timestamp="1563268702055">
-        <mark key="[" line="1" column="27" />
-        <mark key="]" line="3" column="1" />
-        <mark key="." line="3" column="1" />
-        <mark key="^" line="3" column="1" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/auth.module.ts" timestamp="1563192526858">
         <mark key="[" line="46" column="0" />
@@ -71,12 +47,6 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="9" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/docker-compose.local.yml" timestamp="1563184230781">
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="94" column="29" />
-        <mark key="." line="93" column="0" />
-        <mark key="^" line="23" column="12" />
-      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/service-eventstore/events/auth/accountMigrated.event.ts" timestamp="1563357574235">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="72" />
@@ -93,34 +63,9 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/Dockerfile" timestamp="1563205248342">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="44" />
-        <mark key="." line="46" column="0" />
-        <mark key="^" line="49" column="25" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/handler/accountMigrated.handler.ts" timestamp="1563270585697">
-        <mark key="[" line="7" column="36" />
-        <mark key="]" line="7" column="36" />
-        <mark key="." line="7" column="36" />
-        <mark key="^" line="23" column="29" />
-      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-algo/domain/event/handler/helloed.handler.ts" timestamp="1563357459002" />
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/service-eventstore/events/shared/promisifiable.event.ts" timestamp="1563270179460">
-        <mark key="[" line="1" column="24" />
-        <mark key="]" line="2" column="8" />
-        <mark key="^" line="1" column="7" />
-        <mark key="." line="2" column="8" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/service-eventstore/model/queue.model.ts" timestamp="1563268161902">
-        <mark key="'" line="15" column="21" />
-        <mark key="[" line="15" column="38" />
-        <mark key="]" line="15" column="21" />
-        <mark key="." line="15" column="21" />
-        <mark key="^" line="15" column="21" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/.env" timestamp="1563192797959">
-        <mark key="[" line="9" column="17" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/.env" timestamp="1563376762129">
+        <mark key="[" line="20" column="17" />
         <mark key="]" line="9" column="17" />
         <mark key="." line="9" column="17" />
       </file>
@@ -134,26 +79,10 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/config/database.js" timestamp="1563192538138">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="8" column="47" />
-        <mark key="^" line="10" column="2" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/login.handler.ts" timestamp="1563304581992">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="44" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1563370869483">
+      <file name="/Dummy.txt" timestamp="1563376772810">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-generator/generator/api-gateway.generator.js" timestamp="1563200490909">
-        <mark key="[" line="12" column="64" />
-        <mark key="]" line="12" column="63" />
-        <mark key="." line="12" column="63" />
-        <mark key="^" line="12" column="63" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-algo/algo.module.ts" timestamp="1563187794187">
         <mark key="[" line="33" column="19" />
@@ -165,33 +94,8 @@
         <mark key="]" line="8" column="47" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/service-eventstore/events/profile/profileMigrated.event.ts" timestamp="1563269298252">
-        <mark key="[" line="1" column="34" />
-        <mark key="]" line="1" column="34" />
-        <mark key="." line="1" column="34" />
-        <mark key="^" line="1" column="34" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/tsconfig.json" timestamp="1563177480205">
-        <mark key="[" line="7" column="4" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="10" column="17" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-generator/generator/command.generator.js" timestamp="1563297818279">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
-        <mark key="^" line="31" column="27" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/backpack.config.js" timestamp="1563177948944">
-        <mark key="[" line="25" column="96" />
-        <mark key="]" line="6" column="31" />
-        <mark key="." line="6" column="31" />
-        <mark key="^" line="6" column="32" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/.env.staging" timestamp="1563192776220">
-        <mark key="[" line="9" column="17" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/.env.staging" timestamp="1563376754642">
+        <mark key="[" line="21" column="17" />
         <mark key="]" line="9" column="17" />
         <mark key="." line="9" column="17" />
       </file>
