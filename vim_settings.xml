@@ -14,6 +14,7 @@
         <mark key="." line="31" column="35" />
         <mark key="^" line="31" column="26" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/domain/model/profile.model.ts" timestamp="1563370953268" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/handler/helloed.handler.ts" timestamp="1563353028147" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-generator/template/command/business/command/handler/{{  camelCase ms.commandName }}.handler.ts.template" timestamp="1563304665015">
         <mark key="[" line="17" column="7" />
@@ -143,7 +144,7 @@
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563358806124">
+      <file name="/Dummy.txt" timestamp="1563370869483">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
