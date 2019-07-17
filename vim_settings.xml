@@ -33,11 +33,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="35" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-generator/generator/event.generator.js" timestamp="1563365549725">
-        <mark key="[" line="125" column="16" />
-        <mark key="]" line="125" column="16" />
-        <mark key="." line="125" column="16" />
-        <mark key="^" line="123" column="20" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-generator/generator/event.generator.js" timestamp="1563373771358">
+        <mark key="[" line="141" column="17" />
+        <mark key="]" line="141" column="17" />
+        <mark key="." line="141" column="17" />
+        <mark key="^" line="144" column="2" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/service-eventstore/model/event.model.ts" timestamp="1563365447875">
         <mark key="[" line="103" column="56" />
@@ -300,19 +300,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Events</text>
+        <text>import { {{ ms.eventName}}Event } from '@inshallah/service-eventstore/events/{{ ms.shortname }}';</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Events</text>
+        <text>import { {{ ms.eventName}}Event } from '@inshallah/service-eventstore/events/{{ ms.shortname }}';</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0eXBlb3JtXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgdHlwZTogJ2FwcGVuZCcsCiAgICAgIHBhdGg6ICdwYWNrYWdlcy9zZXJ2aWNlLWV2ZW50c3RvcmUvbW9kZWwvZXZlbnQubW9kZWwudHMnLAogICAgICBwYXR0ZXJuOiAvRXZlbnRzW159XSovLAogICAgICBzZXBhcmF0b3I6ICcnLAogICAgICB0ZW1wbGF0ZTogJyAge3sgbXMuZXZlbnROYW1lIH19IDoge3sgbXMuZXZlbnROYW1lIH19RXZlbnRcbicsCiAgICB9LAo=</text>
+        <text encoding="base64">ICAgIHsKICAgICAgdHlwZTogJ2FwcGVuZCcsCiAgICAgIHBhdGg6ICdwYWNrYWdlcy9zZXJ2aWNlLWV2ZW50c3RvcmUvbW9kZWwvZXZlbnQubW9kZWwudHMnLAogICAgICBwYXR0ZXJuOiAvXl4vLAogICAgICBzZXBhcmF0b3I6ICcnLAogICAgICB0ZW1wbGF0ZTogImltcG9ydCB7IHt7IG1zLmV2ZW50TmFtZX19RXZlbnQgfSBmcm9tICdAaW5zaGFsbGFoL3NlcnZpY2UtZXZlbnRzdG9yZS9ldmVudHMve3sgbXMuc2hvcnRuYW1lIH19JztcbiIsCiAgICB9LAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
