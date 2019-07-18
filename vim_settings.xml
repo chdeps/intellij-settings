@@ -14,6 +14,12 @@
         <mark key="]" line="59" column="6" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/model/account.model.ts" timestamp="1563379901037" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/environment/index.js" timestamp="1563464054621">
+        <mark key="[" line="2" column="24" />
+        <mark key="]" line="2" column="24" />
+        <mark key="^" line="2" column="20" />
+        <mark key="." line="2" column="24" />
+      </file>
       <file name="/fragment.js" timestamp="1562079666318">
         <mark key="[" line="0" column="0" />
       </file>
@@ -69,10 +75,6 @@
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-grpc/infrastructure/auth/dto/authCredentials.dto.ts" timestamp="1563463086939" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/README.md" timestamp="1563441027020">
         <mark key="[" line="36" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/.env" timestamp="1563376762129">
-        <mark key="]" line="9" column="17" />
-        <mark key="." line="9" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/business/command/handler/deletePhoto.handler.ts" timestamp="1563456410541" />
       <file name="$USER_HOME$/Projects/AWS3/AWS3/.gitignore" timestamp="1562145109515">
@@ -204,13 +206,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>packages</text>
+        <text>staging.inshallah.com</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>packages</text>
+        <text>staging.inshallah.com</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0eXBlb3JtXD4=</text>
