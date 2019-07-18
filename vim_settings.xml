@@ -9,10 +9,6 @@
         <mark key="." line="13" column="17" />
         <mark key="^" line="15" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/domain/model/profile.model.ts" timestamp="1563378374179">
-        <mark key="[" line="58" column="82" />
-        <mark key="]" line="59" column="6" />
-      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/model/account.model.ts" timestamp="1563379901037" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/environment/index.js" timestamp="1563464054621">
         <mark key="[" line="2" column="24" />
@@ -80,7 +76,7 @@
       <file name="$USER_HOME$/Projects/AWS3/AWS3/.gitignore" timestamp="1562145109515">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563463149801">
+      <file name="/Dummy.txt" timestamp="1563474967585">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
