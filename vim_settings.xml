@@ -3,13 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/packages/raw-tickets-microservice/src/consumer/consumer.js" timestamp="1563809067165">
-        <mark key="[" line="3" column="39" />
-        <mark key="]" line="3" column="39" />
-        <mark key="." line="3" column="39" />
-      </file>
-      <file name="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/packages/raw-tickets-microservice/README.md" timestamp="1563809524338">
-        <mark key="[" line="48" column="22" />
+      <file name="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/packages/raw-tickets-microservice/README.md" timestamp="1563812448199">
         <mark key="]" line="79" column="3" />
         <mark key="^" line="79" column="3" />
         <mark key="." line="79" column="3" />
@@ -20,7 +14,7 @@
         <mark key="." line="13" column="17" />
         <mark key="^" line="15" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563812016210">
+      <file name="/Dummy.txt" timestamp="1563812925368">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
