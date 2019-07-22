@@ -3,6 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/packages/raw-tickets-microservice/src/consumer/consumer.js" timestamp="1563809067165">
+        <mark key="[" line="3" column="39" />
+        <mark key="]" line="3" column="39" />
+        <mark key="." line="3" column="39" />
+      </file>
+      <file name="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/packages/raw-tickets-microservice/README.md" timestamp="1563809524338">
+        <mark key="[" line="48" column="22" />
+        <mark key="]" line="79" column="3" />
+        <mark key="^" line="79" column="3" />
+        <mark key="." line="79" column="3" />
+      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/package.json" timestamp="1563438342890">
         <mark key="[" line="13" column="17" />
         <mark key="]" line="13" column="17" />
@@ -20,20 +31,9 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/fragment.js" timestamp="1562079666318">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/Tiller/tiller-order-api/raw-ticket/README.md" timestamp="1563807529930" />
       <file name="$USER_HOME$/Projects/Tiller/tiller-order-api/raw-ticket/src/service/publisher.js" timestamp="1563803287300" />
-      <file name="/a.dummy" timestamp="1562235287774">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-photo/business/command/interface/uploadBase64Photo.command.ts" timestamp="1562235215579">
-        <mark key="[" line="3" column="63" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/README.md" timestamp="1563441027020">
-        <mark key="[" line="36" column="0" />
-      </file>
+      <file name="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/README.md" timestamp="1563809855356" />
       <file name="$USER_HOME$/Projects/Tiller/tiller-order-api/raw-ticket/template.yml" timestamp="1563807318131" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-generator/generator/event.generator.js" timestamp="1563438435762">
         <mark key="[" line="118" column="16" />
@@ -41,11 +41,8 @@
         <mark key="." line="125" column="20" />
         <mark key="^" line="125" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/AWS3/AWS3/.gitignore" timestamp="1562145109515">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/packages/raw-tickets-microservice/package.json" timestamp="1563806769955" />
-      <file name="/Dummy.txt" timestamp="1563474967585">
+      <file name="/Dummy.txt" timestamp="1563809812062">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -56,20 +53,10 @@
         <mark key="^" line="4" column="22" />
         <mark key="." line="4" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/service-eventstore/events/photo/index.ts" timestamp="1562231689503">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-algo/package.json" timestamp="1563188006502">
-        <mark key="[" line="9" column="20" />
-      </file>
-      <file name="/GraphQL.result.json" timestamp="1562915364984">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-photo/business/command/interface/UploadPhotoCommand.ts" timestamp="1561712901155">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/service-eventstore/events/shared/index.ts" timestamp="1563268648383">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/packages/raw-tickets-microservice/template-consumer.yml" timestamp="1563809194892">
+        <mark key="[" line="3" column="25" />
+        <mark key="]" line="3" column="25" />
+        <mark key="." line="3" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-generator/package.json" timestamp="1563436956686">
         <mark key="[" line="1" column="11" />
@@ -82,9 +69,6 @@
         <mark key="[" line="5" column="31" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-photo/domain/model/index.ts" timestamp="1562231960874">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/service-eventstore/events/auth/accountMigrated.event.ts" timestamp="1563357574235">
         <mark key="[" line="0" column="0" />
@@ -196,50 +180,50 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/domain/event/handler/photoUrlAdded.handler.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>staging.inshallah.com</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">VGhlbiB0byBsYXVuY2ggdGhlIGFwaSBwcm9qZWN0IGxvY2FsbHkgOgoKYGBgCnlhcm4gc3RhcnQKYGBgCg==</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>staging.inshallah.com</text>
+        <text>archiving</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0eXBlb3JtXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJwcmVoZWxsbyIgOiAiZWNobyAncHJlJyIsCg==</text>
+        <text encoding="base64">VGhlbiB0byBsYXVuY2ggdGhlIGFwaSBwcm9qZWN0IGxvY2FsbHkgOgoKYGBgCnlhcm4gc3RhcnQKYGBgCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBJbmplY3RFbnRpdHlNYW5hZ2VyKCdhY2NvdW50Q29ubmVjdGlvbicpCiAgICBwcml2YXRlIHJlYWRvbmx5IGVudGl0eU1hbmFnZXI6IEVudGl0eU1hbmFnZXIsCg==</text>
+        <text encoding="base64">ICBSZWNvcmRzOiAKICAgIFR5cGU6IEFXUzo6S2luZXNpczo6U3RyZWFtCiAgICBQcm9wZXJ0aWVzOiAKICAgICAgICBOYW1lOiAhSm9pbiBbICItIiwgWyAiUmF3VGlja2V0c1N0cmVhbSIsICFSZWYgRU5WIF0gXQogICAgICAgIFJldGVudGlvblBlcmlvZEhvdXJzOiAxNjggCiAgICAgICAgU2hhcmRDb3VudDogMwogIFN0cmVhbUNvbnN1bWVyOgogICAgVHlwZTogIkFXUzo6S2luZXNpczo6U3RyZWFtQ29uc3VtZXIiCiAgICBQcm9wZXJ0aWVzOgogICAgICBTdHJlYW1BUk46ICFHZXRBdHQgUmVjb3Jkcy5Bcm4KICAgICAgQ29uc3VtZXJOYW1lOiAiUmVjb3Jkc0NvbnN1bWVyIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSW5qZWN0RW50aXR5TWFuYWdlciB9IGZyb20gJ0BuZXN0anMvdHlwZW9ybSc7CmltcG9ydCB7IEVudGl0eU1hbmFnZXIgfSBmcm9tICd0eXBlb3JtJzsK</text>
+        <text encoding="base64">ICAgICAgRXZlbnRzOgogICAgICAgIFN0cmVhbToKICAgICAgICAgIFR5cGU6IEtpbmVzaXMKICAgICAgICAgIFByb3BlcnRpZXM6CiAgICAgICAgICAgIFN0cmVhbTogIUdldEF0dCBTdHJlYW1Db25zdW1lci5Db25zdW1lckFSTgogICAgICAgICAgICBTdGFydGluZ1Bvc2l0aW9uOiBUUklNX0hPUklaT04KICAgICAgICAgICAgQmF0Y2hTaXplOiAxMDAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZGVmYXVsdDogcmVzcG9uc2UgPT4gewogICAgICAgIGlmICghcmVzcG9uc2UuZ2F0ZXdheSB8fCAhcmVzcG9uc2UuZ2F0ZXdheS5jb250cm9sbGVyTmFtZSkgcmV0dXJuOwogICAgICAgIGNvbnN0IGRvbWFpbiA9IC8oXHcrKS5jb250cm9sbGVyLnRzLy5leGVjKHJlc3BvbnNlLmdhdGV3YXkuY29udHJvbGxlck5hbWUpWzFdOwogICAgICAgIGNvbnN0IGNob2ljZXMgPSBmcy5yZWFkZGlyU3luYygncGFja2FnZXMnKS5maWx0ZXIoZGlyID0+IGRpci5zdGFydHNXaXRoKCdtaWNyb3NlcnZpY2UnKSk7CiAgICAgICAgY29uc3QgZGVmYXVsdE5hbWUgPSBjaG9pY2VzLmZpbmQoZGlyID0+IGRpci5pbmNsdWRlcyhkb21haW4pKTsKICAgICAgICByZXR1cm4gY2hvaWNlcy5pbmRleE9mKGRlZmF1bHROYW1lKTsKICAgICAgfSwK</text>
+        <text encoding="base64">ICAgIEBJbmplY3RFbnRpdHlNYW5hZ2VyKCdhY2NvdW50Q29ubmVjdGlvbicpCiAgICBwcml2YXRlIHJlYWRvbmx5IGVudGl0eU1hbmFnZXI6IEVudGl0eU1hbmFnZXIsCg==</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJoZWxsbyIgOiAiZWNobyAnaGVsbG8nIiwKICAgICJwcmVoZWxsbyIgOiAiZWNobyAncHJlJyIsCiAgICAicG9zdGhlbGxvIiA6ICJlY2hvICdwcmUnIiwK</text>
+        <text encoding="base64">aW1wb3J0IHsgSW5qZWN0RW50aXR5TWFuYWdlciB9IGZyb20gJ0BuZXN0anMvdHlwZW9ybSc7CmltcG9ydCB7IEVudGl0eU1hbmFnZXIgfSBmcm9tICd0eXBlb3JtJzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgZGVmYXVsdDogcmVzcG9uc2UgPT4gewogICAgICAgIGlmICghcmVzcG9uc2UuZ2F0ZXdheSB8fCAhcmVzcG9uc2UuZ2F0ZXdheS5jb250cm9sbGVyTmFtZSkgcmV0dXJuOwogICAgICAgIGNvbnN0IGRvbWFpbiA9IC8oXHcrKS5jb250cm9sbGVyLnRzLy5leGVjKHJlc3BvbnNlLmdhdGV3YXkuY29udHJvbGxlck5hbWUpWzFdOwogICAgICAgIGNvbnN0IGNob2ljZXMgPSBmcy5yZWFkZGlyU3luYygncGFja2FnZXMnKS5maWx0ZXIoZGlyID0+IGRpci5zdGFydHNXaXRoKCdtaWNyb3NlcnZpY2UnKSk7CiAgICAgICAgY29uc3QgZGVmYXVsdE5hbWUgPSBjaG9pY2VzLmZpbmQoZGlyID0+IGRpci5pbmNsdWRlcyhkb21haW4pKTsKICAgICAgICByZXR1cm4gY2hvaWNlcy5pbmRleE9mKGRlZmF1bHROYW1lKTsKICAgICAgfSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJwb3N0Z2VuZXJhdGUiIDogInlhcm4gZXNsaW50OmZpeCIsCg==</text>
+        <text encoding="base64">ICAgICJoZWxsbyIgOiAiZWNobyAnaGVsbG8nIiwKICAgICJwcmVoZWxsbyIgOiAiZWNobyAncHJlJyIsCiAgICAicG9zdGhlbGxvIiA6ICJlY2hvICdwcmUnIiwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAic2NyaXB0cyI6IHsKICAgIAogIH0sCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJwb3N0Z2VuZXJhdGUiIDogInlhcm4gZXNsaW50OmZpeCIsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">ICAic2NyaXB0cyI6IHsKICAgIAogIH0sCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
