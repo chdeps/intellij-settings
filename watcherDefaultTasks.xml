@@ -1,0 +1,44 @@
+<application>
+  <component name="ApplicationTasksOptions">
+    <TaskOptions isEnabled="true">
+      <option name="arguments" value=" --write [other options] $FilePathRelativeToProjectRoot$" />
+      <option name="checkSyntaxErrors" value="true" />
+      <option name="description" />
+      <option name="exitCodeBehavior" value="ERROR" />
+      <option name="fileExtension" value="tsx" />
+      <option name="immediateSync" value="false" />
+      <option name="name" value="Prettier TSX" />
+      <option name="output" value="$FilePathRelativeToProjectRoot$" />
+      <option name="outputFilters">
+        <array />
+      </option>
+      <option name="outputFromStdout" value="false" />
+      <option name="program" value="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/node_modules/.bin/prettier" />
+      <option name="runOnExternalChanges" value="true" />
+      <option name="scopeName" value="All Places" />
+      <option name="trackOnlyRoot" value="false" />
+      <option name="workingDir" value="$ProjectFileDir$" />
+      <envs />
+    </TaskOptions>
+    <TaskOptions isEnabled="true">
+      <option name="arguments" value=" --write [other options] $FilePathRelativeToProjectRoot$" />
+      <option name="checkSyntaxErrors" value="true" />
+      <option name="description" />
+      <option name="exitCodeBehavior" value="ERROR" />
+      <option name="fileExtension" value="ts" />
+      <option name="immediateSync" value="false" />
+      <option name="name" value="Prettier TS" />
+      <option name="output" value="$FilePathRelativeToProjectRoot$" />
+      <option name="outputFilters">
+        <array />
+      </option>
+      <option name="outputFromStdout" value="false" />
+      <option name="program" value="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/node_modules/.bin/prettier" />
+      <option name="runOnExternalChanges" value="true" />
+      <option name="scopeName" value="All Places" />
+      <option name="trackOnlyRoot" value="false" />
+      <option name="workingDir" value="$ProjectFileDir$" />
+      <envs />
+    </TaskOptions>
+  </component>
+</application>
