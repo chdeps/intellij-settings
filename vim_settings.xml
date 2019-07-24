@@ -14,15 +14,6 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563899281711">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="17" />
-        <mark key="." line="0" column="17" />
-      </file>
-      <file name="$USER_HOME$/Projects/Tiller/tiller-order-api/raw-ticket/src/consumer/consumer.js" timestamp="1563872892145">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="25" column="42" />
-      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-generator/generator/query.generator.js" timestamp="1563439787682">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -38,53 +29,24 @@
         <mark key="]" line="59" column="1" />
         <mark key="." line="40" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/packages/raw-tickets-microservice/src/consumer/singleConsumer.js" timestamp="1563875461762">
-        <mark key="[" line="3" column="39" />
-        <mark key="]" line="19" column="41" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/packages/raw-tickets-microservice/template-consumer.yml" timestamp="1563877009649">
-        <mark key="[" line="30" column="31" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-generator/package.json" timestamp="1563436956686">
-        <mark key="[" line="1" column="11" />
-        <mark key="]" line="1" column="36" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/packages/raw-tickets-microservice/src/consumer/batchConsumer.js" timestamp="1563881438665">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/packages/raw-tickets-microservice/tests/controller/rawTicket.test.js" timestamp="1563876304525">
-        <mark key="[" line="76" column="46" />
-        <mark key="]" line="76" column="45" />
-        <mark key="." line="76" column="45" />
-        <mark key="^" line="76" column="45" />
-      </file>
       <file name="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/packages/raw-tickets-microservice/records.json" timestamp="1563870596521">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="19" column="1" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Tiller/tiller-x/src/store/reducers.js" timestamp="1563977837973">
-        <mark key="[" line="22" column="14" />
-        <mark key="]" line="22" column="14" />
-        <mark key="." line="22" column="14" />
-      </file>
-      <file name="$USER_HOME$/Projects/Tiller/tiller-x/src/store/order/formatters/api.js" timestamp="1563981332530" />
+      <file name="$USER_HOME$/Projects/Tiller/tiller-x/src/store/order/formatters/api.js" timestamp="1563983809404" />
       <file name="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/packages/raw-tickets-microservice/template-api.yml" timestamp="1563870749171">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="57" />
       </file>
       <file name="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/packages/raw-tickets-microservice/src/index.js" timestamp="1563876635200">
         <mark key="[" line="8" column="20" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-generator/template/query/business/query/handler/{{  camelCase ms.queryName }}.handler.ts.template" timestamp="1563440337436">
-        <mark key="[" line="5" column="31" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/packages/raw-tickets-microservice/src/consumer/consumer-kinesis.js" timestamp="1563875345367">
         <mark key="]" line="15" column="4" />
@@ -101,6 +63,47 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="11" column="35" />
       </file>
+      <file name="/Dummy.txt" timestamp="1563899281711">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="17" />
+        <mark key="." line="0" column="17" />
+      </file>
+      <file name="$USER_HOME$/Projects/Tiller/tiller-order-api/raw-ticket/src/consumer/consumer.js" timestamp="1563872892145">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="25" column="42" />
+      </file>
+      <file name="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/packages/raw-tickets-microservice/src/consumer/singleConsumer.js" timestamp="1563875461762">
+        <mark key="[" line="3" column="39" />
+        <mark key="]" line="19" column="41" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/packages/raw-tickets-microservice/template-consumer.yml" timestamp="1563877009649">
+        <mark key="[" line="30" column="31" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-generator/package.json" timestamp="1563436956686">
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="1" column="36" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/packages/raw-tickets-microservice/tests/controller/rawTicket.test.js" timestamp="1563876304525">
+        <mark key="[" line="76" column="46" />
+        <mark key="]" line="76" column="45" />
+        <mark key="." line="76" column="45" />
+        <mark key="^" line="76" column="45" />
+      </file>
+      <file name="$USER_HOME$/Projects/Tiller/tiller-x/src/store/order/reducer.js" timestamp="1563983515720" />
+      <file name="$USER_HOME$/Projects/Tiller/tiller-x/src/store/reducers.js" timestamp="1563977837973">
+        <mark key="[" line="22" column="14" />
+        <mark key="]" line="22" column="14" />
+        <mark key="." line="22" column="14" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-generator/template/query/business/query/handler/{{  camelCase ms.queryName }}.handler.ts.template" timestamp="1563440337436">
+        <mark key="[" line="5" column="31" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/Tiller/tiller-x/src/store/order/actions.js" timestamp="1563983405114" />
+      <file name="$USER_HOME$/Projects/Tiller/tiller-x/src/store/order/sagas.js" timestamp="1563983369364" />
     </filemarks>
     <jumps>
       <jump line="12" column="0" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/src/pages/Home/components/BottomNavigation/BottomNavigation.component.tsx" />
