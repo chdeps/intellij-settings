@@ -19,16 +19,12 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Tiller/tiller-order-api/raw-ticket/src/service/publisher.js" timestamp="1563874990325">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="40" column="27" />
-      </file>
       <file name="$USER_HOME$/Projects/Tiller/tiller-order-api/raw-ticket/README.md" timestamp="1563882340582">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="59" column="1" />
         <mark key="." line="40" column="1" />
       </file>
+      <file name="$USER_HOME$/Projects/Tiller/tiller-x/src/store/restaurant/reducer.js" timestamp="1564130835816" />
       <file name="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/packages/raw-tickets-microservice/src/consumer/batchConsumer.js" timestamp="1563881438665">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="18" column="0" />
@@ -46,11 +42,6 @@
       </file>
       <file name="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/packages/raw-tickets-microservice/src/index.js" timestamp="1563876635200">
         <mark key="[" line="8" column="20" />
-      </file>
-      <file name="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/packages/raw-tickets-microservice/src/consumer/consumer-kinesis.js" timestamp="1563875345367">
-        <mark key="]" line="15" column="4" />
-        <mark key="^" line="15" column="4" />
-        <mark key="." line="15" column="4" />
       </file>
       <file name="$USER_HOME$/Projects/Tiller/tiller-order-api/raw-ticket/template.yml" timestamp="1563882344543">
         <mark key="[" line="41" column="0" />
@@ -100,6 +91,7 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/Tiller/tiller-x/src/store/restaurant/selectors.js" timestamp="1564130766747" />
     </filemarks>
     <jumps>
       <jump line="12" column="0" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/src/pages/Home/components/BottomNavigation/BottomNavigation.component.tsx" />
