@@ -24,7 +24,6 @@
         <mark key="]" line="59" column="1" />
         <mark key="." line="40" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/Tiller/tiller-x/src/store/restaurant/reducer.js" timestamp="1564130835816" />
       <file name="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/packages/raw-tickets-microservice/src/consumer/batchConsumer.js" timestamp="1563881438665">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="18" column="0" />
@@ -36,6 +35,7 @@
         <mark key="]" line="19" column="1" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/Tiller/tiller-x/src/store/order/formatters/api.js" timestamp="1564404288726" />
       <file name="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/packages/raw-tickets-microservice/template-api.yml" timestamp="1563870749171">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="57" />
@@ -91,7 +91,6 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Tiller/tiller-x/src/store/restaurant/selectors.js" timestamp="1564130766747" />
     </filemarks>
     <jumps>
       <jump line="12" column="0" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/src/pages/Home/components/BottomNavigation/BottomNavigation.component.tsx" />
