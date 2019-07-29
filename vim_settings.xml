@@ -53,8 +53,18 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="11" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564410381622">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/packages/raw-tickets-microservice/src/service/elasticsearch.js" timestamp="1564414463229">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/packages/raw-tickets-microservice/package.json" timestamp="1564414728025">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1564414713464">
+        <mark key="[" line="0" column="17" />
         <mark key="]" line="0" column="17" />
         <mark key="." line="0" column="17" />
       </file>
@@ -88,11 +98,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/packages/raw-tickets-microservice/src/consumer/unitConsumer.js" timestamp="1564410562732">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="14" column="35" />
+      <file name="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/packages/raw-tickets-microservice/src/consumer/unitConsumer.js" timestamp="1564414346787">
+        <mark key="[" line="15" column="50" />
+        <mark key="]" line="15" column="49" />
+        <mark key="." line="15" column="49" />
+        <mark key="^" line="15" column="49" />
       </file>
     </filemarks>
     <jumps>
@@ -198,14 +208,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/packages/raw-tickets-microservice/src/consumer/batchConsumer.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Added an sqs queue with its publisher service</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Reading messages</text>
+        <text>Added an sqs queue with its publisher service</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0eXBlb3JtXD4=</text>
@@ -214,34 +224,34 @@
         <text encoding="base64">ICB0aWxsZXJDb25zb2xlLmxvZygnU3RvcmluZyBtZXNzYWdlJywgeyBuYjogZXZlbnQuUmVjb3Jkcy5sZW5ndGggfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRpbGxlckNvbnNvbGUubG9nKCdTdG9yaW5nIG1lc3NhZ2UnLCB7IG5iOiBldmVudC5SZWNvcmRzLmxlbmd0aCB9KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB0aWxsZXJDb25zb2xlLmxvZygnU3RvcmluZyBtZXNzYWdlJywgeyBuYjogZXZlbnQuUmVjb3Jkcy5sZW5ndGggfSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB0cnkgewogICAgYXdhaXQgY2xpZW50LnN0b3JlKCdpZCcsIHsgbWVzc2FnZTogJ3JhdyB0aWNrZXQgJywgZGF0ZTogbmV3IERhdGUoKS50b0lTT1N0cmluZygpIH0pOwogIH0gY2F0Y2ggKGVycikgewogICAgdGlsbGVyQ29uc29sZS5lcnJvcignRXJyb3Igd2hpbGUgc3RvcmluZyByYXcgdGlja2V0cycsIHsKICAgICAgZXJyb3JfbWVzc2FnZTogZXJyLm1lc3NhZ2UsCiAgICB9KTsKICB9Cg==</text>
+        <text encoding="base64">Ly8gaW1wb3J0IEFXUyBmcm9tICdhd3Mtc2RrJzsK</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">KG5hbWluZyk6IFJlbmFtZSB0byBzdG9yYWdlCg==</text>
+        <text encoding="base64">Ly8gaW1wb3J0IEFXUyBmcm9tICdhd3Mtc2RrJzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgQ2xpZW50IH0gZnJvbSAnQGVsYXN0aWMvZWxhc3RpY3NlYXJjaCc7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IHJhd1RpY2tldENvbnRyb2xsZXIgPSBwb3N0UmF3VGlja2V0czsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBldmVudC5SZWNvcmRzLm1hcChyZWNvcmQgPT4gewogICAgY29uc3QgcGF5bG9hZCA9IG5ldyBCdWZmZXIocmVjb3JkLmtpbmVzaXMuZGF0YSwgJ2Jhc2U2NCcpLnRvU3RyaW5nKCdhc2NpaScpOwogICAgdGlsbGVyQ29uc29sZS5sb2coJ1JlY29yZCBwYXlsb2FkJywgeyBwYXlsb2FkIH0pOwogIH0pOwogIHRpbGxlckNvbnNvbGUubG9nKCdFbmQgb2YgY29uc3VtaW5nJyk7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICB0aWxsZXJDb25zb2xlLmxvZygnU3RvcmluZyBtZXNzYWdlJywgeyBuYjogZXZlbnQuUmVjb3Jkcy5sZW5ndGggfSk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICB0cnkgewogICAgYXdhaXQgY2xpZW50LnN0b3JlKCdpZCcsIHsgbWVzc2FnZTogJ3JhdyB0aWNrZXQgJywgZGF0ZTogbmV3IERhdGUoKS50b0lTT1N0cmluZygpIH0pOwogIH0gY2F0Y2ggKGVycikgewogICAgdGlsbGVyQ29uc29sZS5lcnJvcignRXJyb3Igd2hpbGUgc3RvcmluZyByYXcgdGlja2V0cycsIHsKICAgICAgZXJyb3JfbWVzc2FnZTogZXJyLm1lc3NhZ2UsCiAgICB9KTsKICB9Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IFJhd1RpY2tldENvbnN1bWVyID0gY29uc3VtZTsK</text>
+        <text encoding="base64">KG5hbWluZyk6IFJlbmFtZSB0byBzdG9yYWdlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
