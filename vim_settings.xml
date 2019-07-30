@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/packages/raw-tickets-microservice/README.md" timestamp="1563874466458">
+      <file name="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/packages/raw-tickets-microservice/README.md" timestamp="1564475285382">
         <mark key="[" line="98" column="82" />
         <mark key="]" line="98" column="82" />
         <mark key="^" line="106" column="76" />
@@ -24,49 +24,46 @@
         <mark key="]" line="59" column="1" />
         <mark key="." line="40" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/packages/raw-tickets-microservice/src/consumer/batchConsumer.js" timestamp="1563881438665">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/packages/raw-tickets-microservice/records.json" timestamp="1563870596521">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="19" column="1" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Tiller/tiller-x/src/store/order/formatters/api.js" timestamp="1564404288726" />
-      <file name="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/packages/raw-tickets-microservice/template-api.yml" timestamp="1563870749171">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="57" />
+      <file name="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/packages/raw-tickets-microservice/unitRecord.json" timestamp="1564474811151">
+        <mark key="[" line="5" column="18" />
+        <mark key="]" line="5" column="18" />
+        <mark key="." line="5" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/packages/raw-tickets-microservice/src/index.js" timestamp="1563876635200">
-        <mark key="[" line="8" column="20" />
+      <file name="$USER_HOME$/Projects/Tiller/tiller-x/src/store/order/formatters/api.js" timestamp="1564404288726" />
+      <file name="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/packages/raw-tickets-microservice/template-api.yml" timestamp="1564475824036">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="36" column="58" />
       </file>
       <file name="$USER_HOME$/Projects/Tiller/tiller-order-api/raw-ticket/template.yml" timestamp="1563882344543">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="40" />
       </file>
-      <file name="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/packages/raw-tickets-microservice/src/consumer/oneByOneConsumer.js" timestamp="1563875844966">
-        <mark key="[" line="11" column="36" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="11" column="35" />
+      <file name="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/packages/raw-tickets-microservice/src/service/elasticsearch.js" timestamp="1564475651724">
+        <mark key="[" line="36" column="70" />
+        <mark key="]" line="36" column="70" />
+        <mark key="." line="36" column="70" />
+        <mark key="^" line="36" column="70" />
       </file>
-      <file name="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/packages/raw-tickets-microservice/src/service/elasticsearch.js" timestamp="1564414463229">
+      <file name="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/packages/raw-tickets-microservice/package.json" timestamp="1564473770965">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/packages/raw-tickets-microservice/.env.local" timestamp="1564475595110">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
+        <mark key="^" line="3" column="3" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/packages/raw-tickets-microservice/package.json" timestamp="1564414728025">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1564414713464">
-        <mark key="[" line="0" column="17" />
-        <mark key="]" line="0" column="17" />
-        <mark key="." line="0" column="17" />
+      <file name="/Dummy.txt" timestamp="1564474530768">
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="0" column="21" />
+        <mark key="." line="0" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/Tiller/tiller-order-api/raw-ticket/src/consumer/consumer.js" timestamp="1563872892145">
         <mark key="[" line="12" column="0" />
@@ -77,16 +74,16 @@
         <mark key="]" line="19" column="41" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/packages/raw-tickets-microservice/template-consumer.yml" timestamp="1564475921920">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="23" />
+        <mark key="." line="58" column="0" />
+        <mark key="^" line="81" column="22" />
+      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-generator/package.json" timestamp="1563436956686">
         <mark key="[" line="1" column="11" />
         <mark key="]" line="1" column="36" />
         <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/packages/raw-tickets-microservice/tests/controller/rawTicket.test.js" timestamp="1563876304525">
-        <mark key="[" line="76" column="46" />
-        <mark key="]" line="76" column="45" />
-        <mark key="." line="76" column="45" />
-        <mark key="^" line="76" column="45" />
       </file>
       <file name="$USER_HOME$/Projects/Tiller/tiller-x/src/store/reducers.js" timestamp="1563977837973">
         <mark key="[" line="22" column="14" />
@@ -98,17 +95,14 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/packages/raw-tickets-microservice/src/consumer/unitConsumer.js" timestamp="1564414346787">
-        <mark key="[" line="15" column="50" />
-        <mark key="]" line="15" column="49" />
-        <mark key="." line="15" column="49" />
-        <mark key="^" line="15" column="49" />
+      <file name="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/packages/raw-tickets-microservice/src/service/publisher.js" timestamp="1564475789802" />
+      <file name="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/packages/raw-tickets-microservice/src/consumer/unitConsumer.js" timestamp="1564475424809">
+        <mark key="[" line="17" column="37" />
+        <mark key="]" line="17" column="37" />
+        <mark key="." line="17" column="37" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="0" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/src/pages/Home/components/BottomNavigation/BottomNavigation.component.tsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/src/pages/Home/components/BottomNavigation/BottomNavigation.component.tsx" />
-      <jump line="1" column="15" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/src/pages/WhyPremium/WhyPremium.component.tsx" />
       <jump line="0" column="32" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-web/src/pages/WhyPremium/WhyPremium.component.tsx" />
       <jump line="123" column="24" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/auth/saga.ts" />
       <jump line="11" column="38" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/auth/actions.ts" />
@@ -206,52 +200,55 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/Tiller/tiller-order-api/raw-ticket/src/service/publisher.js" />
       <jump line="9" column="30" filename="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/packages/raw-tickets-microservice/src/consumer/batchConsumer.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/packages/raw-tickets-microservice/src/consumer/batchConsumer.js" />
+      <jump line="20" column="0" filename="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/packages/raw-tickets-microservice/unitRecord.json" />
+      <jump line="19" column="0" filename="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/packages/raw-tickets-microservice/unitRecord.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/packages/raw-tickets-microservice/unitRecord.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Added an sqs queue with its publisher service</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIEVOVjogIVJlZiBFTlYK</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Added an sqs queue with its publisher service</text>
+        <text>ELASTIC_SEARCH_TYPE</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0eXBlb3JtXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB0aWxsZXJDb25zb2xlLmxvZygnU3RvcmluZyBtZXNzYWdlJywgeyBuYjogZXZlbnQuUmVjb3Jkcy5sZW5ndGggfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIEVOVjogIVJlZiBFTlYK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRpbGxlckNvbnNvbGUubG9nKCdTdG9yaW5nIG1lc3NhZ2UnLCB7IG5iOiBldmVudC5SZWNvcmRzLmxlbmd0aCB9KTsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">ICAiRUxBU1RJQ19TRUFSQ0hfSU5ERVgiIDogInJhd190aWNrZXQucmVhZG1vZGVsIiwKICAiRUxBU1RJQ19TRUFSQ0hfVFlQRSIgOiAiVGlja2V0QnVuZGxlJTVDUmVhZE1vZGVsJTVDUmF3VGlja2V0UmVhZE1vZGVsIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IEFXUyBmcm9tICdhd3Mtc2RrJzsK</text>
+        <text encoding="base64">ICAgIHsKICAgICAgIm1lc3NhZ2VJZCI6ICIyZTE0MjRkNC1mNzk2LTQ1OWEtODE4NC05YzkyNjYyYmU2ZGEiLAogICAgICAicmVjZWlwdEhhbmRsZSI6ICJBUUVCeld3YWZ0UkkwS3VWbTR0UCsvN3ExckdnTnFpY0hxLi4uIiwKICAgICAgImJvZHkiOiAie1widGVzdFwiIDogIFwiYmlsb3V0ZVwifSIsQAogICAgICAiYXR0cmlidXRlcyI6IHsKICAgICAgICAiQXBwcm94aW1hdGVSZWNlaXZlQ291bnQiOiAiMSIsCiAgICAgICAgIlNlbnRUaW1lc3RhbXAiOiAiMTU0NTA4MjY1MDYzNiIsCiAgICAgICAgIlNlbmRlcklkIjogIkFJREFJRU5RWkpPTE8yM1lWSjRWTyIsCiAgICAgICAgIkFwcHJveGltYXRlRmlyc3RSZWNlaXZlVGltZXN0YW1wIjogIjE1NDUwODI2NTA2NDkiCiAgICAgIH0sCiAgICAgICJtZXNzYWdlQXR0cmlidXRlcyI6IHt9LAogICAgICAibWQ1T2ZCb2R5IjogIjA5OGY2YmNkNDYyMWQzNzNjYWRlNGU4MzI2MjdiNGY2IiwKICAgICAgImV2ZW50U291cmNlIjogImF3czpzcXMiLAogICAgICAiZXZlbnRTb3VyY2VBUk4iOiAiYXJuOmF3czpzcXM6dXMtZWFzdC0yOjEyMzQ1Njc4OTAxMjpteS1xdWV1ZSIsCiAgICAgICJhd3NSZWdpb24iOiAidXMtZWFzdC0yIgogICAgfQo=</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IEFXUyBmcm9tICdhd3Mtc2RrJzsK</text>
+        <text encoding="base64">ICAgICAgICAidGVzdCI6ICAiYmlsb3V0ZSIKICAgICAgfSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQ2xpZW50IH0gZnJvbSAnQGVsYXN0aWMvZWxhc3RpY3NlYXJjaCc7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICJAZWxhc3RpYy9lbGFzdGljc2VhcmNoIjogIl41LjYuMTkiLAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB0aWxsZXJDb25zb2xlLmxvZygnU3RvcmluZyBtZXNzYWdlJywgeyBuYjogZXZlbnQuUmVjb3Jkcy5sZW5ndGggfSk7Cg==</text>
+        <text encoding="base64">ewogICJSZWNvcmRzIjogWwogICAgewogICAgICAia2luZXNpcyI6IHsKICAgICAgICAia2luZXNpc1NjaGVtYVZlcnNpb24iOiAiMS4wIiwKICAgICAgICAicGFydGl0aW9uS2V5IjogIjEiLAogICAgICAgICJzZXF1ZW5jZU51bWJlciI6ICI0OTU5MDMzODI3MTQ5MDI1NjYwODU1OTY5MjUzODM2MTU3MTA5NTkyMTU3NTk4OTEzNjU4ODg5OCIsCiAgICAgICAgImRhdGEiOiAiZXlKemRHOXlaVjlwYm1adklqcDdJbWxrSWpvME1uMHNJbTFsZEdGa1lYUmhJanA3SW1Gd2NGOTJaWEp6YVc5dUlqb2lNeTQ0TGpNaUxDSnRiMlJsYkY5MlpYSnphVzl1SWpvaU1DNHhJbjBzSW1KaGMybGpYMlJoZEdFaU9uc2lkWFZwWkNJNkltTTJOekpoTWpFMExXSTROREF0TkRGbFpDMDRaak5sTFRneU5HUm1aakppWmpJd1l5SXNJbTl5WkdWeVgybHVabThpT25zaWRYVnBaQ0k2SWpZNU5EbGpaV1l4TFRJMFpqUXROR1EwWVMwNE9XRTJMVGhtTURGa05EVm1OelV6TlNKOUxDSnZjR1Z5WVhScGIyNWZkSGx3WlNJNklsTkJURVVpZlgwPSIsCiAgICAgICAgImFwcHJveGltYXRlQXJyaXZhbFRpbWVzdGFtcCI6IDE1NDUwODQ2NTAuOTg3CiAgICAgIH0sCiAgICAgICJldmVudFNvdXJjZSI6ICJhd3M6a2luZXNpcyIsCiAgICAgICJldmVudFZlcnNpb24iOiAiMS4wIiwKICAgICAgImV2ZW50SUQiOiAic2hhcmRJZC0wMDAwMDAwMDAwMDY6NDk1OTAzMzgyNzE0OTAyNTY2MDg1NTk2OTI1MzgzNjE1NzEwOTU5MjE1NzU5ODkxMzY1ODg4OTgiLAogICAgICAiZXZlbnROYW1lIjogImF3czpraW5lc2lzOnJlY29yZCIsCiAgICAgICJpbnZva2VJZGVudGl0eUFybiI6ICJhcm46YXdzOmlhbTo6MTIzNDU2Nzg5MDEyOnJvbGUvbGFtYmRhLWtpbmVzaXMtcm9sZSIsCiAgICAgICJhd3NSZWdpb24iOiAiZXUtd2VzdC0xIiwKICAgICAgImV2ZW50U291cmNlQVJOIjogImFybjphd3M6a2luZXNpczp1cy1lYXN0LTI6MTIzNDU2Nzg5MDEyOnN0cmVhbS9sYW1iZGEtc3RyZWFtIgogICAgfQogIF0KfQoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB0cnkgewogICAgYXdhaXQgY2xpZW50LnN0b3JlKCdpZCcsIHsgbWVzc2FnZTogJ3JhdyB0aWNrZXQgJywgZGF0ZTogbmV3IERhdGUoKS50b0lTT1N0cmluZygpIH0pOwogIH0gY2F0Y2ggKGVycikgewogICAgdGlsbGVyQ29uc29sZS5lcnJvcignRXJyb3Igd2hpbGUgc3RvcmluZyByYXcgdGlja2V0cycsIHsKICAgICAgZXJyb3JfbWVzc2FnZTogZXJyLm1lc3NhZ2UsCiAgICB9KTsKICB9Cg==</text>
+        <text encoding="base64">ICAgIHRpbGxlckNvbnNvbGUubG9nKCdTdG9yaW5nIG1lc3NhZ2UnLCB7IG5iOiBldmVudC5SZWNvcmRzLmxlbmd0aCB9KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">KG5hbWluZyk6IFJlbmFtZSB0byBzdG9yYWdlCg==</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
