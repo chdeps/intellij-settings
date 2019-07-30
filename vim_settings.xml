@@ -9,26 +9,6 @@
         <mark key="^" line="106" column="76" />
         <mark key="." line="98" column="82" />
       </file>
-      <file name="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/packages/raw-tickets-microservice/src/consumer/consumer.js" timestamp="1563881461411">
-        <mark key="[" line="0" column="11" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-generator/generator/query.generator.js" timestamp="1563439787682">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/Tiller/tiller-order-api/raw-ticket/README.md" timestamp="1563882340582">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="59" column="1" />
-        <mark key="." line="40" column="1" />
-      </file>
-      <file name="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/packages/raw-tickets-microservice/records.json" timestamp="1563870596521">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="19" column="1" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/packages/raw-tickets-microservice/unitRecord.json" timestamp="1564474811151">
         <mark key="[" line="5" column="18" />
         <mark key="]" line="5" column="18" />
@@ -39,11 +19,11 @@
         <mark key="[" line="33" column="0" />
         <mark key="]" line="36" column="58" />
       </file>
-      <file name="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/packages/raw-tickets-microservice/src/service/elasticsearch.js" timestamp="1564486837018">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-        <mark key="^" line="26" column="51" />
+      <file name="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/packages/raw-tickets-microservice/src/service/elasticsearch.js" timestamp="1564490910867">
+        <mark key="[" line="25" column="24" />
+        <mark key="]" line="25" column="24" />
+        <mark key="." line="25" column="24" />
+        <mark key="^" line="23" column="42" />
       </file>
       <file name="$USER_HOME$/Projects/Tiller/tiller-x/src/environment/index.staging.js" timestamp="1564489490973">
         <mark key="[" line="9" column="0" />
@@ -66,11 +46,6 @@
         <mark key="]" line="0" column="25" />
         <mark key="." line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/packages/raw-tickets-microservice/src/consumer/singleConsumer.js" timestamp="1563875461762">
-        <mark key="[" line="3" column="39" />
-        <mark key="]" line="19" column="41" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/packages/raw-tickets-microservice/template-consumer.yml" timestamp="1564488106265">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -82,25 +57,10 @@
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-generator/package.json" timestamp="1563436956686">
-        <mark key="[" line="1" column="11" />
-        <mark key="]" line="1" column="36" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/Tiller/tiller-x/src/store/reducers.js" timestamp="1563977837973">
-        <mark key="[" line="22" column="14" />
-        <mark key="]" line="22" column="14" />
-        <mark key="." line="22" column="14" />
-      </file>
       <file name="$USER_HOME$/Projects/Tiller/tiller-x/src/store/order/apiActions.js" timestamp="1564489654646" />
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-generator/template/query/business/query/handler/{{  camelCase ms.queryName }}.handler.ts.template" timestamp="1563440337436">
-        <mark key="[" line="5" column="31" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/packages/raw-tickets-microservice/src/service/publisher.js" timestamp="1564475789802" />
       <file name="$USER_HOME$/Projects/Tiller/tiller-x/src/store/order/apiSagas.js" timestamp="1564489679520" />
-      <file name="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/packages/raw-tickets-microservice/src/consumer/unitConsumer.js" timestamp="1564486812696">
+      <file name="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/packages/raw-tickets-microservice/src/consumer/unitConsumer.js" timestamp="1564490568267">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
@@ -209,14 +169,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/packages/raw-tickets-microservice/unitRecord.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgU0VOVFJZX0RTTl9VUkw6ICdodHRwczovLzgxYjI4Mjc0NTY3NDQwNmFhZjQyMzRkMDM2MTJhOWE5OmM5ZDk2ZmQ4OGZlNDQzZDM5MjRhNTM2NTYwYTc0MzM0QHNlbnRyeS5pby8xNTEwNDg5JywK</text>
+      <register name="&quot;" type="4">
+        <text>http://url.of.local.es:port</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>nderscore</text>
+        <text>http://url.of.local.es:port</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0eXBlb3JtXD4=</text>
