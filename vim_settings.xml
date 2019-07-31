@@ -37,6 +37,8 @@
         <mark key="[" line="33" column="0" />
         <mark key="]" line="36" column="58" />
       </file>
+      <file name="$USER_HOME$/Projects/Tiller/tiller-x/fastlane/Fastfile" timestamp="1564566815629" />
+      <file name="$USER_HOME$/Projects/Tiller/tiller-x/doc/setup.md" timestamp="1564567332857" />
       <file name="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/packages/raw-tickets-microservice/src/service/elasticsearch.js" timestamp="1564495569979">
         <mark key="[" line="25" column="24" />
         <mark key="]" line="25" column="24" />
@@ -48,7 +50,8 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Tiller/tiller-x/fastlane/.env.staging" timestamp="1564560873340" />
+      <file name="$USER_HOME$/Projects/Tiller/tiller-x/doc/develop.md" timestamp="1564566700124" />
+      <file name="$USER_HOME$/Projects/Tiller/tiller-x/fastlane/.env.staging" timestamp="1564566371578" />
       <file name="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/packages/raw-tickets-microservice/package.json" timestamp="1564473770965">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
