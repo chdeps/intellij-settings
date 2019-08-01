@@ -6,7 +6,13 @@
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/services/feedbackAnswerService.js" timestamp="1564673982331" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/services/c4cConnexionErrorService.js" timestamp="1564669999633" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/repositories/FeedbackRepository.js" timestamp="1564673872955" />
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/index.js" timestamp="1564673353018" />
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/index.js" timestamp="1564677532785">
+        <mark key="'" line="316" column="72" />
+        <mark key="[" line="329" column="68" />
+        <mark key="]" line="329" column="68" />
+        <mark key="^" line="329" column="11" />
+        <mark key="." line="329" column="68" />
+      </file>
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/index.js" timestamp="1564668772060">
         <mark key="[" line="191" column="0" />
         <mark key="]" line="191" column="0" />
@@ -29,11 +35,15 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/lib/logger.js" timestamp="1564667078742" />
-      <file name="/Dummy.txt" timestamp="1564579748777">
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/lib/logger.js" timestamp="1564677322883">
+        <mark key="'" line="65" column="17" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="18" column="7" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1564677679745">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="25" />
-        <mark key="." line="0" column="25" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1564578210584">
         <mark key="[" line="0" column="0" />
@@ -72,26 +82,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="32" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-web/src/pages/WhyPremium/WhyPremium.component.tsx" />
-      <jump line="123" column="24" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/auth/saga.ts" />
-      <jump line="11" column="38" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/auth/actions.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-core/modules/auth/actions.ts" />
-      <jump line="16" column="9" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-app/ci/get-platform-deploy-strategy.sh" />
-      <jump line="3" column="7" filename="$USER_HOME$/Projects/MapDojo/dojo-map-expo/src/lib/geolocation/index.js" />
-      <jump line="0" column="21" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-web/src/services/iosScroll/NonScrollableDiv.component.tsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-web/src/services/iosScroll/NonScrollableDiv.container.tsx" />
-      <jump line="23" column="56" filename="$USER_HOME$/Projects/Meetic/js-affiny/affiny-web/src/services/iosScroll/ScrollableDiv.component.tsx" />
-      <jump line="26" column="3" filename="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-web/src/helpers/cookies.test.ts" />
-      <jump line="0" column="30" filename="$USER_HOME$/Projects/Meetic/js-affiny/packages/affiny-web/src/helpers/cookies.test.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/Generator/generator-rn-toolbox/generators/fastlane-setup/templates/env" />
-      <jump line="0" column="15" filename="$USER_HOME$/Projects/Faurecia/customer-satisfaction/migrations/1554128851626-add_parent_account_id.js" />
-      <jump line="5" column="20" filename="$USER_HOME$/Projects/onlineApp/OnlineApp/ios/Podfile" />
-      <jump line="0" column="7" filename="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Payment/payment.business.js" />
-      <jump line="48" column="58" filename="$USER_HOME$/Projects/BigMamma/big-mamma/server/src/modules/Order/order.business.js" />
-      <jump line="26" column="22" filename="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/infrastructure/api/auth.controller.ts" />
-      <jump line="59" column="53" filename="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/controllers/auth.controller.ts" />
-      <jump line="0" column="13" filename="$USER_HOME$/Projects/InshAllah/InshAllah/fastlane/.env.staging" />
-      <jump line="28" column="29" filename="$USER_HOME$/Projects/WWF/wag-app/src/components/CodePushUpdateButton.js" />
       <jump line="0" column="7" filename="$USER_HOME$/Projects/WWF/wag-app/src/components/CodePushUpdateButton.js" />
       <jump line="6" column="1" filename="$USER_HOME$/Projects/CQRS/blog/src/article.entity.ts" />
       <jump line="0" column="0" filename="/Dummy.txt" />
@@ -172,61 +162,81 @@
       <jump line="20" column="0" filename="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/packages/raw-tickets-microservice/unitRecord.json" />
       <jump line="19" column="0" filename="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/packages/raw-tickets-microservice/unitRecord.json" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/packages/raw-tickets-microservice/unitRecord.json" />
+      <jump line="337" column="16" filename="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/index.js" />
+      <jump line="49" column="6" filename="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/lib/logger.js" />
+      <jump line="10" column="6" filename="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/lib/logger.js" />
+      <jump line="22" column="0" filename="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/lib/logger.js" />
+      <jump line="24" column="22" filename="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/lib/logger.js" />
+      <jump line="27" column="22" filename="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/lib/logger.js" />
+      <jump line="40" column="4" filename="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/lib/logger.js" />
+      <jump line="46" column="4" filename="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/lib/logger.js" />
+      <jump line="65" column="17" filename="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/lib/logger.js" />
+      <jump line="314" column="23" filename="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/index.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/index.js" />
+      <jump line="335" column="15" filename="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/index.js" />
+      <jump line="332" column="68" filename="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/index.js" />
+      <jump line="330" column="10" filename="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/index.js" />
+      <jump line="325" column="49" filename="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/index.js" />
+      <jump line="323" column="16" filename="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/index.js" />
+      <jump line="320" column="47" filename="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/index.js" />
+      <jump line="317" column="16" filename="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/index.js" />
+      <jump line="316" column="72" filename="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/index.js" />
+      <jump line="13" column="11" filename="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/services/feedbackAnswerService.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>return {};</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">SGFuZGxlIG5vIGM0YyB0aWNrZXQK</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>return {};</text>
+        <text>c4cTicket.ID</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0eXBlb3JtXD4=</text>
+        <text encoding="base64">XDxmZWVkYmFja09iamVjdFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aWYgKGFsbG93QnlQYXNzU1NPKSB7CiAgYXBwLmdldCgnL2Rhc2hib2FyZC9uby1zc28nLCAocmVxLCByZXMpID0+IHsKICAgIGNvbnN0IGVtYWlsID0gJ2thbVRFU1RAYmFtLnRlY2gnOwogICAgRGFzaGJvYXJkVXNlclJlcG9zaXRvcnkuZmluZFVzZXJCeUVtYWlsKGVtYWlsKQogICAgICAudGhlbih1c2VyID0+IHsKICAgICAgICBpZiAodXNlcikgewogICAgICAgICAgcmV0dXJuIG5ldyBQcm9taXNlKHJlc29sdmUgPT4gcmVzb2x2ZSh1c2VyKSk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgIHJldHVybiBEYXNoYm9hcmRVc2VyUmVwb3NpdG9yeS5hZGQoewogICAgICAgICAgICBlbWFpbCwKICAgICAgICAgICAgY3VzdG9tZXJzOiBbXSwKICAgICAgICAgICAgcm9sZTogJ0tBTScsCiAgICAgICAgICB9KTsKICAgICAgICB9CiAgICAgIH0pCiAgICAgIC50aGVuKHVzZXIgPT4gewogICAgICAgIGNvbnN0IHRva2VuID0gYXV0aC5jcmVhdGVEYXNoYm9hcmRUb2tlbih1c2VyLCAnS0FNJyk7CiAgICAgICAgcmVzLnJlZGlyZWN0KAogICAgICAgICAgdXJsLmZvcm1hdCh7CiAgICAgICAgICAgIHBhdGhuYW1lOiAnL2Rhc2hib2FyZC8nLAogICAgICAgICAgICBxdWVyeTogewogICAgICAgICAgICAgIHRva2VuLAogICAgICAgICAgICB9LAogICAgICAgICAgfSkKICAgICAgICApOwogICAgICB9KTsKICB9KTsKCiAgYXBwLmdldCgnL2Rhc2hib2FyZC9uby1zc28tbm8tY3VzJywgKHJlcSwgcmVzKSA9PiB7CiAgICBjb25zdCBlbWFpbCA9ICdhbGJhbmRAYmFtLnRlY2gnOwogICAgRGFzaGJvYXJkVXNlclJlcG9zaXRvcnkuZmluZFVzZXJCeUVtYWlsKGVtYWlsKQogICAgICAudGhlbih1c2VyID0+IHsKICAgICAgICBpZiAodXNlcikgewogICAgICAgICAgcmV0dXJuIG5ldyBQcm9taXNlKHJlc29sdmUgPT4gcmVzb2x2ZSh1c2VyKSk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgIHJldHVybiBEYXNoYm9hcmRVc2VyUmVwb3NpdG9yeS5hZGQoewogICAgICAgICAgICBlbWFpbCwKICAgICAgICAgICAgY3VzdG9tZXI6ICdOL0EnLAogICAgICAgICAgICByb2xlOiAnQURNSU4nLAogICAgICAgICAgfSk7CiAgICAgICAgfQogICAgICB9KQogICAgICAudGhlbih1c2VyID0+IHsKICAgICAgICBjb25zdCB0b2tlbiA9IGF1dGguY3JlYXRlRGFzaGJvYXJkVG9rZW4odXNlciwgJ0FETUlOJyk7CiAgICAgICAgcmVzLnJlZGlyZWN0KAogICAgICAgICAgdXJsLmZvcm1hdCh7CiAgICAgICAgICAgIHBhdGhuYW1lOiAnL2Rhc2hib2FyZC8nLAogICAgICAgICAgICBxdWVyeTogewogICAgICAgICAgICAgIHRva2VuLAogICAgICAgICAgICB9LAogICAgICAgICAgfSkKICAgICAgICApOwogICAgICB9KTsKICB9KTsKfQo=</text>
+        <text encoding="base64">ICAgIG5ldyB3aW5zdG9uLnRyYW5zcG9ydHMuQ29uc29sZSh7CiAgICAgIGhhbmRsZUV4Y2VwdGlvbnM6IHRydWUsCiAgICB9KSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">SGFuZGxlIG5vIGM0YyB0aWNrZXQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aWYgKHRydWUpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2lnbmluZ0NvbmZpZyBzaWduaW5nQ29uZmlncy5yZWxlYXNlCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgU0VOVFJZX0RTTl9VUkw6ICdodHRwczovLzgxYjI4Mjc0NTY3NDQwNmFhZjQyMzRkMDM2MTJhOWE5OmM5ZDk2ZmQ4OGZlNDQzZDM5MjRhNTM2NTYwYTc0MzM0QHNlbnRyeS5pby8xNTEwNDg5JywK</text>
+        <text encoding="base64">aWYgKHRydWUpIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFEClUyRnNkR1ZrWDE5dVpQUTVySHNjNE0zancyQTE0RE5FdTRQU3h6UStQaGFveEdpdEovencyTVZObU00bkFRTmUKWWhqK1g3S3RkanVpNE8zcDF4d283bExnblJnVU1iNXhiNDVrcDZuTXhWcG9waE1OcUxJNitjQjAwWnNiZy9YRgo1VUNlZTE4KzA1UG9Xc0hFY0lDbUVobk8vK2pONmVuNDkwZUNEbnFYbDVaV0pSQ3Q2MEREYk5mS1c3ZWVLN3VLClVwckJxZmQrMzVtYVJhWW90dlk4c1RYdnM2UWlYaXEwL3dWQkJzN2swZ3hRanlOYnMyU0dSbVM2ejR0SHRmWTcKTjY2QXJhckNMa211cHc5eWVObE92ZitJY2VldWMwblBEYlFaOTJPWXJIcXRNYTBkREVmTXJWOHR3WDNZQ1VuMwpNQ2RmRDZtd2NiWnQ3R2FJNE5CZksyamVtL2pDRUZVNDNYTTJUQnJEeG4zN2RkS1VlampBdTU1MkVDcVNBRDl0CkdndEtmay9NT3JYa0p3dTdaK09keXV1Z2pwemtVTFJsaktRTjZSNXdralNEbU1SUnhFcS82NHJ0VitRdHVVNjYKQkRMMVh6MmFXOGZJV0d2SmJOclJWVkJHeVJaZU1lMC9WYS9NTEFYdm5vdG1qUUZHSlFvajZVUFlMUzVneG5URApKNFovNVNMQ1lMemN4N3A4bWJva3hPOFpLT0RkdUl4Ni90QXZFWDBVcURSNllydElQek9OYVZOUXZzZU4xL09BCms5eVk2WUhLN2xyaXFsMVdMeVM5ZjhVam9xSlVPdWxVVTZERDZRN0JJekNpOUxEYXVOcXYyeTRPVG8wZS81cmcKM08yaUxGTTZyalpFNHczN2s1SEhVNXdhUS9aV2xiODJIT3p4N2hsdE0wbkNNS1FFVGszNkQ0SE9CU2t0WER4YQowV0FkVEcwUUZqbTZkU2pWVmtlOENsYkVGc3NPMFFzZUdFRk8wTmhkUzFtNFRBbG9GNUZ2ODFMRktCMVVjQ0lLCj09PT09PT0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2lnbmluZ0NvbmZpZyBzaWduaW5nQ29uZmlncy5yZWxlYXNlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBwYXJlbnQgb2YgNmM4MDIwYy4uLiBGZWF0L2FkZCBzZW50cnkgKCMzMDApCg==</text>
+        <text encoding="base64">CiAgU0VOVFJZX0RTTl9VUkw6ICdodHRwczovLzgxYjI4Mjc0NTY3NDQwNmFhZjQyMzRkMDM2MTJhOWE5OmM5ZDk2ZmQ4OGZlNDQzZDM5MjRhNTM2NTYwYTc0MzM0QHNlbnRyeS5pby8xNTEwNDg5JywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IHBhcmVudCBvZiA2YzgwMjBjLi4uIEZlYXQvYWRkIHNlbnRyeSAoIzMwMCkK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFEClUyRnNkR1ZrWDE5dVpQUTVySHNjNE0zancyQTE0RE5FdTRQU3h6UStQaGFveEdpdEovencyTVZObU00bkFRTmUKWWhqK1g3S3RkanVpNE8zcDF4d283bExnblJnVU1iNXhiNDVrcDZuTXhWcG9waE1OcUxJNitjQjAwWnNiZy9YRgo1VUNlZTE4KzA1UG9Xc0hFY0lDbUVobk8vK2pONmVuNDkwZUNEbnFYbDVaV0pSQ3Q2MEREYk5mS1c3ZWVLN3VLClVwckJxZmQrMzVtYVJhWW90dlk4c1RYdnM2UWlYaXEwL3dWQkJzN2swZ3hRanlOYnMyU0dSbVM2ejR0SHRmWTcKTjY2QXJhckNMa211cHc5eWVObE92ZitJY2VldWMwblBEYlFaOTJPWXJIcXRNYTBkREVmTXJWOHR3WDNZQ1VuMwpNQ2RmRDZtd2NiWnQ3R2FJNE5CZksyamVtL2pDRUZVNDNYTTJUQnJEeG4zN2RkS1VlampBdTU1MkVDcVNBRDl0CkdndEtmay9NT3JYa0p3dTdaK09keXV1Z2pwemtVTFJsaktRTjZSNXdralNEbU1SUnhFcS82NHJ0VitRdHVVNjYKQkRMMVh6MmFXOGZJV0d2SmJOclJWVkJHeVJaZU1lMC9WYS9NTEFYdm5vdG1qUUZHSlFvajZVUFlMUzVneG5URApKNFovNVNMQ1lMemN4N3A4bWJva3hPOFpLT0RkdUl4Ni90QXZFWDBVcURSNllydElQek9OYVZOUXZzZU4xL09BCms5eVk2WUhLN2xyaXFsMVdMeVM5ZjhVam9xSlVPdWxVVTZERDZRN0JJekNpOUxEYXVOcXYyeTRPVG8wZS81cmcKM08yaUxGTTZyalpFNHczN2s1SEhVNXdhUS9aV2xiODJIT3p4N2hsdE0wbkNNS1FFVGszNkQ0SE9CU2t0WER4YQowV0FkVEcwUUZqbTZkU2pWVmtlOENsYkVGc3NPMFFzZUdFRk8wTmhkUzFtNFRBbG9GNUZ2ODFMRktCMVVjQ0lLCj09PT09PT0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgZ2V0IFNlbnRyeSgpIHsKICAgIHJldHVybiByZXF1aXJlKCcuL1NlbnRyeScpLmRlZmF1bHQ7CiAgfSwK</text>
+        <text encoding="base64">Pj4+Pj4+PiBwYXJlbnQgb2YgNmM4MDIwYy4uLiBGZWF0L2FkZCBzZW50cnkgKCMzMDApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IHBhcmVudCBvZiA2YzgwMjBjLi4uIEZlYXQvYWRkIHNlbnRyeSAoIzMwMCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0eXBlb3JtXD4=</last-search>
+      <last-search encoding="base64">XDxmZWVkYmFja09iamVjdFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0eXBlb3JtXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxmZWVkYmFja09iamVjdFw+</last-pattern>
       <last-replace>onAnswerSelected</last-replace>
       <last-substitute encoding="base64">XDxtZXNzYWdlc1w+</last-substitute>
       <last-dir>1</last-dir>
@@ -234,8 +244,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDwiXD4=</entry>
-        <entry encoding="base64">XDxleWVcPg==</entry>
         <entry encoding="base64">XDxBcHBOYXZpZ2F0b3JcPg==</entry>
         <entry encoding="base64">XDxSb290U3RhY2tcPg==</entry>
         <entry encoding="base64">XDxhbGxRdWVzdGlvbnNcPg==</entry>
@@ -254,6 +262,8 @@
         <entry encoding="base64">XDxwYXRjaEFubm91bmNlQ29udGFpbmVyRmFjdG9yeVw+</entry>
         <entry encoding="base64">XDxtZXNzYWdlc1w+</entry>
         <entry encoding="base64">XDx0eXBlb3JtXD4=</entry>
+        <entry encoding="base64">XDxsb2dnZXJcPg==</entry>
+        <entry encoding="base64">XDxmZWVkYmFja09iamVjdFw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s//STORE_COURSES</entry>
@@ -301,6 +311,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
