@@ -5,12 +5,13 @@
     <filemarks>
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/services/c4cConnexionErrorService.js" timestamp="1564669999633" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/repositories/FeedbackRepository.js" timestamp="1564667536939" />
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/index.js" timestamp="1564669196096" />
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/index.js" timestamp="1564673353018" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/index.js" timestamp="1564668772060">
         <mark key="[" line="191" column="0" />
         <mark key="]" line="191" column="0" />
         <mark key="." line="191" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/app/src/components/DashboardComponents/FeedbackItem/FeedbackItem.js" timestamp="1564672481825" />
       <file name="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/packages/raw-tickets-microservice/unitRecord.json" timestamp="1564474811151">
         <mark key="[" line="5" column="18" />
         <mark key="]" line="5" column="18" />
@@ -38,7 +39,7 @@
       <file name="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/ex.json" timestamp="1564557208108">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/lib/c4c.js" timestamp="1564671214549">
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/lib/c4c.js" timestamp="1564673274371">
         <mark key="[" line="76" column="18" />
         <mark key="]" line="76" column="18" />
         <mark key="^" line="76" column="18" />
