@@ -38,8 +38,11 @@
       <file name="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/ex.json" timestamp="1564557208108">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/lib/c4c.js" timestamp="1564670221441">
-        <mark key="[" line="75" column="23" />
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/lib/c4c.js" timestamp="1564671214549">
+        <mark key="[" line="76" column="18" />
+        <mark key="]" line="76" column="18" />
+        <mark key="^" line="76" column="18" />
+        <mark key="." line="76" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/Tiller/tiller-x/src/lib/index.js" timestamp="1564488756652">
         <mark key="[" line="53" column="0" />
@@ -168,14 +171,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/packages/raw-tickets-microservice/unitRecord.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="&quot;" type="4">
+        <text>return {};</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>allowByPassSSO</text>
+        <text>return {};</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0eXBlb3JtXD4=</text>
