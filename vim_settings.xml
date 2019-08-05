@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-plugin-make/tsconfig.json" timestamp="1565007456879" />
       <file name="$USER_HOME$/Projects/Generator/react-native-make/package.json" timestamp="1564993655506" />
       <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-plugin-make/package.json" timestamp="1564996164124" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/index.js" timestamp="1564677532785">
@@ -22,7 +23,7 @@
         <mark key="]" line="5" column="18" />
         <mark key="." line="5" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-plugin-make/bin/index.js" timestamp="1564995532432" />
+      <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-plugin-make/bin/index.js" timestamp="1565007564960" />
       <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-plugin-make/modules/makeAnApp/workflows/setupReactNativeProject.ts" timestamp="1564993851715" />
       <file name="$USER_HOME$/Projects/Tiller/tiller-x/src/environment/index.staging.js" timestamp="1564489490973">
         <mark key="[" line="9" column="0" />
