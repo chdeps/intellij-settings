@@ -35,6 +35,7 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-plugin-make/modules/makeAnApp/workflows/setupTemplate.ts" timestamp="1565015826829" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/lib/logger.js" timestamp="1564677322883">
         <mark key="'" line="65" column="17" />
         <mark key="[" line="16" column="0" />
@@ -45,8 +46,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Generator/generator-rn-toolbox/generators/assets/imageGenerator.js" timestamp="1565014452079" />
-      <file name="$USER_HOME$/Projects/Generator/generator-rn-toolbox/generators/assets/index.js" timestamp="1565015295384" />
+      <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-plugin-make/modules/utils/templateEngine.ts" timestamp="1565015908979" />
+      <file name="$USER_HOME$/Projects/Generator/generator-rn-toolbox/generators/assets/imageGenerator.js" timestamp="1565016672639" />
+      <file name="$USER_HOME$/Projects/Generator/generator-rn-toolbox/generators/assets/index.js" timestamp="1565016385888" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/lib/c4c.js" timestamp="1564673274371">
         <mark key="[" line="76" column="18" />
         <mark key="]" line="76" column="18" />
