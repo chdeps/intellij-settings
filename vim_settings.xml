@@ -72,6 +72,10 @@
         <mark key="]" line="8" column="2" />
       </file>
       <file name="$USER_HOME$/Projects/Playground/IconApp/IconName/ios/IconName/Images.xcassets/SplashIcon.appiconset/Contents.json" timestamp="1565184571998" />
+      <file name="$USER_HOME$/Projects/React-Native/cli/packages/platform-android/src/link/patches/applyPatch.ts" timestamp="1565277307091">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="25" column="1" />
+      </file>
       <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-extra/services/image.processing.ts" timestamp="1565267839982">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="16" column="3" />
@@ -305,7 +309,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJjb2xvclByaW1hcnkiPiMxYjczYjQ8L2NvbG9yPgogICAgPGNvbG9yIG5hbWU9ImNvbG9yUHJpbWFyeURhcmsiPiMwMTFBMkQ8L2NvbG9yPgogICAgPGNvbG9yIG5hbWU9ImNvbG9yQWNjZW50TGlnaHQiPiMxYjczYjQ8L2NvbG9yPgogICAgPGNvbG9yIG5hbWU9ImNvbG9yQWNjZW50RGFyayI+I0ZGRkZGRjwvY29sb3I+CiAgICA8Y29sb3IgbmFtZT0iY29sb3JUZXh0Ij4jRkZGRkZGPC9jb2xvcj4KICAgIDxjb2xvciBuYW1lPSJ3aGl0ZSI+I0ZGRkZGRjwvY29sb3I+CiAgICA8Y29sb3IgbmFtZT0iZXJyb3JNZXNzYWdlIj4jRkYwMDAwPC9jb2xvcj4KICAgIDxjb2xvciBuYW1lPSJlcnJvckxvZ0J1dHRvbiI+IzY2RkZGRkZGPC9jb2xvcj4KICAgIDxjb2xvciBuYW1lPSJjb2xvckxpZ2h0Ij4jRjZGNkY3PC9jb2xvcj4KICAgIDxjb2xvciBuYW1lPSJzcGxhc2hCYWNrZ3JvdW5kIj4jRkZGRkZGPC9jb2xvcj4K</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gYXBwbHlQYXRjaCgKICBmaWxlOiBzdHJpbmcsCiAgcGF0Y2g6IHtwYXRjaDogc3RyaW5nOyBwYXR0ZXJuOiBzdHJpbmcgfCBSZWdFeHB9LAopIHsKICBpZiAoZmlsZSkgewogICAgbG9nZ2VyLmRlYnVnKGBQYXRjaGluZyAke2ZpbGV9YCk7CiAgfQoKICBmcy53cml0ZUZpbGVTeW5jKAogICAgZmlsZSwKICAgIGZzCiAgICAgIC5yZWFkRmlsZVN5bmMoZmlsZSwgJ3V0ZjgnKQogICAgICAucmVwbGFjZShwYXRjaC5wYXR0ZXJuLCBtYXRjaCA9PiBgJHttYXRjaH0ke3BhdGNoLnBhdGNofWApLAogICk7Cn0K</text>
       </register>
       <register name="d" type="4">
         <text />
@@ -316,8 +320,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxmZWVkYmFja09iamVjdFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>./android/app/src/main/res/drawable/launch_screen.xml</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gYXBwbHlQYXRjaCgKICBmaWxlOiBzdHJpbmcsCiAgcGF0Y2g6IHtwYXRjaDogc3RyaW5nOyBwYXR0ZXJuOiBzdHJpbmcgfCBSZWdFeHB9LAopIHsKICBpZiAoZmlsZSkgewogICAgbG9nZ2VyLmRlYnVnKGBQYXRjaGluZyAke2ZpbGV9YCk7CiAgfQoKICBmcy53cml0ZUZpbGVTeW5jKAogICAgZmlsZSwKICAgIGZzCiAgICAgIC5yZWFkRmlsZVN5bmMoZmlsZSwgJ3V0ZjgnKQogICAgICAucmVwbGFjZShwYXRjaC5wYXR0ZXJuLCBtYXRjaCA9PiBgJHttYXRjaH0ke3BhdGNoLnBhdGNofWApLAogICk7Cn0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJjb2xvclByaW1hcnkiPiMxYjczYjQ8L2NvbG9yPgogICAgPGNvbG9yIG5hbWU9ImNvbG9yUHJpbWFyeURhcmsiPiMwMTFBMkQ8L2NvbG9yPgogICAgPGNvbG9yIG5hbWU9ImNvbG9yQWNjZW50TGlnaHQiPiMxYjczYjQ8L2NvbG9yPgogICAgPGNvbG9yIG5hbWU9ImNvbG9yQWNjZW50RGFyayI+I0ZGRkZGRjwvY29sb3I+CiAgICA8Y29sb3IgbmFtZT0iY29sb3JUZXh0Ij4jRkZGRkZGPC9jb2xvcj4KICAgIDxjb2xvciBuYW1lPSJ3aGl0ZSI+I0ZGRkZGRjwvY29sb3I+CiAgICA8Y29sb3IgbmFtZT0iZXJyb3JNZXNzYWdlIj4jRkYwMDAwPC9jb2xvcj4KICAgIDxjb2xvciBuYW1lPSJlcnJvckxvZ0J1dHRvbiI+IzY2RkZGRkZGPC9jb2xvcj4KICAgIDxjb2xvciBuYW1lPSJjb2xvckxpZ2h0Ij4jRjZGNkY3PC9jb2xvcj4KICAgIDxjb2xvciBuYW1lPSJzcGxhc2hCYWNrZ3JvdW5kIj4jRkZGRkZGPC9jb2xvcj4K</text>
