@@ -91,7 +91,9 @@
         <mark key="]" line="6" column="41" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-extra/services/file.processing.ts" timestamp="1565267950404" />
+      <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-extra/services/ios/service.ts" timestamp="1565249123287">
+        <mark key="[" line="1" column="46" />
+      </file>
       <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-extra/modules/setIcon/service.ts" timestamp="1565171280097">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -99,7 +101,7 @@
         <mark key="^" line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/React-Native/cli/types/index.js" timestamp="1565254065016" />
-      <file name="/Dummy.txt" timestamp="1565268408818">
+      <file name="/Dummy.txt" timestamp="1565273106744">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
