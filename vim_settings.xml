@@ -8,11 +8,10 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-extra/modules/setSplashScreen/android/service.ts" timestamp="1565268438184">
-        <mark key="[" line="7" column="9" />
-        <mark key="]" line="7" column="9" />
-        <mark key="^" line="7" column="13" />
-        <mark key="." line="7" column="9" />
+      <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-extra/modules/setSplashScreen/android/service.ts" timestamp="1565335345732">
+        <mark key="[" line="21" column="75" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-extra/templates/ios/LaunchScreen.xib" timestamp="1565192297855">
         <mark key="[" line="26" column="133" />
@@ -39,8 +38,8 @@
         <mark key="]" line="5" column="18" />
         <mark key="." line="5" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-extra/modules/setSplashScreen/ios/service.ts" timestamp="1565258652760">
-        <mark key="[" line="31" column="0" />
+      <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-extra/modules/setSplashScreen/ios/service.ts" timestamp="1565335367410">
+        <mark key="[" line="22" column="0" />
         <mark key="]" line="31" column="90" />
         <mark key="." line="21" column="0" />
         <mark key="^" line="21" column="0" />
@@ -139,7 +138,7 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1565278853626">
+      <file name="/Dummy.txt" timestamp="1565335432683">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -148,8 +147,8 @@
         <mark key="[" line="178" column="0" />
         <mark key="]" line="186" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/Playground/IconApp/IconName/package.json" timestamp="1565251749377">
-        <mark key="[" line="11" column="7" />
+      <file name="$USER_HOME$/Projects/Playground/IconApp/IconName/package.json" timestamp="1565334651319">
+        <mark key="[" line="11" column="28" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
@@ -167,7 +166,7 @@
         <mark key="^" line="76" column="18" />
         <mark key="." line="76" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/Playground/IconApp/IconName/android/app/src/main/AndroidManifest.xml" timestamp="1565280658867">
+      <file name="$USER_HOME$/Projects/Playground/IconApp/IconName/android/app/src/main/AndroidManifest.xml" timestamp="1565334639594">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
@@ -314,50 +313,56 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-extra/modules/setSplashScreen/ios/config.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZGlybmFtZSB9IGZyb20gJ3BhdGgnOwo=</text>
+      <register name="&quot;" type="4">
+        <text>Create directories if not exist</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>FFFFFF</text>
+        <text>Create directories if not exist</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmZWVkYmFja09iamVjdFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZGlybmFtZSB9IGZyb20gJ3BhdGgnOwo=</text>
+      <register name="0" type="4">
+        <text>splashScreenDrawablePath</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNhc2UgdW5kZWZpbmVkOgo=</text>
+        <text encoding="base64">CiAgcmVwbGFjZUluRmlsZSgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNhc2UgJ2FuZHJvaWQnOgo=</text>
+        <text encoding="base64">ICBjb25zdCBzcGxhc2hTY3JlZW5MYXlvdXRQYXRoID0gCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGNhc2UgJ2lvcyc6Cg==</text>
+      <register name="3" type="4">
+        <text>join(
+    __dirname,
+    '../../../templates/android/layout/launch_screen.xml'
+  );</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdCB7IHBhdGgsIHBsYXRmb3JtIH0gPSBhcmdzOwo=</text>
+        <text encoding="base64">ICBjb25zdCBzcGxhc2hTY3JlZW5EcmF3YWJsZVBhdGggPSA7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgYXdhaXQgYWRkQW5kcm9pZEljb24ocGF0aCk7Cg==</text>
+      <register name="5" type="4">
+        <text>join(
+    __dirname,
+    '../../../templates/android/drawable/splashscreen.xml'
+  )</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgYXdhaXQgYWRkQW5kcm9pZEljb24ocGF0aCk7Cg==</text>
+        <text encoding="base64">ICAgIGNhc2UgdW5kZWZpbmVkOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYXdhaXQgYWRkQW5kcm9pZEljb24ocGF0aCk7Cg==</text>
+        <text encoding="base64">ICAgIGNhc2UgJ2FuZHJvaWQnOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJjb2xvclByaW1hcnkiPiMxYjczYjQ8L2NvbG9yPgogICAgPGNvbG9yIG5hbWU9ImNvbG9yUHJpbWFyeURhcmsiPiMwMTFBMkQ8L2NvbG9yPgogICAgPGNvbG9yIG5hbWU9ImNvbG9yQWNjZW50TGlnaHQiPiMxYjczYjQ8L2NvbG9yPgogICAgPGNvbG9yIG5hbWU9ImNvbG9yQWNjZW50RGFyayI+I0ZGRkZGRjwvY29sb3I+CiAgICA8Y29sb3IgbmFtZT0iY29sb3JUZXh0Ij4jRkZGRkZGPC9jb2xvcj4KICAgIDxjb2xvciBuYW1lPSJ3aGl0ZSI+I0ZGRkZGRjwvY29sb3I+CiAgICA8Y29sb3IgbmFtZT0iZXJyb3JNZXNzYWdlIj4jRkYwMDAwPC9jb2xvcj4KICAgIDxjb2xvciBuYW1lPSJlcnJvckxvZ0J1dHRvbiI+IzY2RkZGRkZGPC9jb2xvcj4KICAgIDxjb2xvciBuYW1lPSJjb2xvckxpZ2h0Ij4jRjZGNkY3PC9jb2xvcj4KICAgIDxjb2xvciBuYW1lPSJzcGxhc2hCYWNrZ3JvdW5kIj4jRkZGRkZGPC9jb2xvcj4K</text>
+        <text encoding="base64">ICAgIGNhc2UgJ2lvcyc6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgYW5kcm9pZDpyb3VuZEljb249IkBtaXBtYXAvaWNfbGF1bmNoZXJfcm91bmQiCg==</text>
+        <text encoding="base64">ICBjb25zdCB7IHBhdGgsIHBsYXRmb3JtIH0gPSBhcmdzOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
