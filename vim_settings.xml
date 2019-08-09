@@ -8,8 +8,8 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-extra/modules/setSplashScreen/android/service.ts" timestamp="1565360262359">
-        <mark key="[" line="49" column="0" />
+      <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-extra/modules/setSplashScreen/android/service.ts" timestamp="1565361683102">
+        <mark key="[" line="49" column="25" />
         <mark key="]" line="49" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-extra/templates/ios/LaunchScreen.xib" timestamp="1565192297855">
@@ -49,7 +49,7 @@
         <mark key="[" line="2" column="1" />
       </file>
       <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-extra/node_modules/@types/sharp/index.d.ts" timestamp="1565182910691" />
-      <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-extra/modules/setSplashScreen/ios/service.ts" timestamp="1565359846617">
+      <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-extra/modules/setSplashScreen/ios/service.ts" timestamp="1565361838843">
         <mark key="'" line="21" column="2" />
         <mark key="[" line="4" column="19" />
         <mark key="]" line="4" column="19" />
@@ -143,11 +143,11 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-extra/services/file.processing.ts" timestamp="1565359309069">
-        <mark key="[" line="27" column="80" />
-        <mark key="]" line="24" column="19" />
-        <mark key="." line="24" column="19" />
-        <mark key="^" line="24" column="19" />
+      <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-extra/services/file.processing.ts" timestamp="1565361828798">
+        <mark key="[" line="27" column="54" />
+        <mark key="]" line="27" column="54" />
+        <mark key="." line="27" column="54" />
+        <mark key="^" line="27" column="53" />
       </file>
       <file name="$USER_HOME$/Projects/Tiller/tiller-x/src/environment/index.staging.js" timestamp="1564489490973">
         <mark key="[" line="9" column="0" />
@@ -166,7 +166,7 @@
         <mark key="^" line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/React-Native/cli/types/index.js" timestamp="1565254065016" />
-      <file name="/Dummy.txt" timestamp="1565357727607">
+      <file name="/Dummy.txt" timestamp="1565362078234">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -348,19 +348,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, applyPatchBefore,</text>
+        <text encoding="base64">bWF0Y2ggPT4gYCR7bWF0Y2h9JHtwYXRjaC5wYXRjaH1g</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>, applyPatchBefore,</text>
+        <text encoding="base64">bWF0Y2ggPT4gYCR7bWF0Y2h9JHtwYXRjaC5wYXRjaH1g</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmZWVkYmFja09iamVjdFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBbUk5TcGxhc2hTY3JlZW4gc2hvd107Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IGFwcGx5UGF0Y2ggPSAocGF0aDogc3RyaW5nLCBwYXRjaDogeyBwYXRjaDogc3RyaW5nOyBwYXR0ZXJuOiBzdHJpbmcgfCBSZWdFeHAgfSkgPT4gewogIHdyaXRlRmlsZVN5bmMoCiAgICBwYXRoLAogICAgcmVhZEZpbGVTeW5jKHBhdGgsICd1dGY4JykucmVwbGFjZShwYXRjaC5wYXR0ZXJuLCBtYXRjaCA9PiBgJHttYXRjaH0ke3BhdGNoLnBhdGNofWApCiAgKTsKfTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHBhdHRlcm4gOgo=</text>
