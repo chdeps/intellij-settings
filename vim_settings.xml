@@ -8,12 +8,9 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-extra/modules/setSplashScreen/android/service.ts" timestamp="1565347881762">
-        <mark key="'" line="21" column="14" />
-        <mark key="[" line="18" column="46" />
-        <mark key="]" line="53" column="3" />
-        <mark key="." line="53" column="3" />
-        <mark key="^" line="53" column="3" />
+      <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-extra/modules/setSplashScreen/android/service.ts" timestamp="1565360262359">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-extra/templates/ios/LaunchScreen.xib" timestamp="1565192297855">
         <mark key="[" line="26" column="133" />
@@ -27,15 +24,13 @@
         <mark key="." line="23" column="25" />
         <mark key="^" line="23" column="25" />
       </file>
-      <file name="/a.dummy" timestamp="1565256040565">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/React-Native/cli/packages/platform-android/src/link/patches/makeSettingsPatch.ts" timestamp="1565345787524">
         <mark key="[" line="27" column="14" />
         <mark key="]" line="27" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-extra/templates/android/values/styles-splash.xml" timestamp="1565347583040">
-        <mark key="[" line="2" column="52" />
+      <file name="$USER_HOME$/Projects/Generator/react-native-make/package.json" timestamp="1565170502647" />
+      <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-extra/templates/android/values/styles-splash.xml" timestamp="1565355864883">
+        <mark key="[" line="2" column="51" />
         <mark key="]" line="2" column="3" />
         <mark key="^" line="2" column="3" />
         <mark key="." line="2" column="3" />
@@ -51,13 +46,15 @@
         <mark key="." line="5" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/Playground/IconApp/IconName/android/app/src/main/res/values/styles.xml" timestamp="1565346791681">
-        <mark key="[" line="6" column="1" />
+        <mark key="[" line="2" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-extra/modules/setSplashScreen/ios/service.ts" timestamp="1565342975302">
-        <mark key="[" line="9" column="3" />
-        <mark key="]" line="9" column="3" />
-        <mark key="." line="9" column="3" />
-        <mark key="^" line="17" column="25" />
+      <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-extra/node_modules/@types/sharp/index.d.ts" timestamp="1565182910691" />
+      <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-extra/modules/setSplashScreen/ios/service.ts" timestamp="1565359846617">
+        <mark key="'" line="21" column="2" />
+        <mark key="[" line="4" column="19" />
+        <mark key="]" line="4" column="19" />
+        <mark key="^" line="5" column="18" />
+        <mark key="." line="4" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-extra/rn-plugin.config.ts" timestamp="1565255973260">
         <mark key="[" line="3" column="0" />
@@ -70,14 +67,19 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="28" />
       </file>
+      <file name="$USER_HOME$/Projects/Generator/generator-rn-toolbox/generators/assets/index.js" timestamp="1565168788955" />
       <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-extra/templates/ios/SplashIconSetContents.json" timestamp="1565185082707">
         <mark key="[" line="4" column="26" />
         <mark key="]" line="14" column="20" />
         <mark key="." line="14" column="20" />
         <mark key="^" line="9" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/Playground/IconApp/IconName/App.js" timestamp="1565348025151">
-        <mark key="[" line="27" column="19" />
+      <file name="$USER_HOME$/Projects/Playground/IconApp/IconName/ios/IconName/Images.xcassets/SplashIcon.appiconset/Contents.json" timestamp="1565184571998" />
+      <file name="$USER_HOME$/Projects/Playground/IconApp/IconName/App.js" timestamp="1565358082483">
+        <mark key="[" line="30" column="4" />
+        <mark key="]" line="30" column="4" />
+        <mark key="^" line="30" column="1" />
+        <mark key="." line="30" column="4" />
       </file>
       <file name="$USER_HOME$/Projects/React-Native/cli/packages/platform-android/src/link/patches/applyPatch.ts" timestamp="1565334562127">
         <mark key="[" line="11" column="0" />
@@ -118,6 +120,8 @@
         <mark key="]" line="21" column="63" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/React-Native/cli/packages/platform-android/src/link/registerNativeModule.ts" timestamp="1565254135541" />
+      <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-extra/templates/android/layout/launch_screen.xml" timestamp="1565255876118" />
       <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-extra/modules/setIcon/ios/service.ts" timestamp="1565342938492">
         <mark key="[" line="14" column="25" />
         <mark key="]" line="14" column="25" />
@@ -139,11 +143,11 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-extra/services/file.processing.ts" timestamp="1565345084669">
-        <mark key="[" line="30" column="17" />
-        <mark key="]" line="30" column="17" />
-        <mark key="." line="30" column="17" />
-        <mark key="^" line="29" column="7" />
+      <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-extra/services/file.processing.ts" timestamp="1565359309069">
+        <mark key="[" line="27" column="80" />
+        <mark key="]" line="24" column="19" />
+        <mark key="." line="24" column="19" />
+        <mark key="^" line="24" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/Tiller/tiller-x/src/environment/index.staging.js" timestamp="1564489490973">
         <mark key="[" line="9" column="0" />
@@ -161,7 +165,8 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1565347901191">
+      <file name="$USER_HOME$/Projects/React-Native/cli/types/index.js" timestamp="1565254065016" />
+      <file name="/Dummy.txt" timestamp="1565357727607">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -176,8 +181,10 @@
         <mark key="." line="11" column="33" />
         <mark key="^" line="11" column="33" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1565181400375">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Projects/React-Native/cli/packages/cli/src/commands/link/link.js" timestamp="1565254008206" />
+      <file name="/service.ts" timestamp="1565356432176">
+        <mark key="[" line="5" column="9" />
+        <mark key="]" line="5" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/lib/c4c.js" timestamp="1564673274371">
         <mark key="[" line="76" column="18" />
@@ -195,11 +202,10 @@
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-extra/modules/setIcon/android/service.ts" timestamp="1565347447505">
-        <mark key="[" line="36" column="48" />
-        <mark key="]" line="80" column="54" />
-        <mark key="." line="80" column="54" />
-        <mark key="^" line="80" column="54" />
+      <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-extra/modules/setIcon/android/service.ts" timestamp="1565356821535">
+        <mark key="[" line="35" column="50" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-extra/services/color.processing.ts" timestamp="1565258408917">
         <mark key="[" line="37" column="0" />
@@ -207,9 +213,8 @@
         <mark key="^" line="4" column="3" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Playground/IconApp/IconName/ic_foreground.xml" timestamp="1565271220260">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/Projects/DailyScrum/DailyScrum/ios/DailyScrum/Base.lproj/LaunchScreen.xib" timestamp="1565163623161" />
+      <file name="$USER_HOME$/Projects/React-Native/cli/packages/cli/src/commands/link/linkDependency.js" timestamp="1565254093005" />
       <file name="$USER_HOME$/Projects/Tiller/tiller-x/fastlane/Fastfile" timestamp="1564579362152">
         <mark key="[" line="147" column="21" />
         <mark key="]" line="147" column="21" />
@@ -220,14 +225,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-extra/services/parser.ts" timestamp="1565187636611">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-extra/templates/android/values/colors-splash.xml" timestamp="1565347758753">
-        <mark key="[" line="2" column="24" />
-        <mark key="]" line="2" column="22" />
-        <mark key="^" line="2" column="22" />
-        <mark key="." line="2" column="22" />
+      <file name="$USER_HOME$/Projects/Playground/IconApp/IconName/ios/IconName/Base.lproj/LaunchScreen.xib" timestamp="1565357502689" />
+      <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-extra/templates/android/values/colors-splash.xml" timestamp="1565355883557">
+        <mark key="[" line="2" column="41" />
+        <mark key="]" line="2" column="39" />
+        <mark key="^" line="2" column="39" />
+        <mark key="." line="2" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/packages/raw-tickets-microservice/src/consumer/unitConsumer.js" timestamp="1564490568267">
         <mark key="[" line="18" column="0" />
@@ -242,7 +245,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/shared/tsconfig.base.json" />
       <jump line="15" column="20" filename="$USER_HOME$/Projects/InshAllah/InshAllah/package.json" />
       <jump line="0" column="15" filename="$USER_HOME$/Projects/InshAllah/InshAllah/src/components/Cross/Cross.tsx" />
       <jump line="11" column="13" filename="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/dto/authCredentials.dto.ts" />
@@ -342,52 +344,53 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-extra/modules/setIcon/ios/config.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-extra/modules/setSplashScreen/ios/config.ts" />
       <jump line="22" column="14" filename="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-extra/modules/setSplashScreen/android/service.ts" />
+      <jump line="21" column="2" filename="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-extra/modules/setSplashScreen/ios/service.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>SplashScreen.show(this, R.style.SplashScreenTheme);</text>
+        <text>, applyPatchBefore,</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>SplashScreen.show(this, R.style.SplashScreenTheme);</text>
+        <text>, applyPatchBefore,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmZWVkYmFja09iamVjdFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFwcGx5UGF0Y2goCiAgICAgIGAuL2FuZHJvaWQvYXBwL3NyYy9tYWluL2phdmEvY29tLyR7cGFja2FnZUpzb24ubmFtZS50b0xvd2VyQ2FzZSgpfS9NYWluQWN0aXZpdHkuamF2YWAsCiAgICAgIHsKICAgICAgICBwYXR0ZXJuOiAvXi4qb25DcmVhdGUuKltcclxuXS9nbSwKICAgICAgICBwYXRjaDogJ1NwbGFzaFNjcmVlbi5zaG93KHRoaXMsIFIuc3R5bGUuU3BsYXNoU2NyZWVuVGhlbWUpOycsCiAgICAgIH0KICAgICk7Cg==</text>
+        <text encoding="base64">ICBbUk5TcGxhc2hTY3JlZW4gc2hvd107Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHBhdHRlcm4gOgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBhcHBseVBhdGNoKAogICAgYC4vYW5kcm9pZC9hcHAvc3JjL21haW4vamF2YS9jb20vJHtwYWNrYWdlSnNvbi5uYW1lLnRvTG93ZXJDYXNlKCl9L01haW5BY3Rpdml0eS5qYXZhYCwKICAgIHsKICAgICAgcGF0dGVybjogL14uKm9uQ3JlYXRlLipbXHJcbl0vZ20sCiAgICAgIHBhdGNoOiAnU3BsYXNoU2NyZWVuLnNob3codGhpcywgUi5zdHlsZS5TcGxhc2hTY3JlZW5UaGVtZSk7JywKICAgIH0KICApOwo=</text>
+        <text encoding="base64">ICAgIGZpbGVDb250ZW50ID0gZmlsZUNvbnRlbnQucmVwbGFjZShvbGRDb250ZW50LCBuZXdDb250ZW50KTsK</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdCBzdHlsZXNQYXRoID0gOwo=</text>
+        <text encoding="base64">ICAgIHdyaXRlRmlsZVN5bmMoZGVzdGluYXRpb25QYXRoLCApCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjcmVhdGVEaXJlY3RvcnlJZk5vdEV4aXN0cyhkZXN0aW5hdGlvblBhdGgpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnRlbnQ7IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkZXN0aW5hdGlvblBhdGg6IHN0cmluZywK</text>
+        <text encoding="base64">ICAgIGNvbnN0IGNvbnRlbnQgPSByZWFkRmlsZVN5bmMoc291cmNlUGF0aCwgJ3V0ZjgnKTsgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBzb3VyY2VQYXRoOiBzdHJpbmcsCiAgZGVzdGluYXRpb25QYXRoOiBzdHJpbmcsCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgY29weUZpbGUscmVwbGFjZUluRmlsZSB9IGZyb20gJy4uLy4uLy4uL3NlcnZpY2VzL2ZpbGUucHJvY2Vzc2luZyc7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgaW5zcGVjdCB9IGZyb20gJ3V0aWwnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHN0eWxlcyA9IG1vZHVsZQo=</text>
+        <text encoding="base64">ICBjb25zdCBtYWluQWN0aXZpdHlQYXRoCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
