@@ -55,7 +55,7 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/modules/authentication/sagas.ts" timestamp="1566216868365" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/modules/authentication/sagas.ts" timestamp="1566219164466" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/accessControl/authentication/jwt.ws.guard.ts" timestamp="1566217890672" />
       <file name="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/packages/raw-tickets-microservice/package.json" timestamp="1564473770965">
         <mark key="[" line="6" column="0" />
@@ -248,7 +248,7 @@
       <last-offset />
       <last-pattern encoding="base64">XDxmZWVkYmFja09iamVjdFw+</last-pattern>
       <last-replace>onAnswerSelected</last-replace>
-      <last-substitute encoding="base64">XDxtZXNzYWdlc1w+</last-substitute>
+      <last-substitute encoding="base64">XDxmZWVkYmFja09iamVjdFw+</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
