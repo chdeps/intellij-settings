@@ -39,20 +39,13 @@
         <mark key="]" line="7" column="39" />
         <mark key="." line="7" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/controller/auth.controller.ts" timestamp="1566208068900" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/controller/auth.controller.ts" timestamp="1566208802213" />
       <file name="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/packages/raw-tickets-microservice/unitRecord.json" timestamp="1564474811151">
         <mark key="[" line="5" column="18" />
         <mark key="]" line="5" column="18" />
         <mark key="." line="5" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-extra/node_modules/@types/sharp/index.d.ts" timestamp="1565182910691" />
-      <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-extra/modules/setSplashScreen/ios/service.ts" timestamp="1565364807539">
-        <mark key="'" line="21" column="2" />
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="^" line="63" column="5" />
-        <mark key="." line="78" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-extra/rn-plugin.config.ts" timestamp="1565255973260">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -100,7 +93,7 @@
         <mark key="]" line="148" column="0" />
         <mark key="." line="148" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/auth.service.ts" timestamp="1566208154599" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/auth.service.ts" timestamp="1566208847905" />
       <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-extra/modules/setSplashScreen/android/config.ts" timestamp="1565259943833">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="23" column="2" />
@@ -113,10 +106,8 @@
       </file>
       <file name="$USER_HOME$/Projects/React-Native/cli/packages/platform-android/src/link/registerNativeModule.ts" timestamp="1565254135541" />
       <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-extra/templates/android/layout/launch_screen.xml" timestamp="1565255876118" />
-      <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-extra/modules/setIcon/ios/service.ts" timestamp="1565364638706">
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/business/query/handler/getProfileStatus.handler.ts" timestamp="1566209335943" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/validateEmail.handler.ts" timestamp="1566209246266" />
       <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/index.js" timestamp="1564668772060">
         <mark key="[" line="191" column="0" />
         <mark key="]" line="191" column="0" />
@@ -161,6 +152,7 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/React-Native/cli/packages/cli/src/commands/link/link.js" timestamp="1565254008206" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/infrastructure/api/auth.controller.ts" timestamp="1566208841271" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/resetPassword.handler.ts" timestamp="1566208289803">
         <mark key="[" line="27" column="55" />
         <mark key="]" line="27" column="55" />
