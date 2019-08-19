@@ -37,9 +37,6 @@
         <mark key="]" line="7" column="39" />
         <mark key="." line="7" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/Playground/IconApp/IconName/android/app/src/main/res/values/styles.xml" timestamp="1565346791681">
-        <mark key="[" line="2" column="1" />
-      </file>
       <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-extra/node_modules/@types/sharp/index.d.ts" timestamp="1565182910691" />
       <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-extra/modules/setSplashScreen/ios/service.ts" timestamp="1565364807539">
         <mark key="'" line="21" column="2" />
@@ -135,22 +132,10 @@
         <mark key="[" line="178" column="0" />
         <mark key="]" line="186" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/Playground/IconApp/IconName/package.json" timestamp="1565345869872">
-        <mark key="[" line="12" column="42" />
-        <mark key="]" line="11" column="33" />
-        <mark key="." line="11" column="33" />
-        <mark key="^" line="11" column="33" />
-      </file>
       <file name="$USER_HOME$/Projects/React-Native/cli/packages/cli/src/commands/link/link.js" timestamp="1565254008206" />
       <file name="/service.ts" timestamp="1565356432176">
         <mark key="[" line="5" column="9" />
         <mark key="]" line="5" column="17" />
-      </file>
-      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/api/lib/c4c.js" timestamp="1564673274371">
-        <mark key="[" line="76" column="18" />
-        <mark key="]" line="76" column="18" />
-        <mark key="^" line="76" column="18" />
-        <mark key="." line="76" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/Playground/IconApp/IconName/android/app/src/main/AndroidManifest.xml" timestamp="1565334639594">
         <mark key="[" line="9" column="0" />
@@ -162,12 +147,6 @@
         <mark key="]" line="66" column="0" />
         <mark key="." line="66" column="0" />
         <mark key="^" line="31" column="56" />
-      </file>
-      <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-extra/services/color.processing.ts" timestamp="1565258408917">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="^" line="4" column="3" />
-        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/DailyScrum/DailyScrum/ios/DailyScrum/Base.lproj/LaunchScreen.xib" timestamp="1565163623161" />
       <file name="$USER_HOME$/Projects/React-Native/cli/packages/cli/src/commands/link/linkDependency.js" timestamp="1565254093005" />
