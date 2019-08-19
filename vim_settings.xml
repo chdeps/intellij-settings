@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-extra/services/type.ts" timestamp="1565249752723">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-extra/modules/setSplashScreen/android/service.ts" timestamp="1565365559448">
         <mark key="[" line="87" column="2" />
         <mark key="]" line="77" column="60" />
@@ -34,7 +39,12 @@
         <mark key="]" line="7" column="39" />
         <mark key="." line="7" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/controller/auth.controller.ts" timestamp="1566206947881" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/controller/auth.controller.ts" timestamp="1566208068900" />
+      <file name="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/packages/raw-tickets-microservice/unitRecord.json" timestamp="1564474811151">
+        <mark key="[" line="5" column="18" />
+        <mark key="]" line="5" column="18" />
+        <mark key="." line="5" column="18" />
+      </file>
       <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-extra/node_modules/@types/sharp/index.d.ts" timestamp="1565182910691" />
       <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-extra/modules/setSplashScreen/ios/service.ts" timestamp="1565364807539">
         <mark key="'" line="21" column="2" />
@@ -55,6 +65,7 @@
         <mark key="." line="2" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/Generator/generator-rn-toolbox/generators/assets/index.js" timestamp="1565168788955" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/sendEmailValidationEmail.handler.ts" timestamp="1566208167564" />
       <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-extra/templates/ios/SplashIconSetContents.json" timestamp="1565185082707">
         <mark key="[" line="4" column="26" />
         <mark key="]" line="14" column="20" />
@@ -84,11 +95,21 @@
         <mark key="]" line="1" column="41" />
         <mark key="." line="1" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/auth.service.ts" timestamp="1566206971391" />
+      <file name="$USER_HOME$/Projects/Tiller/tiller-x/android/app/build.gradle" timestamp="1564579588211">
+        <mark key="[" line="148" column="0" />
+        <mark key="]" line="148" column="0" />
+        <mark key="." line="148" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/auth.service.ts" timestamp="1566208154599" />
       <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-extra/modules/setSplashScreen/android/config.ts" timestamp="1565259943833">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="23" column="2" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-extra/modules/setSplashScreen/command.ts" timestamp="1565343025552">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="63" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/React-Native/cli/packages/platform-android/src/link/registerNativeModule.ts" timestamp="1565254135541" />
       <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-extra/templates/android/layout/launch_screen.xml" timestamp="1565255876118" />
@@ -96,16 +117,36 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/Faurecia/customer-satisfaction/index.js" timestamp="1564668772060">
+        <mark key="[" line="191" column="0" />
+        <mark key="]" line="191" column="0" />
+        <mark key="." line="191" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-extra/services/ios/service.ts" timestamp="1565345165085">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="64" />
         <mark key="." line="8" column="38" />
+      </file>
+      <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-extra/modules/setIcon/command.ts" timestamp="1565278812078">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-extra/services/file.processing.ts" timestamp="1565364342941">
         <mark key="[" line="18" column="21" />
         <mark key="]" line="18" column="21" />
         <mark key="." line="18" column="21" />
         <mark key="^" line="19" column="3" />
+      </file>
+      <file name="$USER_HOME$/Projects/Tiller/tiller-x/src/environment/index.staging.js" timestamp="1564489490973">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/packages/raw-tickets-microservice/package.json" timestamp="1564473770965">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-extra/modules/setIcon/service.ts" timestamp="1565171280097">
         <mark key="[" line="15" column="0" />
@@ -120,10 +161,20 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/React-Native/cli/packages/cli/src/commands/link/link.js" timestamp="1565254008206" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/resetPassword.handler.ts" timestamp="1566208289803">
+        <mark key="[" line="27" column="55" />
+        <mark key="]" line="27" column="55" />
+        <mark key="." line="27" column="55" />
+      </file>
       <file name="$USER_HOME$/Projects/Playground/IconApp/IconName/android/app/src/main/AndroidManifest.xml" timestamp="1565334639594">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/Tiller/tiller-x/src/lib/index.js" timestamp="1564488756652">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/completeSignUp.handler.ts" timestamp="1566207009144" />
       <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-extra/modules/setIcon/android/service.ts" timestamp="1565364569616">
@@ -134,6 +185,11 @@
       </file>
       <file name="$USER_HOME$/Projects/DailyScrum/DailyScrum/ios/DailyScrum/Base.lproj/LaunchScreen.xib" timestamp="1565163623161" />
       <file name="$USER_HOME$/Projects/React-Native/cli/packages/cli/src/commands/link/linkDependency.js" timestamp="1565254093005" />
+      <file name="$USER_HOME$/Projects/Tiller/tiller-x/fastlane/Fastfile" timestamp="1564579362152">
+        <mark key="[" line="147" column="21" />
+        <mark key="]" line="147" column="21" />
+        <mark key="." line="147" column="21" />
+      </file>
       <file name="$USER_HOME$/Projects/Playground/IconApp/IconName/android/app/src/main/res/values/colors.xml" timestamp="1565274789616">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -145,6 +201,11 @@
         <mark key="]" line="2" column="39" />
         <mark key="^" line="2" column="39" />
         <mark key="." line="2" column="39" />
+      </file>
+      <file name="$USER_HOME$/Projects/Tiller/tiller-microservices-javascript/packages/raw-tickets-microservice/src/consumer/unitConsumer.js" timestamp="1564490568267">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Generator/react-native-make/packages/react-native-extra/modules/index.ts" timestamp="1565167296131">
         <mark key="[" line="2" column="9" />
@@ -257,13 +318,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ios</text>
+        <text>;</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>ios</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmZWVkYmFja09iamVjdFw+</text>
