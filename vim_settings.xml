@@ -23,6 +23,7 @@
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/command/handler/completeSignUp.handler.ts" timestamp="1566304570676" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/domain/event/handler/validationEmailSent.handler.ts" timestamp="1566304849466" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-payment/business/command/handler/addProduct.handler.ts" timestamp="1566293485675" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/accessControl/authentication/jwt.strategy.ts" timestamp="1566306247563" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/business/command/handler/initializeProfile.handler.ts" timestamp="1566305539875" />
     </filemarks>
     <jumps>
