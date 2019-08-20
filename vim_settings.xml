@@ -4,9 +4,16 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/pages/Connected/PremiumPayment/__tests__/PremiumPayment.test.tsx" timestamp="1566288755862" />
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/pages/Connected/PremiumPayment/PremiumPayment.tsx" timestamp="1566289429148" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-payment/infrastructure/api/payment.controller.ts" timestamp="1566293521405" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/controller/payment.controller.ts" timestamp="1566293888265" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/pages/Connected/ItsAMatch/__tests__/ItsAMatch.test.tsx" timestamp="1566288838387" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/InAppPurchase/js/bridges/BAMInApp.ts" timestamp="1566293747252" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/modules/payment/saga.ts" timestamp="1566293914357" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/modules/payment/reducer.ts" timestamp="1566293646555" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/modules/payment/selectors.ts" timestamp="1566293586594" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/pages/Connected/PremiumPayment/PremiumPayment.tsx" timestamp="1566293720007" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/lib/setupTests.tsx" timestamp="1566288724108" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-payment/business/command/handler/addProduct.handler.ts" timestamp="1566293485675" />
     </filemarks>
     <jumps>
       <jump line="15" column="20" filename="$USER_HOME$/Projects/InshAllah/InshAllah/package.json" />
