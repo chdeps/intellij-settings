@@ -16,7 +16,13 @@
         <mark key="." line="6" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/infrastructure/persistence/entity/photo.entity.ts" timestamp="1566377194231" />
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-payment/infrastructure/api/payment.controller.ts" timestamp="1566390481313" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-payment/infrastructure/api/payment.controller.ts" timestamp="1566391926731">
+        <mark key="[" line="51" column="10" />
+        <mark key="]" line="53" column="7" />
+        <mark key="." line="51" column="10" />
+        <mark key="^" line="50" column="7" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/controller/payment.controller.ts" timestamp="1566391635321" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/InAppPurchase/android/src/main/java/tech/bam/in_app/enums/BAMInAppEvent.kt" timestamp="1566390338417" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/business/query/handler/getProfiles.handler.ts" timestamp="1566382104279" />
       <file name="$USER_HOME$/Projects/WWF/wag-app/src/pages/Map/lib/index.js" timestamp="1566376841262" />
@@ -32,26 +38,23 @@
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/InAppPurchase/android/src/main/java/tech/bam/in_app/BAMInAppObserver.kt" timestamp="1566390390445" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/accessControl/authentication/jwt.interceptor.ts" timestamp="1566390124106" />
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/InAppPurchase/js/bridges/BAMInApp.ts" timestamp="1566390320092" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/InAppPurchase/js/bridges/BAMInApp.ts" timestamp="1566391486039" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/modules/payment/saga.ts" timestamp="1566390220610" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/InAppPurchase/js/payment/strategies/AndroidStrategy.ts" timestamp="1566390301722" />
       <file name="$USER_HOME$/Projects/Playground/NodeFetch/node_modules/fetch-mock/src/lib/index.js" timestamp="1566383748906" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-interaction/business/query/handler/getMatches.handler.ts" timestamp="1566382739562" />
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-payment/business/command/handler/validatePurchaseAndCreditAccount.handler.ts" timestamp="1566390543063" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-payment/business/command/handler/validatePurchaseAndCreditAccount.handler.ts" timestamp="1566391915581">
+        <mark key="[" line="25" column="19" />
+        <mark key="]" line="27" column="6" />
+      </file>
       <file name="$USER_HOME$/Projects/Playground/NodeFetch/index.js" timestamp="1566380739424">
         <mark key="[" line="2" column="1" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Playground/NodeFetch/__mocks__/node-fetch.js" timestamp="1566381325647">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-interaction/infrastructure/api/interaction.controller.ts" timestamp="1566382786417" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/pages/Connected/PremiumPayment/PremiumPayment.tsx" timestamp="1566390000766" />
-      <file name="/GraphQL.result.json" timestamp="1566376720221">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/InAppPurchase/ios/BAMInAppObserver.swift" timestamp="1566390285327" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/infrastructure/api/profile.controller.ts" timestamp="1566382714454" />
       <file name="$USER_HOME$/Projects/Playground/NodeFetch/node_modules/fetch-mock/es5/lib/set-up-and-tear-down.js" timestamp="1566383893076">
@@ -166,49 +169,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>matcher</text>
+        <text encoding="base64">dGhpcy5jb21tYW5kQnVzLmV4ZWN1dGU8VmFsaWRhdGVJT1NQdXJjaGFzZUFuZENyZWRpdEFjY291bnRDb21tYW5kPigKICAgICAgICAgICAgbmV3IFZhbGlkYXRlSU9TUHVyY2hhc2VBbmRDcmVkaXRBY2NvdW50Q29tbWFuZChkdG8pLAogICAgICAgICAgKQ==</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>matcher</text>
+        <text>command.transactionReceiptDto</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmZWVkYmFja09iamVjdFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKCdNQVRDSEVSJywgbWF0Y2hlcik7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">dGhpcy5jb21tYW5kQnVzLmV4ZWN1dGU8U3RvcmVBbmRyb2lkVHJhbnNhY3Rpb25Db21tYW5kPigKICAgICAgICBuZXcgU3RvcmVBbmRyb2lkVHJhbnNhY3Rpb25Db21tYW5kKHRyYW5zYWN0aW9uUmVjZWlwdCksCiAgICAgICk=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKHVybCkK</text>
+      <register name="1" type="4">
+        <text encoding="base64">dGhpcy5jb21tYW5kQnVzLmV4ZWN1dGU8VmFsaWRhdGVJT1NQdXJjaGFzZUFuZENyZWRpdEFjY291bnRDb21tYW5kPigKICAgICAgICAgICAgbmV3IFZhbGlkYXRlSU9TUHVyY2hhc2VBbmRDcmVkaXRBY2NvdW50Q29tbWFuZChkdG8pLAogICAgICAgICAgKQ==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">LnRoZW4oXyA9PiB7CiAgICAgIGNvbnNvbGUubG9nKF8pOwogICAgfSk7</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBmcm9tKAogICAgICB0aGlzLmNvbW1hbmRCdXMuZXhlY3V0ZTxWYWxpZGF0ZVB1cmNoYXNlQW5kQ3JlZGl0QWNjb3VudENvbW1hbmQ+KAogICAgICAgIG5ldyBWYWxpZGF0ZVB1cmNoYXNlQW5kQ3JlZGl0QWNjb3VudENvbW1hbmQoZHRvLCBwbGF0Zm9ybSksCiAgICAgICksCiAgICApLnBpcGUoZm9ybWF0TWVzc2FnZSk7Cg==</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2cocmVzcG9uc2UpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LSBgcmVhY3QtbmF0aXZlIHNldC1zcGxhc2ggLS1pb3MgLS1wYXRoIHBhdGgtdG8tZm9sZGVyLXdpdGgtaW1hZ2UgLS1iYWNrZ3JvdW5kIGJhY2tncm91bmQtY29sb3JgCg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZyhgZ1JQQyBDb21tYW5kLnZhbGlkYXRlVHJhbnNhY3Rpb25SZWNlaXB0IHdpdGggcGxhdGZvcm0gJHtwbGF0Zm9ybX1gKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICDimqDvuI8gVGhlIGltYWdlIGhhcyB0byBiZSBzcXVhcmUuCg==</text>
+        <text encoding="base64">CWNvbnNvbGUubG9nKHVybCkK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICDimqDvuI8gVGhlIGltYWdlIGhhcyB0byBiZSBzcXVhcmUuCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">LnRoZW4oXyA9PiB7CiAgICAgIGNvbnNvbGUubG9nKF8pOwogICAgfSk7</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LSBgcmVhY3QtbmF0aXZlIHNldC1zcGxhc2ggLS1pb3MgLS1wYXRoIHBhdGgtdG8tZm9sZGVyLXdpdGgtaW1hZ2UgLS1iYWNrZ3JvdW5kIGJhY2tncm91bmQtY29sb3JgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICDimqDvuI8gVGhlIGltYWdlIGhhcyB0byBiZSBzcXVhcmUuCg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2cocmVzcG9uc2UpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
