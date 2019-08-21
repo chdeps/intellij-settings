@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/Playground/NodeFetch/node_modules/fetch-mock/src/lib/index.js" timestamp="1566383748906" />
       <file name="$USER_HOME$/Projects/Playground/NodeFetch/index.test.js" timestamp="1566381099141">
         <mark key="[" line="6" column="59" />
         <mark key="]" line="6" column="57" />
@@ -36,7 +37,19 @@
       <file name="$USER_HOME$/Projects/WWF/wag-app/src/pages/Map/Map.js" timestamp="1566374758108" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/pages/Connected/Home/components/HomeProfile/HomeProfile.tsx" timestamp="1566375942942" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/controller/interaction.controller.ts" timestamp="1566382813715" />
+      <file name="$USER_HOME$/Projects/Playground/NodeFetch/node_modules/fetch-mock/src/lib/fetch-handler.js" timestamp="1566383629339">
+        <mark key="[" line="137" column="15" />
+        <mark key="]" line="139" column="22" />
+        <mark key="." line="139" column="22" />
+        <mark key="^" line="139" column="22" />
+      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/infrastructure/api/profile.controller.ts" timestamp="1566382714454" />
+      <file name="$USER_HOME$/Projects/Playground/NodeFetch/node_modules/fetch-mock/es5/lib/set-up-and-tear-down.js" timestamp="1566383893076">
+        <mark key="[" line="13" column="22" />
+        <mark key="]" line="13" column="22" />
+        <mark key="^" line="13" column="18" />
+        <mark key="." line="13" column="22" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="15" column="20" filename="$USER_HOME$/Projects/InshAllah/InshAllah/package.json" />
@@ -142,49 +155,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">LnRoZW4oXyA9PiB7CiAgICAgIGNvbnNvbGUubG9nKF8pOwogICAgfSk7</text>
+        <text>matcher</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>fetch-mo</text>
+        <text>matcher</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmZWVkYmFja09iamVjdFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LSBgcmVhY3QtbmF0aXZlIHNldC1zcGxhc2ggLS1wbGF0Zm9ybSAnaW9zJyAtLXBhdGggJ3BhdGgtdG8tZm9sZGVyLXdpdGgtaW1hZ2UnIC0tYmFja2dyb3VuZCAnYmFja2dyb3VuZC1jb2xvcidgCg==</text>
+        <text encoding="base64">CWNvbnNvbGUubG9nKCdNQVRDSEVSJywgbWF0Y2hlcik7Cg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">CWNvbnNvbGUubG9nKHVybCkK</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">LnRoZW4oXyA9PiB7CiAgICAgIGNvbnNvbGUubG9nKF8pOwogICAgfSk7</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2cocmVzcG9uc2UpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LSBgcmVhY3QtbmF0aXZlIHNldC1zcGxhc2ggLS1pb3MgLS1wYXRoIHBhdGgtdG8tZm9sZGVyLXdpdGgtaW1hZ2UgLS1iYWNrZ3JvdW5kIGJhY2tncm91bmQtY29sb3JgCg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2cocmVzcG9uc2UpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICDimqDvuI8gVGhlIGltYWdlIGhhcyB0byBiZSBzcXVhcmUuCg==</text>
+        <text encoding="base64">LSBgcmVhY3QtbmF0aXZlIHNldC1zcGxhc2ggLS1pb3MgLS1wYXRoIHBhdGgtdG8tZm9sZGVyLXdpdGgtaW1hZ2UgLS1iYWNrZ3JvdW5kIGJhY2tncm91bmQtY29sb3JgCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICDimqDvuI8gVGhlIGltYWdlIGhhcyB0byBiZSBzcXVhcmUuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LSBgcmVhY3QtbmF0aXZlIHNldC1zcGxhc2ggLS1pb3MgLS1wYXRoIHBhdGgtdG8tZm9sZGVyLXdpdGgtaW1hZ2UgLS1iYWNrZ3JvdW5kIGJhY2tncm91bmQtY29sb3JgCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICDimqDvuI8gVGhlIGltYWdlIGhhcyB0byBiZSBzcXVhcmUuCg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">LSBgcmVhY3QtbmF0aXZlIHNldC1zcGxhc2ggLS1pb3MgLS1wYXRoIHBhdGgtdG8tZm9sZGVyLXdpdGgtaW1hZ2UgLS1iYWNrZ3JvdW5kIGJhY2tncm91bmQtY29sb3JgCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">IyMgVG8gZ2VuZXJhdGUgeW91ciBzcGxhc2ggc2NyZWVuCgotIGByZWFjdC1uYXRpdmUgc2V0LXNwbGFzaCAtLWlvcyAtLXBhdGggcGF0aC10by1mb2xkZXItd2l0aC1pbWFnZSAtLWJhY2tncm91bmQgYmFja2dyb3VuZC1jb2xvcmAKICDimqDvuI8gVGhlIHBhdGggb3B0aW9uIGlzIG1hbmRhdG9yeS4KICDimqDvuI8gVGhlIGltYWdlIGhhcyB0byBiZSBzcXVhcmUuCg==</text>
+        <text encoding="base64">ICDimqDvuI8gVGhlIGltYWdlIGhhcyB0byBiZSBzcXVhcmUuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
