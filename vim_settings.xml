@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/InAppPurchase/js/bridges/BAMInApp.ts" timestamp="1566389442745" />
       <file name="$USER_HOME$/Projects/Playground/NodeFetch/node_modules/fetch-mock/src/lib/index.js" timestamp="1566383748906" />
       <file name="$USER_HOME$/Projects/Playground/NodeFetch/index.test.js" timestamp="1566381099141">
         <mark key="[" line="6" column="59" />
@@ -29,6 +30,7 @@
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/business/query/handler/getProfiles.handler.ts" timestamp="1566382104279" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-interaction/infrastructure/api/interaction.controller.ts" timestamp="1566382786417" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/pages/Connected/PremiumPayment/PremiumPayment.tsx" timestamp="1566389301661" />
       <file name="$USER_HOME$/Projects/WWF/wag-app/src/pages/Map/lib/index.js" timestamp="1566376841262" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/pages/Connected/Home/Home.tsx" timestamp="1566375852955" />
       <file name="/GraphQL.result.json" timestamp="1566376720221">
