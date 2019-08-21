@@ -3,39 +3,24 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/InAppPurchase/js/bridges/BAMInApp.ts" timestamp="1566389442745" />
-      <file name="$USER_HOME$/Projects/Playground/NodeFetch/node_modules/fetch-mock/src/lib/index.js" timestamp="1566383748906" />
       <file name="$USER_HOME$/Projects/Playground/NodeFetch/index.test.js" timestamp="1566381099141">
         <mark key="[" line="6" column="59" />
         <mark key="]" line="6" column="57" />
         <mark key="^" line="6" column="57" />
         <mark key="." line="6" column="57" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-interaction/business/query/handler/getMatches.handler.ts" timestamp="1566382739562" />
       <file name="$USER_HOME$/Projects/Playground/NodeFetch/package.json" timestamp="1566380808548">
         <mark key="[" line="6" column="13" />
         <mark key="]" line="6" column="13" />
         <mark key="^" line="10" column="18" />
         <mark key="." line="6" column="13" />
       </file>
-      <file name="$USER_HOME$/Projects/Playground/NodeFetch/index.js" timestamp="1566380739424">
-        <mark key="[" line="2" column="1" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/infrastructure/persistence/entity/photo.entity.ts" timestamp="1566377194231" />
-      <file name="$USER_HOME$/Projects/Playground/NodeFetch/__mocks__/node-fetch.js" timestamp="1566381325647">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-payment/infrastructure/api/payment.controller.ts" timestamp="1566390481313" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/InAppPurchase/android/src/main/java/tech/bam/in_app/enums/BAMInAppEvent.kt" timestamp="1566390338417" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/business/query/handler/getProfiles.handler.ts" timestamp="1566382104279" />
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-interaction/infrastructure/api/interaction.controller.ts" timestamp="1566382786417" />
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/pages/Connected/PremiumPayment/PremiumPayment.tsx" timestamp="1566389301661" />
       <file name="$USER_HOME$/Projects/WWF/wag-app/src/pages/Map/lib/index.js" timestamp="1566376841262" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/pages/Connected/Home/Home.tsx" timestamp="1566375852955" />
-      <file name="/GraphQL.result.json" timestamp="1566376720221">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/WWF/wag-app/src/pages/Map/Map.js" timestamp="1566374758108" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/pages/Connected/Home/components/HomeProfile/HomeProfile.tsx" timestamp="1566375942942" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/controller/interaction.controller.ts" timestamp="1566382813715" />
@@ -45,6 +30,29 @@
         <mark key="." line="139" column="22" />
         <mark key="^" line="139" column="22" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/InAppPurchase/android/src/main/java/tech/bam/in_app/BAMInAppObserver.kt" timestamp="1566390390445" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/accessControl/authentication/jwt.interceptor.ts" timestamp="1566390124106" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/InAppPurchase/js/bridges/BAMInApp.ts" timestamp="1566390320092" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/modules/payment/saga.ts" timestamp="1566390220610" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/InAppPurchase/js/payment/strategies/AndroidStrategy.ts" timestamp="1566390301722" />
+      <file name="$USER_HOME$/Projects/Playground/NodeFetch/node_modules/fetch-mock/src/lib/index.js" timestamp="1566383748906" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-interaction/business/query/handler/getMatches.handler.ts" timestamp="1566382739562" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-payment/business/command/handler/validatePurchaseAndCreditAccount.handler.ts" timestamp="1566390543063" />
+      <file name="$USER_HOME$/Projects/Playground/NodeFetch/index.js" timestamp="1566380739424">
+        <mark key="[" line="2" column="1" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/Playground/NodeFetch/__mocks__/node-fetch.js" timestamp="1566381325647">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-interaction/infrastructure/api/interaction.controller.ts" timestamp="1566382786417" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/pages/Connected/PremiumPayment/PremiumPayment.tsx" timestamp="1566390000766" />
+      <file name="/GraphQL.result.json" timestamp="1566376720221">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/InAppPurchase/ios/BAMInAppObserver.swift" timestamp="1566390285327" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-profile/infrastructure/api/profile.controller.ts" timestamp="1566382714454" />
       <file name="$USER_HOME$/Projects/Playground/NodeFetch/node_modules/fetch-mock/es5/lib/set-up-and-tear-down.js" timestamp="1566383893076">
         <mark key="[" line="13" column="22" />
@@ -52,6 +60,7 @@
         <mark key="^" line="13" column="18" />
         <mark key="." line="13" column="22" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/InAppPurchase/js/payment/payment.types.ts" timestamp="1566390295664" />
     </filemarks>
     <jumps>
       <jump line="15" column="20" filename="$USER_HOME$/Projects/InshAllah/InshAllah/package.json" />
