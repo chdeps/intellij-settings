@@ -18,23 +18,24 @@
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/fastlane/Fastfile" timestamp="1566568162006">
         <mark key="[" line="127" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/Playground/NodeFetch/__mocks__/node-fetch.js" timestamp="1566381325647">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/GraphQL.result.json" timestamp="1566376720221">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-interaction/business/listener/matches.listener.ts" timestamp="1566813092502" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-payment/infrastructure/services/AndroidBilling.service.ts" timestamp="1566461893545">
+        <mark key="[" line="74" column="2" />
+        <mark key="]" line="74" column="2" />
+        <mark key="." line="74" column="2" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/controller/auth.controller.ts" timestamp="1566827439177" />
+      <file name="$USER_HOME$/Projects/Playground/NodeFetch/__mocks__/node-fetch.js" timestamp="1566381325647">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/fastlane/.env.prod" timestamp="1566568659376">
         <mark key="[" line="18" column="17" />
         <mark key="]" line="18" column="17" />
         <mark key="." line="18" column="17" />
         <mark key="^" line="18" column="38" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-payment/infrastructure/services/AndroidBilling.service.ts" timestamp="1566461893545">
-        <mark key="[" line="74" column="2" />
-        <mark key="]" line="74" column="2" />
-        <mark key="." line="74" column="2" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-generator/generator/event.generator.js" timestamp="1566551174043">
         <mark key="[" line="142" column="45" />
