@@ -29,7 +29,10 @@
       <file name="/GraphQL.result.json" timestamp="1566376720221">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/components/Icon/Icon.tsx" timestamp="1566835946249" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/components/Icon/Icon.tsx" timestamp="1566836836424">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="42" />
+      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-interaction/business/listener/matches.listener.ts" timestamp="1566813092502" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-payment/infrastructure/services/AndroidBilling.service.ts" timestamp="1566461893545">
         <mark key="[" line="74" column="2" />
@@ -40,10 +43,10 @@
       <file name="$USER_HOME$/Projects/Playground/NodeFetch/__mocks__/node-fetch.js" timestamp="1566381325647">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Playground/RNWVectorIcons/RNWVectorIcons/App.js" timestamp="1566834787534">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="87" column="0" />
-        <mark key="." line="87" column="0" />
+      <file name="$USER_HOME$/Projects/Playground/RNWVectorIcons/RNWVectorIcons/App.js" timestamp="1566837132245">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="42" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/fastlane/.env.prod" timestamp="1566830312432">
         <mark key="[" line="18" column="17" />
@@ -51,11 +54,11 @@
         <mark key="." line="18" column="17" />
         <mark key="^" line="18" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/Playground/RNWVectorIcons/RNWVectorIcons/web/webpack.config.babel.js" timestamp="1566833390948">
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
-        <mark key="." line="92" column="0" />
-        <mark key="^" line="114" column="53" />
+      <file name="$USER_HOME$/Projects/Playground/RNWVectorIcons/RNWVectorIcons/web/webpack.config.babel.js" timestamp="1566892963380">
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="0" />
+        <mark key="^" line="108" column="53" />
+        <mark key="." line="103" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/utils-generator/generator/event.generator.js" timestamp="1566551174043">
         <mark key="[" line="142" column="45" />
@@ -179,49 +182,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaWNvbnM6IFsKICAgICAgXSwK</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>, path.join(__dirname, '../affiny-core/node_modules'),</text>
+        <text>selectIcon()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmZWVkYmFja09iamVjdFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwdWJsaWMgcmVhZG9ubHkgdXVpZCE6IHN0cmluZzsK</text>
+        <text encoding="base64">aW1wb3J0IGljb25Db25maWcgZnJvbSAnLi9zZWxlY3Rpb24uanNvbic7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaWNvbnM6IFsKICAgICAgXSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgQXBwOwo=</text>
+        <text encoding="base64">ICAgIG5ldyBDb3B5V2VicGFja1BsdWdpbigKICAgICAgWwogICAgICBdLmZpbHRlcihCb29sZWFuKQogICAgKSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbG9yOiBDb2xvcnMuZGFyaywK</text>
+        <text encoding="base64">ICAgICAgPEljb01vb25JY29uIG5hbWU9IndlZGRpbmciIC8+Cg==</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbG9yOiBDb2xvcnMuZGFyaywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbG9yOiBDb2xvcnMuYmxhY2ssCg==</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgQXBwOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBib2R5OiB7CiAgICBiYWNrZ3JvdW5kQ29sb3I6IENvbG9ycy53aGl0ZSwKICB9LAo=</text>
+        <text encoding="base64">ICAgIGNvbG9yOiBDb2xvcnMuZGFyaywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBzY3JvbGxWaWV3OiB7CiAgICBiYWNrZ3JvdW5kQ29sb3I6IENvbG9ycy5saWdodGVyLAogIH0sCg==</text>
+        <text encoding="base64">ICAgIGNvbG9yOiBDb2xvcnMuZGFyaywK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHtnbG9iYWwuSGVybWVzSW50ZXJuYWwgPT0gbnVsbCA/IG51bGwgOiAoCiAgICAgICAgICAgIDxWaWV3IHN0eWxlPXtzdHlsZXMuZW5naW5lfT4KICAgICAgICAgICAgICA8VGV4dCBzdHlsZT17c3R5bGVzLmZvb3Rlcn0+RW5naW5lOiBIZXJtZXM8L1RleHQ+CiAgICAgICAgICAgIDwvVmlldz4KICAgICAgICAgICl9Cg==</text>
+        <text encoding="base64">ICAgIGNvbG9yOiBDb2xvcnMuYmxhY2ssCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxIZWFkZXIgLz4K</text>
+        <text encoding="base64">ICBib2R5OiB7CiAgICBiYWNrZ3JvdW5kQ29sb3I6IENvbG9ycy53aGl0ZSwKICB9LAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
