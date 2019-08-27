@@ -15,7 +15,7 @@
         <mark key="]" line="74" column="2" />
         <mark key="." line="74" column="2" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/node_modules/@types/styled-components/native.d.ts" timestamp="1566900257133" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/node_modules/@types/styled-components/native.d.ts" timestamp="1566900625729" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/api-gateway/controller/auth.controller.ts" timestamp="1566827439177" />
       <file name="$USER_HOME$/Projects/Playground/RNWVectorIcons/RNWVectorIcons/App.js" timestamp="1566896699112">
         <mark key="[" line="32" column="40" />
@@ -57,7 +57,7 @@
         <mark key="^" line="9" column="32" />
         <mark key="." line="12" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/lib/styled-components.ts" timestamp="1566900297859" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/lib/styled-components.ts" timestamp="1566900508628" />
     </filemarks>
     <jumps>
       <jump line="0" column="15" filename="$USER_HOME$/Projects/InshAllah/InshAllah/src/components/Cross/Cross.tsx" />
