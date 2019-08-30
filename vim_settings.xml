@@ -95,7 +95,9 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="4" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/modules/authentication/sagas.ts" timestamp="1567066960191" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/modules/authentication/sagas.ts" timestamp="1567179378197">
+        <mark key="[" line="103" column="4" />
+      </file>
       <file name="/Dummy.txt" timestamp="1567172675662">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
