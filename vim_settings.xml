@@ -4,7 +4,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/.env.staging" timestamp="1567091761085" />
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/ecosystem.config.js" timestamp="1567072791178">
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/ecosystem.config.js" timestamp="1567152282534">
         <mark key="[" line="6" column="19" />
         <mark key="]" line="6" column="19" />
         <mark key="." line="6" column="19" />
