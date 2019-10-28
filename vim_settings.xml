@@ -21,6 +21,7 @@
         <mark key="^" line="9" column="30" />
         <mark key="." line="9" column="30" />
       </file>
+      <file name="$USER_HOME$/Projects/ChocoBonPlan/choco-app/bitbucket-pipelines.yml" timestamp="1572269384597" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/navigation/index.ts" timestamp="1567167667395">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="4" column="62" />
@@ -31,8 +32,6 @@
         <mark key="]" line="0" column="61" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/ChocoBonPlan/choco-app/src/containers/SocialPartContainer.js" timestamp="1571821232471" />
-      <file name="$USER_HOME$/Projects/ChocoBonPlan/choco-app/src/utils/api.js" timestamp="1571821613939" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-payment/infrastructure/services/AndroidBilling.service.ts" timestamp="1566461893545">
         <mark key="[" line="74" column="2" />
         <mark key="]" line="74" column="2" />
@@ -58,7 +57,6 @@
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/modules/authentication/sagas.ts" timestamp="1567179378197">
         <mark key="[" line="103" column="4" />
       </file>
-      <file name="$USER_HOME$/Projects/ChocoBonPlan/choco-app/src/sagas/auth/facebookLoginSaga.js" timestamp="1571822292233" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/navigation/index.web.tsx" timestamp="1567167580128">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="62" />
@@ -74,7 +72,6 @@
         <mark key="]" line="93" column="36" />
         <mark key="." line="93" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/fastlane/Fastfile" timestamp="1571821459403" />
       <file name="/GraphQL.result.json" timestamp="1567171227023">
         <mark key="[" line="0" column="0" />
       </file>
@@ -106,7 +103,6 @@
         <mark key="." line="18" column="17" />
         <mark key="^" line="18" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/ChocoBonPlan/choco-app/src/routines/auth.js" timestamp="1571821210110" />
       <file name="$USER_HOME$/Projects/Playground/RNWVectorIcons/RNWVectorIcons/index.web.js" timestamp="1566896582295">
         <mark key="[" line="12" column="15" />
         <mark key="]" line="12" column="15" />
