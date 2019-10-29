@@ -74,10 +74,10 @@
         <mark key="]" line="0" column="62" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1572362154008">
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="9" />
+      <file name="/Dummy.txt" timestamp="1572362428644">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/wam/webpack.config.babel.js" timestamp="1567170722327">
         <mark key="[" line="93" column="36" />
@@ -93,10 +93,11 @@
       <file name="/GraphQL.result.json" timestamp="1567171227023">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/ChocoBonPlan/choco-app/ios/Podfile" timestamp="1572347563156">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Projects/ChocoBonPlan/choco-app/ios/Podfile" timestamp="1572362396096">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="32" column="91" />
       </file>
       <file name="$USER_HOME$/Projects/ChocoBonPlan/choco-app/ios/chocobonplan/AppCenter-Config.plist" timestamp="1572347489274" />
       <file name="$USER_HOME$/Projects/AppCenter/AppCenter60/ios/AppCenter60/AppDelegate.m" timestamp="1572355847180">
@@ -242,13 +243,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>unecessary</text>
+        <text>Removing linked binaries due to autolinkin</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>unecessary</text>
+        <text>Removing linked binaries due to autolinkin</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmZWVkYmFja09iamVjdFw+</text>
@@ -257,34 +258,34 @@
         <text encoding="base64">ICAgIG5ldyBDb3B5V2VicGFja1BsdWdpbigKICAgICAgWwogICAgICAgIHsgZnJvbTogJ3NyYy9hc3NldHMvJywgdG86ICdhc3NldHMvJywgZm9yY2U6IHRydWUgfSwKICAgICAgXS5maWx0ZXIoQm9vbGVhbikKICAgICksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJhcHBjZW50ZXIiOiAiMi41LjAiLAogICAgImFwcGNlbnRlci1hbmFseXRpY3MiOiAiMi41LjAiLAogICAgImFwcGNlbnRlci1jcmFzaGVzIjogIjIuNS4wIiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgW0FwcENlbnRlclJlYWN0TmF0aXZlIHJlZ2lzdGVyXTsKICBbQXBwQ2VudGVyUmVhY3ROYXRpdmVBbmFseXRpY3MgcmVnaXN0ZXJXaXRoSW5pdGlhbGx5RW5hYmxlZDp0cnVlXTsKICBbQXBwQ2VudGVyUmVhY3ROYXRpdmVDcmFzaGVzIHJlZ2lzdGVyV2l0aEF1dG9tYXRpY1Byb2Nlc3NpbmddOwo=</text>
+        <text encoding="base64">ICBwb2QgJ1JOVmVjdG9ySWNvbnMnLCA6cGF0aCA9PiAnLi4vbm9kZV9tb2R1bGVzL3JlYWN0LW5hdGl2ZS12ZWN0b3ItaWNvbnMnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJhcHBjZW50ZXIiOiAiMi41LjAiLAogICAgImFwcGNlbnRlci1hbmFseXRpY3MiOiAiMi41LjAiLAogICAgImFwcGNlbnRlci1jcmFzaGVzIjogIjIuNS4wIiwK</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgW0FwcENlbnRlclJlYWN0TmF0aXZlIHJlZ2lzdGVyXTsKICBbQXBwQ2VudGVyUmVhY3ROYXRpdmVBbmFseXRpY3MgcmVnaXN0ZXJXaXRoSW5pdGlhbGx5RW5hYmxlZDp0cnVlXTsKICBbQXBwQ2VudGVyUmVhY3ROYXRpdmVDcmFzaGVzIHJlZ2lzdGVyV2l0aEF1dG9tYXRpY1Byb2Nlc3NpbmddOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">I2ltcG9ydCA8QXBwQ2VudGVyUmVhY3ROYXRpdmVTaGFyZWQvQXBwQ2VudGVyUmVhY3ROYXRpdmVTaGFyZWQuaD4KI2ltcG9ydCA8QXBwQ2VudGVyUmVhY3ROYXRpdmUuaD4KI2ltcG9ydCA8QXBwQ2VudGVyUmVhY3ROYXRpdmVBbmFseXRpY3MuaD4KI2ltcG9ydCA8QXBwQ2VudGVyUmVhY3ROYXRpdmVDcmFzaGVzLmg+Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CiAgcG9kICdyZWFjdC1uYXRpdmUtZmJzZGsnLCA6cGF0aCA9PiAnLi4vbm9kZV9tb2R1bGVzL3JlYWN0LW5hdGl2ZS1mYnNkaycKICBwb2QgJ1JOR2VzdHVyZUhhbmRsZXInLCA6cGF0aCA9PiAnLi4vbm9kZV9tb2R1bGVzL3JlYWN0LW5hdGl2ZS1nZXN0dXJlLWhhbmRsZXInCgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBwb2QgJ2FwcGNlbnRlcicsIHBhdGg6ICcuLi9ub2RlX21vZHVsZXMvYXBwY2VudGVyL2lvcycKICBwb2QgJ2FwcGNlbnRlci1hbmFseXRpY3MnLCBwYXRoOiAnLi4vbm9kZV9tb2R1bGVzL2FwcGNlbnRlci1hbmFseXRpY3MvaW9zJwogIHBvZCAnYXBwY2VudGVyLWNyYXNoZXMnLCBwYXRoOiAnLi4vbm9kZV9tb2R1bGVzL2FwcGNlbnRlci1jcmFzaGVzL2lvcycK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">I2ltcG9ydCA8QXBwQ2VudGVyUmVhY3ROYXRpdmVTaGFyZWQvQXBwQ2VudGVyUmVhY3ROYXRpdmVTaGFyZWQuaD4KI2ltcG9ydCA8QXBwQ2VudGVyUmVhY3ROYXRpdmUuaD4KI2ltcG9ydCA8QXBwQ2VudGVyUmVhY3ROYXRpdmVBbmFseXRpY3MuaD4KI2ltcG9ydCA8QXBwQ2VudGVyUmVhY3ROYXRpdmVDcmFzaGVzLmg+Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CiAgcG9kICdyZWFjdC1uYXRpdmUtZmJzZGsnLCA6cGF0aCA9PiAnLi4vbm9kZV9tb2R1bGVzL3JlYWN0LW5hdGl2ZS1mYnNkaycKICBwb2QgJ1JOR2VzdHVyZUhhbmRsZXInLCA6cGF0aCA9PiAnLi4vbm9kZV9tb2R1bGVzL3JlYWN0LW5hdGl2ZS1nZXN0dXJlLWhhbmRsZXInCgo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBpbml0aWFsUm91dGVOYW1lOiBSb3V0ZXMuQXV0aExvYWRpbmcsCg==</text>
+        <text encoding="base64">ICBwb2QgJ2FwcGNlbnRlcicsIHBhdGg6ICcuLi9ub2RlX21vZHVsZXMvYXBwY2VudGVyL2lvcycKICBwb2QgJ2FwcGNlbnRlci1hbmFseXRpY3MnLCBwYXRoOiAnLi4vbm9kZV9tb2R1bGVzL2FwcGNlbnRlci1hbmFseXRpY3MvaW9zJwogIHBvZCAnYXBwY2VudGVyLWNyYXNoZXMnLCBwYXRoOiAnLi4vbm9kZV9tb2R1bGVzL2FwcGNlbnRlci1jcmFzaGVzL2lvcycK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
