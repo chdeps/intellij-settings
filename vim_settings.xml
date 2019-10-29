@@ -62,7 +62,7 @@
         <mark key="]" line="0" column="62" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1572345504431">
+      <file name="/Dummy.txt" timestamp="1572347021630">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -72,13 +72,18 @@
         <mark key="]" line="93" column="36" />
         <mark key="." line="93" column="36" />
       </file>
+      <file name="$USER_HOME$/Projects/ChocoBonPlan/choco-app/ios/chocobonplan/AppDelegate.m" timestamp="1572347483803" />
       <file name="/GraphQL.result.json" timestamp="1567171227023">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/ChocoBonPlan/choco-app/ios/Podfile" timestamp="1572344603366">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/Projects/ChocoBonPlan/choco-app/ios/Podfile" timestamp="1572347563156">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/ChocoBonPlan/choco-app/ios/chocobonplan/AppCenter-Config.plist" timestamp="1572347489274" />
+      <file name="$USER_HOME$/Projects/AppCenter/AppCenter60/ios/AppCenter60/AppDelegate.m" timestamp="1572347364966">
+        <mark key="[" line="11" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/README.md" timestamp="1567166786628">
         <mark key="[" line="31" column="20" />
@@ -219,7 +224,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgcG9kICdyZWFjdC1uYXRpdmUtZmJzZGsnLCA6cGF0aCA9PiAnLi4vbm9kZV9tb2R1bGVzL3JlYWN0LW5hdGl2ZS1mYnNkaycKICBwb2QgJ1JOR2VzdHVyZUhhbmRsZXInLCA6cGF0aCA9PiAnLi4vbm9kZV9tb2R1bGVzL3JlYWN0LW5hdGl2ZS1nZXN0dXJlLWhhbmRsZXInCgo=</text>
       </register>
       <register name="d" type="4">
         <text />
@@ -234,34 +239,34 @@
         <text encoding="base64">ICAgIG5ldyBDb3B5V2VicGFja1BsdWdpbigKICAgICAgWwogICAgICAgIHsgZnJvbTogJ3NyYy9hc3NldHMvJywgdG86ICdhc3NldHMvJywgZm9yY2U6IHRydWUgfSwKICAgICAgXS5maWx0ZXIoQm9vbGVhbikKICAgICksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgcG9kICdyZWFjdC1uYXRpdmUtZmJzZGsnLCA6cGF0aCA9PiAnLi4vbm9kZV9tb2R1bGVzL3JlYWN0LW5hdGl2ZS1mYnNkaycKICBwb2QgJ1JOR2VzdHVyZUhhbmRsZXInLCA6cGF0aCA9PiAnLi4vbm9kZV9tb2R1bGVzL3JlYWN0LW5hdGl2ZS1nZXN0dXJlLWhhbmRsZXInCgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpbml0aWFsUm91dGVOYW1lOiBSb3V0ZXMuQXV0aExvYWRpbmcsCg==</text>
+        <text encoding="base64">ICBwb2QgJ2FwcGNlbnRlcicsIHBhdGg6ICcuLi9ub2RlX21vZHVsZXMvYXBwY2VudGVyL2lvcycKICBwb2QgJ2FwcGNlbnRlci1hbmFseXRpY3MnLCBwYXRoOiAnLi4vbm9kZV9tb2R1bGVzL2FwcGNlbnRlci1hbmFseXRpY3MvaW9zJwogIHBvZCAnYXBwY2VudGVyLWNyYXNoZXMnLCBwYXRoOiAnLi4vbm9kZV9tb2R1bGVzL2FwcGNlbnRlci1jcmFzaGVzL2lvcycK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgam9pbiB9IGZyb20gJ3BhdGgnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpbml0aWFsUm91dGVOYW1lOiBSb3V0ZXMuQXV0aExvYWRpbmcsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBhcHAudXNlU3RhdGljQXNzZXRzKGpvaW4oX19kaXJuYW1lLCAncHVibGljJykpOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgam9pbiB9IGZyb20gJ3BhdGgnOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJAdHlwZXMvIjogInJlYWN0LW5hdmlnYXRpb24vd2ViIiwK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBjcmVhdGVBcHBDb250YWluZXIsCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBhcHAudXNlU3RhdGljQXNzZXRzKGpvaW4oX19kaXJuYW1lLCAncHVibGljJykpOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICJAdHlwZXMvIjogInJlYWN0LW5hdmlnYXRpb24vd2ViIiwK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IEFwcENvbnRhaW5lciA9IGNyZWF0ZUFwcENvbnRhaW5lcihSb290TmF2aWdhdG9yKTsK</text>
+        <text encoding="base64">ICBjcmVhdGVBcHBDb250YWluZXIsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
