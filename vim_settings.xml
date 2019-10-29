@@ -42,6 +42,7 @@
         <mark key="." line="209" column="0" />
         <mark key="^" line="209" column="6" />
       </file>
+      <file name="$USER_HOME$/Projects/AppCenter/AppCenter60/ios/Podfile.lock" timestamp="1572354001724" />
       <file name="$USER_HOME$/Projects/Playground/RNWVectorIcons/RNWVectorIcons/App.js" timestamp="1566896699112">
         <mark key="[" line="32" column="40" />
         <mark key="]" line="32" column="40" />
@@ -53,7 +54,9 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="4" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/ChocoBonPlan/choco-app/package.json" timestamp="1572342620055" />
+      <file name="$USER_HOME$/Projects/ChocoBonPlan/choco-app/package.json" timestamp="1572354894370">
+        <mark key="[" line="23" column="21" />
+      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/modules/authentication/sagas.ts" timestamp="1567179378197">
         <mark key="[" line="103" column="4" />
       </file>
@@ -62,7 +65,7 @@
         <mark key="]" line="0" column="62" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1572347021630">
+      <file name="/Dummy.txt" timestamp="1572354817482">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -72,7 +75,7 @@
         <mark key="]" line="93" column="36" />
         <mark key="." line="93" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/ChocoBonPlan/choco-app/ios/chocobonplan/AppDelegate.m" timestamp="1572347483803" />
+      <file name="$USER_HOME$/Projects/ChocoBonPlan/choco-app/ios/chocobonplan/AppDelegate.m" timestamp="1572354952762" />
       <file name="/GraphQL.result.json" timestamp="1567171227023">
         <mark key="[" line="0" column="0" />
       </file>
@@ -82,9 +85,10 @@
         <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/ChocoBonPlan/choco-app/ios/chocobonplan/AppCenter-Config.plist" timestamp="1572347489274" />
-      <file name="$USER_HOME$/Projects/AppCenter/AppCenter60/ios/AppCenter60/AppDelegate.m" timestamp="1572347364966">
+      <file name="$USER_HOME$/Projects/AppCenter/AppCenter60/ios/AppCenter60/AppDelegate.m" timestamp="1572354930350">
         <mark key="[" line="11" column="29" />
       </file>
+      <file name="$USER_HOME$/Projects/ChocoBonPlan/choco-app/ios/Podfile.lock" timestamp="1572354201648" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/README.md" timestamp="1567166786628">
         <mark key="[" line="31" column="20" />
         <mark key="]" line="31" column="20" />
