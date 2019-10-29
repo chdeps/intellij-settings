@@ -15,11 +15,11 @@
         <mark key="^" line="2" column="20" />
         <mark key="." line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/ChocoBonPlan/choco-app/src/App.js" timestamp="1572362002891">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="25" column="2" />
-        <mark key="^" line="25" column="2" />
-        <mark key="." line="25" column="2" />
+      <file name="$USER_HOME$/Projects/ChocoBonPlan/choco-app/src/App.js" timestamp="1572365026724">
+        <mark key="[" line="27" column="46" />
+        <mark key="]" line="26" column="42" />
+        <mark key="^" line="26" column="42" />
+        <mark key="." line="26" column="42" />
       </file>
       <file name="$USER_HOME$/Projects/Playground/RNWVectorIcons/RNWVectorIcons/web/package.json" timestamp="1566833209709">
         <mark key="[" line="11" column="22" />
@@ -48,6 +48,12 @@
         <mark key="." line="209" column="0" />
         <mark key="^" line="209" column="6" />
       </file>
+      <file name="$USER_HOME$/Projects/ChocoBonPlan/choco-app/ios/chocobonplan/Info.plist" timestamp="1572363806216">
+        <mark key="[" line="80" column="3" />
+        <mark key="]" line="80" column="3" />
+        <mark key="^" line="80" column="3" />
+        <mark key="." line="80" column="3" />
+      </file>
       <file name="$USER_HOME$/Projects/AppCenter/AppCenter60/ios/Podfile.lock" timestamp="1572354001724" />
       <file name="$USER_HOME$/Projects/Playground/RNWVectorIcons/RNWVectorIcons/App.js" timestamp="1566896699112">
         <mark key="[" line="32" column="40" />
@@ -74,7 +80,7 @@
         <mark key="]" line="0" column="62" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1572362428644">
+      <file name="/Dummy.txt" timestamp="1572365028680">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -84,17 +90,17 @@
         <mark key="]" line="93" column="36" />
         <mark key="." line="93" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/ChocoBonPlan/choco-app/ios/chocobonplan/AppDelegate.m" timestamp="1572356404996">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="^" line="13" column="29" />
-        <mark key="." line="51" column="0" />
+      <file name="$USER_HOME$/Projects/ChocoBonPlan/choco-app/ios/chocobonplan/AppDelegate.m" timestamp="1572364368991">
+        <mark key="[" line="12" column="35" />
+        <mark key="]" line="60" column="0" />
+        <mark key="^" line="18" column="29" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1567171227023">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/ChocoBonPlan/choco-app/ios/Podfile" timestamp="1572362396096">
-        <mark key="[" line="35" column="0" />
+      <file name="$USER_HOME$/Projects/ChocoBonPlan/choco-app/ios/Podfile" timestamp="1572363358854">
+        <mark key="[" line="33" column="0" />
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
         <mark key="^" line="32" column="91" />
@@ -242,14 +248,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/InshAllah/InshAllah/src/navigation/index.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Removing linked binaries due to autolinkin</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Removing linked binaries due to autolinkin</text>
+        <text>Linking react-native-vector-icon</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmZWVkYmFja09iamVjdFw+</text>
@@ -261,31 +267,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwb2QgJ1JOVmVjdG9ySWNvbnMnLCA6cGF0aCA9PiAnLi4vbm9kZV9tb2R1bGVzL3JlYWN0LW5hdGl2ZS12ZWN0b3ItaWNvbnMnCg==</text>
+        <text encoding="base64">Ly8gUHVzaHdvb3NoLnNldE11bHRpTm90aWZpY2F0aW9uTW9kZSh0cnVlKQovLyBQdXNod29vc2guc2V0TGlnaHRTY3JlZW5Pbk5vdGlmaWNhdGlvbih0cnVlKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJhcHBjZW50ZXIiOiAiMi41LjAiLAogICAgImFwcGNlbnRlci1hbmFseXRpY3MiOiAiMi41LjAiLAogICAgImFwcGNlbnRlci1jcmFzaGVzIjogIjIuNS4wIiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>dfiiillvbdjjjjiiiiiilllaaaassss</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgW0FwcENlbnRlclJlYWN0TmF0aXZlIHJlZ2lzdGVyXTsKICBbQXBwQ2VudGVyUmVhY3ROYXRpdmVBbmFseXRpY3MgcmVnaXN0ZXJXaXRoSW5pdGlhbGx5RW5hYmxlZDp0cnVlXTsKICBbQXBwQ2VudGVyUmVhY3ROYXRpdmVDcmFzaGVzIHJlZ2lzdGVyV2l0aEF1dG9tYXRpY1Byb2Nlc3NpbmddOwo=</text>
+        <text encoding="base64">ICBwb2QgJ1JOVmVjdG9ySWNvbnMnLCA6cGF0aCA9PiAnLi4vbm9kZV9tb2R1bGVzL3JlYWN0LW5hdGl2ZS12ZWN0b3ItaWNvbnMnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJhcHBjZW50ZXIiOiAiMi41LjAiLAogICAgImFwcGNlbnRlci1hbmFseXRpY3MiOiAiMi41LjAiLAogICAgImFwcGNlbnRlci1jcmFzaGVzIjogIjIuNS4wIiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgW0FwcENlbnRlclJlYWN0TmF0aXZlIHJlZ2lzdGVyXTsKICBbQXBwQ2VudGVyUmVhY3ROYXRpdmVBbmFseXRpY3MgcmVnaXN0ZXJXaXRoSW5pdGlhbGx5RW5hYmxlZDp0cnVlXTsKICBbQXBwQ2VudGVyUmVhY3ROYXRpdmVDcmFzaGVzIHJlZ2lzdGVyV2l0aEF1dG9tYXRpY1Byb2Nlc3NpbmddOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">I2ltcG9ydCA8QXBwQ2VudGVyUmVhY3ROYXRpdmVTaGFyZWQvQXBwQ2VudGVyUmVhY3ROYXRpdmVTaGFyZWQuaD4KI2ltcG9ydCA8QXBwQ2VudGVyUmVhY3ROYXRpdmUuaD4KI2ltcG9ydCA8QXBwQ2VudGVyUmVhY3ROYXRpdmVBbmFseXRpY3MuaD4KI2ltcG9ydCA8QXBwQ2VudGVyUmVhY3ROYXRpdmVDcmFzaGVzLmg+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgcG9kICdyZWFjdC1uYXRpdmUtZmJzZGsnLCA6cGF0aCA9PiAnLi4vbm9kZV9tb2R1bGVzL3JlYWN0LW5hdGl2ZS1mYnNkaycKICBwb2QgJ1JOR2VzdHVyZUhhbmRsZXInLCA6cGF0aCA9PiAnLi4vbm9kZV9tb2R1bGVzL3JlYWN0LW5hdGl2ZS1nZXN0dXJlLWhhbmRsZXInCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwb2QgJ2FwcGNlbnRlcicsIHBhdGg6ICcuLi9ub2RlX21vZHVsZXMvYXBwY2VudGVyL2lvcycKICBwb2QgJ2FwcGNlbnRlci1hbmFseXRpY3MnLCBwYXRoOiAnLi4vbm9kZV9tb2R1bGVzL2FwcGNlbnRlci1hbmFseXRpY3MvaW9zJwogIHBvZCAnYXBwY2VudGVyLWNyYXNoZXMnLCBwYXRoOiAnLi4vbm9kZV9tb2R1bGVzL2FwcGNlbnRlci1jcmFzaGVzL2lvcycK</text>
+        <text encoding="base64">I2ltcG9ydCA8QXBwQ2VudGVyUmVhY3ROYXRpdmVTaGFyZWQvQXBwQ2VudGVyUmVhY3ROYXRpdmVTaGFyZWQuaD4KI2ltcG9ydCA8QXBwQ2VudGVyUmVhY3ROYXRpdmUuaD4KI2ltcG9ydCA8QXBwQ2VudGVyUmVhY3ROYXRpdmVBbmFseXRpY3MuaD4KI2ltcG9ydCA8QXBwQ2VudGVyUmVhY3ROYXRpdmVDcmFzaGVzLmg+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
