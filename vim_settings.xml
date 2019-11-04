@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1572861386307">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/wam/package.json" timestamp="1567170988933">
         <mark key="[" line="28" column="34" />
         <mark key="]" line="9" column="18" />
@@ -27,41 +32,6 @@
         <mark key="^" line="9" column="30" />
         <mark key="." line="9" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/ChocoBonPlan/choco-app/src/containers/SocialPartContainer.js" timestamp="1572428137453" />
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/navigation/AuthStack.tsx" timestamp="1567176965766">
-        <mark key="[" line="209" column="78" />
-        <mark key="]" line="209" column="0" />
-        <mark key="." line="209" column="0" />
-        <mark key="^" line="209" column="6" />
-      </file>
-      <file name="$USER_HOME$/Projects/ChocoBonPlan/choco-app/ios/chocobonplan/Info.plist" timestamp="1572428849803">
-        <mark key="[" line="80" column="3" />
-        <mark key="]" line="80" column="3" />
-        <mark key="^" line="80" column="3" />
-        <mark key="." line="80" column="3" />
-      </file>
-      <file name="$USER_HOME$/Projects/AppCenter/AppCenter60/ios/Podfile.lock" timestamp="1572354001724" />
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/navigation/index.web.ts" timestamp="1567167673399">
-        <mark key="[" line="4" column="28" />
-        <mark key="]" line="4" column="28" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="4" column="28" />
-      </file>
-      <file name="$USER_HOME$/Projects/ChocoBonPlan/choco-app/package.json" timestamp="1572356441462">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="16" column="17" />
-        <mark key="." line="23" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/modules/authentication/sagas.ts" timestamp="1567179378197">
-        <mark key="[" line="103" column="4" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1572365028680">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/ChocoBonPlan/choco-app/src/components/WebView/index.js" timestamp="1572367194844" />
       <file name="$USER_HOME$/Projects/ChocoBonPlan/choco-app/ios/chocobonplan/AppDelegate.m" timestamp="1572428874895">
         <mark key="[" line="41" column="4" />
         <mark key="]" line="60" column="0" />
@@ -76,16 +46,39 @@
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/ChocoBonPlan/choco-app/ios/chocobonplan/AppCenter-Config.plist" timestamp="1572347489274" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/navigation/AuthStack.tsx" timestamp="1567176965766">
+        <mark key="[" line="209" column="78" />
+        <mark key="]" line="209" column="0" />
+        <mark key="." line="209" column="0" />
+        <mark key="^" line="209" column="6" />
+      </file>
+      <file name="$USER_HOME$/Projects/ChocoBonPlan/choco-app/ios/chocobonplan.xcodeproj/project.pbxproj" timestamp="1572861796332" />
+      <file name="$USER_HOME$/Projects/ChocoBonPlan/choco-app/ios/chocobonplan/Info.plist" timestamp="1572861786824">
+        <mark key="[" line="80" column="3" />
+        <mark key="]" line="80" column="3" />
+        <mark key="^" line="80" column="3" />
+        <mark key="." line="80" column="3" />
+      </file>
       <file name="$USER_HOME$/Projects/AppCenter/AppCenter60/ios/AppCenter60/AppDelegate.m" timestamp="1572355847180">
         <mark key="[" line="11" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/ChocoBonPlan/choco-app/ios/Podfile.lock" timestamp="1572354201648" />
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/README.md" timestamp="1567166786628">
         <mark key="[" line="31" column="20" />
         <mark key="]" line="31" column="20" />
         <mark key="^" line="29" column="32" />
         <mark key="." line="31" column="20" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/navigation/index.web.ts" timestamp="1567167673399">
+        <mark key="[" line="4" column="28" />
+        <mark key="]" line="4" column="28" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="4" column="28" />
+      </file>
+      <file name="$USER_HOME$/Projects/ChocoBonPlan/choco-app/package.json" timestamp="1572356441462">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="16" column="17" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Playground/RNWVectorIcons/RNWVectorIcons/web/webpack.config.babel.js" timestamp="1566897663372">
         <mark key="[" line="5" column="0" />
@@ -98,6 +91,9 @@
         <mark key="]" line="18" column="17" />
         <mark key="." line="18" column="17" />
         <mark key="^" line="18" column="38" />
+      </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/modules/authentication/sagas.ts" timestamp="1567179378197">
+        <mark key="[" line="103" column="4" />
       </file>
       <file name="$USER_HOME$/Projects/Playground/RNWVectorIcons/RNWVectorIcons/index.web.js" timestamp="1566896582295">
         <mark key="[" line="12" column="15" />
