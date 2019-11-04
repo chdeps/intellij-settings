@@ -60,6 +60,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/fastlane/Fastfile" timestamp="1572877936572" />
       <file name="$USER_HOME$/Projects/ChocoBonPlan/choco-app/ios/chocobonplan/AppDelegate.m" timestamp="1572428874895">
         <mark key="[" line="41" column="4" />
         <mark key="]" line="60" column="0" />
@@ -90,19 +91,20 @@
         <mark key="^" line="108" column="53" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/fastlane/.env.prod" timestamp="1572271993080">
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/fastlane/.env.prod" timestamp="1572877189740">
         <mark key="[" line="18" column="17" />
         <mark key="]" line="18" column="17" />
         <mark key="." line="18" column="17" />
         <mark key="^" line="18" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/android/app/build.gradle" timestamp="1572876094124" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/android/app/build.gradle" timestamp="1572876826165" />
       <file name="$USER_HOME$/Projects/Playground/RNWVectorIcons/RNWVectorIcons/index.web.js" timestamp="1566896582295">
         <mark key="[" line="12" column="15" />
         <mark key="]" line="12" column="15" />
         <mark key="^" line="9" column="32" />
         <mark key="." line="12" column="15" />
       </file>
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/ios/InshAllah/Info.plist" timestamp="1572877725326" />
     </filemarks>
     <jumps>
       <jump line="0" column="20" filename="$USER_HOME$/Projects/InshAllah/InshAllah-Server/packages/microservice-auth/business/query/handler/doesEmailAlreadyExist.handler.ts" />
