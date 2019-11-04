@@ -22,7 +22,7 @@
         <mark key="^" line="9" column="30" />
         <mark key="." line="9" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/ChocoBonPlan/choco-app/android/app/build.gradle" timestamp="1572885879601">
+      <file name="$USER_HOME$/Projects/ChocoBonPlan/choco-app/android/app/build.gradle" timestamp="1572889776267">
         <mark key="[" line="109" column="48" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/navigation/AuthStack.tsx" timestamp="1567176965766">
@@ -44,16 +44,13 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="4" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/ChocoBonPlan/choco-app/package.json" timestamp="1572885657193">
-        <mark key="[" line="5" column="34" />
-        <mark key="]" line="24" column="0" />
-        <mark key="^" line="17" column="17" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/Projects/ChocoBonPlan/choco-app/package.json" timestamp="1572890290658">
+        <mark key="[" line="2" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/modules/authentication/sagas.ts" timestamp="1567179378197">
         <mark key="[" line="103" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1572879828951">
+      <file name="/Dummy.txt" timestamp="1572890503107">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -207,14 +204,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/InshAllah/InshAllah/src/navigation/index.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Add resConfig for a valid AAB buil</text>
       </register>
       <register name="d" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Linking react-native-vector-icon</text>
+        <text>Add resConfig for a valid AAB buil</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmZWVkYmFja09iamVjdFw+</text>
