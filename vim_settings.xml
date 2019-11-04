@@ -46,21 +46,21 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="4" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/ChocoBonPlan/choco-app/package.json" timestamp="1572356441462">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="16" column="17" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/Projects/ChocoBonPlan/choco-app/package.json" timestamp="1572880136018">
+        <mark key="[" line="5" column="34" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="17" column="17" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/InshAllah/InshAllah/src/modules/authentication/sagas.ts" timestamp="1567179378197">
         <mark key="[" line="103" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1572861386307">
+      <file name="/Dummy.txt" timestamp="1572879828951">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/fastlane/Fastfile" timestamp="1572877936572" />
+      <file name="$USER_HOME$/Projects/InshAllah/InshAllah/fastlane/Fastfile" timestamp="1572878875348" />
       <file name="$USER_HOME$/Projects/ChocoBonPlan/choco-app/ios/chocobonplan/AppDelegate.m" timestamp="1572428874895">
         <mark key="[" line="41" column="4" />
         <mark key="]" line="60" column="0" />
@@ -75,7 +75,7 @@
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/ChocoBonPlan/choco-app/ios/chocobonplan.xcodeproj/project.pbxproj" timestamp="1572861796332" />
+      <file name="$USER_HOME$/Projects/ChocoBonPlan/choco-app/ios/chocobonplan.xcodeproj/project.pbxproj" timestamp="1572878811135" />
       <file name="$USER_HOME$/Projects/AppCenter/AppCenter60/ios/AppCenter60/AppDelegate.m" timestamp="1572355847180">
         <mark key="[" line="11" column="29" />
       </file>
