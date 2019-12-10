@@ -30,6 +30,10 @@
   <action id="Git.Unstash">
     <keyboard-shortcut first-keystroke="shift ctrl less" />
   </action>
+  <action id="GotoImplementation">
+    <mouse-shortcut keystroke="shift button1" />
+    <keyboard-shortcut first-keystroke="shift alt enter" />
+  </action>
   <action id="Javascript.Linters.EsLint.Fix">
     <keyboard-shortcut first-keystroke="shift ctrl e" />
   </action>
@@ -52,7 +56,6 @@
     <keyboard-shortcut first-keystroke="shift ctrl equals" />
   </action>
   <action id="ViewSource">
-    <mouse-shortcut keystroke="shift button1" />
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
 </keymap>
