@@ -44,6 +44,14 @@
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
   <action id="ShowFilterPopup" />
+  <action id="Terminal.MoveToolWindowTabLeft">
+    <keyboard-shortcut first-keystroke="shift meta alt left" />
+    <keyboard-shortcut first-keystroke="ctrl home" />
+  </action>
+  <action id="Terminal.MoveToolWindowTabRight">
+    <keyboard-shortcut first-keystroke="shift meta alt right" />
+    <keyboard-shortcut first-keystroke="ctrl end" />
+  </action>
   <action id="Terminal.OpenInTerminal">
     <keyboard-shortcut first-keystroke="ctrl alt dead_circumflex" />
   </action>
