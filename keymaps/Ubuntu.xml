@@ -51,6 +51,9 @@
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
+  <action id="SaveAll">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
   <action id="ShowFilterPopup" />
   <action id="Terminal.MoveToolWindowTabLeft">
     <keyboard-shortcut first-keystroke="shift meta alt left" />
