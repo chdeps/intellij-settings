@@ -33,6 +33,10 @@
   <action id="Javascript.Linters.EsLint.Fix">
     <keyboard-shortcut first-keystroke="shift alt l" />
   </action>
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt t" />
+    <keyboard-shortcut first-keystroke="shift alt p" />
+  </action>
   <action id="SaveAll">
     <keyboard-shortcut first-keystroke="ctrl s" />
     <keyboard-shortcut first-keystroke="alt s" />
@@ -46,4 +50,5 @@
     <keyboard-shortcut first-keystroke="shift ctrl comma" />
   </action>
   <action id="context.load" />
+  <action id="hg4idea.QPushAction" />
 </keymap>
