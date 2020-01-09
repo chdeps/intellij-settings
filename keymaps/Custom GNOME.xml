@@ -9,6 +9,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl colon" />
   </action>
   <action id="CodeInspection.OnEditor" />
+  <action id="EditorMatchBrace" />
   <action id="Find">
     <keyboard-shortcut first-keystroke="shift alt 3" />
     <keyboard-shortcut first-keystroke="alt f" />
@@ -24,6 +25,9 @@
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="shift ctrl back_quote" />
     <keyboard-shortcut first-keystroke="shift ctrl semicolon" />
+  </action>
+  <action id="Git.Merge">
+    <keyboard-shortcut first-keystroke="shift ctrl m" />
   </action>
   <action id="Git.Rebase">
     <keyboard-shortcut first-keystroke="shift ctrl n" />
